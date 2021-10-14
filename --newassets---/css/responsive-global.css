@@ -1,0 +1,83 @@
+nav.kr-leftnav > ul > li.kr-watching-wdsf {
+  display : none;
+}
+
+/* portrait */
+
+/* @media
+  only screen
+  and (min-device-width               : 1px)
+  and (max-device-width               : 1400px)
+  and (orientation                    : landscape)
+  and (-webkit-min-device-pixel-ratio : 1) {
+  section.kr-leftside {
+    z-index    : 9999999999;
+    display    : none;
+    position   : absolute;
+    top        : 70px;
+    top        : 0;
+    bottom     : 0;
+    left       : 0;
+    box-shadow : 4px 0px 10px 0px #00000059;
+  }
+
+  section.kr-leftside.kr-leftside-resp-on {
+    display : flex;
+  }
+
+  nav.kr-leftnav > ul > li.kr-watching-wdsf {
+    display : flex;
+  }
+} */
+
+
+@media
+  only screen
+  and (min-height               : 1px)
+  and (max-height               : 996px) {
+
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_grid"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_tl_lm"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="2_v"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="3_tm_ll"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="3_tl_lm"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_tm_ll"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="6_grid"] ul.kr-dash-pan-comvote {
+      transform: scale(0.85);
+    }
+
+}
+
+@media
+  only screen
+  and (min-height               : 1px)
+  and (max-height               : 958px) {
+
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_grid"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_tl_lm"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="2_v"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="3_tm_ll"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="3_tl_lm"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_tm_ll"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="6_grid"] ul.kr-dash-pan-comvote {
+      transform: scale(0.65);
+    }
+
+}
+
+@media
+  only screen
+  and (min-height               : 1px)
+  and (max-height               : 918px) {
+
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_grid"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_tl_lm"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="2_v"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="3_tm_ll"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="3_tl_lm"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="4_tm_ll"] ul.kr-dash-pan-comvote,
+    section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n[nchart="6_grid"] ul.kr-dash-pan-comvote {
+      display: none;
+    }
+
+}

@@ -1,0 +1,13 @@
+docs/
+node_modules/
+scripts/
+tests/
+src/
+build/
+.cache/
+.github/
+website/
+.babelrc
+.prettierignore
+.travis.yml
+.gitignore
