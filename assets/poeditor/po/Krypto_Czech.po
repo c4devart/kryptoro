@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: cs\n"
+
+#: 
+msgid "Real account"
+msgstr "Reálný účet"
+
+#: 
+msgid "Board"
+msgstr "Graf\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Prosím, otočte se"
+
+#: 
+msgid "chart"
+msgstr "schéma\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "grafy nebo více"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Vyhledávání podle názvu nebo symbolu"
+
+#: 
+msgid "real account"
+msgstr "skutečný účet\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Podívejte se na všechny zůstatky"
+
+#: 
+msgid "List accounts"
+msgstr "Seznamy účtů\n"
+""
+
+#: 
+msgid "History"
+msgstr "Dějiny"
+
+#: 
+msgid "Credit"
+msgstr "Kredit"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Kniha objednávek"
+
+#: 
+msgid "Market"
+msgstr "Trh"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: 
+msgid "Leader board"
+msgstr "Leader board"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Sledování"
+
+#: 
+msgid "News"
+msgstr "Zprávy"
+
+#: 
+msgid "Panel"
+msgstr "Panel"
+
+#: 
+msgid "Manager"
+msgstr "Manažer"
+
+#: 
+msgid "Admin"
+msgstr "Správce"
+
+#: 
+msgid "Converter"
+msgstr "Konvertor"
+
+#: 
+msgid "Social"
+msgstr "Sociální"
+
+#: 
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: 
+msgid "Watchlist"
+msgstr "Seznam sledovaných"
+
+#: 
+msgid "Contact us"
+msgstr "Kontaktujte nás"
+
+#: 
+msgid "January"
+msgstr "leden"
+
+#: 
+msgid "February"
+msgstr "Únor"
+
+#: 
+msgid "March"
+msgstr "březen"
+
+#: 
+msgid "April"
+msgstr "duben"
+
+#: 
+msgid "May"
+msgstr "Smět"
+
+#: 
+msgid "June"
+msgstr "červen"
+
+#: 
+msgid "July"
+msgstr "červenec"
+
+#: 
+msgid "August"
+msgstr "srpen"
+
+#: 
+msgid "September"
+msgstr "září"
+
+#: 
+msgid "October"
+msgstr "říjen"
+
+#: 
+msgid "November"
+msgstr "listopad"
+
+#: 
+msgid "December"
+msgstr "prosinec"
+
+#: 
+msgid "Mon."
+msgstr "Pondělí"
+
+#: 
+msgid "Tue."
+msgstr "Út."
+
+#: 
+msgid "Wed."
+msgstr "St."
+
+#: 
+msgid "Thu."
+msgstr "Čtvrtek."
+
+#: 
+msgid "Fri."
+msgstr "Pá."
+
+#: 
+msgid "Sat."
+msgstr "Sat."
+
+#: 
+msgid "Sun."
+msgstr "Slunce."
+
+#: 
+msgid "Statistics"
+msgstr "Statistika"
+
+#: 
+msgid "Bank transferts"
+msgstr "Bankovní převody"
+
+#: 
+msgid "Payments"
+msgstr "Platby"
+
+#: 
+msgid "Subscriptions"
+msgstr "Předplatné"
+
+#: 
+msgid "Identity"
+msgstr "Identita"
+
+#: 
+msgid "Users"
+msgstr "Uživatelé"
+
+#: 
+msgid "Orders"
+msgstr "Objednávky"
+
+#: 
+msgid "Withdraw"
+msgstr "Ustoupit"
+
+#: 
+msgid "Currency"
+msgstr "Měna"
+
+#: 
+msgid "Total trade"
+msgstr "Celkový obchod"
+
+#: 
+msgid "Total deposit"
+msgstr "Celkový vklad"
+
+#: 
+msgid "Total withdraw"
+msgstr "Celkem se stáhne"
+
+#: 
+msgid "Fees"
+msgstr "Poplatky"
+
+#: 
+msgid "Name"
+msgstr "název"
+
+#: 
+msgid "Email"
+msgstr "E-mailem"
+
+#: 
+msgid "Subscription"
+msgstr "Předplatné"
+
+#: 
+msgid "Signin method"
+msgstr "Metoda přihlášení"
+
+#: 
+msgid "Last login"
+msgstr "Poslední přihlášení"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Upozornění povolena"
+
+#: 
+msgid "Trial version"
+msgstr "Zkušební verze"
+
+#: 
+msgid "day"
+msgstr "den"
+
+#: 
+msgid "Edit"
+msgstr "Upravit"
+
+#: 
+msgid "Inactive"
+msgstr "Neaktivní"
+
+#: 
+msgid "Enabled"
+msgstr "Povoleno"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "Uživatel"
+
+#: 
+msgid "Order date"
+msgstr "Datum objednávky"
+
+#: 
+msgid "Exchange"
+msgstr "Výměna"
+
+#: 
+msgid "Pair"
+msgstr "Pár"
+
+#: 
+msgid "Type"
+msgstr "Typ"
+
+#: 
+msgid "Amount"
+msgstr "Množství"
+
+#: 
+msgid "Received"
+msgstr "Přijato"
+
+#: 
+msgid "Total deducted"
+msgstr "Celkem odečteno"
+
+#: 
+msgid "Total received"
+msgstr "Celkem přijato"
+
+#: 
+msgid "Buy"
+msgstr "Koupit"
+
+#: 
+msgid "Sell"
+msgstr "Prodat\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Seznam mincí"
+
+#: 
+msgid "Market list"
+msgstr "Seznam trhů"
+
+#: 
+msgid "Heatmap"
+msgstr "Teplotní mapa"
+
+#: 
+msgid "Price"
+msgstr "Cena"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Direct Vol. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Celkem Vol. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Tržní kapitál"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h Vysoká / Nízká"
+
+#: 
+msgid "Dashboard"
+msgstr "Přístrojová deska"
+
+#: 
+msgid "General settings"
+msgstr "Obecné nastavení"
+
+#: 
+msgid "Coins"
+msgstr "Mince"
+
+#: 
+msgid "Currencies"
+msgstr "Měny"
+
+#: 
+msgid "Mail settings"
+msgstr "Nastavení pošty"
+
+#: 
+msgid "Payment"
+msgstr "Platba"
+
+#: 
+msgid "News - Social"
+msgstr "Novinky - Sociální sítě"
+
+#: 
+msgid "Intro"
+msgstr "Intro"
+
+#: 
+msgid "Trading"
+msgstr "Obchodování"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Další stránky"
+
+#: 
+msgid "Today's visits"
+msgstr "Dnešní návštěvy"
+
+#: 
+msgid "7 days visits"
+msgstr "7 dní návštěvy"
+
+#: 
+msgid "Number of users"
+msgstr "počet uživatelů"
+
+#: 
+msgid "Number of coins"
+msgstr "Počet mincí"
+
+#: 
+msgid "Last users"
+msgstr "Poslední uživatelé"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Tento web používá cookies"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Na našich webových stránkách se používají soubory cookie pro kontrolu návštěvnosti webu a aktivitu uživatelů na našich stránkách, pro vylepšené a efektivní uživatelské prostředí, marketing a poskytování funkcí pro sociální média."
+
+#: 
+msgid "Accept"
+msgstr "Akceptovat"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Vaše emailová adresa"
+
+#: 
+msgid "Your password"
+msgstr "Vaše heslo"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Zapomenuté heslo ?"
+
+#: 
+msgid "Login"
+msgstr "Přihlásit se"
+
+#: 
+msgid "or"
+msgstr "nebo"
+
+#: 
+msgid "Create a new account"
+msgstr "Vytvořit nový účet"
+
+#: 
+msgid "practice account"
+msgstr "praxe účet"
+
+#: 
+msgid "Symbol"
+msgstr "Symbol"
+
+#: 
+msgid "Last"
+msgstr "Poslední"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profil"
+
+#: 
+msgid "Notification"
+msgstr "Oznámení"
+
+#: 
+msgid "Security"
+msgstr "Bezpečnostní"
+
+#: 
+msgid "Logout"
+msgstr "Odhlásit se"
+
+#: 
+msgid "Your name"
+msgstr "Tvé jméno"
+
+#: 
+msgid "Language"
+msgstr "Jazyk"
+
+#: 
+msgid "Type chart"
+msgstr "Typ grafu"
+
+#: 
+msgid "Change your password"
+msgstr "Změňte si své heslo"
+
+#: 
+msgid "Repeat your password"
+msgstr "Opakujte heslo"
+
+#: 
+msgid "Back"
+msgstr "Zadní"
+
+#: 
+msgid "Validate"
+msgstr "Ověřit"
+
+#: 
+msgid "Title"
+msgstr "Titul"
+
+#: 
+msgid "Your website title"
+msgstr "Váš webový titul"
+
+#: 
+msgid "App description"
+msgstr "Popis aplikace"
+
+#: 
+msgid "Referal link"
+msgstr "Odkaz na odkaz"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Váš odkaz odkaz (např. Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Údržbový mód"
+
+#: 
+msgid "Number format"
+msgstr "Formát čísel"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Přepínání grafů na grafy obchodování"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Povolit automatický jazyk"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Povolit jazyk POEditor"
+
+#: 
+msgid "POEditor API Key"
+msgstr "Klíč API pro POEditor"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Klíč vašeho POEditor API"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor Project Selector"
+
+#: 
+msgid "Allow signup"
+msgstr "Povolit registraci"
+
+#: 
+msgid "User need verify account"
+msgstr "Uživatel potřebuje ověřit účet"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Potřebujete captcha signup"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Klíč Google Site Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Klíč Google Site Recaptcha"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Tajný klíč Google Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Váš tajný klíč Google Recaptcha"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin s google"
+
+#: 
+msgid "Google App ID"
+msgstr "ID aplikace Google"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Vaše ID aplikace Google"
+
+#: 
+msgid "Google App Secret"
+msgstr "Tajemství aplikace Google"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Vaše tajemství aplikace Google"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin s Facebookem"
+
+#: 
+msgid "Facebook App ID"
+msgstr "ID aplikace Facebook"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Vaše ID aplikace Facebook"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook tajné aplikace"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Vaše tajemství Facebooku"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Povolit reklamu Google"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Klient Google Ad"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Váš reklamní klient Google"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google Ad Slot"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Váš reklamní blok Google"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Povolit vyskakovací okno souborů cookie"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Vyskakovací název souboru cookie"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Váš název cookie"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Cookie Popup text"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Váš vyskakovací text cookie"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Země na černé listině"
+
+#: 
+msgid "Save"
+msgstr "Uložit"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Umožnit uživateli přepnout typ grafu"
+
+#: 
+msgid "Done !"
+msgstr "Hotovo !"
+
+#: 
+msgid "quantity"
+msgstr "Množství"
+
+#: 
+msgid "Enable native trading"
+msgstr "Povolit vlastní obchodování"
+
+#: 
+msgid "Balance configuration"
+msgstr "Konfigurace zůstatku"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Zobrazit odhad zůstatku"
+
+#: 
+msgid "User user currency select"
+msgstr "Vybrat uživatelskou měnu uživatele"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Zobrazit odhad salda v"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Konfigurace referenčního systému"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Povolit odkaz (je třeba povolit nativní obchodování)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Výplata výdajů (v USD, pevná částka)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referát (ve výši $, pevná částka) ex: Při registraci referátu a uložení skutečné hotovosti se odkazuje na výhra 5 $ (hodnota = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Konfigurace vkladů"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Poplatky za vklad (v%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Minimální vklad (v USD)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Maximální vklad (v USD)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Měny vkladů povoleny"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Vkladní peněženka obdržíte (pokud není k dispozici peněženka v reálné měně)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Stažení konfigurace"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Vybrat minimum (v USD)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Odběr doby zpracování (v dnech)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Odběr doby zpracování (ve dnech) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Konfigurace obchodování"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Poplatky za obchodování (v%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Referenční vzor objednávky"
+
+#: 
+msgid "Real account configuration"
+msgstr "Konfigurace skutečného účtu"
+
+#: 
+msgid "Enable real account"
+msgstr "Aktivujte reálný účet"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Proveďte konfiguraci účtu"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Maximální vklad zdarma (v USD)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Maximální bezplatný vklad (v USD) např. 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Obdržíte bezplatnou peněženku"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Datum podání"
+
+#: 
+msgid "Status"
+msgstr "Postavení"
+
+#: 
+msgid "Document name"
+msgstr "Název dokumentu"
+
+#: 
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: 
+msgid "Not processed"
+msgstr "Nespracováno"
+
+#: 
+msgid "Processed"
+msgstr "Zpracováno"
+
+#: 
+msgid "Payment success"
+msgstr "Úspěch platby"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Referenční vzor platby"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Povolit službu SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP Server"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Váš hostitelský server SMTP"
+
+#: 
+msgid "SMTP Port"
+msgstr "Port SMTP"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Váš port SMTP"
+
+#: 
+msgid "SMTP Security"
+msgstr "Zabezpečení protokolu SMTP"
+
+#: 
+msgid "SMTP User"
+msgstr "Uživatel SMTP"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Váš uživatel SMTP"
+
+#: 
+msgid "SMTP Password"
+msgstr "Heslo SMTP"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Vaše heslo SMTP"
+
+#: 
+msgid "Email sender name"
+msgstr "Jméno odesílatele e-mailu"
+
+#: 
+msgid "Support mail"
+msgstr "Podporujte poštu"
+
+#: 
+msgid "Support Phone"
+msgstr "Podpora telefonu"
+
+#: 
+msgid "Support phone"
+msgstr "Podporujte telefon"
+
+#: 
+msgid "Support Address"
+msgstr "Adresa podpory"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO pošty"
+
+#: 
+msgid "DPO Phone"
+msgstr "Telefon DPO"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO telefon"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Odeslat uvítací poštu"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Uvítáme předmět pošty"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Pověření kalendáře"
+
+#: 
+msgid "Enable calendar"
+msgstr "Povolit kalendář"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Klientské ID kalendáře"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "ID klientského kalendáře"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Klientské tajemství kalendáře"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Zobrazit pouze události týkající se povolených mincí"
+
+#: 
+msgid "News feed"
+msgstr "News feed"
+
+#: 
+msgid "Add news feed"
+msgstr "Přidat informační kanál"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Váš RSS Feed odkaz"
+
+#: 
+msgid "Add"
+msgstr "Přidat"
+
+#: 
+msgid "Name feed"
+msgstr "Název zdroje"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter účty"
+
+#: 
+msgid "Add twitter account"
+msgstr "Přidejte účet twitter"
+
+#: 
+msgid "Twitter name"
+msgstr "Jméno Twitteru"
+
+#: 
+msgid "without"
+msgstr "bez"
+
+#: 
+msgid "Social name"
+msgstr "Sociální název"
+
+#: 
+msgid "Created date"
+msgstr "Datum vytvoření"
+
+#: 
+msgid "Amount paid"
+msgstr "Částka vyplacená"
+
+#: 
+msgid "Wallet received"
+msgstr "Přijatá peněženka"
+
+#: 
+msgid "Amount received"
+msgstr "Obdržená částka"
+
+#: 
+msgid "Payment gateway"
+msgstr "Platební brána"
+
+#: 
+msgid "Proof"
+msgstr "Důkaz"
+
+#: 
+msgid "Modify balance"
+msgstr "Upravit zůstatek"
+
+#: 
+msgid "Select balance"
+msgstr "Vyberte zůstatek"
+
+#: 
+msgid "Modification type"
+msgstr "Typ změny"
+
+#: 
+msgid "Modification value"
+msgstr "Hodnota změny"
+
+#: 
+msgid "Add modification"
+msgstr "Přidat úpravu"
+
+#: 
+msgid "Card"
+msgstr "Karta"
+
+#: 
+msgid "Balances"
+msgstr "Váhy"
+
+#: 
+msgid "Remove"
+msgstr "Odstranit"
+
+#: 
+msgid "Last location"
+msgstr "Poslední místo"
+
+#: 
+msgid "Currency use"
+msgstr "Použití měny"
+
+#: 
+msgid "Signup with"
+msgstr "Přihlaste se"
+
+#: 
+msgid "Identity verification"
+msgstr "Ověření totožnosti"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 Authenticace kroku"
+
+#: 
+msgid "User status"
+msgstr "Stav uživatele"
+
+#: 
+msgid "Login history"
+msgstr "Historie přihlášení"
+
+#: 
+msgid "More details"
+msgstr "Více informací"
+
+#: 
+msgid "Deposit history"
+msgstr "Historie vkladů"
+
+#: 
+msgid "Total"
+msgstr "Celkový"
+
+#: 
+msgid "Value in BTC"
+msgstr "Hodnota v BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Hodnota v USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Metoda čerpání"
+
+#: 
+msgid "Date"
+msgstr "datum"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Zeptejte se šířky"
+
+#: 
+msgid "WITHDRAW"
+msgstr "USTOUPIT"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Zvolte účet příjemce"
+
+#: 
+msgid "Cancel"
+msgstr "zrušení"
+
+#: 
+msgid "Next"
+msgstr "další"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Konfigurace oznámení dokončena."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Váš přístupový tok PushBullet"
+
+#: 
+msgid "Remove token"
+msgstr "Odebrat token"
+
+#: 
+msgid "You are premium !"
+msgstr "Jste prémie!"
+
+#: 
+msgid "left"
+msgstr "vlevo, odjet"
+
+#: 
+msgid "Main settings"
+msgstr "Hlavní nastavení"
+
+#: 
+msgid "Period"
+msgstr "Doba"
+
+#: 
+msgid "Colour"
+msgstr "Barva"
+
+#: 
+msgid "Thickness"
+msgstr "Tloušťka"
+
+#: 
+msgid "Reset"
+msgstr "Resetovat"
+
+#: 
+msgid "Apply"
+msgstr "Aplikovat"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Vložte svůj kód Google Authenticator"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Zadejte svůj kód Google Authenticator"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Váhy o hodnotě nižší než 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Skrýt malou rovnováhu"
+
+#: 
+msgid "Estimate value"
+msgstr "Hodnota odhadu"
+
+#: 
+msgid "Value in"
+msgstr "Hodnota v"
+
+#: 
+msgid "Deposit"
+msgstr "Vklad"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Autentifikace Google je povolena!"
+
+#: 
+msgid "Set as done"
+msgstr "Nastavte jako hotovo"
+
+#: 
+msgid "Close"
+msgstr "Zavřít"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Kód Google Authenticator je neplatný"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Dostanete potvrzení o šířce do e-mailu"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, uživatelské jméno, typ, měna"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Widthdraw filter"
+
+#: 
+msgid "Default"
+msgstr "Výchozí nastavení"
+
+#: 
+msgid "Not confirmed"
+msgstr "Nepotvrzeno"
+
+#: 
+msgid "Done"
+msgstr "Hotovo"
+
+#: 
+msgid "Payment filter"
+msgstr "Platební filtr"
+
+#: 
+msgid "Need to be approved"
+msgstr "Potřebuje být schváleno"
+
+#: 
+msgid "Paid"
+msgstr "Placené"
+
+#: 
+msgid "Not paid"
+msgstr "Neplatí"
+
+#: 
+msgid "All payments"
+msgstr "Všechny platby"
+
+#: 
+msgid "Ask a proof"
+msgstr "Zeptejte se důkazu"
+
+#: 
+msgid "Bank ref."
+msgstr "Bankovní ref."
+
+#: 
+msgid "Proof received"
+msgstr "Důkaz byl přijat"
+
+#: 
+msgid "In pending"
+msgstr "V probíhajícím řízení"
+
+#: 
+msgid "All widthdraw"
+msgstr "Všechny šířky"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Vyjmout referenční vzor"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Vyjmout filtr"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Stahování informací"
+
+#: 
+msgid "year"
+msgstr "rok"
+
+#: 
+msgid "month"
+msgstr "Měsíc"
+
+#: 
+msgid "week"
+msgstr "týden"
+
+#: 
+msgid "hour"
+msgstr "hodina"
+
+#: 
+msgid "minute"
+msgstr "minuta"
+
+#: 
+msgid "second"
+msgstr "druhý"
+
+#: 
+msgid "ago"
+msgstr "před"
+
+#: 
+msgid "Bank transfert"
+msgstr "Bankovní převod"
+
+#: 
+msgid "Deposit amount"
+msgstr "Výše vkladu"
+
+#: 
+msgid "Fill up"
+msgstr "Naplnit"
+
+#: 
+msgid "It's free"
+msgstr "Je to zdarma"
+
+#: 
+msgid "You will receive"
+msgstr "Obdržíte"
+
+#: 
+msgid "Add real funds"
+msgstr "Přidejte skutečné prostředky"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimální vklad"
+
+#: 
+msgid "Enable credit card"
+msgstr "Aktivovat kreditní kartu"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe soukromý klíč"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Klíč vašeho API Stripe"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Povolit Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Povolení režimu Paypal Live"
+
+#: 
+msgid "Paypal client ID"
+msgstr "ID klienta Paypal"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Vaše ID klienta paypal"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "PayPal klientské tajemství"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Váš Paypal klient Tajemství"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Povolit Blockonomics"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Tajemný klíč Blockonomics"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Váš tajný klíč blokonomiky"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Povolit Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Klíč Fortumo Secret"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Váš tajný klíč Fortumo"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Servisní klíč Fortumo"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Váš servisní klíč Fortumo"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Povolit spojení"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Povolit živý režim aplikace CoinGate"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Vaše značka CoinGate Auth"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate přijímá měnu"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Aktivovat doplňkové platby"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Autopůjčovny veřejný klíč"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Váš veřejný klíč pro neoprávněné platby"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Soukromý klíč pro neoprávněné platby"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Váš soukromý klíč pro souběžně platby"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Vaše identifikační číslo Marchand"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Náhradní platby IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Vaše tajné IPN tajné platby"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Povolení platby Rave Flutterwave"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Režim Sandbox Režim Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave Public Key"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Váš veřejný klíč Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave tajný klíč"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Váš tajný klíč Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave Název platby"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Váš titul Rave Flutterwave Payment"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave Platba předpony"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Vaše prefix Rave Flutterwave Platba (např. KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Povolení platby Coinbase Commerce"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Klíč pro rozhraní API Coinbase commerce"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Klíč vašeho obchodu API Coinbase"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Zahraniční obchod Název platby"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Váš platební titul Coinbase commerce"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Povolit Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Váš Mollie Key"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Povolit Payee"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Identifikační číslo Payer"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "ID platebního prodejce"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Klíč API Payeer"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Váš klíč API Payeer"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Povolit bankovní převod"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Bankovní převod je maximálně současně"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Potvrzení bankovního převodu povoleno"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Maximální důkaz bankovního převodu"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Váš klíč Gemini"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Vaše tajemství Gemini"
+
+#: 
+msgid "Select your platform"
+msgstr "Vyberte svou platformu"
+
+#: 
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: 
+msgid "Live"
+msgstr "Žít"
+
+#: 
+msgid "Cron time"
+msgstr "Cron čas"
+
+#: 
+msgid "Last update"
+msgstr "Poslední aktualizace"
+
+#: 
+msgid "Sync delay"
+msgstr "Zpoždění synchronizace"
+
+#: 
+msgid "Add additional page"
+msgstr "Přidat další stránku"
+
+#: 
+msgid "Page name"
+msgstr "Název stránky"
+
+#: 
+msgid "Page URL"
+msgstr "Adresa URL stránky"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Ikona stránky (např. Lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Nebo ikona stránky svg"
+
+#: 
+msgid "Icon"
+msgstr "Ikona"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG Obrázek"
+
+#: 
+msgid "Enable"
+msgstr "Umožnit"
+
+#: 
+msgid "Disable"
+msgstr "Zakázat"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Vytvořte nový bankovní převod"
+
+#: 
+msgid "Pending"
+msgstr "čekající"
+
+#: 
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: 
+msgid "Verified"
+msgstr "Ověřeno"
+
+#: 
+msgid "Canceled"
+msgstr "Zrušeno"
+
+#: 
+msgid "Declined"
+msgstr "Odmítnuto"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Váš klíč Hitbtc"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Vaše tajemství Hitbtc"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Váš klíč Bitbank"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Vaše Bitbank Secret"
+
+#: 
+msgid "User level"
+msgstr "Uživatelská úroveň"
+
+#: 
+msgid "Expire in"
+msgstr "Vyprší"
+
+#: 
+msgid "Back to login"
+msgstr "Zpět k přihlášení"
+
+#: 
+msgid "Let's go !"
+msgstr "Pojďme !"
+
+#: 
+msgid "Welcome"
+msgstr "Vítejte"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Konfigurováme společně váš Dashboard."
+
+#: 
+msgid "Select your language"
+msgstr "Vyberte svůj jazyk"
+
+#: 
+msgid "Select your currency"
+msgstr "Vyberte svou měnu"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Vyberte své oblíbené krypto"
+
+#: 
+msgid "left need to be selected"
+msgstr "vlevo je třeba vybrat"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Konfigurace dokončena!"
+
+#: 
+msgid "will now refresh"
+msgstr "se nyní obnoví"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Povolení platby za Perfect Money"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Perfektní účet příjemce platby"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Váš účet Perfect Payee Payee"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Upozornění na mobilní zařízení, prohlížeč, okna"
+
+#: 
+msgid "Create price alert"
+msgstr "Vytvořte upozornění o ceně"
+
+#: 
+msgid "I need help !"
+msgstr "Potřebuji pomoci !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Stáhněte si aplikaci PushBullet v telefonu (k dispozici pro Android a iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Vytvořte si na něm účet"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Zde se připojte k novému účtu"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Pokračujte v nastavení <b> Nastavení </ b>> <b> Účet </ b> a vytvořte <b> přístupový tok </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Zkopírujte klíč a vložte ho na výplň a klikněte na tlačítko Uložit."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Bude zasláno oznámení, zda je spojení úspěšné."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium čeká!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Více než 2000 kryptových měn"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Buďte upozorněni, když indikátor narůstá nebo klesá"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Reagují na mobilní zařízení a tablet"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Zprávy a sociální příspěvky na stejném místě"
+
+#: 
+msgid "Support"
+msgstr "Podpěra, podpora"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Address"
+msgstr "Adresa"
+
+#: 
+msgid "Contact DPO"
+msgstr "Kontaktovat DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Váš klíč Binance"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Vaše tajemství Binance"
+
+#: 
+msgid "Cardholder name"
+msgstr "Jméno držitele karty"
+
+#: 
+msgid "Card number"
+msgstr "Číslo karty"
+
+#: 
+msgid "Expiration"
+msgstr "Vypršení"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "kryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "Žádná objednávka k zobrazení"
+
+#: 
+msgid "Premium"
+msgstr "Pojistné"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Ověřte svou totožnost"
+
+#: 
+msgid "Estimate balance"
+msgstr "Odhad zůstatku"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1 hod"
+
+#: 
+msgid "30min"
+msgstr "30min"
+
+#: 
+msgid "Candlestick"
+msgstr "Svícen"
+
+#: 
+msgid "Line"
+msgstr "Čára"
+
+#: 
+msgid "Indicators"
+msgstr "Indikátory"
+
+#: 
+msgid "Export"
+msgstr "Vývozní"
+
+#: 
+msgid "Alert"
+msgstr "Upozornění"
+
+#: 
+msgid "Drawing"
+msgstr "Výkres"
+
+#: 
+msgid "Trend Line"
+msgstr "Trendová linka"
+
+#: 
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgid "Create a new alert"
+msgstr "Vytvořte nové upozornění"
+
+#: 
+msgid "% Fees"
+msgstr "% Poplatků"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Smlouva o zpětném odkupu kryptokonference"
+
+#: 
+msgid "Decline"
+msgstr "Pokles"
+
+#: 
+msgid "Agree"
+msgstr "Souhlasit"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Smlouva o vkladu krypikoměru"
+
+#: 
+msgid "Enable news popup"
+msgstr "Povolit vyskakovací okno pro zprávy"
+
+#: 
+msgid "News popup title"
+msgstr "Titul popup zpráv"
+
+#: 
+msgid "Your news popup title"
+msgstr "Váš popup název zprávy"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Novinky vyskakovací video (vložte prázdné pro nezobrazení videa)"
+
+#: 
+msgid "News popup description"
+msgstr "Popup popup zpráv"
+
+#: 
+msgid "Advert users"
+msgstr "Uživatelé reklam"
+
+#: 
+msgid "Enable intro"
+msgstr "Povolit úvod"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Vybírat poplatky (v%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Výstraha bankovním převodem při výběru měny není krypto-měna"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Cryptocurrency povoleny pro bankový transfert stahovat"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Odhad zůstatku v Kč"
+
+#: 
+msgid "Edit profile"
+msgstr "Editovat profil"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Smlouva o vkladu bankovním převodem"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blokonomická platba Poplatky (v%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Vaše poplatky za blokonomiku (v%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Platba Fortumo Poplatky (v%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Vaše platobné poplatky Fortumo (v%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "Platba CoinGate Poplatky (v%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Vaše související platební poplatky (v%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Splácení splátkového kalendáře Poplatky (v%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Vaše poplatky za platbu v minus (v%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Platební plavba Rave Flutterwave Poplatky (v%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Platební poplatky za rave plavební vlnu (v%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Platba v mincovním obchodě Poplatky (v%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Vaše platební poplatky za mince (v%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Platba Mollie Poplatky (v%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Vaše platební poplatky Mollie (v%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Platební platba Poplatky (v%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Platební poplatky (v%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Platba bankovním převodem Poplatky (v%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Vaše poplatky za bankovní převod (v%)"
+
+#: 
+msgid "Add new"
+msgstr "Přidat nový"
+
+#: 
+msgid "Bank accounts"
+msgstr "bankovní účty"
+
+#: 
+msgid "Add new bank account"
+msgstr "Přidejte nový bankovní účet"
+
+#: 
+msgid "Bank account name"
+msgstr "jméno bankovního účtu"
+
+#: 
+msgid "Your bank account name"
+msgstr "Název bankovního účtu"
+
+#: 
+msgid "Bank account currency"
+msgstr "Měna bankovního účtu"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Bankovní účet IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Bankovní účet BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Váš bankovní účet BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Adresa bankovního účtu"
+
+#: 
+msgid "Your bank account address"
+msgstr "Adresa vašeho bankovního účtu"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Jméno vlastníka bankovního účtu"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Jméno vlastníka bankovního účtu"
+
+#: 
+msgid "* This is optional"
+msgstr "* Toto je volitelné"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Měna bankovního účtu"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Váš bankovní účet IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Vymazat"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Můžete si vybrat mezi 'ikonu stránky' a 'ikona stránky svg' (ikona stránky je prioritní) - Zde jsou k dispozici ikony seznamu"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Potvrdíte e-mail"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Postupujte podle tohoto kroku k vyplnění žádosti o stažení."
+
+#: 
+msgid "You need to have at least"
+msgstr "Musíte mít alespoň"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Nemáte k dispozici žádné vyčerpané zůstatky"
+
+#: 
+msgid "Total in "
+msgstr "Celkový počet"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Potřebujete nastavit metodu widthdraw"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Bankovní účet BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Váš bankovní účet BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Denní rozsah\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Den otevřených dveří"
+
+#: 
+msgid "Volume 24H"
+msgstr "Přímá hlasitost"
+
+#: 
+msgid "Direct Volume"
+msgstr "Přímá hlasitost"
+
+#: 
+msgid "Load more data"
+msgstr "Vložte více dat"
+
+#: 
+msgid "Qty"
+msgstr "Množství"
+
+#: 
+msgid "Gain"
+msgstr "Získat"
+
+#: 
+msgid "Price buy"
+msgstr "Koupit cenu"
+
+#: 
+msgid "Disable chat"
+msgstr "Zakázat chat"
+
+#: 
+msgid "Total gain"
+msgstr "Celkový zisk"
+
+#: 
+msgid "Confirmation"
+msgstr "potvrzení"
+
+#: 
+msgid "Unit price"
+msgstr "Jednotková cena"
+
+#: 
+msgid "Investment"
+msgstr "Investice"
+
+#: 
+msgid "Quantity"
+msgstr "Množství"
+
+#: 
+msgid "Commission"
+msgstr "Komise"
+
+#: 
+msgid "Confirm buying"
+msgstr "Potvrďte nákup"
+
+#: 
+msgid "New user"
+msgstr "Nový uživatel"
+
+#: 
+msgid "Order passed"
+msgstr "Řád prošel"
+
+#: 
+msgid "New subscription"
+msgstr "Nové předplatné"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Zobrazit informace o odběru příjemce."
+
+#: 
+msgid "Process"
+msgstr "Proces"
+
+#: 
+msgid "Hide details"
+msgstr "Skrýt detaily"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Povolit odběry"
+
+#: 
+msgid "Enable free trial"
+msgstr "Povolit bezplatnou zkušební verzi"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Doba trvání zkušební doby (v den)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Doba trvání zkušební doby zdarma"
+
+#: 
+msgid "Premium features"
+msgstr "Prémiové funkce"
+
+#: 
+msgid "Free users features"
+msgstr "Volné funkce uživatelů"
+
+#: 
+msgid "Add a new plan"
+msgstr "Přidejte nový plán"
+
+#: 
+msgid "Name plan"
+msgstr "Plán jmen"
+
+#: 
+msgid "Price total"
+msgstr "Celková cena"
+
+#: 
+msgid "Duration in days"
+msgstr "Doba trvání v dnech"
+
+#: 
+msgid "Duration"
+msgstr "Doba trvání"
+
+#: 
+msgid "Add this plan"
+msgstr "Přidat tento plán"
+
+#: 
+msgid "Plans available"
+msgstr "Plány k dispozici"
+
+#: 
+msgid "Price plan"
+msgstr "Cenový plán"
+
+#: 
+msgid "Duration in month"
+msgstr "Doba trvání v měsíci"
+
+#: 
+msgid "Price per month"
+msgstr "Cena za měsíc"
+
+#: 
+msgid "Account"
+msgstr "Účet"
+
+#: 
+msgid "Exchanges"
+msgstr "Výměny"
+
+#: 
+msgid "Total Free"
+msgstr "Celkem zdarma"
+
+#: 
+msgid "Total Used"
+msgstr "Celkem použité"
+
+#: 
+msgid "Order Ref."
+msgstr "Objednávka Ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Objednaná cena"
+
+#: 
+msgid "Current price"
+msgstr "Aktuální cena"
+
+#: 
+msgid "Evolution"
+msgstr "Vývoj"
+
+#: 
+msgid "Enable identity system"
+msgstr "Aktivovat systém identit"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Zablokování obchodování bez ověření totožnosti"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Blokovat vklad bez ověření totožnosti"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Blok stáhněte bez ověření totožnosti"
+
+#: 
+msgid "Approve"
+msgstr "Schválit"
+
+#: 
+msgid "Identity ID"
+msgstr "Identifikační číslo"
+
+#: 
+msgid "Identity step name"
+msgstr "Jméno kroku identity"
+
+#: 
+msgid "Identity step description"
+msgstr "Popis kroku identit"
+
+#: 
+msgid "Identity order"
+msgstr "Pořadí totožnosti"
+
+#: 
+msgid "Down order"
+msgstr "Pořadí"
+
+#: 
+msgid "Up order"
+msgstr "Na objednávku"
+
+#: 
+msgid "Add new identity step"
+msgstr "Přidat nový krok identity"
+
+#: 
+msgid "Your step name"
+msgstr "Vaše jméno kroku"
+
+#: 
+msgid "Your step description"
+msgstr "Váš popis kroku"
+
+#: 
+msgid "Identity step type"
+msgstr "Typ kroku identity"
+
+#: 
+msgid "Upload new document"
+msgstr "Nahrát nový dokument"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Zvolte v seznamu typ dokumentu"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Aktivujte nahrávání totožnosti pomocí webové kamery"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Poměr dokumentů webové kamery"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Poměr (šířka / výška)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Poměr (šířka / výška)"
+
+#: 
+msgid "Document identity list"
+msgstr "Seznam totožnosti dokumentů"
+
+#: 
+msgid "Add new identity document"
+msgstr "Přidat nový doklad totožnosti"
+
+#: 
+msgid "Your document name"
+msgstr "Název vašeho dokumentu"
+
+#: 
+msgid "My Holding"
+msgstr "Můj Holding"
+
+#: 
+msgid "Holding"
+msgstr "Podíl"
+
+#: 
+msgid "Market Value"
+msgstr "Tržní hodnota"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Ztráta zisku"
+
+#: 
+msgid "Wallet"
+msgstr "Peněženka"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Ověřte bankovní převod"
+
+#: 
+msgid "Transfert received date"
+msgstr "Přijaté datum přenosu"
+
+#: 
+msgid "Bank account received"
+msgstr "Byl přijat bankovní účet"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Odkaz na bankovní převod"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Částka přijatá na bankovním účtu"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Částka převedená na uživatelský účet"
+
+#: 
+msgid "User will receive"
+msgstr "Uživatel obdrží"
+
+#: 
+msgid "Dark"
+msgstr "Temný"
+
+#: 
+msgid "White"
+msgstr "Bílý"
+
+#: 
+msgid "Enable Donation"
+msgstr "Povolit dárcovství"
+
+#: 
+msgid "Donation text"
+msgstr "Text příspěvku"
+
+#: 
+msgid "Your donation text"
+msgstr "Váš darovací text"
+
+#: 
+msgid "Donation address list"
+msgstr "Seznam dárcovských adres"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Vložte jednu adresu na řádek"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Formát řádky: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "VYCHÁZEJTE SMILU NA NAŠICH OBLASTECH A PODPORUJTE NÁM DONATINGEM :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Historie transakcí"
+
+#: 
+msgid "Description"
+msgstr "Popis"
+
+#: 
+msgid "Reference ..."
+msgstr "Reference ..."
+
+#: 
+msgid "Reference"
+msgstr "Odkaz"
+
+#: 
+msgid "deposit"
+msgstr "vklad"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Sklad"
+
+#: 
+msgid "Unknown"
+msgstr "Neznámý"
+
+#: 
+msgid "BUY order done"
+msgstr "KOUPIT hotovo"
+
+#: 
+msgid "SELL order done"
+msgstr "Prodejní objednávka byla dokončena"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "PRODEJTE OBJEDNÁVKU"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "Zakoupit objednávku"
+
+#: 
+msgid "Add a new item"
+msgstr "Přidat novou položku"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Váš klíč GDAX"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Váš průkaz GDAX"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Vaše tajemství GDAX"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Vaše ID Bitmexu"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Vaše tajemství Bitmexu"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Váš klíč OKCoin"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Vaše tajemství OKCoin"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Vaše identifikační číslo klíče Luno"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Váš Luno Secret"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Váš klíč Coinex"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Vaše tajemství Coinex"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Váš klíč Btcmarket"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Vaše tajemství Btcmarket"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Váš Livecoin klíč"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Vaše tajemství Livecoin"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Vaše identifikační číslo Quoinex Token"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Vaše tajemství Quoinex"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Váš Exmo klíč"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Exmo tajemství"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Váš klíč YoBit"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Vaše tajemství YoBit"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Váš klíč Kucoin"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Váš Kucoin Soukromý"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Váš klíč CEX"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Vaše tajemství CEX"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Váš CEID UID"
+
+#: 
+msgid "My orders"
+msgstr "Mé objednávky"
+
+#: 
+msgid "Size"
+msgstr "Velikost"
+
+#: 
+msgid "Limit price"
+msgstr "Limitní cena"
+
+#: 
+msgid "Place buy order"
+msgstr "Objednejte objednávku"
+
+#: 
+msgid "Place sell order"
+msgstr "Objednávka prodeje"
+
+#: 
+msgid "Method"
+msgstr "Metoda"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Musíte být přihlášeni do Coinexu"
+
+#: 
+msgid "Enable live trading"
+msgstr "Povolit živé obchodování"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Přihlaste se s Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Týdenní zisk"
+
+#: 
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Aktivovat seznam leaderboardů (musí být aktivováno nativní obchodování)"
+
+#: 
+msgid "Active"
+msgstr "Aktivní"
+
+#: 
+msgid "Every"
+msgstr "Každý"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Spuštění páru při registraci nového uživatele"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Pouze 1 pár je povolen"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Spuštění sledování páru seznamu při registraci nového uživatele"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 pár pro každý řádek"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Formát: TRH: SYMBOL / MĚNA"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Musíte být přihlášeni do služby Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Přihlásit se s Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "E-mail není platný"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Musíte být přihlášeni k Yobitu"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Přihlaste se pomocí služby Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Na základě veškeré peněženky"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Váš klíč Poloniex"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Vaše tajemství Poloniex"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Zkušební verze vypršela!"
+
+#: 
+msgid "Become"
+msgstr "Staň se"
+
+#: 
+msgid "You will be charged"
+msgstr "Budou vám účtovány"
+
+#: 
+msgid "for"
+msgstr "pro"
+
+#: 
+msgid "months"
+msgstr "měsíců"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Váš klíč Kraken"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Váš Kraken soukromý"
+
+#: 
+msgid "will be ready for you !"
+msgstr "bude připraven pro vás!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Musíte být přihlášeni do společnosti Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr "Přihlaste se pomocí služby Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Musíte být přihlášeni do společnosti Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Přihlásit se s Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Musíte být přihlášeni do Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Přihlaste se pomocí aplikace Exmo"
+
+#: 
+msgid "View the article"
+msgstr "Zobrazit článek"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Váš klíč Bittrex"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Vaše tajemství Bittrexu"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Musíte být přihlášeni v Krakenu"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Přihlaste se s Krakenem"
+
+#: 
+msgid "Markets"
+msgstr "Trhy"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Skrýt trh (je třeba povolit nativní obchod)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Skrýt knihu objednávek"
+
+#: 
+msgid "Load orders book"
+msgstr "Kniha objednávek"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Vytvořit upozornění, když ..."
+
+#: 
+msgid "Price is above"
+msgstr "Cena je výše"
+
+#: 
+msgid "Price is bellow"
+msgstr "Cena je níže"
+
+#: 
+msgid "Password not match"
+msgstr "Heslo neodpovídá"
+

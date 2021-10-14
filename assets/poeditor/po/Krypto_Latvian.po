@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: lv\n"
+
+#: 
+msgid "Real account"
+msgstr "Īsts konts"
+
+#: 
+msgid "Board"
+msgstr "Grafiks\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Lūdzu, pagrieziet savu ierīci ainavas režīmā."
+
+#: 
+msgid "chart"
+msgstr "diagramma\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "diagrammas vai vairāk"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Meklēt pēc nosaukuma vai simbola"
+
+#: 
+msgid "real account"
+msgstr "īsts konts\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Skatiet visus atlikumus"
+
+#: 
+msgid "List accounts"
+msgstr "Uzskaitīt kontus\n"
+""
+
+#: 
+msgid "History"
+msgstr "Vēsture"
+
+#: 
+msgid "Credit"
+msgstr "Kredīts"
+
+#: 
+msgid "Widthdraw"
+msgstr "Izņemt"
+
+#: 
+msgid "Order book"
+msgstr "Pasūtījumu grāmata"
+
+#: 
+msgid "Market"
+msgstr "Tirgus"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: 
+msgid "Leader board"
+msgstr "Vadības padome"
+
+#: 
+msgid "Calc."
+msgstr "Calc"
+
+#: 
+msgid "Watching"
+msgstr "Skatīties"
+
+#: 
+msgid "News"
+msgstr "Jaunumi"
+
+#: 
+msgid "Panel"
+msgstr "Panelis"
+
+#: 
+msgid "Manager"
+msgstr "Vadītājs"
+
+#: 
+msgid "Admin"
+msgstr "Administrators"
+
+#: 
+msgid "Converter"
+msgstr "Pārveidotājs"
+
+#: 
+msgid "Social"
+msgstr "Sociālie tīkli"
+
+#: 
+msgid "Calendar"
+msgstr "Kalendārs"
+
+#: 
+msgid "Watchlist"
+msgstr "Skatāmais saraksts"
+
+#: 
+msgid "Contact us"
+msgstr "Sazinieties ar mums"
+
+#: 
+msgid "January"
+msgstr "Janvāris"
+
+#: 
+msgid "February"
+msgstr "Februāris"
+
+#: 
+msgid "March"
+msgstr "Marts"
+
+#: 
+msgid "April"
+msgstr "Aprīlis"
+
+#: 
+msgid "May"
+msgstr "Maijs"
+
+#: 
+msgid "June"
+msgstr "Jūnijs"
+
+#: 
+msgid "July"
+msgstr "Jūlijs"
+
+#: 
+msgid "August"
+msgstr "Augusts"
+
+#: 
+msgid "September"
+msgstr "Septembris"
+
+#: 
+msgid "October"
+msgstr "Oktobris"
+
+#: 
+msgid "November"
+msgstr "Novembris"
+
+#: 
+msgid "December"
+msgstr "Decembris"
+
+#: 
+msgid "Mon."
+msgstr "Pirmdiena"
+
+#: 
+msgid "Tue."
+msgstr "Otrdiena"
+
+#: 
+msgid "Wed."
+msgstr "Trešdiena"
+
+#: 
+msgid "Thu."
+msgstr "Ceturtdiena"
+
+#: 
+msgid "Fri."
+msgstr "Piektdiena"
+
+#: 
+msgid "Sat."
+msgstr "Sestdiena"
+
+#: 
+msgid "Sun."
+msgstr "Svētdiena"
+
+#: 
+msgid "Statistics"
+msgstr "Statistika"
+
+#: 
+msgid "Bank transferts"
+msgstr "Bankas pārskaitījumi"
+
+#: 
+msgid "Payments"
+msgstr "Maksājumi"
+
+#: 
+msgid "Subscriptions"
+msgstr "Abonementi"
+
+#: 
+msgid "Identity"
+msgstr "Identitāte"
+
+#: 
+msgid "Users"
+msgstr "Lietotāji"
+
+#: 
+msgid "Orders"
+msgstr "Pasūtījumi"
+
+#: 
+msgid "Withdraw"
+msgstr "Izmaksa"
+
+#: 
+msgid "Currency"
+msgstr "Valūta"
+
+#: 
+msgid "Total trade"
+msgstr "Kopējā tirdzniecība"
+
+#: 
+msgid "Total deposit"
+msgstr "Kopējais depozīts"
+
+#: 
+msgid "Total withdraw"
+msgstr "Kopējā izmaksa"
+
+#: 
+msgid "Fees"
+msgstr "Maksas"
+
+#: 
+msgid "Name"
+msgstr "Nosaukums"
+
+#: 
+msgid "Email"
+msgstr "E-pasts"
+
+#: 
+msgid "Subscription"
+msgstr "Abonēšanās"
+
+#: 
+msgid "Signin method"
+msgstr "Pierakstīšanās metode"
+
+#: 
+msgid "Last login"
+msgstr "Pēdējā pieslēgšanās"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Iespējotie paziņojumi"
+
+#: 
+msgid "Trial version"
+msgstr "Izmēģinājuma versija"
+
+#: 
+msgid "day"
+msgstr "diena"
+
+#: 
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: 
+msgid "Inactive"
+msgstr "Neaktīvs"
+
+#: 
+msgid "Enabled"
+msgstr "Iespējots"
+
+#: 
+msgid "Ref"
+msgstr "Atsauces"
+
+#: 
+msgid "User"
+msgstr "Lietotājs"
+
+#: 
+msgid "Order date"
+msgstr "Pasūtījuma datums"
+
+#: 
+msgid "Exchange"
+msgstr "Apmaiņa"
+
+#: 
+msgid "Pair"
+msgstr "Pāri"
+
+#: 
+msgid "Type"
+msgstr "Tips"
+
+#: 
+msgid "Amount"
+msgstr "Summa"
+
+#: 
+msgid "Received"
+msgstr "Saņemts"
+
+#: 
+msgid "Total deducted"
+msgstr "Kopā atskaitīts"
+
+#: 
+msgid "Total received"
+msgstr "Kopā saņemts"
+
+#: 
+msgid "Buy"
+msgstr "Pirkt"
+
+#: 
+msgid "Sell"
+msgstr "Pārdot\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Monētu saraksts"
+
+#: 
+msgid "Market list"
+msgstr "Tirgu saraksts"
+
+#: 
+msgid "Heatmap"
+msgstr "Karte"
+
+#: 
+msgid "Price"
+msgstr "Cena"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Tiešais apjoms 24h"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Kopējais apjoms. 24h"
+
+#: 
+msgid "Market Cap"
+msgstr "Tirgus Cap"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg 24h"
+
+#: 
+msgid "24h High/Low"
+msgstr "24 h augsta / zema"
+
+#: 
+msgid "Dashboard"
+msgstr "Informācijas panelis"
+
+#: 
+msgid "General settings"
+msgstr "Vispārīgie iestatījumi"
+
+#: 
+msgid "Coins"
+msgstr "Monētas"
+
+#: 
+msgid "Currencies"
+msgstr "Valūtas"
+
+#: 
+msgid "Mail settings"
+msgstr "Pasta iestatījumi"
+
+#: 
+msgid "Payment"
+msgstr "Maksājums"
+
+#: 
+msgid "News - Social"
+msgstr "Ziņas - sociālie"
+
+#: 
+msgid "Intro"
+msgstr "Ievads"
+
+#: 
+msgid "Trading"
+msgstr "Tirdzniecība"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Papildu lapas"
+
+#: 
+msgid "Today's visits"
+msgstr "Šodienas apmeklējumi"
+
+#: 
+msgid "7 days visits"
+msgstr "7 dienu apmeklējumi"
+
+#: 
+msgid "Number of users"
+msgstr "Lietotāju skaits"
+
+#: 
+msgid "Number of coins"
+msgstr "Monētu skaits"
+
+#: 
+msgid "Last users"
+msgstr "Pēdējie lietotāji"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Šī vietne izmanto sīkfailus"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Mūsu mājas lapā tiek izmantoti sīkfaili, lai pārbaudītu vietnes plūsmu un lietotāju aktivitāti mūsu vietnē, uzlabotai un efektīvai lietotāju pieredzei, mārketingam, un lai nodrošinātu sociālo mediju funkcionalitāti."
+
+#: 
+msgid "Accept"
+msgstr "Pieņemt"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Jūsu e-pasta adrese"
+
+#: 
+msgid "Your password"
+msgstr "Jūsu parole"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Aizmirsāt paroli ?"
+
+#: 
+msgid "Login"
+msgstr "Pieslēgties"
+
+#: 
+msgid "or"
+msgstr "vai"
+
+#: 
+msgid "Create a new account"
+msgstr "Izveidot jaunu kontu"
+
+#: 
+msgid "practice account"
+msgstr "treniņu konts"
+
+#: 
+msgid "Symbol"
+msgstr "Simbols"
+
+#: 
+msgid "Last"
+msgstr "Pēdējais"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profils"
+
+#: 
+msgid "Notification"
+msgstr "Paziņojums"
+
+#: 
+msgid "Security"
+msgstr "Drošība"
+
+#: 
+msgid "Logout"
+msgstr "Izlogoties"
+
+#: 
+msgid "Your name"
+msgstr "Jūsu vārds"
+
+#: 
+msgid "Language"
+msgstr "Valoda"
+
+#: 
+msgid "Type chart"
+msgstr "Ierakstiet diagrammu"
+
+#: 
+msgid "Change your password"
+msgstr "Nomainiet paroli"
+
+#: 
+msgid "Repeat your password"
+msgstr "Atkārtojiet savu paroli"
+
+#: 
+msgid "Back"
+msgstr "Atpakaļ"
+
+#: 
+msgid "Validate"
+msgstr "Apstipriniet"
+
+#: 
+msgid "Title"
+msgstr "Nosaukums"
+
+#: 
+msgid "Your website title"
+msgstr "Jūsu vietnes nosaukums"
+
+#: 
+msgid "App description"
+msgstr "Lietotņu apraksts"
+
+#: 
+msgid "Referal link"
+msgstr "Referenta saite"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Jūsu referenta saite (piem., Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Apkopes režīms"
+
+#: 
+msgid "Number format"
+msgstr "Ciparu formāts"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Pārslēgt diagrammas uz tradingview diagrammām"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Iespējot automātisko valodu"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Iespējot POEditor valodu"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API atslēga"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Jūsu POEditor API atslēga"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor projektu atlasītājs"
+
+#: 
+msgid "Allow signup"
+msgstr "Atļaut reģistrēties"
+
+#: 
+msgid "User need verify account"
+msgstr "Lietotājam ir jāpārbauda konts"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Nepieciešama pieraksta reģistrācija"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha vietnes atslēga"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Jūsu Google Recaptcha vietnes atslēga"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha slepenais taustiņš"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Jūsu Google Recaptcha slepenā atslēga"
+
+#: 
+msgid "Sigin with google"
+msgstr "Pierakstīties ar google"
+
+#: 
+msgid "Google App ID"
+msgstr "Google App ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Jūsu Google App ID"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google App Secret"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Jūsu Google App Secret"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Pierakstīties ar Facebook"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebook lietotnes ID"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Jūsu Facebook lietotnes ID"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Jūsu Facebook App Secret"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Iespējot Google reklāmu"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google reklāmu klients"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Jūsu Google Reklāmas klients"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google reklāmas devējs"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Jūsu Google reklāmas vieta"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Iespējot sīkfaila uznirstošo logu"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Sīkfaila uznirstošās loga nosaukums"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Jūsu sīkfaila uznirstošā loga nosaukums"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Sīkfailu uznirstošais teksts"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Jūsu sīkfailu uznirstošais teksts"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Melnajā sarakstā iekļautās valstis"
+
+#: 
+msgid "Save"
+msgstr "Saglabāt"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Atļaut lietotājam pārslēgt diagrammas tipu"
+
+#: 
+msgid "Done !"
+msgstr "Gatavs!"
+
+#: 
+msgid "quantity"
+msgstr "daudzums"
+
+#: 
+msgid "Enable native trading"
+msgstr "Iespējot vietējo tirdzniecību"
+
+#: 
+msgid "Balance configuration"
+msgstr "Bilances konfigurācija"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Rādīt līdzsvara novērtējumu"
+
+#: 
+msgid "User user currency select"
+msgstr "Lietotāja valūtas izvēle"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Rādīt balansa novērtējumu"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Referāļu sistēmas konfigurācija"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Iespējot ziņojumu (vietējā tirdzniecība ir jāiespējo)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referālā komisijas maksa (fiksētā summa $)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referālā komisijas maksa ($, fiksēta summa) piem.: Kad referētais veic reģistrēšanos un veic depozītu ar īstu nauda, ​​tad referētājs iegūst $ 5 (vērtība = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Noguldījuma konfigurācija"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Depozītu maksa (%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Noguldījuma minimums ($)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Maksa par depozītu (USD)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Atļautās depozīta valūtas"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Saņemiet depozīta maciņu (ja naudas reālā valūta nav pieejama)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Izņemiet konfigurāciju"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Minimālā izmaksa (dolāros)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Izmaksas apstrādes laiks (dienās)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Izmaksas apstrādes laiks (dienās) = piem.: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Tirdzniecības konfigurācija"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Tirdzniecības maksas (%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Pasūtījuma atsauču modelis"
+
+#: 
+msgid "Real account configuration"
+msgstr "Īstā konta konfigurācija"
+
+#: 
+msgid "Enable real account"
+msgstr "Iespējot īsto kontu"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Izmēģinājuma konta konfigurācija"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Maksimālais bezmaksas depozīts (USD)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Maksimālais bezmaksas depozīts (USD) ex: 10 000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Bezmaksas depozīta maciņš saņem"
+
+#: 
+msgid "Ref."
+msgstr "Atsauces"
+
+#: 
+msgid "Submited date"
+msgstr "Iesniegtais datums"
+
+#: 
+msgid "Status"
+msgstr "Statuss"
+
+#: 
+msgid "Document name"
+msgstr "Dokumenta nosaukums"
+
+#: 
+msgid "Documents"
+msgstr "Dokumenti"
+
+#: 
+msgid "Not processed"
+msgstr "Nav apstrādāts"
+
+#: 
+msgid "Processed"
+msgstr "Apstrādāts"
+
+#: 
+msgid "Payment success"
+msgstr "Maksājumu panākumi"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Maksājuma atsauces modelis"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Iespējot SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP serveris"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Jūsu SMTP resursdatora serveris"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP ports"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Jūsu SMTP ports"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP drošība"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP lietotājs"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Jūsu SMTP lietotājs"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP parole"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Jūsu SMTP parole"
+
+#: 
+msgid "Email sender name"
+msgstr "E-pasta sūtītāja vārds"
+
+#: 
+msgid "Support mail"
+msgstr "Atbalsta e-pasts"
+
+#: 
+msgid "Support Phone"
+msgstr "Atbalsta tālrunis"
+
+#: 
+msgid "Support phone"
+msgstr "Atbalsta tālrunis"
+
+#: 
+msgid "Support Address"
+msgstr "Atbalsta adrese"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO pasts"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO telefons"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO tālrunis"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Sūtīt pievienošanās e-pastu"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Pievienošanās e-pasta tēma"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Kalendāra akreditācijas dati"
+
+#: 
+msgid "Enable calendar"
+msgstr "Iespējot kalendāru"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Kalendāra klienta ID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Jūsu kalendāra klienta ID"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Kalendāra klienta Secret"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Rādīt tikai notikumus saistībā ar iespējotajām monētām"
+
+#: 
+msgid "News feed"
+msgstr "Jaunumi"
+
+#: 
+msgid "Add news feed"
+msgstr "Pievienot ziņu plūsmu"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Jūsu RSS plūsmas saite"
+
+#: 
+msgid "Add"
+msgstr "Pievienot"
+
+#: 
+msgid "Name feed"
+msgstr "Nosaukt plūsmu"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter konti"
+
+#: 
+msgid "Add twitter account"
+msgstr "Pievienot Twitter kontu"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter vārds"
+
+#: 
+msgid "without"
+msgstr "bez"
+
+#: 
+msgid "Social name"
+msgstr "Sociālā tīkla nosaukums"
+
+#: 
+msgid "Created date"
+msgstr "Izveidošanas datums"
+
+#: 
+msgid "Amount paid"
+msgstr "Samaksātā summa"
+
+#: 
+msgid "Wallet received"
+msgstr "Maciņš saņemts"
+
+#: 
+msgid "Amount received"
+msgstr "Saņemtā summa"
+
+#: 
+msgid "Payment gateway"
+msgstr "Maksājumu vārteja"
+
+#: 
+msgid "Proof"
+msgstr "Pierādījums"
+
+#: 
+msgid "Modify balance"
+msgstr "Mainīt bilanci"
+
+#: 
+msgid "Select balance"
+msgstr "Atlasīt bilanci"
+
+#: 
+msgid "Modification type"
+msgstr "Modifikācijas tips"
+
+#: 
+msgid "Modification value"
+msgstr "Modificēšanas vērtība"
+
+#: 
+msgid "Add modification"
+msgstr "Pievienot izmaiņas"
+
+#: 
+msgid "Card"
+msgstr "Karte"
+
+#: 
+msgid "Balances"
+msgstr "Bilances"
+
+#: 
+msgid "Remove"
+msgstr "Noņemt"
+
+#: 
+msgid "Last location"
+msgstr "Pēdējā atrašanās vieta"
+
+#: 
+msgid "Currency use"
+msgstr "Izmantotā naudas valūta"
+
+#: 
+msgid "Signup with"
+msgstr "Reģistrēties ar"
+
+#: 
+msgid "Identity verification"
+msgstr "Identitātes pārbaude"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 pakāpju autentifikācija"
+
+#: 
+msgid "User status"
+msgstr "Lietotāja statuss"
+
+#: 
+msgid "Login history"
+msgstr "Pieslēgšanās vēsture"
+
+#: 
+msgid "More details"
+msgstr "Skatīt vairāk"
+
+#: 
+msgid "Deposit history"
+msgstr "Depozītu vēsture"
+
+#: 
+msgid "Total"
+msgstr "Kopā"
+
+#: 
+msgid "Value in BTC"
+msgstr "Vērtība BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Vērtība USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Izmaksas metode"
+
+#: 
+msgid "Date"
+msgstr "Datums"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Pieprasīt izmaksu"
+
+#: 
+msgid "WITHDRAW"
+msgstr "IZMAKSA"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "bankas pārskaitījums"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Izvēlieties saņēmēja kontu"
+
+#: 
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: 
+msgid "Next"
+msgstr "Nākamais"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Paziņojuma konfigurācija ir pabeigta."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Jūsu PushBullet piekļuves koda simbols"
+
+#: 
+msgid "Remove token"
+msgstr "Noņemt marķieri"
+
+#: 
+msgid "You are premium !"
+msgstr "Jūs esat Premium!"
+
+#: 
+msgid "left"
+msgstr "kreisais"
+
+#: 
+msgid "Main settings"
+msgstr "Galvenie iestatījumi"
+
+#: 
+msgid "Period"
+msgstr "Periods"
+
+#: 
+msgid "Colour"
+msgstr "Krāsa"
+
+#: 
+msgid "Thickness"
+msgstr "Biezums"
+
+#: 
+msgid "Reset"
+msgstr "Atiestatīt"
+
+#: 
+msgid "Apply"
+msgstr "Pieteikties"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Ievadiet savu Google autentifikācijas kodu"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Ievadiet savu Google autentifikācijas kodu"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Atlikumi, kuru vērtība ir mazāka nekā 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Slēpt nelielu bilanci"
+
+#: 
+msgid "Estimate value"
+msgstr "Aprēķinātā vērtība"
+
+#: 
+msgid "Value in"
+msgstr "Vērtība"
+
+#: 
+msgid "Deposit"
+msgstr "Noguldījums"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google autentifikācija ir iespējota!"
+
+#: 
+msgid "Set as done"
+msgstr "Iestatīt kā pabeigtu"
+
+#: 
+msgid "Close"
+msgstr "Aizvērt"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google autentifikācijas kods nav derīgs"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Jūs saņemsiet izmaksas apstiprinājumu pa e-pastu"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, Lietotāja ID, Tips, Valūta"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Izmaksas filtrs"
+
+#: 
+msgid "Default"
+msgstr "Noklusējums"
+
+#: 
+msgid "Not confirmed"
+msgstr "Nav apstiprināts"
+
+#: 
+msgid "Done"
+msgstr "Gatavs"
+
+#: 
+msgid "Payment filter"
+msgstr "Maksājumu filtrs"
+
+#: 
+msgid "Need to be approved"
+msgstr "Nepieciešams apstiprinājums"
+
+#: 
+msgid "Paid"
+msgstr "Apmaksāts"
+
+#: 
+msgid "Not paid"
+msgstr "Nav samaksāts"
+
+#: 
+msgid "All payments"
+msgstr "Visi maksājumi"
+
+#: 
+msgid "Ask a proof"
+msgstr "Pieprasīt pierādījumu"
+
+#: 
+msgid "Bank ref."
+msgstr "Bankas ref."
+
+#: 
+msgid "Proof received"
+msgstr "Pierādījums saņemts"
+
+#: 
+msgid "In pending"
+msgstr "Tiek gaidīts"
+
+#: 
+msgid "All widthdraw"
+msgstr "Visas izmaksas"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Izmaksas atsauces modelis"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Izmaksas filtrs"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Izmaksas informācija"
+
+#: 
+msgid "year"
+msgstr "gads"
+
+#: 
+msgid "month"
+msgstr "mēnesis"
+
+#: 
+msgid "week"
+msgstr "nedēļa"
+
+#: 
+msgid "hour"
+msgstr "stunda"
+
+#: 
+msgid "minute"
+msgstr "minūte"
+
+#: 
+msgid "second"
+msgstr "sekunde"
+
+#: 
+msgid "ago"
+msgstr "pirms"
+
+#: 
+msgid "Bank transfert"
+msgstr "Bankas pārskaitījums"
+
+#: 
+msgid "Deposit amount"
+msgstr "Noguldījuma summa"
+
+#: 
+msgid "Fill up"
+msgstr "Piepildīt"
+
+#: 
+msgid "It's free"
+msgstr "Tas ir par brīvu"
+
+#: 
+msgid "You will receive"
+msgstr "Tu saņemsi"
+
+#: 
+msgid "Add real funds"
+msgstr "Pievienojiet īstas naudas līdzekļus"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimālais depozīts"
+
+#: 
+msgid "Enable credit card"
+msgstr "Iespējot kredītkarti"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stripe privātā atslēga"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Jūsu Stripe API atslēga"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Iespējot Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Iespējot Paypal Live režīmu"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal klienta ID"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Jūsu paypal klienta ID"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Client Secret"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Jūsu PayPal klienta Secret"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Iespējot blokonomiku"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomika Secret atslēga"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Jūsu blokonomika slepenais taustiņš"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Iespējot Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo Secret taustiņš"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Jūsu fortumo slepenais taustiņš"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo Service atslēga"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Jūsu Fortumo Service atslēga"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Iespējot Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Iespējot CoinGate live režīmā"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Jūsu CoinGate Auth Token"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate saņem valūtu"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Iespējot Coinpayments"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Coinpayments Public atslēga"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Jūsu Coinpayments Public atslēga"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Coinpayments Private atslēga"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Jūsu Coinpayments Private atslēga"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Jūsu Coinpayments Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Coinpayments IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Jūsu CoinPayments IPN Secret"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Iespējot Rave Flutterwave maksājumu"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Sandbox režīms Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave Public atslēga"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Jūsu Rave Flutterwave Public atslēga"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave Secret atslēga"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Jūsu Rave Flutterwave Secret atslēga"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave maksājuma nosaukums"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Jūsu Rave Flutterwave Maksājuma nosaukums"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave maksājumu prefikss"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Jūsu Rave Flutterwave maksājuma prefikss (piem., KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Aktivizēt Coinbase Commerce maksājumu"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase Commerce API atslēga"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Jūsu Coinbase Commerce API atslēga"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase Commerce maksājuma nosaukums"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Jūsu Coinbase Commerce maksājuma nosaukums"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Iespējot Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie atslēga"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Jūsu Mollie atslēga"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Iespējot Payeer"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Payeer veikala ID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Jūsu Payeer veikala ID"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer API atslēga"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Jūsu Payeer API atslēga"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Iespējot bankas pārskaitījumu"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Maksimālais vienlaicīgu bankas pārskaitījumu skaits"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Iespējots bankas pārskaitījumu pierādījums"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Bankas pārskaitījumu maksimālo pierādījumu skaits"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Jūsu Gemini atslēga"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Jūsu Gemini Secret"
+
+#: 
+msgid "Select your platform"
+msgstr "Izvēlieties savu platformu"
+
+#: 
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: 
+msgid "Live"
+msgstr "Tiešsaitē"
+
+#: 
+msgid "Cron time"
+msgstr "Cron laiks"
+
+#: 
+msgid "Last update"
+msgstr "Pēdējā atjaunošana"
+
+#: 
+msgid "Sync delay"
+msgstr "Sinhronizācijas aizkave"
+
+#: 
+msgid "Add additional page"
+msgstr "Pievienot papildu lapu"
+
+#: 
+msgid "Page name"
+msgstr "Lapas nosaukums"
+
+#: 
+msgid "Page URL"
+msgstr "Lapas URL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Lapas ikona (piem., Inr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Vai lapas ikonas svg"
+
+#: 
+msgid "Icon"
+msgstr "Ikona"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG attēls"
+
+#: 
+msgid "Enable"
+msgstr "Iespējot"
+
+#: 
+msgid "Disable"
+msgstr "Atspējot"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Izveidojiet jaunu bankas pārskaitījumu"
+
+#: 
+msgid "Pending"
+msgstr "Gaida"
+
+#: 
+msgid "Details"
+msgstr "Sīkāka informācija"
+
+#: 
+msgid "Verified"
+msgstr "Pārbaudīts"
+
+#: 
+msgid "Canceled"
+msgstr "Atcelts"
+
+#: 
+msgid "Declined"
+msgstr "Noraidīts"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Jūsu Hitbtc atslēga"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Jūsu Hitbtc Secret"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Jūsu Bitbank atslēga"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Jūsu Bitbank Secret"
+
+#: 
+msgid "User level"
+msgstr "Lietotāja līmenis"
+
+#: 
+msgid "Expire in"
+msgstr "Beidzas"
+
+#: 
+msgid "Back to login"
+msgstr "Atpakaļ uz pieslēgšanos"
+
+#: 
+msgid "Let's go !"
+msgstr "Ejam !"
+
+#: 
+msgid "Welcome"
+msgstr "Laipni lūdzam"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Kopīgi konfigurēsim jūsu informācijas paneli."
+
+#: 
+msgid "Select your language"
+msgstr "Izvēlieties savu valodu"
+
+#: 
+msgid "Select your currency"
+msgstr "Izvēlieties savu valūtu"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Izvēlieties savas mīļākās kriptovalūtas"
+
+#: 
+msgid "left need to be selected"
+msgstr "pa kreisi ir jāizvēlas"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Konfigurācija ir pabeigta!"
+
+#: 
+msgid "will now refresh"
+msgstr "tagad tiks atsvaidzināts"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Iespējot Perfect Money maksājumu"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Perfect Money Saņēmēja konts"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Jūsu Perfect Money naudas saņēmēja konts"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Mobilais, pārlūks, logu paziņojumi"
+
+#: 
+msgid "Create price alert"
+msgstr "Izveidot cenu brīdinājumu"
+
+#: 
+msgid "I need help !"
+msgstr "Man vajag palīdzību !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Lejupielādējiet lietotni PushBullet savā tālrunī (pieejams Android un iOS ierīcēm)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Izveidojiet kontu tajā"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Savienot ar savu jauno kontu šeit"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Atveriet sadaļu <b> Iestatījumi </ b>> <b> Konts </ b> un izveidojiet <b> Piekļuves pilnvaru </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Nokopējiet taustiņu un ielīmējiet to aizpildīšanā un noklikšķiniet uz Saglabāt."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Lai pārbaudītu, vai savienojums ir veiksmīgs, tiks nosūtīts paziņojums."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium tevi gaida!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Vairāk nekā 2000 kriptovalūtas"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Esiet brīdināti, kad rādītājs pieaug vai samazinās"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Atbild mobilajās ierīcēs un planšetdatoros"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Ziņas un sociālie ieraksti tajā pašā vietā"
+
+#: 
+msgid "Support"
+msgstr "Atbalsts"
+
+#: 
+msgid "Phone"
+msgstr "Tālrunis"
+
+#: 
+msgid "Address"
+msgstr "Adrese"
+
+#: 
+msgid "Contact DPO"
+msgstr "Sazinieties ar DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Jūsu Binance atslēga"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Jūsu Binance Secret"
+
+#: 
+msgid "Cardholder name"
+msgstr "Kartes īpašnieka vārds"
+
+#: 
+msgid "Card number"
+msgstr "Kartes numurs"
+
+#: 
+msgid "Expiration"
+msgstr "Derīguma termiņš"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "kriptovalūtas"
+
+#: 
+msgid "No order to show"
+msgstr "Nav pasūtījumu, ko parādīt"
+
+#: 
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Pārbaudiet savu identitāti"
+
+#: 
+msgid "Estimate balance"
+msgstr "Novērtējiet bilance"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1h"
+
+#: 
+msgid "30min"
+msgstr "30 min"
+
+#: 
+msgid "Candlestick"
+msgstr "Svečturis"
+
+#: 
+msgid "Line"
+msgstr "Līnija"
+
+#: 
+msgid "Indicators"
+msgstr "Rādītāji"
+
+#: 
+msgid "Export"
+msgstr "Eksportēt"
+
+#: 
+msgid "Alert"
+msgstr "Brīdinājums"
+
+#: 
+msgid "Drawing"
+msgstr "Zīmējums"
+
+#: 
+msgid "Trend Line"
+msgstr "Trend līnija"
+
+#: 
+msgid "Text"
+msgstr "Teksts"
+
+#: 
+msgid "Create a new alert"
+msgstr "Izveidojiet jaunu brīdinājumu"
+
+#: 
+msgid "% Fees"
+msgstr "Maksas %"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Kriptovalūtas izmaksas vienošanās"
+
+#: 
+msgid "Decline"
+msgstr "Atteikt"
+
+#: 
+msgid "Agree"
+msgstr "Piekrist"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Kriptovalūtas depozīta vienošanās"
+
+#: 
+msgid "Enable news popup"
+msgstr "Iespējot ziņu uznirstošo logu"
+
+#: 
+msgid "News popup title"
+msgstr "Ziņu uznirstošais virsraksts"
+
+#: 
+msgid "Your news popup title"
+msgstr "Jūsu ziņu uznirstošais virsraksts"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Ziņu uznirstošais videoklips (atstājiet tukšu, lai videoklips netiktu rādīts)"
+
+#: 
+msgid "News popup description"
+msgstr "Ziņu uznirstošā loga apraksts"
+
+#: 
+msgid "Advert users"
+msgstr "Reklāmu lietotāji"
+
+#: 
+msgid "Enable intro"
+msgstr "Iespējot ievadu"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Izmaksas maksa (%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Bankas pārskaitījuma brīdinājums, kad izmaksas valūta nav kriptovalūta"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Kriptovalūtas, kas atļautas izmaksai ar bankas pārskaitījumu"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Aprēķinātā bilance"
+
+#: 
+msgid "Edit profile"
+msgstr "Rediģēt profilu"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Bankas pārskaitījuma depozīta vienošanās"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomika maksājums izmaksas (%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Jūsu izmaksas par Blockonomics maksājumu (%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumo maksājumu komisijas maksas (%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Jūsu Fortumo maksājuma komisijas maksa (%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate maksājumu komisijas maksas (%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Jūsu Coingate maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Coinpayments maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Jūsu Coinpayments maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Jūsu Rave Flutterwave maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase Commerce maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Jūsu Coinbase Commerce komisijas maksa (%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Jūsu Mollie maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Payeer maksājuma komisijas maksas (%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Jūsu Payeer maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Bankas pārksaitījuma maksājuma komisijas maksa (%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Jūsu bankas pārskaitījuma komisijas maksa (%)"
+
+#: 
+msgid "Add new"
+msgstr "Pievienot jaunu"
+
+#: 
+msgid "Bank accounts"
+msgstr "Bankas konti"
+
+#: 
+msgid "Add new bank account"
+msgstr "Pievienot jaunu bankas kontu"
+
+#: 
+msgid "Bank account name"
+msgstr "Bankas konta nosaukums"
+
+#: 
+msgid "Your bank account name"
+msgstr "Jūsu bankas konta nosaukums"
+
+#: 
+msgid "Bank account currency"
+msgstr "Bankas konta valūta"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Bankas konta IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Bankas konta BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Jūsu bankas konta BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Bankas konta adrese"
+
+#: 
+msgid "Your bank account address"
+msgstr "Jūsu bankas konta adrese"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Bankas konta īpašnieka vārds"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Jūsu bankas konta īpašnieka vārds"
+
+#: 
+msgid "* This is optional"
+msgstr "* Tas nav obligāts"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Jūsu bankas konta valūta"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Jūsu bankas konta IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Dzēst"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Jūs varat izvēlēties starp \"Lapas ikona\" un \"Lapas ikona svg\" (Lapas ikona ir prioritāte) - Sarakstu ikonas ir pieejamas šeit"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Jūs saņemsit e-pasta apstiprinājumu"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Lai pabeigtu jūsu izmaksas pieprasījumu, lūdzu, sekojiet šim solim."
+
+#: 
+msgid "You need to have at least"
+msgstr "Jums ir jābūt vismaz"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Jums nav nevienas pieejamas bilances"
+
+#: 
+msgid "Total in "
+msgstr "Kopā"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Jums ir jāiestata izmaksas metode"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Bankas konts BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Jūsu bankas konts BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Dienas diapazons\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Atvērta diena"
+
+#: 
+msgid "Volume 24H"
+msgstr "Apjoms 24 H"
+
+#: 
+msgid "Direct Volume"
+msgstr "Tiešais apjoms"
+
+#: 
+msgid "Load more data"
+msgstr "Ielādējiet vairāk datu"
+
+#: 
+msgid "Qty"
+msgstr "Daudzums"
+
+#: 
+msgid "Gain"
+msgstr "Iegūt"
+
+#: 
+msgid "Price buy"
+msgstr "Pirkšanas cena"
+
+#: 
+msgid "Disable chat"
+msgstr "Atspējot tērzēšanu"
+
+#: 
+msgid "Total gain"
+msgstr "Kopējais ieguvums"
+
+#: 
+msgid "Confirmation"
+msgstr "Apstiprinājums"
+
+#: 
+msgid "Unit price"
+msgstr "Vienības cena"
+
+#: 
+msgid "Investment"
+msgstr "Investīcijas"
+
+#: 
+msgid "Quantity"
+msgstr "Daudzums"
+
+#: 
+msgid "Commission"
+msgstr "Komisija"
+
+#: 
+msgid "Confirm buying"
+msgstr "Apstipriniet pirkumu"
+
+#: 
+msgid "New user"
+msgstr "Jauns lietotājs"
+
+#: 
+msgid "Order passed"
+msgstr "Pasūtījums pieņemts"
+
+#: 
+msgid "New subscription"
+msgstr "Jauns abonents"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Parādīt izmaksas saņēmēja informāciju."
+
+#: 
+msgid "Process"
+msgstr "Process"
+
+#: 
+msgid "Hide details"
+msgstr "Slēpt informāciju"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Iespējot abonementus"
+
+#: 
+msgid "Enable free trial"
+msgstr "Iespējot bezmaksas izmēģinājumu"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Bezmaksas izmēģinājuma ilgums (dienās)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Bezmaksas izmēģinājuma ilgums"
+
+#: 
+msgid "Premium features"
+msgstr "Premium funkcijas"
+
+#: 
+msgid "Free users features"
+msgstr "Bezmaksas lietotāju iespējas"
+
+#: 
+msgid "Add a new plan"
+msgstr "Pievienot jaunu plānu"
+
+#: 
+msgid "Name plan"
+msgstr "Plāna nosaukums"
+
+#: 
+msgid "Price total"
+msgstr "Kopējā cena"
+
+#: 
+msgid "Duration in days"
+msgstr "Ilgums dienās"
+
+#: 
+msgid "Duration"
+msgstr "Ilgums"
+
+#: 
+msgid "Add this plan"
+msgstr "Pievienot šo plānu"
+
+#: 
+msgid "Plans available"
+msgstr "Pieejamie plāni"
+
+#: 
+msgid "Price plan"
+msgstr "Cenu plāns"
+
+#: 
+msgid "Duration in month"
+msgstr "Ilgums mēnesī"
+
+#: 
+msgid "Price per month"
+msgstr "Cena mēnesī"
+
+#: 
+msgid "Account"
+msgstr "Konts"
+
+#: 
+msgid "Exchanges"
+msgstr "Apmaiņa"
+
+#: 
+msgid "Total Free"
+msgstr "Kopā Brīvs"
+
+#: 
+msgid "Total Used"
+msgstr "Kopējais Izmantotais"
+
+#: 
+msgid "Order Ref."
+msgstr "Pasūtījuma ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Pasūtītā cena"
+
+#: 
+msgid "Current price"
+msgstr "Pašreizējā cena"
+
+#: 
+msgid "Evolution"
+msgstr "Evolūcija"
+
+#: 
+msgid "Enable identity system"
+msgstr "Iespējot identitātes sistēmu"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Bloķēt tirdzniecību bez identitātes pārbaudes"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Bloķēt depozītu bez identitātes pārbaudes"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Bloķēt izmaksu bez identitātes pārbaudes"
+
+#: 
+msgid "Approve"
+msgstr "Apstiprināt"
+
+#: 
+msgid "Identity ID"
+msgstr "Identitātes ID"
+
+#: 
+msgid "Identity step name"
+msgstr "Identitātes soļa vārds"
+
+#: 
+msgid "Identity step description"
+msgstr "Identitātes pakāpes apraksts"
+
+#: 
+msgid "Identity order"
+msgstr "Identitātes kārtība"
+
+#: 
+msgid "Down order"
+msgstr "Pakāpiens"
+
+#: 
+msgid "Up order"
+msgstr "Augšupārt"
+
+#: 
+msgid "Add new identity step"
+msgstr "Pievienojiet jaunu identitātes soli"
+
+#: 
+msgid "Your step name"
+msgstr "Jūsu soļa vārds"
+
+#: 
+msgid "Your step description"
+msgstr "Jūsu soļa apraksts"
+
+#: 
+msgid "Identity step type"
+msgstr "Identitātes pakāpes veids"
+
+#: 
+msgid "Upload new document"
+msgstr "Augšupielādēt jaunu dokumentu"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Izvēlieties dokumentu veidu sarakstā"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Iespējot identitātes augšupielādi, izmantojot tīmekļa kameru"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Tīmekļa kameras dokumentu proporcija"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Proporcija (platums / augstums)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Proporcija (platums / augstums)"
+
+#: 
+msgid "Document identity list"
+msgstr "Identitātes dokumentu saraksts"
+
+#: 
+msgid "Add new identity document"
+msgstr "Pievienojiet jaunu personu apliecinošu dokumentu"
+
+#: 
+msgid "Your document name"
+msgstr "Jūsu dokumenta nosaukums"
+
+#: 
+msgid "My Holding"
+msgstr "Mans īpašums"
+
+#: 
+msgid "Holding"
+msgstr "Īpašums"
+
+#: 
+msgid "Market Value"
+msgstr "Tirgus vērtība"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Peļņa / zaudējumi"
+
+#: 
+msgid "Wallet"
+msgstr "Maciņš"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Pārbaudiet bankas pārskaitījumu"
+
+#: 
+msgid "Transfert received date"
+msgstr "Pārskaitījuma saņemšas datums"
+
+#: 
+msgid "Bank account received"
+msgstr "Saņemts bankas konts"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Bankas pārskaitījuma atsauce"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Bankas kontā saņemtā summa"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Summa, kas nodota lietotāja kontam"
+
+#: 
+msgid "User will receive"
+msgstr "Lietotājs saņems"
+
+#: 
+msgid "Dark"
+msgstr "Tumšs"
+
+#: 
+msgid "White"
+msgstr "Balts"
+
+#: 
+msgid "Enable Donation"
+msgstr "Iespējot ziedojumu"
+
+#: 
+msgid "Donation text"
+msgstr "Ziedojuma teksts"
+
+#: 
+msgid "Your donation text"
+msgstr "Jūsu ziedojuma teksts"
+
+#: 
+msgid "Donation address list"
+msgstr "Ziedojumu adrešu saraksts"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Ievietojiet 1 adresi katrā rindiņā"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Līnijas formāts: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "LIECIET MUMS PASMAIDĪT UN ATBALSTIET MŪS, VEICOT ZIEDOJUMU :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Darījumu vēsture"
+
+#: 
+msgid "Description"
+msgstr "Apraksts"
+
+#: 
+msgid "Reference ..."
+msgstr "Atsauces ..."
+
+#: 
+msgid "Reference"
+msgstr "Atsauce"
+
+#: 
+msgid "deposit"
+msgstr "depozīts"
+
+#: 
+msgid "widthdraw"
+msgstr "izmaksa"
+
+#: 
+msgid "Dépot"
+msgstr "Depozīts"
+
+#: 
+msgid "Unknown"
+msgstr "Nezināms"
+
+#: 
+msgid "BUY order done"
+msgstr "PIRKT pasūtījumu izdarīts"
+
+#: 
+msgid "SELL order done"
+msgstr "PĀRDOT pasūtījums izdarīts"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "PĀRDOT PASŪTĪJUMS IZDARĪTS"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "PIRKT PASŪTĪJUMS IZDARĪTS"
+
+#: 
+msgid "Add a new item"
+msgstr "Pievienot jaunu vienumu"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Jūsu GDAX atslēga"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Jūsu GDAX Pass"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Jūsu GDAX Secret"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Jūsu Bitmex ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Jūsu Bitmex Secret"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Jūsu OKCoin atslēga"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Jūsu OKCoin Secret"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Jūsu Luno atslēgas ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Jūsu Luno Secret"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Jūsu Coinex atslēga"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Jūsu Coinex Secret"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Jūsu Btcmarket atslēga"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Jūsu Btcmarket Secret"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Jūsu Livecoin atslēga"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Jūsu Livecoin Secret"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Jūsu Quoinex koda ID"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Jūsu Quoinex Secret"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Jūsu Exmo atslēga"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Jūsu Exmo Secret"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Jūsu YoBit atslēga"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Jūsu YoBit Secret"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Jūsu Kucoin atslēga"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Jūsu Kucoin Private"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Jūsu CEX atslēga"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Jūsu CEX Secret"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Jūsu CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "Mani pasūtījumi"
+
+#: 
+msgid "Size"
+msgstr "Izmērs"
+
+#: 
+msgid "Limit price"
+msgstr "Galējā cena"
+
+#: 
+msgid "Place buy order"
+msgstr "Sakārtot pirkšanas pasūtījumus"
+
+#: 
+msgid "Place sell order"
+msgstr "Sakārtot pārdošanas pasūtījumus"
+
+#: 
+msgid "Method"
+msgstr "Metode"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Jums ir jāpierakstās Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "Ieslēgt tirdzniecību tiešsaistē"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Ieiet ar Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Nedēļas peļņa"
+
+#: 
+msgid "Leaderboard"
+msgstr "Līderu saraksts"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Iespējot līderu sarakstu (jāaktivizē vietējā tirdzniecība)"
+
+#: 
+msgid "Active"
+msgstr "Aktīvs"
+
+#: 
+msgid "Every"
+msgstr "Katrs"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Sākuma pāris, kad tiek reģistrēts jauns lietotājs"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Atļauts tikai 1 pāris"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Sākuma watching sarakstu pāris, kad tiek reģistrēts jauns lietotājs"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 pāris katrai rindai"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Formāts: TIRGUS: SIMBOLS / VALŪTA"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Jums ir jāpierakstās Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Pieteikties ar Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "E-pasts nav derīgs"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Jums ir jāpierakstās Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Ienākt ar Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Balstīts uz visu maciņu"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Jūsu Poloniex atslēga"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Jūsu Poloniex Secret"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Jūsu izmēģinājuma versija ir beigusies!"
+
+#: 
+msgid "Become"
+msgstr "Kļūstiet"
+
+#: 
+msgid "You will be charged"
+msgstr "No jums tiks iekasēta maksa"
+
+#: 
+msgid "for"
+msgstr "par"
+
+#: 
+msgid "months"
+msgstr "mēnešiem"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Jūsu Kraken atslēga"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Jūsu Kraken Private"
+
+#: 
+msgid "will be ready for you !"
+msgstr "būs gatavs jums!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Jums ir jāpierakstās Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr "Ienākt ar Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Jums ir jāpierakstās Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Ienākt ar Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Jums ir jāpierakstās Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Ienākt ar Exmo"
+
+#: 
+msgid "View the article"
+msgstr "Skatīt rakstu"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Jūsu Bittrex atslēga"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Jūsu Bittrex Secret"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Jums ir jāpierakstās Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Ienākt ar Kraken"
+
+#: 
+msgid "Markets"
+msgstr "Tirgi"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Paslēpt tirgu (jāaktivizē vietējā tirdzniecība)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Paslēpt pasūtījumu grāmatu"
+
+#: 
+msgid "Load orders book"
+msgstr "Ielādēt pasūtījumu grāmatu"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Izveidojiet brīdinājumu, kad ..."
+
+#: 
+msgid "Price is above"
+msgstr "Cena ir augstāka"
+
+#: 
+msgid "Price is bellow"
+msgstr "Cena ir zemāka"
+
+#: 
+msgid "Password not match"
+msgstr "Parole neatbilst"
+

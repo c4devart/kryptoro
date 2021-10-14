@@ -1,0 +1,19 @@
+{
+  "name": "jquery-highlight",
+  "version": "3.4.0",
+  "main": "./jquery.highlight.js",
+  "dependencies": {
+    "jquery": "*"
+  },
+  "homepage": "https://github.com/knownasilya/jquery-highlight",
+  "_release": "3.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.4.0",
+    "commit": "1e715a4c631c73c05769f58652d9680b8260d975"
+  },
+  "_source": "https://github.com/knownasilya/jquery-highlight.git",
+  "_target": "^3.4.0",
+  "_originalSource": "jquery-highlight",
+  "_direct": true
+}

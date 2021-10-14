@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: rom\n"
+
+#: 
+msgid "Real account"
+msgstr "Cont real"
+
+#: 
+msgid "Board"
+msgstr "Grafic\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Te rotești"
+
+#: 
+msgid "chart"
+msgstr "diagramă\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "diagrame sau mai mult"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Căutați după nume sau simbol"
+
+#: 
+msgid "real account"
+msgstr "cont real\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Vezi toate balanțele"
+
+#: 
+msgid "List accounts"
+msgstr "Listează conturile\n"
+""
+
+#: 
+msgid "History"
+msgstr "Istorie"
+
+#: 
+msgid "Credit"
+msgstr "Credit"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Cartea de comandă"
+
+#: 
+msgid "Market"
+msgstr "Piaţă"
+
+#: 
+msgid "Portfolio"
+msgstr "Portofoliu"
+
+#: 
+msgid "Leader board"
+msgstr "Consiliul de conducere"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Urmărind"
+
+#: 
+msgid "News"
+msgstr "Știri"
+
+#: 
+msgid "Panel"
+msgstr "Panou"
+
+#: 
+msgid "Manager"
+msgstr "Administrator"
+
+#: 
+msgid "Admin"
+msgstr "admin"
+
+#: 
+msgid "Converter"
+msgstr "convertizor"
+
+#: 
+msgid "Social"
+msgstr "Social"
+
+#: 
+msgid "Calendar"
+msgstr "Calendar"
+
+#: 
+msgid "Watchlist"
+msgstr "Urmărit"
+
+#: 
+msgid "Contact us"
+msgstr "Contacteaza-ne"
+
+#: 
+msgid "January"
+msgstr "ianuarie"
+
+#: 
+msgid "February"
+msgstr "februarie"
+
+#: 
+msgid "March"
+msgstr "Martie"
+
+#: 
+msgid "April"
+msgstr "Aprilie"
+
+#: 
+msgid "May"
+msgstr "Mai"
+
+#: 
+msgid "June"
+msgstr "iunie"
+
+#: 
+msgid "July"
+msgstr "iulie"
+
+#: 
+msgid "August"
+msgstr "August"
+
+#: 
+msgid "September"
+msgstr "Septembrie"
+
+#: 
+msgid "October"
+msgstr "octombrie"
+
+#: 
+msgid "November"
+msgstr "noiembrie"
+
+#: 
+msgid "December"
+msgstr "decembrie"
+
+#: 
+msgid "Mon."
+msgstr "Mon."
+
+#: 
+msgid "Tue."
+msgstr "Tue."
+
+#: 
+msgid "Wed."
+msgstr "Miercuri"
+
+#: 
+msgid "Thu."
+msgstr "Thu."
+
+#: 
+msgid "Fri."
+msgstr "Vineri"
+
+#: 
+msgid "Sat."
+msgstr "Sat."
+
+#: 
+msgid "Sun."
+msgstr "Soare."
+
+#: 
+msgid "Statistics"
+msgstr "Statistici"
+
+#: 
+msgid "Bank transferts"
+msgstr "Transferuri bancare"
+
+#: 
+msgid "Payments"
+msgstr "plăţile"
+
+#: 
+msgid "Subscriptions"
+msgstr "Abonamente"
+
+#: 
+msgid "Identity"
+msgstr "Identitate"
+
+#: 
+msgid "Users"
+msgstr "Utilizatori"
+
+#: 
+msgid "Orders"
+msgstr "Comenzi"
+
+#: 
+msgid "Withdraw"
+msgstr "Retrage"
+
+#: 
+msgid "Currency"
+msgstr "Valută"
+
+#: 
+msgid "Total trade"
+msgstr "Comerțul total"
+
+#: 
+msgid "Total deposit"
+msgstr "Depozit total"
+
+#: 
+msgid "Total withdraw"
+msgstr "Totalul se retrage"
+
+#: 
+msgid "Fees"
+msgstr "Taxe"
+
+#: 
+msgid "Name"
+msgstr "Nume"
+
+#: 
+msgid "Email"
+msgstr "E-mail"
+
+#: 
+msgid "Subscription"
+msgstr "Abonament"
+
+#: 
+msgid "Signin method"
+msgstr "Metoda de înscriere"
+
+#: 
+msgid "Last login"
+msgstr "Ultima logare"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Notificările sunt activate"
+
+#: 
+msgid "Trial version"
+msgstr "Versiune de proba"
+
+#: 
+msgid "day"
+msgstr "zi"
+
+#: 
+msgid "Edit"
+msgstr "Editați | ×"
+
+#: 
+msgid "Inactive"
+msgstr "Inactiv"
+
+#: 
+msgid "Enabled"
+msgstr "Activat"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "Utilizator"
+
+#: 
+msgid "Order date"
+msgstr "Data comandă"
+
+#: 
+msgid "Exchange"
+msgstr "schimb valutar"
+
+#: 
+msgid "Pair"
+msgstr "Pereche"
+
+#: 
+msgid "Type"
+msgstr "Tip"
+
+#: 
+msgid "Amount"
+msgstr "Cantitate"
+
+#: 
+msgid "Received"
+msgstr "Primit"
+
+#: 
+msgid "Total deducted"
+msgstr "Totalul a fost dedus"
+
+#: 
+msgid "Total received"
+msgstr "Total primite"
+
+#: 
+msgid "Buy"
+msgstr "A cumpara"
+
+#: 
+msgid "Sell"
+msgstr "Vinde\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Lista de monede"
+
+#: 
+msgid "Market list"
+msgstr "Lista pieței"
+
+#: 
+msgid "Heatmap"
+msgstr "Harta termografica"
+
+#: 
+msgid "Price"
+msgstr "Preț"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Direct Vol. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Total Vol. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Capul pieței"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h înălțime / joasă"
+
+#: 
+msgid "Dashboard"
+msgstr "Bord"
+
+#: 
+msgid "General settings"
+msgstr "Setari generale"
+
+#: 
+msgid "Coins"
+msgstr "Monede"
+
+#: 
+msgid "Currencies"
+msgstr "valute"
+
+#: 
+msgid "Mail settings"
+msgstr "Setări pentru poștă electronică"
+
+#: 
+msgid "Payment"
+msgstr "Plată"
+
+#: 
+msgid "News - Social"
+msgstr "Stiri - Social"
+
+#: 
+msgid "Intro"
+msgstr "introducere"
+
+#: 
+msgid "Trading"
+msgstr "Comercial"
+
+#: 
+msgid "Cron"
+msgstr "cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Pagini suplimentare"
+
+#: 
+msgid "Today's visits"
+msgstr "Vizitele de astăzi"
+
+#: 
+msgid "7 days visits"
+msgstr "Vizite de 7 zile"
+
+#: 
+msgid "Number of users"
+msgstr "număr de utilizatori"
+
+#: 
+msgid "Number of coins"
+msgstr "Număr de monede"
+
+#: 
+msgid "Last users"
+msgstr "Ultimii utilizatori"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Acest site folosește module cookie"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Site-ul nostru utilizează cookie-uri pentru a examina traficul site-ului și activitatea utilizatorilor pe site-ul nostru, pentru o experiență îmbunătățită și eficientă a utilizatorilor, pentru marketing și pentru a oferi funcționalități media sociale."
+
+#: 
+msgid "Accept"
+msgstr "Accept"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Adresa ta de email"
+
+#: 
+msgid "Your password"
+msgstr "Parola dvs"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Aţi uitat parola ?"
+
+#: 
+msgid "Login"
+msgstr "Logare"
+
+#: 
+msgid "or"
+msgstr "sau"
+
+#: 
+msgid "Create a new account"
+msgstr "Creați un cont nou"
+
+#: 
+msgid "practice account"
+msgstr "practica cont"
+
+#: 
+msgid "Symbol"
+msgstr "Simbol"
+
+#: 
+msgid "Last"
+msgstr "Ultimul"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profil"
+
+#: 
+msgid "Notification"
+msgstr "Notificare"
+
+#: 
+msgid "Security"
+msgstr "Securitate"
+
+#: 
+msgid "Logout"
+msgstr "Deconectare"
+
+#: 
+msgid "Your name"
+msgstr "Numele dumneavoastră"
+
+#: 
+msgid "Language"
+msgstr "Limba"
+
+#: 
+msgid "Type chart"
+msgstr "Introduceți diagrama"
+
+#: 
+msgid "Change your password"
+msgstr "Schimbați-vă parola"
+
+#: 
+msgid "Repeat your password"
+msgstr "Repetați parola"
+
+#: 
+msgid "Back"
+msgstr "Înapoi"
+
+#: 
+msgid "Validate"
+msgstr "Valida"
+
+#: 
+msgid "Title"
+msgstr "Titlu"
+
+#: 
+msgid "Your website title"
+msgstr "Titlul site-ului dvs. web"
+
+#: 
+msgid "App description"
+msgstr "Descrierea aplicației"
+
+#: 
+msgid "Referal link"
+msgstr "Linie de referință"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Linkul dvs. de referință (de ex.: Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Modul de întreținere"
+
+#: 
+msgid "Number format"
+msgstr "Formatul numărului"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Schimbați diagramele la graficele de tranzacționare"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Activați autolimbajul"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Activați limba POEditor"
+
+#: 
+msgid "POEditor API Key"
+msgstr "Cheia API pentru POEditor"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Cheia dvs. API POEditor"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "Selectorul de proiecte POEditor"
+
+#: 
+msgid "Allow signup"
+msgstr "Permiteți înscrierea"
+
+#: 
+msgid "User need verify account"
+msgstr "Utilizatorul trebuie să verifice contul"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Aveți nevoie de înregistrarea captcha"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha Site Key"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Cheia dvs. de site Google Recaptcha"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha Secret Key"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Cheia secretă Google Recaptcha"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin cu Google"
+
+#: 
+msgid "Google App ID"
+msgstr "ID-ul aplicației Google"
+
+#: 
+msgid "Your Google App ID"
+msgstr "ID-ul dvs. de aplicație Google"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google App Secret"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Secretul aplicației Google"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin cu Facebook"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Codul de identificare al aplicației Facebook"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "ID-ul dvs. de aplicație Facebook"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Secretul aplicației dvs. Facebook"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Activați Google Ad"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Ad Client"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Clientul dvs. publicitar Google"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Slot de anunțuri Google"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Slotul dvs. publicitar Google"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Activați popupul Cookie"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Titlul pop-up al cookie-urilor"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Titlul pop-up pentru cookie-uri"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Textul cookie popup"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Textul pop-up al Cookie-ului"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Țările aflate în lista neagră"
+
+#: 
+msgid "Save"
+msgstr "Salvați"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Permiteți utilizatorului să schimbe tipul de diagramă"
+
+#: 
+msgid "Done !"
+msgstr "Terminat !"
+
+#: 
+msgid "quantity"
+msgstr "cantitate"
+
+#: 
+msgid "Enable native trading"
+msgstr "Activați tranzacțiile native"
+
+#: 
+msgid "Balance configuration"
+msgstr "Balanța de configurare"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Afișați estimarea balanței"
+
+#: 
+msgid "User user currency select"
+msgstr "Valoarea utilizatorului utilizator selectați"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Afișați estimarea balanței în"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Configurația sistemului de trimitere"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Activați referința (trebuie activată tranzacția nativă)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Comision de trimitere (în $, suma fixă)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Comision de comision (în $, suma fixă) ex: Atunci când o înregistrare de referință & depozit în numerar real, se referă câștiga 5 $ (valoare = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Configurarea depozitului"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Taxe de depunere (în%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Depozit minim (în $)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Depozit maxim (în $)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Valutele de depozit sunt permise"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Depuneți portofelul de depunere (dacă portofelul valutar nu este disponibil)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Retrageți configurația"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Retrageți minim (în $)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Retragerea timpului de procesare (în zile)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Retragerea timpului de procesare (în zile) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Configurația de tranzacționare"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Taxele de tranzacționare (în%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Ordinea de referință a ordinului"
+
+#: 
+msgid "Real account configuration"
+msgstr "Configurarea contului real"
+
+#: 
+msgid "Enable real account"
+msgstr "Activează contul real"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Exersați configurația contului"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Depozit maxim gratuit (în $)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Depozit maxim gratuit (în $) ex: 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Portofelul de depozit gratuit primește"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Data postată"
+
+#: 
+msgid "Status"
+msgstr "stare"
+
+#: 
+msgid "Document name"
+msgstr "Numele documentului"
+
+#: 
+msgid "Documents"
+msgstr "Documente"
+
+#: 
+msgid "Not processed"
+msgstr "Nu a fost procesată"
+
+#: 
+msgid "Processed"
+msgstr "prelucrate"
+
+#: 
+msgid "Payment success"
+msgstr "Succesul plății"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Modul de referință de plată"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Activați SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "Server SMTP"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Serverul gazdă SMTP"
+
+#: 
+msgid "SMTP Port"
+msgstr "Portul SMTP"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Portul dvs. SMTP"
+
+#: 
+msgid "SMTP Security"
+msgstr "Securitate SMTP"
+
+#: 
+msgid "SMTP User"
+msgstr "Utilizator SMTP"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Utilizatorul dvs. SMTP"
+
+#: 
+msgid "SMTP Password"
+msgstr "Parola SMTP"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Parola SMTP"
+
+#: 
+msgid "Email sender name"
+msgstr "Numele expeditorului e-mailului"
+
+#: 
+msgid "Support mail"
+msgstr "Sprijiniți corespondența"
+
+#: 
+msgid "Support Phone"
+msgstr "Telefon suport"
+
+#: 
+msgid "Support phone"
+msgstr "Telefon suport"
+
+#: 
+msgid "Support Address"
+msgstr "Adresă de asistență"
+
+#: 
+msgid "DPO mail"
+msgstr "Mailul DPO"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO Telefon"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO telefon"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Trimiteți e-mail de bun venit"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Bun venit subiectul mesajului"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Autentificările calendarului"
+
+#: 
+msgid "Enable calendar"
+msgstr "Activați calendarul"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "ID client client"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "ID-ul clientului dvs. de agendă"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Calendar Client secret"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Afișați evenimente numai în legătură cu monedele activate"
+
+#: 
+msgid "News feed"
+msgstr "Flux de știri"
+
+#: 
+msgid "Add news feed"
+msgstr "Adăugați feeduri de știri"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Linkul RSS Feed"
+
+#: 
+msgid "Add"
+msgstr "Adăuga"
+
+#: 
+msgid "Name feed"
+msgstr "Flux de nume"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Conturi Twitter"
+
+#: 
+msgid "Add twitter account"
+msgstr "Adăugați cont twitter"
+
+#: 
+msgid "Twitter name"
+msgstr "Numele Twitter"
+
+#: 
+msgid "without"
+msgstr "fără"
+
+#: 
+msgid "Social name"
+msgstr "Nume social"
+
+#: 
+msgid "Created date"
+msgstr "Data creata"
+
+#: 
+msgid "Amount paid"
+msgstr "Suma plătită"
+
+#: 
+msgid "Wallet received"
+msgstr "Portofelul primit"
+
+#: 
+msgid "Amount received"
+msgstr "Sumă primită"
+
+#: 
+msgid "Payment gateway"
+msgstr "Gateway de plată"
+
+#: 
+msgid "Proof"
+msgstr "dovadă"
+
+#: 
+msgid "Modify balance"
+msgstr "Modificați soldul"
+
+#: 
+msgid "Select balance"
+msgstr "Selectați soldul"
+
+#: 
+msgid "Modification type"
+msgstr "Tipul de modificare"
+
+#: 
+msgid "Modification value"
+msgstr "Valoare de modificare"
+
+#: 
+msgid "Add modification"
+msgstr "Adăugați modificări"
+
+#: 
+msgid "Card"
+msgstr "Card"
+
+#: 
+msgid "Balances"
+msgstr "solduri"
+
+#: 
+msgid "Remove"
+msgstr "Elimina"
+
+#: 
+msgid "Last location"
+msgstr "Ultima locatie"
+
+#: 
+msgid "Currency use"
+msgstr "Utilizarea monedei"
+
+#: 
+msgid "Signup with"
+msgstr "Inscrie-te cu"
+
+#: 
+msgid "Identity verification"
+msgstr "Verificarea identității"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 Authentication pas"
+
+#: 
+msgid "User status"
+msgstr "Starea utilizatorului"
+
+#: 
+msgid "Login history"
+msgstr "Istoricul istoricului"
+
+#: 
+msgid "More details"
+msgstr "Mai multe detalii"
+
+#: 
+msgid "Deposit history"
+msgstr "Istoricul depozitului"
+
+#: 
+msgid "Total"
+msgstr "Total"
+
+#: 
+msgid "Value in BTC"
+msgstr "Valoare în BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Valoare în USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Retrageți metoda"
+
+#: 
+msgid "Date"
+msgstr "Data"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Întrebați o lățime de undă"
+
+#: 
+msgid "WITHDRAW"
+msgstr "RETRAGE"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Alegeți contul destinatarului"
+
+#: 
+msgid "Cancel"
+msgstr "Anulare"
+
+#: 
+msgid "Next"
+msgstr "Următor →"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Configurația notificării a fost finalizată."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Tokenul dvs. de acces PushBullet"
+
+#: 
+msgid "Remove token"
+msgstr "Scoateți tokenul"
+
+#: 
+msgid "You are premium !"
+msgstr "Sunteți primești!"
+
+#: 
+msgid "left"
+msgstr "stânga"
+
+#: 
+msgid "Main settings"
+msgstr "Setări principale"
+
+#: 
+msgid "Period"
+msgstr "Perioadă"
+
+#: 
+msgid "Colour"
+msgstr "Culoare"
+
+#: 
+msgid "Thickness"
+msgstr "Grosime"
+
+#: 
+msgid "Reset"
+msgstr "restabili"
+
+#: 
+msgid "Apply"
+msgstr "aplica"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Introduceți codul dvs. Google Authenticator"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Introduceți codul dvs. Google Authenticator"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Solduri evaluate mai puțin de 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Ascundeți echilibrul mic"
+
+#: 
+msgid "Estimate value"
+msgstr "Estimați valoarea"
+
+#: 
+msgid "Value in"
+msgstr "Valoare în"
+
+#: 
+msgid "Deposit"
+msgstr "Depozit"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Autentificarea Google este activată!"
+
+#: 
+msgid "Set as done"
+msgstr "Setați ca terminat"
+
+#: 
+msgid "Close"
+msgstr "Închide"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Codul Google Authenticator este nevalid"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Veți primi o confirmare pe lățime prin e-mail"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, ID utilizator, Tip, Valută"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Widthdraw filter"
+
+#: 
+msgid "Default"
+msgstr "Mod implicit"
+
+#: 
+msgid "Not confirmed"
+msgstr "Neconfirmat"
+
+#: 
+msgid "Done"
+msgstr "Terminat"
+
+#: 
+msgid "Payment filter"
+msgstr "Filtru de plată"
+
+#: 
+msgid "Need to be approved"
+msgstr "Necesitatea de a fi aprobat"
+
+#: 
+msgid "Paid"
+msgstr "Plătit"
+
+#: 
+msgid "Not paid"
+msgstr "Neplatit"
+
+#: 
+msgid "All payments"
+msgstr "Toate plățile"
+
+#: 
+msgid "Ask a proof"
+msgstr "Cereți o dovadă"
+
+#: 
+msgid "Bank ref."
+msgstr "Ref."
+
+#: 
+msgid "Proof received"
+msgstr "Dovada primită"
+
+#: 
+msgid "In pending"
+msgstr "În așteptare"
+
+#: 
+msgid "All widthdraw"
+msgstr "Toată lățimea"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Retrageți modelul de referință"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Retrageți filtrul"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Retrageți informațiile"
+
+#: 
+msgid "year"
+msgstr "an"
+
+#: 
+msgid "month"
+msgstr "lună"
+
+#: 
+msgid "week"
+msgstr "săptămână"
+
+#: 
+msgid "hour"
+msgstr "ora"
+
+#: 
+msgid "minute"
+msgstr "minut"
+
+#: 
+msgid "second"
+msgstr "al doilea"
+
+#: 
+msgid "ago"
+msgstr "în urmă"
+
+#: 
+msgid "Bank transfert"
+msgstr "Transfer bancar"
+
+#: 
+msgid "Deposit amount"
+msgstr "Suma depusa"
+
+#: 
+msgid "Fill up"
+msgstr "A completa"
+
+#: 
+msgid "It's free"
+msgstr "Este gratis"
+
+#: 
+msgid "You will receive"
+msgstr "Vei primi"
+
+#: 
+msgid "Add real funds"
+msgstr "Adăugați fonduri reale"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Depozit minim"
+
+#: 
+msgid "Enable credit card"
+msgstr "Activați cardul de credit"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe cheie privată"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Cheia dvs. API Stripe"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Activați Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Activați modul Paypal Live"
+
+#: 
+msgid "Paypal client ID"
+msgstr "ID-ul client Paypal"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "ID-ul clientului PayPal"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Client Secret"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Clientul Paypal Secret"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Activați bloconomia"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blocul cheie secret"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Cheia ta secretă de bloconomie"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Activează Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Cheia Secret Fortumo"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Cheia ta secretă fortumo"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Cheia de service Fortumo"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Cheia dvs. de service fortumo"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Activați conexiunea"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Activați modul Live în CoinGate"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate primește moneda"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Activați coin-plățile"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Cheia publică de cheltuire"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Cheia publică de coinpayments"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Cheie privată de coinpayments"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Cheia privată de coinpayments"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Plățile de corespondență Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "ID-ul tău de corespondență Marchand"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Plățile corecte IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Plățile dvs. coinpayments IPN Secret"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Activați plata Rave Flutterwave"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Modul Sandbox Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave Cheia publică"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Cheia publică Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Key Flutterwave Secret"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Cheia secretă a Flutterwave Rave"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Title Flutterwave Payment"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Titlul dvs. de plată pentru Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave Prefix de plată"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Prefixul de plată al Rave Flutterwave (ex: KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Activați plata Coinbase Commerce"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase commerce API Cheie"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Cheia dvs. de API pentru comerț Coinbase"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase commerce Titlu de plată"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Titlul de plată al Comerțului dvs. Coinbase"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Activează-l pe Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Cheia ta Mollie"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Activați plătitorul"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "ID-ul Payeer Shop"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "ID-ul dvs. Payeer Shop"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer API Cheie"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Cheia API Payeer"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Activați transferul bancar"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Transferul bancar este maxim în același timp"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Anularea transferului bancar a fost activată"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Transferul bancar dovada maximă"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Cheia Gemeni"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Secretul Gemeni"
+
+#: 
+msgid "Select your platform"
+msgstr "Selectați platforma"
+
+#: 
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: 
+msgid "Live"
+msgstr "Trăi"
+
+#: 
+msgid "Cron time"
+msgstr "Timpul Cron"
+
+#: 
+msgid "Last update"
+msgstr "Ultima actualizare"
+
+#: 
+msgid "Sync delay"
+msgstr "Sincronizare întârziere"
+
+#: 
+msgid "Add additional page"
+msgstr "Adăugați o pagină suplimentară"
+
+#: 
+msgid "Page name"
+msgstr "Numele paginii"
+
+#: 
+msgid "Page URL"
+msgstr "Adresa URL a paginii"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Pagina pictogramă (ex: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Sau pictograma paginii svg"
+
+#: 
+msgid "Icon"
+msgstr "icoană"
+
+#: 
+msgid "SVG Picture"
+msgstr "Imagine SVG"
+
+#: 
+msgid "Enable"
+msgstr "Permite"
+
+#: 
+msgid "Disable"
+msgstr "Dezactivați"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Creați un transfer bancar nou"
+
+#: 
+msgid "Pending"
+msgstr "In asteptarea"
+
+#: 
+msgid "Details"
+msgstr "Detalii"
+
+#: 
+msgid "Verified"
+msgstr "Verificat"
+
+#: 
+msgid "Canceled"
+msgstr "Anulat"
+
+#: 
+msgid "Declined"
+msgstr "Refuzat"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Cheia dvs. Hitbtc"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Secretul tău Hitbtc"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Bitbank Key"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Bitbank Secret"
+
+#: 
+msgid "User level"
+msgstr "Nivel utilizator"
+
+#: 
+msgid "Expire in"
+msgstr "Expirați în"
+
+#: 
+msgid "Back to login"
+msgstr "Înapoi la autentificare"
+
+#: 
+msgid "Let's go !"
+msgstr "Sa mergem !"
+
+#: 
+msgid "Welcome"
+msgstr "Bine ati venit"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Să configurați împreună Tabloul de bord."
+
+#: 
+msgid "Select your language"
+msgstr "Selectați limba dvs."
+
+#: 
+msgid "Select your currency"
+msgstr "Selectați moneda dvs."
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Selectați-vă cripta preferată"
+
+#: 
+msgid "left need to be selected"
+msgstr "stânga trebuie selectată"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Configurația este completă!"
+
+#: 
+msgid "will now refresh"
+msgstr "va reîmprospăta acum"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Activați plata Perfect Money"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Contul beneficiarului de bani perfect"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Contul tău de plată perfectă pentru bani"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Notificări mobile, browser, ferestre"
+
+#: 
+msgid "Create price alert"
+msgstr "Creați o alertă de preț"
+
+#: 
+msgid "I need help !"
+msgstr "Am nevoie de ajutor !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Descărcați aplicația PushBullet pe telefonul dvs. (disponibilă pentru Android & iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Creați un cont pe acesta"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Conectează-te cu noul tău cont aici"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Mergeți la <b> Setări </ b>> <b> Cont </ b> și creați un <b> token de acces </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Copiați cheia și inserați-o pe umplutură și faceți clic pe Salvați."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Va fi trimisă o notificare pentru a verifica dacă conexiunea are succes."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium vă așteaptă!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Mai mult de 2000 de monede crypto"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Fiți alertat când un indicator crește sau cade"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Responsabil cu privire la dispozitive mobile și tablete"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Știri și posturi sociale în același loc"
+
+#: 
+msgid "Support"
+msgstr "A sustine"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Address"
+msgstr "Adresa"
+
+#: 
+msgid "Contact DPO"
+msgstr "Contactați DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Cheia dvs. de Binance"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Secretul tău Binance"
+
+#: 
+msgid "Cardholder name"
+msgstr "Nume Deţinător Card"
+
+#: 
+msgid "Card number"
+msgstr "Număr de card"
+
+#: 
+msgid "Expiration"
+msgstr "Expirare"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "Nici o comandă de afișat"
+
+#: 
+msgid "Premium"
+msgstr "premiu"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Verificați-vă identitatea"
+
+#: 
+msgid "Estimate balance"
+msgstr "Estimarea soldului"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2W"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1h"
+
+#: 
+msgid "30min"
+msgstr "30 minute"
+
+#: 
+msgid "Candlestick"
+msgstr "Sfeşnic"
+
+#: 
+msgid "Line"
+msgstr "Linia"
+
+#: 
+msgid "Indicators"
+msgstr "Indicatori"
+
+#: 
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgid "Alert"
+msgstr "Alerta"
+
+#: 
+msgid "Drawing"
+msgstr "Desen"
+
+#: 
+msgid "Trend Line"
+msgstr "Linia de trend"
+
+#: 
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgid "Create a new alert"
+msgstr "Creați o alertă nouă"
+
+#: 
+msgid "% Fees"
+msgstr "% Taxe"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Contractul de retragere a contravalorii Cryptocurrency"
+
+#: 
+msgid "Decline"
+msgstr "Declin"
+
+#: 
+msgid "Agree"
+msgstr "De acord"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Contract de depozit în contul Cryptocurrency"
+
+#: 
+msgid "Enable news popup"
+msgstr "Activați pop-up-ul de știri"
+
+#: 
+msgid "News popup title"
+msgstr "Știri pop-up de știri"
+
+#: 
+msgid "Your news popup title"
+msgstr "Titlul pop-ului de știri"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Știri pop-up pentru știri (puneți-ne pentru a nu afișa videoclipul)"
+
+#: 
+msgid "News popup description"
+msgstr "Știri pop-up pentru știri"
+
+#: 
+msgid "Advert users"
+msgstr "Utilizatorii de anunțuri"
+
+#: 
+msgid "Enable intro"
+msgstr "Activați intro"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Retragerea taxelor (în%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Anularea valutei de transfer bancar atunci când retrageți moneda nu este cripto-valută"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Criptocuritățile au permis retragerea transferului bancar"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Estimarea soldului în"
+
+#: 
+msgid "Edit profile"
+msgstr "Editează profilul"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Contract de depozit bancar transferat"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Plata prin bloconomie Taxe (în%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Taxele dvs. de plată în bloconomică (în%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Plata Fortumo Taxe (în%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Comisioanele dvs. de plată Fortumo (în%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "Plata CoinGate Taxe (în%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Comisioanele dvs. de plată (în%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Plata coin-plătilor Taxe (în%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Plata dvs. de cofinanțare (în%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave payment Taxe (în%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Plata taxelor de plată a flutterwave (în%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Plata prin coinbase Comision (în%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Cotizațiile dvs. de plată pentru coinbase (în%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Plata Mollie Taxe (în%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Taxele dvs. de plată mollie (în%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Plata plătitorului Taxe (în%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Plata plătitorului dvs. (în%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Plata prin transfer bancar Taxe (în%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Plata dvs. de transfer bancar (în%)"
+
+#: 
+msgid "Add new"
+msgstr "Adăuga nou"
+
+#: 
+msgid "Bank accounts"
+msgstr "conturi bancare"
+
+#: 
+msgid "Add new bank account"
+msgstr "Adăugați un cont bancar nou"
+
+#: 
+msgid "Bank account name"
+msgstr "numele contului bancar"
+
+#: 
+msgid "Your bank account name"
+msgstr "Numele contului dvs. bancar"
+
+#: 
+msgid "Bank account currency"
+msgstr "Valuta contului bancar"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Cont bancar IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Contul BIC BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Contul dvs. bancar BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Adresa contului bancar"
+
+#: 
+msgid "Your bank account address"
+msgstr "Adresa dvs. de cont bancar"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Numele proprietarului contului bancar"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Numele proprietarului contului dvs. bancar"
+
+#: 
+msgid "* This is optional"
+msgstr "* Acest lucru este opțional"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Moneda contului dvs. bancar"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Contul dvs. bancar IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Șterge"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Puteți alege între \"pictograma Pagină\" și \"pictograma Pagina svg\" (pictograma Pagină este prioritară) - Pictogramele de listă sunt disponibile aici"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Veți primi o confirmare prin e-mail"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Urmați acest pas pentru a completa solicitarea de retragere."
+
+#: 
+msgid "You need to have at least"
+msgstr "Trebuie să aveți cel puțin"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Nu aveți niciun sold complet disponibil"
+
+#: 
+msgid "Total in "
+msgstr "Total in"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Trebuie să configurați o metodă cu lățimea de undă"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Contul bancar BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Contul dvs. bancar BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Zona de zi\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Zi deschisa"
+
+#: 
+msgid "Volume 24H"
+msgstr "Volum direct"
+
+#: 
+msgid "Direct Volume"
+msgstr "Volum direct"
+
+#: 
+msgid "Load more data"
+msgstr "Încărcați mai multe date"
+
+#: 
+msgid "Qty"
+msgstr "Cantitate"
+
+#: 
+msgid "Gain"
+msgstr "Câştig"
+
+#: 
+msgid "Price buy"
+msgstr "Pretul cumparaturilor"
+
+#: 
+msgid "Disable chat"
+msgstr "Dezactivați chatul"
+
+#: 
+msgid "Total gain"
+msgstr "Câștig total"
+
+#: 
+msgid "Confirmation"
+msgstr "Confirmare"
+
+#: 
+msgid "Unit price"
+msgstr "Preț unitar"
+
+#: 
+msgid "Investment"
+msgstr "investiție"
+
+#: 
+msgid "Quantity"
+msgstr "Cantitate"
+
+#: 
+msgid "Commission"
+msgstr "Comision"
+
+#: 
+msgid "Confirm buying"
+msgstr "Confirmați cumpărarea"
+
+#: 
+msgid "New user"
+msgstr "Utilizator nou"
+
+#: 
+msgid "Order passed"
+msgstr "Ordinul a trecut"
+
+#: 
+msgid "New subscription"
+msgstr "Abonament nou"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Afișați informații despre retragerea receptorului."
+
+#: 
+msgid "Process"
+msgstr "Proces"
+
+#: 
+msgid "Hide details"
+msgstr "Ascunde detaliile"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Activați abonamentele"
+
+#: 
+msgid "Enable free trial"
+msgstr "Activați încercarea gratuită"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Durata de încercare gratuită (în zi)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Durata încercării gratuite"
+
+#: 
+msgid "Premium features"
+msgstr "Caracteristici premium"
+
+#: 
+msgid "Free users features"
+msgstr "Funcții gratuite ale utilizatorilor"
+
+#: 
+msgid "Add a new plan"
+msgstr "Adăugați un nou plan"
+
+#: 
+msgid "Name plan"
+msgstr "Planul de nume"
+
+#: 
+msgid "Price total"
+msgstr "Prețul total"
+
+#: 
+msgid "Duration in days"
+msgstr "Durata în zile"
+
+#: 
+msgid "Duration"
+msgstr "Durată"
+
+#: 
+msgid "Add this plan"
+msgstr "Adăugați acest plan"
+
+#: 
+msgid "Plans available"
+msgstr "Planuri disponibile"
+
+#: 
+msgid "Price plan"
+msgstr "Planul de prețuri"
+
+#: 
+msgid "Duration in month"
+msgstr "Durata în lună"
+
+#: 
+msgid "Price per month"
+msgstr "Prețul pe lună"
+
+#: 
+msgid "Account"
+msgstr "Cont"
+
+#: 
+msgid "Exchanges"
+msgstr "Schimburi"
+
+#: 
+msgid "Total Free"
+msgstr "Total gratuit"
+
+#: 
+msgid "Total Used"
+msgstr "Total Utilizat"
+
+#: 
+msgid "Order Ref."
+msgstr "Ord. Ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Preț comandat"
+
+#: 
+msgid "Current price"
+msgstr "Pretul curent"
+
+#: 
+msgid "Evolution"
+msgstr "Evoluţie"
+
+#: 
+msgid "Enable identity system"
+msgstr "Activați sistemul de identitate"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Blochează tranzacția fără verificarea identității"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Depuneți blocul fără verificarea identității"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Blocarea se retrage fără verificarea identității"
+
+#: 
+msgid "Approve"
+msgstr "Aproba"
+
+#: 
+msgid "Identity ID"
+msgstr "Identitate ID"
+
+#: 
+msgid "Identity step name"
+msgstr "Numele pasului de identitate"
+
+#: 
+msgid "Identity step description"
+msgstr "Descrierea etapei de identitate"
+
+#: 
+msgid "Identity order"
+msgstr "Ordinea de identitate"
+
+#: 
+msgid "Down order"
+msgstr "Ordine în jos"
+
+#: 
+msgid "Up order"
+msgstr "Ordine în ordine"
+
+#: 
+msgid "Add new identity step"
+msgstr "Adăugați un nou pas identitar"
+
+#: 
+msgid "Your step name"
+msgstr "Numele pasului tău"
+
+#: 
+msgid "Your step description"
+msgstr "Descrierea pasului"
+
+#: 
+msgid "Identity step type"
+msgstr "Tipul pasului de identitate"
+
+#: 
+msgid "Upload new document"
+msgstr "Încărcați un document nou"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Alegeți lista de tipuri de documente"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Activați încărcarea identității cu ajutorul camerei web"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Raportul documentului webcam"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Ratiune (lățime / înălțime)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Raport (lățime / înălțime)"
+
+#: 
+msgid "Document identity list"
+msgstr "Lista de identitate a documentelor"
+
+#: 
+msgid "Add new identity document"
+msgstr "Adăugați un document de identitate nou"
+
+#: 
+msgid "Your document name"
+msgstr "Numele dvs. de document"
+
+#: 
+msgid "My Holding"
+msgstr "Holdingul meu"
+
+#: 
+msgid "Holding"
+msgstr "Deținere"
+
+#: 
+msgid "Market Value"
+msgstr "Valoare de piață"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Pierderea profitului"
+
+#: 
+msgid "Wallet"
+msgstr "Portofel"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Validați transferul bancar"
+
+#: 
+msgid "Transfert received date"
+msgstr "Transferat data primită"
+
+#: 
+msgid "Bank account received"
+msgstr "Contul bancar primit"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Referință transfer bancar"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Suma primită în contul bancar"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Suma transferată în contul de utilizator"
+
+#: 
+msgid "User will receive"
+msgstr "Utilizatorul va primi"
+
+#: 
+msgid "Dark"
+msgstr "Întuneric"
+
+#: 
+msgid "White"
+msgstr "alb"
+
+#: 
+msgid "Enable Donation"
+msgstr "Activați donarea"
+
+#: 
+msgid "Donation text"
+msgstr "Text de donare"
+
+#: 
+msgid "Your donation text"
+msgstr "Textul dvs. de donație"
+
+#: 
+msgid "Donation address list"
+msgstr "Lista de adrese pentru donații"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Puneți o adresă pe linie"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Formatul liniei: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "PUTEȚI O SMILARE PE FĂRILE NOASTRE ȘI SUPORTUL NOSTRU DONATING :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Istoria tranzacțiilor"
+
+#: 
+msgid "Description"
+msgstr "Descriere"
+
+#: 
+msgid "Reference ..."
+msgstr "Referință ..."
+
+#: 
+msgid "Reference"
+msgstr "Referinţă"
+
+#: 
+msgid "deposit"
+msgstr "depozit"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Depozit"
+
+#: 
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: 
+msgid "BUY order done"
+msgstr "Cumpărați comanda"
+
+#: 
+msgid "SELL order done"
+msgstr "Vânzarea comenzii SELL"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "VÂNZAREA COMANDĂRILOR"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "CUMPARA COMANDA"
+
+#: 
+msgid "Add a new item"
+msgstr "Adăugați un element nou"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Cheia dvs. GDAX"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Pass-ul dvs. GDAX"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Secretul dvs. GDAX"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "ID-ul Bitmex"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Secretul dvs. Bitmex"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Cheia dvs. OKCoin"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "OKCoin Secretul tău"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "ID-ul cheie Luno"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Luno Secretul tău"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Cheia Coinex"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Secretul tău Coinex"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Cheia dvs. Btcmarket"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Secretul dvs. Btcmarket"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Cheia Livecoin"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Secretul tău Livecoin"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "ID-ul dvs. de identificare Quoinex"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Secretul tău Quoinex"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Cheia dvs. Exmo"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Exmo Secretul tău"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Cheia YoBit"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Secretul YoBit"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Cheia ta Kucoin"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Kucoinul tău privat"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Cheia dvs. CEX"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Secretul CEX"
+
+#: 
+msgid "Your CEX UID"
+msgstr "ID-ul dvs. CEX"
+
+#: 
+msgid "My orders"
+msgstr "Comenzile mele"
+
+#: 
+msgid "Size"
+msgstr "mărimea"
+
+#: 
+msgid "Limit price"
+msgstr "Preț limită"
+
+#: 
+msgid "Place buy order"
+msgstr "Plasați comanda de cumpărare"
+
+#: 
+msgid "Place sell order"
+msgstr "Plasați comanda de vânzare"
+
+#: 
+msgid "Method"
+msgstr "Metodă"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Trebuie să fii înregistrat la Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "Activează tranzacționarea live"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Conectați-vă cu Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Profit săptămânal"
+
+#: 
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Activați tabloul de bord (trebuie activat tranzacționarea nativă)"
+
+#: 
+msgid "Active"
+msgstr "Activ"
+
+#: 
+msgid "Every"
+msgstr "Fiecare"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Pornirea unei perechi la înregistrarea unui nou utilizator"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Numai 1 pereche este permisă"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Pornirea unei perechi de liste de vizionări la înregistrarea unui nou utilizator"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 pereche pentru fiecare linie"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Format: PIAȚĂ: SIMBOL / CURRENȚĂ"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Trebuie să fii înregistrat la Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Conectați-vă cu Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "E-mailul nu este valid"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Trebuie să fii logat la Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Conectați-vă cu Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Bazat pe tot portofelul"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Cheia dvs. Poloniex"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Secretul dvs. Poloniex"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Versiunea de încercare a expirat!"
+
+#: 
+msgid "Become"
+msgstr "Deveni"
+
+#: 
+msgid "You will be charged"
+msgstr "vei fi acuzat"
+
+#: 
+msgid "for"
+msgstr "pentru"
+
+#: 
+msgid "months"
+msgstr "luni"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Cheia ta Kraken"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Kraken privat"
+
+#: 
+msgid "will be ready for you !"
+msgstr "va fi gata pentru tine!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Trebuie să fii înregistrat la Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr "Conectați-vă cu Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Trebuie să fii înregistrat la Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Conectați-vă cu Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Trebuie să fii logat la Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Conectați-vă cu Exmo"
+
+#: 
+msgid "View the article"
+msgstr "Vizualizați articolul"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Cheia dvs. BitTrex"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Secretul dvs. Bittrex"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Trebuie să fii logat la Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Conectați-vă cu Kraken"
+
+#: 
+msgid "Markets"
+msgstr "Piețele"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Ascundeți piața (tranzacția nativă trebuie activată)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Ascundeți cartea de ordine"
+
+#: 
+msgid "Load orders book"
+msgstr "Încărcați comenzile"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Creați o alertă atunci când ..."
+
+#: 
+msgid "Price is above"
+msgstr "Pretul este mai sus"
+
+#: 
+msgid "Price is bellow"
+msgstr "Prețul este mai jos"
+
+#: 
+msgid "Password not match"
+msgstr "Parola nu se potrivește"
+

@@ -1,0 +1,2999 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: ar\n"
+
+#: 
+msgid "Real account"
+msgstr "حساب حقيقي"
+
+#: 
+msgid "Board"
+msgstr "لوحة"
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "يرجى تشغيل جهازك في الوضع الأفقي"
+
+#: 
+msgid "chart"
+msgstr "مخطط"
+
+#: 
+msgid "charts or more"
+msgstr "مخططات أو أكثر"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "البحث عن طريق الاسم أو الرمز"
+
+#: 
+msgid "real account"
+msgstr "حساب حقيقي"
+
+#: 
+msgid "See all balances"
+msgstr "انظر إلى جميع الأرصدة"
+
+#: 
+msgid "List accounts"
+msgstr "قائمة الحسابات"
+
+#: 
+msgid "History"
+msgstr "التاريخ"
+
+#: 
+msgid "Credit"
+msgstr "ائتمان"
+
+#: 
+msgid "Widthdraw"
+msgstr "سحب"
+
+#: 
+msgid "Order book"
+msgstr "سجل الطلبيات"
+
+#: 
+msgid "Market"
+msgstr "سوق"
+
+#: 
+msgid "Portfolio"
+msgstr "محفظة"
+
+#: 
+msgid "Leader board"
+msgstr "المتصدرين"
+
+#: 
+msgid "Calc."
+msgstr "احسب"
+
+#: 
+msgid "Watching"
+msgstr "مشاهدة"
+
+#: 
+msgid "News"
+msgstr "أخبار"
+
+#: 
+msgid "Panel"
+msgstr "لوحة"
+
+#: 
+msgid "Manager"
+msgstr "مدير"
+
+#: 
+msgid "Admin"
+msgstr "مشرف"
+
+#: 
+msgid "Converter"
+msgstr "محول"
+
+#: 
+msgid "Social"
+msgstr "اجتماعي\n"
+""
+
+#: 
+msgid "Calendar"
+msgstr "التقويم"
+
+#: 
+msgid "Watchlist"
+msgstr "قائمة الرغبات"
+
+#: 
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: 
+msgid "January"
+msgstr "كانون الثاني"
+
+#: 
+msgid "February"
+msgstr "فبراير"
+
+#: 
+msgid "March"
+msgstr "مارس"
+
+#: 
+msgid "April"
+msgstr "أبريل"
+
+#: 
+msgid "May"
+msgstr "مايو"
+
+#: 
+msgid "June"
+msgstr "يونيو"
+
+#: 
+msgid "July"
+msgstr "يوليو"
+
+#: 
+msgid "August"
+msgstr "أغسطس"
+
+#: 
+msgid "September"
+msgstr "سبتمبر"
+
+#: 
+msgid "October"
+msgstr "اكتوبر"
+
+#: 
+msgid "November"
+msgstr "نوفمبر"
+
+#: 
+msgid "December"
+msgstr "ديسمبر"
+
+#: 
+msgid "Mon."
+msgstr " اثنين"
+
+#: 
+msgid "Tue."
+msgstr "ثلاثاء"
+
+#: 
+msgid "Wed."
+msgstr "أربعاء"
+
+#: 
+msgid "Thu."
+msgstr "خميس"
+
+#: 
+msgid "Fri."
+msgstr "جمعة"
+
+#: 
+msgid "Sat."
+msgstr "سبت"
+
+#: 
+msgid "Sun."
+msgstr "أحد"
+
+#: 
+msgid "Statistics"
+msgstr "الإحصاء"
+
+#: 
+msgid "Bank transferts"
+msgstr "التحويلات المصرفية"
+
+#: 
+msgid "Payments"
+msgstr "المدفوعات"
+
+#: 
+msgid "Subscriptions"
+msgstr "الاشتراكات"
+
+#: 
+msgid "Identity"
+msgstr "هوية"
+
+#: 
+msgid "Users"
+msgstr "المستخدمين"
+
+#: 
+msgid "Orders"
+msgstr "أوامر\n"
+""
+
+#: 
+msgid "Withdraw"
+msgstr "سحب"
+
+#: 
+msgid "Currency"
+msgstr "عملة"
+
+#: 
+msgid "Total trade"
+msgstr "مجموع التجارة"
+
+#: 
+msgid "Total deposit"
+msgstr "اجمالي الايداع"
+
+#: 
+msgid "Total withdraw"
+msgstr "اجمالي السحب"
+
+#: 
+msgid "Fees"
+msgstr "رسوم\n"
+""
+
+#: 
+msgid "Name"
+msgstr "اسم"
+
+#: 
+msgid "Email"
+msgstr "البريد الإلكتروني\n"
+""
+
+#: 
+msgid "Subscription"
+msgstr "اشتراك"
+
+#: 
+msgid "Signin method"
+msgstr "طريقة تسجيل الدخول\n"
+""
+
+#: 
+msgid "Last login"
+msgstr "آخر تسجيل دخول"
+
+#: 
+msgid "Notifications enabled"
+msgstr "تم تفعيل الإشعارات"
+
+#: 
+msgid "Trial version"
+msgstr "نسخه تجريبيه\n"
+""
+
+#: 
+msgid "day"
+msgstr "يوم"
+
+#: 
+msgid "Edit"
+msgstr "تصحيح"
+
+#: 
+msgid "Inactive"
+msgstr "غير نشط"
+
+#: 
+msgid "Enabled"
+msgstr "مفعل"
+
+#: 
+msgid "Ref"
+msgstr "المرجع"
+
+#: 
+msgid "User"
+msgstr "المستعمل"
+
+#: 
+msgid "Order date"
+msgstr "تاريخ الطلب"
+
+#: 
+msgid "Exchange"
+msgstr "تبادل"
+
+#: 
+msgid "Pair"
+msgstr "زوج\n"
+""
+
+#: 
+msgid "Type"
+msgstr "نوع"
+
+#: 
+msgid "Amount"
+msgstr "كمية"
+
+#: 
+msgid "Received"
+msgstr "تم الاستلام\n"
+""
+
+#: 
+msgid "Total deducted"
+msgstr "مجموع المبالغ المستقطعة"
+
+#: 
+msgid "Total received"
+msgstr "مجموع التلقّي"
+
+#: 
+msgid "Buy"
+msgstr "شراء"
+
+#: 
+msgid "Sell"
+msgstr "بيع"
+
+#: 
+msgid "Coin list"
+msgstr "قائمة العملات"
+
+#: 
+msgid "Market list"
+msgstr "قائمة السوق"
+
+#: 
+msgid "Heatmap"
+msgstr "خريطة الحرارة"
+
+#: 
+msgid "Price"
+msgstr "السعر"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "المجلد المباشر. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "مجموع المجلد. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "غطاء السوق"
+
+#: 
+msgid "Chg. 24H"
+msgstr "التغيير 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "\n"
+"24 ساعة علوية / منخفضة"
+
+#: 
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: 
+msgid "General settings"
+msgstr "الاعدادات العامة"
+
+#: 
+msgid "Coins"
+msgstr "عملات معدنية"
+
+#: 
+msgid "Currencies"
+msgstr "العملات"
+
+#: 
+msgid "Mail settings"
+msgstr "إعدادات البريد"
+
+#: 
+msgid "Payment"
+msgstr "دفع"
+
+#: 
+msgid "News - Social"
+msgstr "الأخبار - الاجتماعية"
+
+#: 
+msgid "Intro"
+msgstr "مقدمة"
+
+#: 
+msgid "Trading"
+msgstr "تداول"
+
+#: 
+msgid "Cron"
+msgstr "كرون"
+
+#: 
+msgid "Additional pages"
+msgstr "صفحات إضافية"
+
+#: 
+msgid "Today's visits"
+msgstr "زيارات اليوم"
+
+#: 
+msgid "7 days visits"
+msgstr "7 أيام"
+
+#: 
+msgid "Number of users"
+msgstr "عدد المستخدمين"
+
+#: 
+msgid "Number of coins"
+msgstr "عدد القطع النقدية"
+
+#: 
+msgid "Last users"
+msgstr "آخر مستخدم"
+
+#: 
+msgid "This website uses cookies"
+msgstr "هذا الموقع يستخدم الكوكيز"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "يستخدم موقعنا الإلكتروني ملفات تعريف الارتباط لدراسة حركة مرور الموقع ونشاط المستخدم أثناء زيارتنا لموقعنا ، من أجل تحسين تجربة المستخدم وفعاليته ، والتسويق ، وتوفير وظائف الشبكات الاجتماعية."
+
+#: 
+msgid "Accept"
+msgstr "قبول"
+
+#: 
+msgid "Your e-mail address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: 
+msgid "Your password"
+msgstr "كلمة السر خاصتك"
+
+#: 
+msgid "Forgot password ?"
+msgstr "هل نسيت كلمة المرور ؟"
+
+#: 
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: 
+msgid "or"
+msgstr "أو\n"
+""
+
+#: 
+msgid "Create a new account"
+msgstr "انشاء حساب جديد"
+
+#: 
+msgid "practice account"
+msgstr "حساب الممارسة"
+
+#: 
+msgid "Symbol"
+msgstr "رمز\n"
+""
+
+#: 
+msgid "Last"
+msgstr "الاخير"
+
+#: 
+msgid "Chng (%)"
+msgstr "تغيير(%)"
+
+#: 
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: 
+msgid "Notification"
+msgstr "إعلام"
+
+#: 
+msgid "Security"
+msgstr "الأمان"
+
+#: 
+msgid "Logout"
+msgstr "الخروج"
+
+#: 
+msgid "Your name"
+msgstr "اسمك"
+
+#: 
+msgid "Language"
+msgstr "لغة"
+
+#: 
+msgid "Type chart"
+msgstr "نوع الرسم البياني"
+
+#: 
+msgid "Change your password"
+msgstr "غير كلمة المرور الخاصة بك"
+
+#: 
+msgid "Repeat your password"
+msgstr "أعد كتابة رقمك السري"
+
+#: 
+msgid "Back"
+msgstr "الى الخلف"
+
+#: 
+msgid "Validate"
+msgstr "تفعيل"
+
+#: 
+msgid "Title"
+msgstr "عنوان"
+
+#: 
+msgid "Your website title"
+msgstr "عنوان موقعك على الويب"
+
+#: 
+msgid "App description"
+msgstr "وصف التطبيق"
+
+#: 
+msgid "Referal link"
+msgstr "رابط الإحالة"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "رابط الإحالة الخاص بك (على سبيل المثال: Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "نمط الصيانة"
+
+#: 
+msgid "Number format"
+msgstr "صيغة الرقم"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "تبديل المخططات إلى المخططات التجارية"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "تفعيل اللغة بصفة آلية"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "تفعيل لغة POEditor\n"
+""
+
+#: 
+msgid "POEditor API Key"
+msgstr " مفتاح POEditor API\n"
+""
+
+#: 
+msgid "Your POEditor API Key"
+msgstr " مفتاح POEditor API خاصتك"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "مشروع محدد POEditor \n"
+""
+
+#: 
+msgid "Allow signup"
+msgstr "السماح بالتسجيل\n"
+""
+
+#: 
+msgid "User need verify account"
+msgstr "يحتاج المستخدم إلى التحقق من الحساب"
+
+#: 
+msgid "Need captcha signup"
+msgstr "يلزم تسجيل الدخول إلى الكابتشا"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "مفتاح موقع جوجل كابتشا"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "مفتاح موقع جوجل كابتشا خاصتك"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "المفتاح السري لموقع جوجل كابتشا"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "المفتاح السري لموقع جوجل كابتشا خاصتك"
+
+#: 
+msgid "Sigin with google"
+msgstr "سجل مع جوجل"
+
+#: 
+msgid "Google App ID"
+msgstr "معرف تطبيق Google"
+
+#: 
+msgid "Your Google App ID"
+msgstr "معرف تطبيق Google الخاص بك"
+
+#: 
+msgid "Google App Secret"
+msgstr "سر تطبيق Google"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "سر تطبيق Google الخاص بك"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "سجل مع الفيسبوك"
+
+#: 
+msgid "Facebook App ID"
+msgstr "معرف تطبيق Facebook"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "معرف تطبيق Facebook الخاص بك"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "سر تطبيق Facebook"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "سر تطبيق Facebook الخاص بك"
+
+#: 
+msgid "Google Analytics"
+msgstr "تحليلات Google"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "تفعيل إعلانات Google"
+
+#: 
+msgid "Google Ad Client"
+msgstr "حريف إعلانات Google\n"
+""
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "حريف إعلانات Google الخاص بك"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "شريحة إعلانات Google"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "شريحة إعلانات Google الخاصة بك"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "تفعيل الكوكيز"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "عنوان الكوكيز"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "عنوان الكوكيز الخاص بك"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "نص الكوكيز "
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "نص الكوكيز الخاص بك"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "القائمة السوداء للدول "
+
+#: 
+msgid "Save"
+msgstr "حفظ"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "السماح للمستخدم للتبديل نوع المخطط"
+
+#: 
+msgid "Done !"
+msgstr "فعله !"
+
+#: 
+msgid "quantity"
+msgstr "كمية"
+
+#: 
+msgid "Enable native trading"
+msgstr "تمكين التداول الأصلي"
+
+#: 
+msgid "Balance configuration"
+msgstr "ترتيب الرصيد"
+
+#: 
+msgid "Show balance estimation"
+msgstr "إظهار تقدير الرصيد"
+
+#: 
+msgid "User user currency select"
+msgstr "اختر عملة مستخدم المستخدم"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "إظهار تقدير الرصيد في\n"
+""
+
+#: 
+msgid "Referal system configuration"
+msgstr "ترتيب نظام الإحالة"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "تمكين الإحالة (يجب تمكين التداول الأصلي)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "فوائد لإحالة (بالدولار ، المبلغ الثابت)\n"
+""
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "فوائد الإحالة (بالدولار ، المبلغ الثابت) على سبيل المثال: عندما يكون هناك إحالة / إيداع وإيداع نقدي حقيقي ، يفوز بالمرجع 5 $ (القيمة = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "ترتيب الإيداع"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "رسوم الإيداع (بالنسب المئوية)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "الإيداع  الأدنى  (بالدولار)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "الإيداع الأقصى (بالدولار)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "إيداع العملات المسموح بها"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "استلام محفظة الوديعة (في حال عدم توفر عملة حقيقية بالمحفظة)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "ترتيب السحب\n"
+""
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "السحب الأدنى (بالدولار)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr " وقت معالجة السحب (بالأيام)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr " وقت معالجة السحب (بالأيام)= مثال: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "ترتيب التداول"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "رسوم التداول (بالنسب المئوية)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "نمط مرجع النظام"
+
+#: 
+msgid "Real account configuration"
+msgstr "ترتيب حساب حقيقي"
+
+#: 
+msgid "Enable real account"
+msgstr "تمكين حساب حقيقي\n"
+""
+
+#: 
+msgid "Practice account configuration"
+msgstr "تدرب على تكوين الحساب"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "الحد الأقصى للإيداع المجاني (بالدولار)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "لحد الأقصى للإيداع المجاني (بالدولار) على سبيل المثال: 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "تتلقى محفظة إيداع مجانية"
+
+#: 
+msgid "Ref."
+msgstr "المرجع"
+
+#: 
+msgid "Submited date"
+msgstr "تاريخ التقديم"
+
+#: 
+msgid "Status"
+msgstr "الحالة"
+
+#: 
+msgid "Document name"
+msgstr "اسم الملف"
+
+#: 
+msgid "Documents"
+msgstr "مستندات"
+
+#: 
+msgid "Not processed"
+msgstr "لم تتم معالجتها"
+
+#: 
+msgid "Processed"
+msgstr "معالجة"
+
+#: 
+msgid "Payment success"
+msgstr "الدفع ناجح"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "نمط مرجع الدفع"
+
+#: 
+msgid "Enable SMTP"
+msgstr "تمكين SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "خادم SMTP"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "خادم مضيف SMTP"
+
+#: 
+msgid "SMTP Port"
+msgstr "منفذ SMTP\n"
+""
+
+#: 
+msgid "Your SMTP port"
+msgstr "منفذ SMTP الخاص بك"
+
+#: 
+msgid "SMTP Security"
+msgstr "أمان SMTP"
+
+#: 
+msgid "SMTP User"
+msgstr "مستخدم SMTP"
+
+#: 
+msgid "Your SMTP user"
+msgstr "مستخدم SMTP الخاص بك"
+
+#: 
+msgid "SMTP Password"
+msgstr "كلمة مرور SMTP"
+
+#: 
+msgid "Your SMTP password"
+msgstr "كلمة مرور SMTP الخاصة بك"
+
+#: 
+msgid "Email sender name"
+msgstr "اسم مرسل البريد الإلكتروني\n"
+""
+
+#: 
+msgid "Support mail"
+msgstr "دعم البريد"
+
+#: 
+msgid "Support Phone"
+msgstr "دعم الهاتف"
+
+#: 
+msgid "Support phone"
+msgstr "دعم الهاتف"
+
+#: 
+msgid "Support Address"
+msgstr "عنوان الدعم"
+
+#: 
+msgid "DPO mail"
+msgstr "بريد DPO\n"
+""
+
+#: 
+msgid "DPO Phone"
+msgstr "هاتف DPO"
+
+#: 
+msgid "DPO phone"
+msgstr "هاتف DPO"
+
+#: 
+msgid "Send welcome mail"
+msgstr "إرسال البريد الترحيب"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "موضوع بريد الترحيب"
+
+#: 
+msgid "Calendar credentials"
+msgstr "بيانات اعتماد التقويم"
+
+#: 
+msgid "Enable calendar"
+msgstr "تمكين التقويم"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "معرف عميل التقويم"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "معرف عميل التقويم الخاص بك"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "سر عميل التقويم"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "عرض الأحداث المتعلقة بالقطع النقدية الممكنة فقط"
+
+#: 
+msgid "News feed"
+msgstr "أخبار"
+
+#: 
+msgid "Add news feed"
+msgstr "أضف الأخبار"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "رابط RSS الخاص بك"
+
+#: 
+msgid "Add"
+msgstr "إضافة"
+
+#: 
+msgid "Name feed"
+msgstr "الاسم"
+
+#: 
+msgid "Url"
+msgstr "رابط"
+
+#: 
+msgid "Twitter accounts"
+msgstr "حسابات تويتر"
+
+#: 
+msgid "Add twitter account"
+msgstr "أضف حساب تويتر"
+
+#: 
+msgid "Twitter name"
+msgstr "اسم تويتر"
+
+#: 
+msgid "without"
+msgstr "بدون"
+
+#: 
+msgid "Social name"
+msgstr "الاسم الاجتماعي\n"
+""
+
+#: 
+msgid "Created date"
+msgstr "تاريخ الإنشاء"
+
+#: 
+msgid "Amount paid"
+msgstr "المبلغ المدفوع"
+
+#: 
+msgid "Wallet received"
+msgstr "تم استلام المحفظة"
+
+#: 
+msgid "Amount received"
+msgstr "تم استلام المبلغ"
+
+#: 
+msgid "Payment gateway"
+msgstr "بوابة الدفع"
+
+#: 
+msgid "Proof"
+msgstr "دليل"
+
+#: 
+msgid "Modify balance"
+msgstr "تعديل الرصيد"
+
+#: 
+msgid "Select balance"
+msgstr "اختر الرصيد\n"
+""
+
+#: 
+msgid "Modification type"
+msgstr "نوع التعديل"
+
+#: 
+msgid "Modification value"
+msgstr "قيمة التعديل\n"
+""
+
+#: 
+msgid "Add modification"
+msgstr "إضافة التعديل"
+
+#: 
+msgid "Card"
+msgstr "بطاقة\n"
+""
+
+#: 
+msgid "Balances"
+msgstr "أرصدة"
+
+#: 
+msgid "Remove"
+msgstr "إزالة\n"
+""
+
+#: 
+msgid "Last location"
+msgstr "اخر موقع"
+
+#: 
+msgid "Currency use"
+msgstr "استخدام العملة"
+
+#: 
+msgid "Signup with"
+msgstr "سجل مع"
+
+#: 
+msgid "Identity verification"
+msgstr "التحقق من الهوية"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "خطوة 2 التصديق"
+
+#: 
+msgid "User status"
+msgstr "حالة المستخدم"
+
+#: 
+msgid "Login history"
+msgstr "سجل الدخول"
+
+#: 
+msgid "More details"
+msgstr "المزيد من التفاصيل"
+
+#: 
+msgid "Deposit history"
+msgstr "تاريخ الايداع\n"
+""
+
+#: 
+msgid "Total"
+msgstr "مجموع"
+
+#: 
+msgid "Value in BTC"
+msgstr "القيمة  ب BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "القيمة بالدولار الأمريكي"
+
+#: 
+msgid "Withdraw method"
+msgstr "طريقة السحب"
+
+#: 
+msgid "Date"
+msgstr "تاريخ"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "طلب سحب"
+
+#: 
+msgid "WITHDRAW"
+msgstr "سحب"
+
+#: 
+msgid "paypal"
+msgstr "بايبال"
+
+#: 
+msgid "banktransfert"
+msgstr "تحويل بنكي"
+
+#: 
+msgid "Choose receiver account"
+msgstr "اختر حساب المستلم"
+
+#: 
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: 
+msgid "Next"
+msgstr "التالى"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "اكتمال تكوين الإعلام"
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "الرمز المميز لـ PushBullet"
+
+#: 
+msgid "Remove token"
+msgstr "أزل الرمز المميز"
+
+#: 
+msgid "You are premium !"
+msgstr "أنت ممتاز!"
+
+#: 
+msgid "left"
+msgstr "اليسار"
+
+#: 
+msgid "Main settings"
+msgstr "الإعدادات الرئيسية"
+
+#: 
+msgid "Period"
+msgstr "فترة"
+
+#: 
+msgid "Colour"
+msgstr "اللون"
+
+#: 
+msgid "Thickness"
+msgstr "سماكة\n"
+""
+
+#: 
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: 
+msgid "Apply"
+msgstr "تطبيق"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "أدخل رمز Google Authenticator"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "أدخل رمز Google Authenticator"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "  أرصدة بقيمة أقل من 0.001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "إخفاء الرصيد الصغير"
+
+#: 
+msgid "Estimate value"
+msgstr "تقدير القيمة"
+
+#: 
+msgid "Value in"
+msgstr "القيمة ب"
+
+#: 
+msgid "Deposit"
+msgstr "الوديعة"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "لقد تم تمكين Google Authentification!"
+
+#: 
+msgid "Set as done"
+msgstr "تعيين ما فعلت"
+
+#: 
+msgid "Close"
+msgstr "قريب"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "رمز Google Authenticator غير صالح"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "ستصلك رسالة تأكيد بالبريد الإلكتروني"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "المرجع ، معرف المستخدم ، النوع ، العملة"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "فيلتر السحب"
+
+#: 
+msgid "Default"
+msgstr "افتراضي"
+
+#: 
+msgid "Not confirmed"
+msgstr "غير مؤكد"
+
+#: 
+msgid "Done"
+msgstr "فعله"
+
+#: 
+msgid "Payment filter"
+msgstr "فيلتر الدفع"
+
+#: 
+msgid "Need to be approved"
+msgstr "تحتاج إلى الموافقة"
+
+#: 
+msgid "Paid"
+msgstr "دفع"
+
+#: 
+msgid "Not paid"
+msgstr "غير مدفوع"
+
+#: 
+msgid "All payments"
+msgstr "  كل المدفوعات"
+
+#: 
+msgid "Ask a proof"
+msgstr "طلب دليلا"
+
+#: 
+msgid "Bank ref."
+msgstr "البنك المرجع"
+
+#: 
+msgid "Proof received"
+msgstr "استلم دليل"
+
+#: 
+msgid "In pending"
+msgstr "في الانتظار"
+
+#: 
+msgid "All widthdraw"
+msgstr "كل السحوبات"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "اسحب النموذج المرجعي"
+
+#: 
+msgid "Withdraw filter"
+msgstr "فلتر السحب"
+
+#: 
+msgid "Withdraw infos"
+msgstr "اسحب معلومات"
+
+#: 
+msgid "year"
+msgstr "عام\n"
+""
+
+#: 
+msgid "month"
+msgstr "شهر\n"
+""
+
+#: 
+msgid "week"
+msgstr "أسبوع"
+
+#: 
+msgid "hour"
+msgstr "ساعة"
+
+#: 
+msgid "minute"
+msgstr "دقيقة"
+
+#: 
+msgid "second"
+msgstr "ثانية"
+
+#: 
+msgid "ago"
+msgstr "منذ"
+
+#: 
+msgid "Bank transfert"
+msgstr "تحويل بنكي"
+
+#: 
+msgid "Deposit amount"
+msgstr "قيمة الايداع"
+
+#: 
+msgid "Fill up"
+msgstr "ممتلئ"
+
+#: 
+msgid "It's free"
+msgstr "انه مجانا"
+
+#: 
+msgid "You will receive"
+msgstr "ستستلم"
+
+#: 
+msgid "Add real funds"
+msgstr "أضف أموال حقيقية"
+
+#: 
+msgid "Minimal deposit"
+msgstr "إيداع الحد الأدنى"
+
+#: 
+msgid "Enable credit card"
+msgstr "تمكين بطاقة الائتمان"
+
+#: 
+msgid "Stipe private key"
+msgstr "اسحب المفتاح الخاص"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "مفتاح واجهة برمجة تطبيقات الشريط الخاص بك"
+
+#: 
+msgid "Enable Paypal"
+msgstr "تمكين بايبال"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "تمكين وضع بايبال لايف"
+
+#: 
+msgid "Paypal client ID"
+msgstr "معرف العميل بايبال"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "معرف العميل بايبال الخاص بك"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "سر العميل بايبال "
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "سر العميل بايبال الخاص بك"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "تمكين Blockonomics"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "سر مفتاح Blockonomics"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "سر مفتاح Blockonomics الخاص بك"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "تمكين Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "سر مفتاح  Fortumo"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "سر مفتاح Fortumo الخاص بك"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "مفتاح خدمة fortumo"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "مفتاح خدمة fortumo الخاص بك"
+
+#: 
+msgid "Enable Coingate"
+msgstr "تمكين Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "تمكين Coingate الوضع الحي"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr " رمز مصادقة Coingate"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr " رمز مصادقة Coingate الخاص بك"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "تلقي العملة Coingate "
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "تمكين المدفوعات النقدية"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "المفتاح العام للمدفوعات النقدية"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "المفتاح العام للمدفوعات النقدية الخاص بك"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "المفتاح الخاص للمدفوعات النقدية"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "المفتاح الخاص للمدفوعات النقدية الخاص بك"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "معرف تاجر المدفوعات النقدية"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "معرف تاجر المدفوعات النقدية الخاص بك "
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "سر IBN للمدفوعات النقدية"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "سر IBN للمدفوعات النقدية الخاص بك "
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "تمكين دفع  Flutterwave الحاد"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "رمل وضع  Flutterwave الحاد"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "المفتاح العام ل  Flutterwave الحاد"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "المفتاح العام ل  Flutterwave الحاد الخاص بك"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "المفتاح الخاص ل  Flutterwave الحاد "
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "المفتاح الخاص ل  Flutterwave الحاد الخاص بك"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "عنوان الدفع ل  Flutterwave الحاد"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "عنوان الدفع ل  Flutterwave الحاد الخاص بك"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "بادئة الدفع ل  Flutterwave الحاد"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "بادئة الدفع ل  Flutterwave الحاد الخاصة بك  (على سبيل المثال: KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "تمكين دفع  تجارة Coinbase"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "مفتاح API تجارة Coinbase"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "مفتاح API تجارة Coinbase الخاص بك"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr " عنوان الدفع ل تجارة Coinbase"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr " عنوان الدفع ل تجارة Coinbase الخاص بك"
+
+#: 
+msgid "Enable Mollie"
+msgstr "تمكين مولي"
+
+#: 
+msgid "Mollie Key"
+msgstr "مفتاح مولي"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "مفتاح مولي الخاص بك"
+
+#: 
+msgid "Enable Payeer"
+msgstr "تمكين بايير"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "معرف متجر بايير"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "معرف متجر بايير الخاص بك"
+
+#: 
+msgid "Payeer API Key"
+msgstr "مفتاح API بايير"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "مفتاح API بايير الخاص بك"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "تمكين التحويل المصرفي"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "الحد الأقصى للتحويل المصرفي في نفس الوقت\n"
+""
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "تم تمكين إثبات الملكية المصرفية"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr " أقصى دليل للتحويل المصرفي"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "مفتاح الجوزاء الخاص بك"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr " سر الجوزاء الخاص بك"
+
+#: 
+msgid "Select your platform"
+msgstr "حدد النظام الأساسي الخاص بك\n"
+""
+
+#: 
+msgid "Sandbox"
+msgstr "رمل"
+
+#: 
+msgid "Live"
+msgstr "حي\n"
+""
+
+#: 
+msgid "Cron time"
+msgstr "وقت كرون"
+
+#: 
+msgid "Last update"
+msgstr "اخر تحديث"
+
+#: 
+msgid "Sync delay"
+msgstr "تأخير التزامن"
+
+#: 
+msgid "Add additional page"
+msgstr "أضف صفحة إضافية"
+
+#: 
+msgid "Page name"
+msgstr "اسم الصفحة"
+
+#: 
+msgid "Page URL"
+msgstr "رابط الصفحة"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "رمز الصفحة (مثل: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "أو أيقونة الصفحة svg"
+
+#: 
+msgid "Icon"
+msgstr "أيقونة"
+
+#: 
+msgid "SVG Picture"
+msgstr "صورة SVG"
+
+#: 
+msgid "Enable"
+msgstr "مكن"
+
+#: 
+msgid "Disable"
+msgstr "تعطيل"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "إنشاء تحويل مصرفي جديد"
+
+#: 
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+#: 
+msgid "Details"
+msgstr "تفاصيل"
+
+#: 
+msgid "Verified"
+msgstr "محقّق"
+
+#: 
+msgid "Canceled"
+msgstr "ملغى"
+
+#: 
+msgid "Declined"
+msgstr "مرفوض"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "مفتاح Hitbtc الخاص بك"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "سر Hitbtc الخاص بك"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "مفتاح Bitbank الخاص بك"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "سر Bitbanc الخاص بك"
+
+#: 
+msgid "User level"
+msgstr "مستوى المستخدم"
+
+#: 
+msgid "Expire in"
+msgstr "تنتهي الصلاحية في"
+
+#: 
+msgid "Back to login"
+msgstr "العودة إلى تسجيل الدخول"
+
+#: 
+msgid "Let's go !"
+msgstr "لنذهب !"
+
+#: 
+msgid "Welcome"
+msgstr "أهلا بك"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "دعونا نكوّن لوحة التحكم معًا"
+
+#: 
+msgid "Select your language"
+msgstr "اختر لغتك"
+
+#: 
+msgid "Select your currency"
+msgstr "اختر عملتك"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "اخترالعملة المشفرة المفضلة لديك "
+
+#: 
+msgid "left need to be selected"
+msgstr "اليسار بحاجة إلى أن يتم اختياره"
+
+#: 
+msgid "Configuration complete !"
+msgstr "اكتمال التهيئة!"
+
+#: 
+msgid "will now refresh"
+msgstr "سيتم الآن تحديث"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "تمكين الدفع ببيرفيكت موني"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "حساب بيرفيكت موني المستفيد"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "حساب بيرفيكت موني  الخاص بك"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "موبايل ، متصفح ، نوافذ الإخطارات"
+
+#: 
+msgid "Create price alert"
+msgstr "إنشاء تنبيه سعر"
+
+#: 
+msgid "I need help !"
+msgstr "انا بحاجة الى مساعدة !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "تنزيل تطبيق PushBullet على هاتفك (متوفر لنظامي التشغيل Android و iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "قم بإنشاء حساب على ذلك"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "تواصل مع حسابك الجديد هنا"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "انتقل إلى <b> الإعدادات </ b>> <b> الحساب </ b> وأنشئ <b> رمز الدخول </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "انسخ المفتاح والصقه في التعبئة وانقر على حفظ."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "سيتم إرسال إشعار للتحقق مما إذا كان الاتصال ناجحًا."
+
+#: 
+msgid "Premium wait you !"
+msgstr "قسط ينتظرك!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "أكثر من 2000 عملة مشفرة"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "يتم تنبيهك عندما ينمو المؤشر أو ينخفض"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "متجاوب على الجوّال والجهاز اللوحي"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "الأخبار والمشاركات الاجتماعية في نفس المكان"
+
+#: 
+msgid "Support"
+msgstr "الدعم\n"
+""
+
+#: 
+msgid "Phone"
+msgstr "هاتف"
+
+#: 
+msgid "Address"
+msgstr "عنوان"
+
+#: 
+msgid "Contact DPO"
+msgstr "اتصل بـ DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "مفتاح Binance الخاص بك"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "سر Binance الخاص بك"
+
+#: 
+msgid "Cardholder name"
+msgstr "إسم صاحب البطاقة\n"
+""
+
+#: 
+msgid "Card number"
+msgstr "رقم البطاقة"
+
+#: 
+msgid "Expiration"
+msgstr "انتهاء الصلاحية"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "العملات المشفرة"
+
+#: 
+msgid "No order to show"
+msgstr "لا يوجد طلب لعرضه"
+
+#: 
+msgid "Premium"
+msgstr "بريميوم"
+
+#: 
+msgid "Verify your identiy"
+msgstr "تحقق من هويتك"
+
+#: 
+msgid "Estimate balance"
+msgstr "تقدير الرصيد"
+
+#: 
+msgid "5m"
+msgstr "5 شهور"
+
+#: 
+msgid "1m"
+msgstr "شهر واحد"
+
+#: 
+msgid "2w"
+msgstr "2 أسابيع"
+
+#: 
+msgid "7d"
+msgstr "7 أيام"
+
+#: 
+msgid "1d"
+msgstr "يوم واحد"
+
+#: 
+msgid "12h"
+msgstr "12 ساعة\n"
+""
+
+#: 
+msgid "2h"
+msgstr "ساعاتين\n"
+""
+
+#: 
+msgid "1h"
+msgstr "ساعة واحدة"
+
+#: 
+msgid "30min"
+msgstr "30 دقيقة"
+
+#: 
+msgid "Candlestick"
+msgstr "شمعدان"
+
+#: 
+msgid "Line"
+msgstr "خط"
+
+#: 
+msgid "Indicators"
+msgstr "مؤشرات"
+
+#: 
+msgid "Export"
+msgstr "تصدير"
+
+#: 
+msgid "Alert"
+msgstr "تنبيه"
+
+#: 
+msgid "Drawing"
+msgstr "رسم"
+
+#: 
+msgid "Trend Line"
+msgstr "خط الاتجاه\n"
+""
+
+#: 
+msgid "Text"
+msgstr "نص\n"
+""
+
+#: 
+msgid "Create a new alert"
+msgstr "قم بإنشاء تنبيه جديد"
+
+#: 
+msgid "% Fees"
+msgstr "الرسوم %"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr " اتفاق سحب العملات المشفرة"
+
+#: 
+msgid "Decline"
+msgstr "رفض"
+
+#: 
+msgid "Agree"
+msgstr "موافقة"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "اتفاق ايداع العملات المشفرة "
+
+#: 
+msgid "Enable news popup"
+msgstr "تمكين المنبثقة الإخبارية"
+
+#: 
+msgid "News popup title"
+msgstr "عنوان منبثق الأخبار"
+
+#: 
+msgid "Your news popup title"
+msgstr "عنوان منبثق الأخبار الخاص بك"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "فيديو منبثق الأخبار (يتم وضعه فارغًا لعدم عرض الفيديو)"
+
+#: 
+msgid "News popup description"
+msgstr "وصف منبثق الأخبار"
+
+#: 
+msgid "Advert users"
+msgstr "اعلان المستخدمين\n"
+""
+
+#: 
+msgid "Enable intro"
+msgstr "  تمكين المقدمة"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "رسوم السحب (في٪)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "تنبيه التحويل المصرفي عند سحب العملة ليس عملة مشفرة"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "العملات المشفرة مسموحة للتحويل المصرفي "
+
+#: 
+msgid "Estimate balance in"
+msgstr "تقدير الرصيد ب"
+
+#: 
+msgid "Edit profile"
+msgstr "تعديل الملف الشخصي"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "اتفاقية إيداع التحويل المصرفي"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "دفع الرسوم في النظام الاقتصادي (%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "دفع الرسوم في النظام الاقتصادي (%) الخاصة بك"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "دفع رسوم Fortumo (%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "دفع رسوم Fortumo (%) الخاصة بك"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "دفع رسوم CoinGate (%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "دفع رسوم CoinGate (%) الخاصة بك"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "دفع رسوم Coinpayments  (%) "
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "دفع رسوم Coinpayments  (%) الخاصة بك"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "دفع رسوم Flutterwave الحاد  (%) "
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "دفع رسوم Flutterwave الحاد  (%) الخاصة بك"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "دفع رسوم  تجارة Coinbase  (%) "
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "دفع رسوم  تجارة Coinbase  (%) الخاصة بك"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "دفع رسوم  مولي  (%) "
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "دفع رسوم  مولي  (%) الخاصة بك"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "دفع رسوم  بايير (%) "
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "دفع رسوم  بايير (%) الخاصة بك"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "دفع رسوم  التحويل المصرفي (%) "
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "دفع رسوم  التحويل المصرفي (%) الخاصة بك"
+
+#: 
+msgid "Add new"
+msgstr "اضف جديد\n"
+""
+
+#: 
+msgid "Bank accounts"
+msgstr "حسابات بنكية"
+
+#: 
+msgid "Add new bank account"
+msgstr "إضافة حساب مصرفي جديد"
+
+#: 
+msgid "Bank account name"
+msgstr "اسم الحساب المصرفي"
+
+#: 
+msgid "Your bank account name"
+msgstr "اسم الحساب المصرفي الخاص بك"
+
+#: 
+msgid "Bank account currency"
+msgstr "عملة الحساب المصرفي"
+
+#: 
+msgid "Bank account IBAN"
+msgstr " IBAN الحساب المصرفي"
+
+#: 
+msgid "Bank account BIC"
+msgstr "BIC الحساب المصرفي"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "BIC الحساب المصرفي الخاص بك"
+
+#: 
+msgid "Bank account address"
+msgstr "عنوان الحساب المصرفي "
+
+#: 
+msgid "Your bank account address"
+msgstr "عنوان الحساب المصرفي الخاص بك"
+
+#: 
+msgid "Bank account owner name"
+msgstr "اسم مالك الحساب المصرفي "
+
+#: 
+msgid "Your bank account owner name"
+msgstr "اسم مالك الحساب المصرفي الخاص بك"
+
+#: 
+msgid "* This is optional"
+msgstr "* هذا اختياري\n"
+""
+
+#: 
+msgid "Your bank account currency"
+msgstr "عملة الحساب المصرفي الخاص بك"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "IBAN الحساب المصرفي الخاص بك"
+
+#: 
+msgid "Delete"
+msgstr "حذف"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "يمكنك الاختيار بين \"رمز الصفحة\" و \"رمز الصفحة svg\" (أيقونة الصفحة هي الأولوية) - قائمة الرموز المتاحة هنا"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "سوف تتلقى رسالة تأكيد بالبريد الإلكتروني"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "يرجى اتباع هذه الخطوة لاستكمال طلب السحب"
+
+#: 
+msgid "You need to have at least"
+msgstr "يجب أن يكون لديك على الأقل"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "ليس لديك أي رصيد مملوء متاح"
+
+#: 
+msgid "Total in "
+msgstr "المجموع"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "تحتاج إلى إعداد طريقة السحب"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "حساب البنك BIC / سويفت"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "حساب البنك BIC / سويفت الخاص بك"
+
+#: 
+msgid "Day range"
+msgstr "نطاق اليوم"
+
+#: 
+msgid "Open day"
+msgstr "يوم مفتوح"
+
+#: 
+msgid "Volume 24H"
+msgstr "حجم 24 ساعة"
+
+#: 
+msgid "Direct Volume"
+msgstr "حجم مباشر"
+
+#: 
+msgid "Load more data"
+msgstr "تحميل المزيد من البيانات"
+
+#: 
+msgid "Qty"
+msgstr "الكمية"
+
+#: 
+msgid "Gain"
+msgstr "ربح"
+
+#: 
+msgid "Price buy"
+msgstr "سعر الشراء"
+
+#: 
+msgid "Disable chat"
+msgstr "تعطيل الدردشة"
+
+#: 
+msgid "Total gain"
+msgstr " الربح الكلي"
+
+#: 
+msgid "Confirmation"
+msgstr "التأكيد"
+
+#: 
+msgid "Unit price"
+msgstr "سعر الوحدة"
+
+#: 
+msgid "Investment"
+msgstr "استثمار"
+
+#: 
+msgid "Quantity"
+msgstr "كمية"
+
+#: 
+msgid "Commission"
+msgstr "عمولة"
+
+#: 
+msgid "Confirm buying"
+msgstr "تأكيد الشراء"
+
+#: 
+msgid "New user"
+msgstr "مستخدم جديد\n"
+""
+
+#: 
+msgid "Order passed"
+msgstr "طلب ممرّر"
+
+#: 
+msgid "New subscription"
+msgstr "اشتراك جديد"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "عرض معلومات جهاز استقبال السحب"
+
+#: 
+msgid "Process"
+msgstr "معالجة"
+
+#: 
+msgid "Hide details"
+msgstr "أخف التفاصيل"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "تمكين الاشتراكات"
+
+#: 
+msgid "Enable free trial"
+msgstr "تمكين الإصدار التجريبي المجاني"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "مدة التجربة المجانية (في اليوم)"
+
+#: 
+msgid "Free trial duration"
+msgstr "مدة التجربة المجانية"
+
+#: 
+msgid "Premium features"
+msgstr "العضوية المميزة"
+
+#: 
+msgid "Free users features"
+msgstr "ميزات مجانية للمستخدم"
+
+#: 
+msgid "Add a new plan"
+msgstr "أضف خطة جديدة"
+
+#: 
+msgid "Name plan"
+msgstr "اسم الخطة"
+
+#: 
+msgid "Price total"
+msgstr "السعر الإجمالي"
+
+#: 
+msgid "Duration in days"
+msgstr "المدة في أيام"
+
+#: 
+msgid "Duration"
+msgstr "المدة الزمنية"
+
+#: 
+msgid "Add this plan"
+msgstr "أضف هذه الخطة"
+
+#: 
+msgid "Plans available"
+msgstr "الخطط المتاحة"
+
+#: 
+msgid "Price plan"
+msgstr "  سعر الخطة"
+
+#: 
+msgid "Duration in month"
+msgstr "المدة في الشهر"
+
+#: 
+msgid "Price per month"
+msgstr "السعر شهريا"
+
+#: 
+msgid "Account"
+msgstr "الحساب"
+
+#: 
+msgid "Exchanges"
+msgstr "التبادل"
+
+#: 
+msgid "Total Free"
+msgstr "المجموع المجاني"
+
+#: 
+msgid "Total Used"
+msgstr "المجموع المستخدم"
+
+#: 
+msgid "Order Ref."
+msgstr "اطلب المرجع"
+
+#: 
+msgid "Ordered price"
+msgstr "السعر المطلوب"
+
+#: 
+msgid "Current price"
+msgstr "السعر الحالي"
+
+#: 
+msgid "Evolution"
+msgstr "تطور"
+
+#: 
+msgid "Enable identity system"
+msgstr "تمكين نظام الهوية"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "منع التداول دون التحقق من الهوية"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "منع الإيداع دون التحقق من الهوية\n"
+""
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "منع السحب دون التحقق من الهوية"
+
+#: 
+msgid "Approve"
+msgstr "وافق"
+
+#: 
+msgid "Identity ID"
+msgstr "معرف الهوية"
+
+#: 
+msgid "Identity step name"
+msgstr "اسم خطوة الهوية"
+
+#: 
+msgid "Identity step description"
+msgstr "وصف خطوة الهوية"
+
+#: 
+msgid "Identity order"
+msgstr "طلب الهوية"
+
+#: 
+msgid "Down order"
+msgstr "أسفل الأمر"
+
+#: 
+msgid "Up order"
+msgstr "أعلى الأمر"
+
+#: 
+msgid "Add new identity step"
+msgstr "إضافة خطوة هوية جديدة"
+
+#: 
+msgid "Your step name"
+msgstr "اسم الخطوة الخاص بك"
+
+#: 
+msgid "Your step description"
+msgstr "وصف الخطوة الخاص بك"
+
+#: 
+msgid "Identity step type"
+msgstr "نوع خطوة الهوية"
+
+#: 
+msgid "Upload new document"
+msgstr "تحميل وثيقة جديدة"
+
+#: 
+msgid "Choose in document type list"
+msgstr "اختر في قائمة نوع المستند"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "تمكين تحميل الهوية باستخدام كاميرا الويب"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "نسبة وثيقة الكاميرا"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "نسبة (العرض / الارتفاع)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "نسبة (العرض / الارتفاع)"
+
+#: 
+msgid "Document identity list"
+msgstr "قائمة هوية المستند"
+
+#: 
+msgid "Add new identity document"
+msgstr "إضافة وثيقة هوية جديدة"
+
+#: 
+msgid "Your document name"
+msgstr "اسم المستند الخاص بك"
+
+#: 
+msgid "My Holding"
+msgstr "القابضة الخاصة بك"
+
+#: 
+msgid "Holding"
+msgstr "القابضة"
+
+#: 
+msgid "Market Value"
+msgstr "القيمة السوقية"
+
+#: 
+msgid "Profit / Loss"
+msgstr "خسارة / أرباح"
+
+#: 
+msgid "Wallet"
+msgstr "محفظة نقود\n"
+""
+
+#: 
+msgid "Validate bank transfert"
+msgstr "التحقق من صحة التحويل المصرفي"
+
+#: 
+msgid "Transfert received date"
+msgstr "تاريخ الاستلام"
+
+#: 
+msgid "Bank account received"
+msgstr "تم استلام الحساب البنكي"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "مرجع التحويل المصرفي"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "المبلغ المستلم في الحساب المصرفي"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "المبلغ الذي تم نقله إلى حساب المستخدم"
+
+#: 
+msgid "User will receive"
+msgstr "سوف يتلقى المستخدم"
+
+#: 
+msgid "Dark"
+msgstr "داكن"
+
+#: 
+msgid "White"
+msgstr "أبيض"
+
+#: 
+msgid "Enable Donation"
+msgstr "تمكين التبرع\n"
+""
+
+#: 
+msgid "Donation text"
+msgstr "نص التبرع\n"
+""
+
+#: 
+msgid "Your donation text"
+msgstr "نص التبرع الخاص بك"
+
+#: 
+msgid "Donation address list"
+msgstr "قائمة عناوين التبرع\n"
+""
+
+#: 
+msgid "Put 1 address per line"
+msgstr "ضع عنوانًا واحدًا في كل سطر"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "صيغة الخط: BTC : عنوان "
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "ضع ابتسامة على وجوهنا ودعمنا بالتبرع :)\n"
+""
+
+#: 
+msgid "Transactions history"
+msgstr "تاريخ المعاملات\n"
+""
+
+#: 
+msgid "Description"
+msgstr "وصف"
+
+#: 
+msgid "Reference ..."
+msgstr "مرجع ..."
+
+#: 
+msgid "Reference"
+msgstr "مرجع"
+
+#: 
+msgid "deposit"
+msgstr "الإيداع"
+
+#: 
+msgid "widthdraw"
+msgstr " السحب"
+
+#: 
+msgid "Dépot"
+msgstr "إيداع"
+
+#: 
+msgid "Unknown"
+msgstr "غير معروف"
+
+#: 
+msgid "BUY order done"
+msgstr " أمر الشراء تم"
+
+#: 
+msgid "SELL order done"
+msgstr "أمر بيع تم"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "أمر بيع تم"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "أمر شراء تم"
+
+#: 
+msgid "Add a new item"
+msgstr "إضافة عنصر جديد"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "مفتاح GDAX الخاص بك"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "تصريح GDAX الخاص بك"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "سر GDAX الخاص بك"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "معرف Bitmex الخاص بك"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "سر Bitmex الخاص بك"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "مفتاح OKCoin الخاص بك"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "سر OKCoin الخاص بك"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "معرف مفتاح Luno الخاص بك"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "سر Luno الخاص بك"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "مفتاح Coinex الخاص بك"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "سر Coinex الخاص بك"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "مفتاح Btcmarket الخاص بك"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "سر Btcmarket الخاص بك"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "مفتاح Livecoin الخاص بك"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "سر Livecoin الخاص بك"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "معرف Quoinex الخاص بك"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "سر Quoinex الخاص بك"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "مفتاح Exmo الخاص بك"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "سر Exmot الخاص بك"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "مفتاح YoBit الخاص بك"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "سر YoBit الخاص بك"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "مفتاح Kucoin الخاص بك"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "سر Kucoin الخاص بك"
+
+#: 
+msgid "Your CEX Key"
+msgstr "مفتاح CEX الخاص بك"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "سر CEX الخاص بك\n"
+""
+
+#: 
+msgid "Your CEX UID"
+msgstr "معرف CEX الخاص بك"
+
+#: 
+msgid "My orders"
+msgstr "طلباتي"
+
+#: 
+msgid "Size"
+msgstr "حجم"
+
+#: 
+msgid "Limit price"
+msgstr "سعر الحد"
+
+#: 
+msgid "Place buy order"
+msgstr "ضع طلب شراء"
+
+#: 
+msgid "Place sell order"
+msgstr "ضع أمر بيع"
+
+#: 
+msgid "Method"
+msgstr "طريقة"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "تحتاج إلى تسجيل الدخول في Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "تمكين التداول المباشر"
+
+#: 
+msgid "Login with Coinex"
+msgstr "تسجيل الدخول باستخدام Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "ربح الأسبوع"
+
+#: 
+msgid "Leaderboard"
+msgstr "المتصدرين"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "تمكين ليدربورد (يجب تمكين التداول الأصلي)"
+
+#: 
+msgid "Active"
+msgstr "نشيط"
+
+#: 
+msgid "Every"
+msgstr "كل"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "بدء الزوج عند اشتراك مستخدم جديد"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "زوج واحد فقط مسموح به"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "بدء مشاهدة القائمة الزوجية عند اشتراك مستخدم جديد"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "زوج واحد لكل خط"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "الصيغة: السوق: الرمز / العملة"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr " تحتاج إلى تسجيل الدخول إلى Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "تسجيل الدخول إلى Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "البريد الإلكتروني غير صالح"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "تحتاج إلى تسجيل الدخول في Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "تسجيل الدخول في Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "على أساس كل المحفظة"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "مفتاح Poloniex الخاص بك"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "سر Poloniex الخاص بك"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "انتهت نسختك التجريبية!"
+
+#: 
+msgid "Become"
+msgstr "يصبح"
+
+#: 
+msgid "You will be charged"
+msgstr "سيتم محاسبتك"
+
+#: 
+msgid "for"
+msgstr "ل"
+
+#: 
+msgid "months"
+msgstr "الشهور"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "مفتاح Kraken الخاص بك"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "سر Kraken الخاص بك"
+
+#: 
+msgid "will be ready for you !"
+msgstr "سوف تكون على استعداد لك!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "تحتاج إلى تسجيل الدخول في Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr " تسجيل الدخول في Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "تحتاج إلى تسجيل الدخول في Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr " تسجيل الدخول في Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "تحتاج إلى تسجيل الدخول في Exmo\n"
+""
+
+#: 
+msgid "Login with Exmo"
+msgstr "تسجيل الدخول في Exmo"
+
+#: 
+msgid "View the article"
+msgstr "عرض المقال"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "مفتاح Bittrex الخاص بك"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "سر Bittrex الخاص بك"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "تحتاج إلى تسجيل الدخول في Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr " تسجيل الدخول في Kraken"
+
+#: 
+msgid "Markets"
+msgstr "الأسواق"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "إخفاء السوق (يجب تمكين التداول الأصلي)"
+
+#: 
+msgid "Hide orders book"
+msgstr "إخفاء دفتر الطلبات"
+
+#: 
+msgid "Load orders book"
+msgstr "تحميل دفتر الطلبات"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "إنشاء تنبيه عند ..."
+
+#: 
+msgid "Price is above"
+msgstr "السعر أعلاه"
+
+#: 
+msgid "Price is bellow"
+msgstr "السعر أدناه"
+
+#: 
+msgid "Password not match"
+msgstr "كلمة المرور غير متطابقة"
+

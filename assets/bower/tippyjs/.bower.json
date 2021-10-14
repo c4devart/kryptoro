@@ -1,0 +1,15 @@
+{
+  "name": "tippyjs",
+  "homepage": "https://github.com/atomiks/tippyjs",
+  "version": "2.5.4",
+  "_release": "2.5.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.5.4",
+    "commit": "9d3812e557e46b5a19f4392c3b397b9b916a28b6"
+  },
+  "_source": "https://github.com/atomiks/tippyjs.git",
+  "_target": "^2.5.4",
+  "_originalSource": "tippyjs",
+  "_direct": true
+}

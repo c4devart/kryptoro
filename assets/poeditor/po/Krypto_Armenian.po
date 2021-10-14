@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: hy\n"
+
+#: 
+msgid "Real account"
+msgstr "Իրական հաշիվ"
+
+#: 
+msgid "Board"
+msgstr "Գրաֆիկ\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Խնդրում ենք դիմել"
+
+#: 
+msgid "chart"
+msgstr "աղյուսակը\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "գծապատկերներ կամ ավելին"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Որոնել անունով կամ խորհրդանիշով"
+
+#: 
+msgid "real account"
+msgstr "իրական հաշիվ\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Տես բոլոր մնացորդները"
+
+#: 
+msgid "List accounts"
+msgstr "Ցուցակների հաշիվները\n"
+""
+
+#: 
+msgid "History"
+msgstr "Պատմություն"
+
+#: 
+msgid "Credit"
+msgstr "Վարկ"
+
+#: 
+msgid "Widthdraw"
+msgstr "Լայնությունը"
+
+#: 
+msgid "Order book"
+msgstr "Պատվերի գիրք"
+
+#: 
+msgid "Market"
+msgstr "Շուկա"
+
+#: 
+msgid "Portfolio"
+msgstr "Պորտֆոլիո"
+
+#: 
+msgid "Leader board"
+msgstr "Առաջնորդական խորհուրդը"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Դիտում"
+
+#: 
+msgid "News"
+msgstr "Նորություններ"
+
+#: 
+msgid "Panel"
+msgstr "Panel"
+
+#: 
+msgid "Manager"
+msgstr "Մենեջեր"
+
+#: 
+msgid "Admin"
+msgstr "Admin"
+
+#: 
+msgid "Converter"
+msgstr "Կոդավորվորիչ"
+
+#: 
+msgid "Social"
+msgstr "Հասարակական"
+
+#: 
+msgid "Calendar"
+msgstr "Օրացույց"
+
+#: 
+msgid "Watchlist"
+msgstr "Դիտում"
+
+#: 
+msgid "Contact us"
+msgstr "Կապ մեզ հետ"
+
+#: 
+msgid "January"
+msgstr "Հունվար"
+
+#: 
+msgid "February"
+msgstr "Փետրվար"
+
+#: 
+msgid "March"
+msgstr "Մարտ"
+
+#: 
+msgid "April"
+msgstr "Ապրիլ"
+
+#: 
+msgid "May"
+msgstr "Մայիս"
+
+#: 
+msgid "June"
+msgstr "Հունիս"
+
+#: 
+msgid "July"
+msgstr "Հուլիս"
+
+#: 
+msgid "August"
+msgstr "Օգոստոս"
+
+#: 
+msgid "September"
+msgstr "Սեպտեմբեր"
+
+#: 
+msgid "October"
+msgstr "Հոկտեմբեր"
+
+#: 
+msgid "November"
+msgstr "Նոյեմբեր"
+
+#: 
+msgid "December"
+msgstr "Դեկտեմբեր"
+
+#: 
+msgid "Mon."
+msgstr "Մոնտ.`"
+
+#: 
+msgid "Tue."
+msgstr "Երեքշաբթի"
+
+#: 
+msgid "Wed."
+msgstr "Ամուսնացնել."
+
+#: 
+msgid "Thu."
+msgstr "Thu."
+
+#: 
+msgid "Fri."
+msgstr "Ուրբաթ"
+
+#: 
+msgid "Sat."
+msgstr "Sat."
+
+#: 
+msgid "Sun."
+msgstr "Sun."
+
+#: 
+msgid "Statistics"
+msgstr "Վիճակագրություններ"
+
+#: 
+msgid "Bank transferts"
+msgstr "Բանկի փոխանցումներ"
+
+#: 
+msgid "Payments"
+msgstr "Վճարումներ"
+
+#: 
+msgid "Subscriptions"
+msgstr "Բաժանորդագրություններ"
+
+#: 
+msgid "Identity"
+msgstr "Ինքնություն"
+
+#: 
+msgid "Users"
+msgstr "Օգտագործողներ"
+
+#: 
+msgid "Orders"
+msgstr "Պատվերներ"
+
+#: 
+msgid "Withdraw"
+msgstr "Հանել"
+
+#: 
+msgid "Currency"
+msgstr "Արժույթ"
+
+#: 
+msgid "Total trade"
+msgstr "Ընդհանուր առեւտուր"
+
+#: 
+msgid "Total deposit"
+msgstr "Ընդհանուր ավանդ"
+
+#: 
+msgid "Total withdraw"
+msgstr "Ընդհանուր դուրս գալը"
+
+#: 
+msgid "Fees"
+msgstr "Վճարները"
+
+#: 
+msgid "Name"
+msgstr "Անուն"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Subscription"
+msgstr "Բաժանորդագրություն"
+
+#: 
+msgid "Signin method"
+msgstr "Մեթոդի մեթոդը"
+
+#: 
+msgid "Last login"
+msgstr "Վերջին մուտք"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Ծանուցումները միացված են"
+
+#: 
+msgid "Trial version"
+msgstr "Փորձնական տարբերակ"
+
+#: 
+msgid "day"
+msgstr "օրվա ընթացքում"
+
+#: 
+msgid "Edit"
+msgstr "Խմբագրել"
+
+#: 
+msgid "Inactive"
+msgstr "Անգործուն"
+
+#: 
+msgid "Enabled"
+msgstr "Հասանելի է"
+
+#: 
+msgid "Ref"
+msgstr "Հղիություն"
+
+#: 
+msgid "User"
+msgstr "Օգտվողը"
+
+#: 
+msgid "Order date"
+msgstr "Պատվերի ամսաթիվը"
+
+#: 
+msgid "Exchange"
+msgstr "Փոխանակում"
+
+#: 
+msgid "Pair"
+msgstr "Զույգը"
+
+#: 
+msgid "Type"
+msgstr "Տիպ"
+
+#: 
+msgid "Amount"
+msgstr "Գումարը"
+
+#: 
+msgid "Received"
+msgstr "Ստացված"
+
+#: 
+msgid "Total deducted"
+msgstr "Ընդամենը նվազեցված"
+
+#: 
+msgid "Total received"
+msgstr "Ընդամենը ստացված"
+
+#: 
+msgid "Buy"
+msgstr "Գնել"
+
+#: 
+msgid "Sell"
+msgstr "Վաճառք\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Մետաղադրամների ցանկ"
+
+#: 
+msgid "Market list"
+msgstr "Շուկայական ցուցակ"
+
+#: 
+msgid "Heatmap"
+msgstr "Heatmap"
+
+#: 
+msgid "Price"
+msgstr "Գինը"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Ուղղակի Vol. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Ընդհանուր ծավալը: 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Շուկայի գլխարկը"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Չգ. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24 ժամ բարձր / ցածր"
+
+#: 
+msgid "Dashboard"
+msgstr "Կառավարման վահանակ"
+
+#: 
+msgid "General settings"
+msgstr "Ընդհանուր պարամետրեր"
+
+#: 
+msgid "Coins"
+msgstr "Մետաղադրամներ"
+
+#: 
+msgid "Currencies"
+msgstr "Արժույթներ"
+
+#: 
+msgid "Mail settings"
+msgstr "Փոստի կարգավորումները"
+
+#: 
+msgid "Payment"
+msgstr "Վճարում"
+
+#: 
+msgid "News - Social"
+msgstr "Նորություններ - Սոցիալական"
+
+#: 
+msgid "Intro"
+msgstr "Ներածություն"
+
+#: 
+msgid "Trading"
+msgstr "Առեւտուր"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Լրացուցիչ էջեր"
+
+#: 
+msgid "Today's visits"
+msgstr "Այսօրվա այցերը"
+
+#: 
+msgid "7 days visits"
+msgstr "7 օրյա այցեր"
+
+#: 
+msgid "Number of users"
+msgstr "Օգտագործողների թիվը"
+
+#: 
+msgid "Number of coins"
+msgstr "Մետաղադրամների քանակը"
+
+#: 
+msgid "Last users"
+msgstr "Վերջին օգտագործողները"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Այս կայքը օգտագործում է թխուկներ"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Մեր կայքը օգտագործում է բլիթները, մեր կայքում տեղադրված կայքի թրաֆիկի եւ օգտագործողի գործունեության ուսումնասիրության համար, ընդլայնված եւ արդյունավետ օգտագործողի փորձի, մարքեթինգի եւ սոցիալական լրատվամիջոցների ֆունկցիոնալության ապահովման համար:"
+
+#: 
+msgid "Accept"
+msgstr "Ընդունել"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Քո էլեկտրոնային հասցեն"
+
+#: 
+msgid "Your password"
+msgstr "Քո գաղտնաբառը"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Մոռացել եք գաղտնաբառը ?"
+
+#: 
+msgid "Login"
+msgstr "Մուտք"
+
+#: 
+msgid "or"
+msgstr "կամ"
+
+#: 
+msgid "Create a new account"
+msgstr "Նոր հաշիվ բացել"
+
+#: 
+msgid "practice account"
+msgstr "պրակտիկ հաշիվ"
+
+#: 
+msgid "Symbol"
+msgstr "Խորհրդանիշ"
+
+#: 
+msgid "Last"
+msgstr "Վերջինը"
+
+#: 
+msgid "Chng (%)"
+msgstr "Չինգ (%)"
+
+#: 
+msgid "Profile"
+msgstr "Անձնագիր"
+
+#: 
+msgid "Notification"
+msgstr "Ծանուցում"
+
+#: 
+msgid "Security"
+msgstr "Անվտանգություն"
+
+#: 
+msgid "Logout"
+msgstr "Ելք"
+
+#: 
+msgid "Your name"
+msgstr "Քո անունը"
+
+#: 
+msgid "Language"
+msgstr "Լեզու"
+
+#: 
+msgid "Type chart"
+msgstr "Մուտքագրեք աղյուսակը"
+
+#: 
+msgid "Change your password"
+msgstr "Փոխեք ձեր գաղտնաբառը"
+
+#: 
+msgid "Repeat your password"
+msgstr "Կրկնել ձեր գաղտնաբառը"
+
+#: 
+msgid "Back"
+msgstr "Վերադառնալ"
+
+#: 
+msgid "Validate"
+msgstr "Վավերացրեք"
+
+#: 
+msgid "Title"
+msgstr "Կոչում"
+
+#: 
+msgid "Your website title"
+msgstr "Ձեր կայքի անվանումը"
+
+#: 
+msgid "App description"
+msgstr "Հավելվածի նկարագրությունը"
+
+#: 
+msgid "Referal link"
+msgstr "Ուղղորդող հղումը"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Ձեր հղման հղումը (նախկին `Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Տեխնիկական սպասարկում"
+
+#: 
+msgid "Number format"
+msgstr "Միավորների ձեւաչափը"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Անցկացրեք տրամագրերը, առեւտրային տեսք ունեցող աղյուսակների համար"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Միացնել autolanguage"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Միացնել POEditor լեզուն"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API- ի բանալի"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Ձեր POEditor API- ի բանալի"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor Ծրագրի ընտրացանկը"
+
+#: 
+msgid "Allow signup"
+msgstr "Թույլատրել գրանցումը"
+
+#: 
+msgid "User need verify account"
+msgstr "Օգտվողը պետք է ստուգի հաշիվը"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Անհրաժեշտ է գրավչություն գրանցել"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google- ի Recaptcha կայքի բանալին"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Ձեր Google Recaptcha կայքի բանալին"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google- ի Recaptcha- ի գաղտնի բանալի"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Ձեր Google- ի Recaptcha- ի գաղտնի բանալի"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin հետ google"
+
+#: 
+msgid "Google App ID"
+msgstr "Google հավելվածի ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Ձեր Google App ID- ն"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google հավելվածի գաղտնիքը"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Ձեր Google հավելվածի գաղտնիքը"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin- ը Facebook- ի հետ"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebook հավելվածի ID- ն"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Ձեր Facebook App ID- ն"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook- ի գաղտնիքը"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Ձեր Facebook- ի հավելվածի գաղտնիքը"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics- ը"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Միացնել Google- ի գովազդը"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Գովազդատուին"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Ձեր Google Գովազդատուին"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google Ad Slot"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Ձեր Google գովազդի բնիկը"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Միացնել Cookie թռուցիկը"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Cookie Popup- ի անվանումը"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Ձեր Cookie թռուցիկ վերնագիր"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Cookie բացվող տեքստը"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Ձեր Cookie թռուցիկ տեքստը"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Սեւ ցուցակում գտնվող երկրներ"
+
+#: 
+msgid "Save"
+msgstr "Պահել"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Թույլատրել օգտվողին փոխել աղյուսակը"
+
+#: 
+msgid "Done !"
+msgstr "Կատարած !"
+
+#: 
+msgid "quantity"
+msgstr "քանակությամբ"
+
+#: 
+msgid "Enable native trading"
+msgstr "Միացնել հայրենի առեւտուրը"
+
+#: 
+msgid "Balance configuration"
+msgstr "Հավասարակշռության կարգավորում"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Ցույց տալ հաշվեկշռի գնահատումը"
+
+#: 
+msgid "User user currency select"
+msgstr "User currency currency Ընտրել լեզուն"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Ցույց տալ հաշվեկշռի գնահատումը"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Ուղղորդական համակարգի կարգավորում"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Միացնել հղումը (հայրենի առեւտրի անհրաժեշտությունը միացված է)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Ուղղորդող հանձնաժողով ($, ֆիքսված գումար)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Ուղղորդող հանձնաժողովը ($, ֆիքսված գումարի չափով) նախկինում `երբ հղումը գրանցվում է եւ իրական կանխիկ գումարով, 5 $ (արժեքը` 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Ավանդի կարգավորում"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Ավանդի վճարները (% -ով)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Ավանդի նվազագույն չափը ($)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Ավանդի առավելագույն չափը ($)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Ավանդային արժույթները թույլատրվում են"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Ավանդի դրամապանակն ընդունվում է (եթե դրամապանակի իրական արժույթը չի գործում)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Դադարեցնել կոնֆիգուրացիան"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Հանել նվազագույնը ($)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Ժամկետը վերադարձնելը (օրվա ընթացքում)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Հեռացնել վերամշակման ժամանակը (օրվա ընթացքում) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Առեւտրային կարգավորում"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Առեւտրային վճարներ (% -ով)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Պատվիրատուի տեղեկանքի օրինակ"
+
+#: 
+msgid "Real account configuration"
+msgstr "Իրական հաշվի կոնֆիգուրացիա"
+
+#: 
+msgid "Enable real account"
+msgstr "Միացնել իրական հաշիվը"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Պրակտիկ հաշվի կարգավորում"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Առավելագույն անվճար ավանդ ($)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Առավելագույն անվճար ավանդը ($) `10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Անվճար ավանդի դրամապանակ"
+
+#: 
+msgid "Ref."
+msgstr "Հղիություն."
+
+#: 
+msgid "Submited date"
+msgstr "Ներկայացված ամսաթիվը"
+
+#: 
+msgid "Status"
+msgstr "Կարգավիճակը"
+
+#: 
+msgid "Document name"
+msgstr "Փաստաթղթի անվանումը"
+
+#: 
+msgid "Documents"
+msgstr "Փաստաթղթեր"
+
+#: 
+msgid "Not processed"
+msgstr "Չվերանորոգված"
+
+#: 
+msgid "Processed"
+msgstr "Վերամշակված"
+
+#: 
+msgid "Payment success"
+msgstr "Վճարման հաջողությունը"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Վճարման տեղեկանքի օրինակ"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Միացնել SMTP- ը"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP Server"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Ձեր SMTP սերվերի սերվերը"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP պորտը"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Ձեր SMTP նավահանգիստը"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP Անվտանգություն"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP օգտագործողը"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Ձեր SMTP օգտվողը"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP Գաղտնաբառ"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Ձեր SMTP գաղտնաբառը"
+
+#: 
+msgid "Email sender name"
+msgstr "Էլփոստի ուղարկողի անունը"
+
+#: 
+msgid "Support mail"
+msgstr "Աջակցություն փոստ"
+
+#: 
+msgid "Support Phone"
+msgstr "Աջակցություն հեռախոսը"
+
+#: 
+msgid "Support phone"
+msgstr "Աջակցեք հեռախոսը"
+
+#: 
+msgid "Support Address"
+msgstr "Աջակցություն հասցեն"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO փոստ"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO հեռախոսը"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO հեռախոսը"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Ուղարկել փոստը"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Բարի գալուստ փոստ թեմա"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Օրացույցի հավատարմագրերը"
+
+#: 
+msgid "Enable calendar"
+msgstr "Միացնել օրացույցը"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Օրացույց Հաճախորդի ID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Ձեր օրացույցի Հաճախորդի ID- ն"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Օրացույց Հաճախորդի գաղտնիքը"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Միայն ցույց տվեք միջոցառումներ `թույլ մետաղադրամների վերաբերյալ"
+
+#: 
+msgid "News feed"
+msgstr "Լրահոս"
+
+#: 
+msgid "Add news feed"
+msgstr "Ավելացնել նորությունների հղում"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Ձեր RSS հոսքի հղումը"
+
+#: 
+msgid "Add"
+msgstr "Ավելացնել"
+
+#: 
+msgid "Name feed"
+msgstr "Անվան feed"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter հաշիվներ"
+
+#: 
+msgid "Add twitter account"
+msgstr "Ավելացնել twitter հաշիվ"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter անունը"
+
+#: 
+msgid "without"
+msgstr "առանց"
+
+#: 
+msgid "Social name"
+msgstr "Սոցիալական անունը"
+
+#: 
+msgid "Created date"
+msgstr "Ստեղծված ամսաթիվը"
+
+#: 
+msgid "Amount paid"
+msgstr "Վճարված գումարը"
+
+#: 
+msgid "Wallet received"
+msgstr "Դրամապանակը ստացավ"
+
+#: 
+msgid "Amount received"
+msgstr "Ստացված գումարը"
+
+#: 
+msgid "Payment gateway"
+msgstr "Վճարման դարպաս"
+
+#: 
+msgid "Proof"
+msgstr "Ապացույց"
+
+#: 
+msgid "Modify balance"
+msgstr "Փոփոխել հավասարակշռությունը"
+
+#: 
+msgid "Select balance"
+msgstr "Ընտրեք հաշվեկշռ"
+
+#: 
+msgid "Modification type"
+msgstr "Փոփոխության տեսակը"
+
+#: 
+msgid "Modification value"
+msgstr "Փոփոխության արժեքը"
+
+#: 
+msgid "Add modification"
+msgstr "Փոփոխություն ավելացրեք"
+
+#: 
+msgid "Card"
+msgstr "Քարտը"
+
+#: 
+msgid "Balances"
+msgstr "Մնացորդները"
+
+#: 
+msgid "Remove"
+msgstr "Հեռացնել"
+
+#: 
+msgid "Last location"
+msgstr "Վերջին վայրը"
+
+#: 
+msgid "Currency use"
+msgstr "Արժույթի օգտագործումը"
+
+#: 
+msgid "Signup with"
+msgstr "Գրանցվելիս հետ"
+
+#: 
+msgid "Identity verification"
+msgstr "Ինքնության ստուգում"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 քայլի հավաստագրում"
+
+#: 
+msgid "User status"
+msgstr "Օգտագործողի կարգավիճակը"
+
+#: 
+msgid "Login history"
+msgstr "Մուտքային պատմություն"
+
+#: 
+msgid "More details"
+msgstr "Ավելի մանրամասն"
+
+#: 
+msgid "Deposit history"
+msgstr "Ավանդի պատմությունը"
+
+#: 
+msgid "Total"
+msgstr "Ընդամենը"
+
+#: 
+msgid "Value in BTC"
+msgstr "Արժեքը BTC- ում"
+
+#: 
+msgid "Value in USD"
+msgstr "USD- ի արժեքը"
+
+#: 
+msgid "Withdraw method"
+msgstr "Հանել մեթոդ"
+
+#: 
+msgid "Date"
+msgstr "Ամսաթիվ"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Հարցրեք լայնությունը"
+
+#: 
+msgid "WITHDRAW"
+msgstr "ՀԵՏԱԴԱՐՁ ԿԱՊ"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "բանկային փոխանցում"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Ընտրեք ստացողի հաշիվը"
+
+#: 
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+#: 
+msgid "Next"
+msgstr "Հաջորդը"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Ծանուցումը կազմաձեւված է:"
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Ձեր PushBullet Access Token- ը"
+
+#: 
+msgid "Remove token"
+msgstr "Հեռացնել նշան"
+
+#: 
+msgid "You are premium !"
+msgstr "Դուք պրեմիում եք:"
+
+#: 
+msgid "left"
+msgstr "ձախ"
+
+#: 
+msgid "Main settings"
+msgstr "Հիմնական պարամետրերը"
+
+#: 
+msgid "Period"
+msgstr "Ժամանակաշրջան"
+
+#: 
+msgid "Colour"
+msgstr "Գույնը"
+
+#: 
+msgid "Thickness"
+msgstr "Հաստություն"
+
+#: 
+msgid "Reset"
+msgstr "Վերագործարկեք"
+
+#: 
+msgid "Apply"
+msgstr "Դիմել"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Ընդգրկել ձեր Google Authenticator Code- ը"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Մուտքագրեք ձեր Google Authenticator Code- ը"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Հաշվեկշիռը գնահատվում է ավելի քան 0.001 BTC- ից"
+
+#: 
+msgid "Hide small balance"
+msgstr "Թաքցնել փոքր հավասարակշռությունը"
+
+#: 
+msgid "Estimate value"
+msgstr "Գնահատեք արժեքը"
+
+#: 
+msgid "Value in"
+msgstr "Արժեքը"
+
+#: 
+msgid "Deposit"
+msgstr "Ավանդը"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google Authentification- ը միացված է:"
+
+#: 
+msgid "Set as done"
+msgstr "Սահմանել որպես արված"
+
+#: 
+msgid "Close"
+msgstr "փակել"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google Authenticator կոդն անվավեր է"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Դուք կստանաք էլփոստի հաստատման հաստատում էլ. Փոստով"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, User ID, Type, Արտարժույթ"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Լայնության տրոհման ֆիլտր"
+
+#: 
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgid "Not confirmed"
+msgstr "Հաստատված չէ"
+
+#: 
+msgid "Done"
+msgstr "Կատարած"
+
+#: 
+msgid "Payment filter"
+msgstr "Վճարման ֆիլտր"
+
+#: 
+msgid "Need to be approved"
+msgstr "Պետք է հաստատել"
+
+#: 
+msgid "Paid"
+msgstr "Վճարված"
+
+#: 
+msgid "Not paid"
+msgstr "Չվճարված"
+
+#: 
+msgid "All payments"
+msgstr "Բոլոր վճարումները"
+
+#: 
+msgid "Ask a proof"
+msgstr "Հարցրեք ապացույց"
+
+#: 
+msgid "Bank ref."
+msgstr "Բանկի հրատարակում"
+
+#: 
+msgid "Proof received"
+msgstr "Ստացված ստացումը"
+
+#: 
+msgid "In pending"
+msgstr "Մինչեւ սպասում"
+
+#: 
+msgid "All widthdraw"
+msgstr "Բոլոր widthdraw"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Հղգրտի հղումից հանելու համար"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Հեռացնել ֆիլտրը"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Հեռացնել տեղեկությունները"
+
+#: 
+msgid "year"
+msgstr "տարի"
+
+#: 
+msgid "month"
+msgstr "ամիս"
+
+#: 
+msgid "week"
+msgstr "շաբաթ"
+
+#: 
+msgid "hour"
+msgstr "ժամ"
+
+#: 
+msgid "minute"
+msgstr "րոպե"
+
+#: 
+msgid "second"
+msgstr "երկրորդը"
+
+#: 
+msgid "ago"
+msgstr "առաջ"
+
+#: 
+msgid "Bank transfert"
+msgstr "Բանկային փոխանցում"
+
+#: 
+msgid "Deposit amount"
+msgstr "Ավանդի գումարը"
+
+#: 
+msgid "Fill up"
+msgstr "Լրացրեք"
+
+#: 
+msgid "It's free"
+msgstr "Դա անվճար է"
+
+#: 
+msgid "You will receive"
+msgstr "Դուք կստանաք"
+
+#: 
+msgid "Add real funds"
+msgstr "Ավելացնել իրական միջոցներ"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Նվազագույն ավանդ"
+
+#: 
+msgid "Enable credit card"
+msgstr "Միացնել վարկային քարտը"
+
+#: 
+msgid "Stipe private key"
+msgstr "Կպցնել մասնավոր բանալին"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Ձեր շերտ API- ի բանալի"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Միացնել Paypal- ը"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Միացնել Paypal Live ռեժիմը"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal հաճախորդի ID- ն"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Ձեր paypal հաճախորդի ID- ն"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal- ի հաճախորդի գաղտնիքը"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Ձեր paypal հաճախորդի գաղտնիքը"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Միացնել Փլոմոննիկներին"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomics- ի գաղտնի բանալին"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Ձեր բլոկոնոմիկայի գաղտնի բանալին"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Միացնել Fortumo- ը"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo Secret բանալին"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Ձեր գաղտնի գաղտնի բանալին"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo ծառայության բանալին"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Ձեր սպասարկման ծառայության բանալին"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Միացնել Coingate- ը"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Միացնել CoinGate- ի կենդանի ռեժիմը"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token- ը"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Ձեր CoinGate Auth Token- ը"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate- ը ստանում է արժույթ"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Միացնել վճարումները"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Մանրածախ վճարումներ հանրային բանալին"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Ձեր մետաղադրամների հրապարակային բանալին"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Մանրածախ վճարումներ մասնավոր բանալին"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Ձեր Coinpayments մասնավոր բանալին"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand ID- ն"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Ձեր մանրածախ վճարները Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Նվիրատվություններ IPN գաղտնիքը"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Ձեր Coinpayments IPN գաղտնիքը"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Թույլատրել Rave Flutterwave վճարումը"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Sandbox- ի ռեժիմը Rave Flutterwave- ը"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave հանրային բանալին"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Ձեր Rave Flutterwave հրապարակային բանալին"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave- ի գաղտնի բանալին"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Ձեր Rave Flutterwave գաղտնի բանալին"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Ռայֆ Ֆլուտերվավի վճարման վերնագիրը"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Ձեր Rave Flutterwave Վճարման տիտղոսը"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave վճարային նախածանցը"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Ձեր Rave Flutterwave վճարային նախածանցը (նախկին KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Ակտիվացրեք Coinbase Commerce վճարումը"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase առեւտրի API- ի բանալի"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Ձեր Coinbase առեւտրի API- ի բանալի"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase առեւտրի Վճարման անվանումը"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Ձեր Coinbase առեւտրի Վճարման տիտղոսը"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Միացնել Մոլին"
+
+#: 
+msgid "Mollie Key"
+msgstr "Մոլի Քեյը"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Ձեր Mollie Key"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Միացնել Payeer- ը"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Payeer խանութի ID- ն"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Ձեր Payeer խանութի ID- ն"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payerer API- ի բանալի"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Ձեր Payeer API- ի ստեղնը"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Միացնել բանկային փոխանցումը"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Բանկը միաժամանակ փոխանցում է առավելագույնը"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Բանկի փոխանցման ապացույցը միացված է"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Բանկը փոխանցում է առավելագույն ապացույց"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Ձեր Երկվորյակ բանալին"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Ձեր Երկվորյակ Գաղտնիքը"
+
+#: 
+msgid "Select your platform"
+msgstr "Ընտրեք ձեր հարթակը"
+
+#: 
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: 
+msgid "Live"
+msgstr "Live"
+
+#: 
+msgid "Cron time"
+msgstr "Cron Time- ը"
+
+#: 
+msgid "Last update"
+msgstr "Վերջին թարմացումը"
+
+#: 
+msgid "Sync delay"
+msgstr "Համաժամեցման ուշացում"
+
+#: 
+msgid "Add additional page"
+msgstr "Լրացուցիչ էջ ավելացրեք"
+
+#: 
+msgid "Page name"
+msgstr "Էջի անունը"
+
+#: 
+msgid "Page URL"
+msgstr "Էջի URL- ը"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Էջի պատկերակ (նախկին `lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Կամ էջի պատկերակ svg"
+
+#: 
+msgid "Icon"
+msgstr "Icon"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG նկարը"
+
+#: 
+msgid "Enable"
+msgstr "Միացնել"
+
+#: 
+msgid "Disable"
+msgstr "Անջատեք"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Ստեղծեք նոր բանկային փոխանցում"
+
+#: 
+msgid "Pending"
+msgstr "Սպասում"
+
+#: 
+msgid "Details"
+msgstr "Մանրամասները"
+
+#: 
+msgid "Verified"
+msgstr "Ստուգված"
+
+#: 
+msgid "Canceled"
+msgstr "Չեղարկված է"
+
+#: 
+msgid "Declined"
+msgstr "Ընդունված է"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Ձեր Hitbtc բանալին"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Ձեր Hitbtc- ի գաղտնիքը"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Ձեր Bitbank Key- ը"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Ձեր բիԲանկի գաղտնիքը"
+
+#: 
+msgid "User level"
+msgstr "Օգտվողի մակարդակը"
+
+#: 
+msgid "Expire in"
+msgstr "Սպասեք"
+
+#: 
+msgid "Back to login"
+msgstr "Վերադառնալ մուտք գործել"
+
+#: 
+msgid "Let's go !"
+msgstr "Գնացինք !"
+
+#: 
+msgid "Welcome"
+msgstr "Բարի գալուստ"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Եկեք միասին կազմեք ձեր վահանակը:"
+
+#: 
+msgid "Select your language"
+msgstr "Ընտրեք ձեր լեզուն"
+
+#: 
+msgid "Select your currency"
+msgstr "Ընտրեք ձեր արժույթը"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Ընտրեք ձեր սիրած ծպտյալը"
+
+#: 
+msgid "left need to be selected"
+msgstr "ձախ կողմը պետք է ընտրվի"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Կազմաձեւումը ավարտված է:"
+
+#: 
+msgid "will now refresh"
+msgstr "այժմ թարմացվելու է"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Կատարել Perfect Money վճարումը"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Perfect Money Payee հաշիվ"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Ձեր Perfect Money Payee հաշիվ"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Բջջային, զննարկիչ, պատուհանների ծանուցումներ"
+
+#: 
+msgid "Create price alert"
+msgstr "Ստեղծել գինը զգոն"
+
+#: 
+msgid "I need help !"
+msgstr "Ես օգնության կարիք ունեմ !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Ներբեռնեք PushBullet ծրագիրը ձեր հեռախոսում (հասանելի է Android եւ iOS- ի համար)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Ստեղծեք հաշիվ"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Կապվեք ձեր նոր հաշվի հետ"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Անցեք <b> Պարամետրեր </ b>> <b> Հաշիվ </ b> եւ ստեղծեք <b> Մուտքի նշան </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Կտտացրեք բանալին եւ տեղադրեք այն լրացնելով եւ սեղմեք պահպանում:"
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Ուղերձը կուղարկվի, եթե ստուգման հաջողությունը ստուգվի:"
+
+#: 
+msgid "Premium wait you !"
+msgstr "Պրեմիում սպասեք ձեզ:"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "2000-ից ավելի ծածկագրային արժույթներ"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Զգուշացեք, երբ ցուցանիշը աճում է կամ ընկնում"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Բջջային եւ պլանշետային պատասխանի վերաբերյալ"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Նույն տեղում եւ նորություններ"
+
+#: 
+msgid "Support"
+msgstr "Աջակցություն"
+
+#: 
+msgid "Phone"
+msgstr "Հեռ"
+
+#: 
+msgid "Address"
+msgstr "Հասցե"
+
+#: 
+msgid "Contact DPO"
+msgstr "Կապնվեք DPO- ով"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Ձեր բանալին բանալին"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Ձեր գաղտնի գաղտնիքը"
+
+#: 
+msgid "Cardholder name"
+msgstr "Քարտապանի անունը"
+
+#: 
+msgid "Card number"
+msgstr "Քարտի համար"
+
+#: 
+msgid "Expiration"
+msgstr "Ժամկետանց ժամկետը"
+
+#: 
+msgid "CCV"
+msgstr "CCV- ն"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "Ցույց տալ ոչ մի կարգ"
+
+#: 
+msgid "Premium"
+msgstr "Հավելավճար"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Ստուգեք ձեր նույնականությունը"
+
+#: 
+msgid "Estimate balance"
+msgstr "Հաշվեկշռի հաշվարկ"
+
+#: 
+msgid "5m"
+msgstr "5 մ"
+
+#: 
+msgid "1m"
+msgstr "1 մ"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7 դ"
+
+#: 
+msgid "1d"
+msgstr "1 դ"
+
+#: 
+msgid "12h"
+msgstr "12 ժ"
+
+#: 
+msgid "2h"
+msgstr "2 ժ"
+
+#: 
+msgid "1h"
+msgstr "1 ժ"
+
+#: 
+msgid "30min"
+msgstr "30 րոպե"
+
+#: 
+msgid "Candlestick"
+msgstr "Մոմակալ"
+
+#: 
+msgid "Line"
+msgstr "Line"
+
+#: 
+msgid "Indicators"
+msgstr "Ցուցանիշներ"
+
+#: 
+msgid "Export"
+msgstr "Արտահանումը"
+
+#: 
+msgid "Alert"
+msgstr "Զգուշացում"
+
+#: 
+msgid "Drawing"
+msgstr "Նկարչություն"
+
+#: 
+msgid "Trend Line"
+msgstr "Trend Line- ը"
+
+#: 
+msgid "Text"
+msgstr "Տեքստ"
+
+#: 
+msgid "Create a new alert"
+msgstr "Ստեղծել նոր զգուշացում"
+
+#: 
+msgid "% Fees"
+msgstr "Վճարները"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Cryptocurrency արտոնագրի համաձայնագիր"
+
+#: 
+msgid "Decline"
+msgstr "Անհրաժեշտություն"
+
+#: 
+msgid "Agree"
+msgstr "Համաձայնվել"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Cryptocurrency ավանդային պայմանագիր"
+
+#: 
+msgid "Enable news popup"
+msgstr "Միացնել նորությունների թռուցիկները"
+
+#: 
+msgid "News popup title"
+msgstr "Նորություններ թռուցիկ վերնագիր"
+
+#: 
+msgid "Your news popup title"
+msgstr "Ձեր նորությունների թռուցիկ վերնագիր"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Նորություններ թռուցիկ տեսահոլովակ (դրված չէ տեսանյութի ցուցադրման համար)"
+
+#: 
+msgid "News popup description"
+msgstr "Նորություններ թռուցիկ նկարագրություն"
+
+#: 
+msgid "Advert users"
+msgstr "Գովազդի օգտվողներ"
+
+#: 
+msgid "Enable intro"
+msgstr "Միացնել ներդրումը"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Կանխավճար (% -ով)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Արտարժույթի փոխանակման ժամանակ բանկի փոխանցման զգուշացումը գաղտնի-արտարժույթ չէ"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Բանկային փոխանցման թույլտվության համար թույլատրված Cryptocurrency- ը"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Հաշվեկշռի հաշվարկը"
+
+#: 
+msgid "Edit profile"
+msgstr "Խմբագրել պրոֆիլը"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Բանկի փոխանցման ավանդային պայմանագիր"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomics վճարային վճարները (% -ով)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Ձեր բլոկոնոմիկայի վճարման վճարները (% -ով)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Կորպորատիվ վճարային վճարներ (% -ով)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Ձեր ֆյուչերսային վճարները (%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate վճարային վճարներ (% -ով)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Ձեր ծավալի վճարման վճարները (% -ով)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Մանրածախ վճարումներ Վճարներ (% -ով)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Ձեր մուծումների վճարման վճարները (% -ով)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Վճարել տուրք վճարել (% -ով)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Ձեր խառնաշփոթի վճարման վճարները (%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase- ի առեւտրի վճարում տուրք (% -ով)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Ձեր coinbase առեւտրի վճարման վճարները (% -ով)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Մոլլի վճարման վճարներ (% -ով)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Your mollie վճարային վճար (%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Payer վճարման վճարներ (% -ով)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Ձեր վճարողի վճարման վճարները (% -ով)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Բանկային փոխանցման վճարներ Վճարները (% -ով)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Ձեր բանկային փոխանցման վճարները (% -ով)"
+
+#: 
+msgid "Add new"
+msgstr "Ավելացնել նոր"
+
+#: 
+msgid "Bank accounts"
+msgstr "Բանկային հաշիվներ"
+
+#: 
+msgid "Add new bank account"
+msgstr "Նոր բանկային հաշիվ ավելացրեք"
+
+#: 
+msgid "Bank account name"
+msgstr "Բանկի հաշվի անունը"
+
+#: 
+msgid "Your bank account name"
+msgstr "Ձեր բանկային հաշվի անունը"
+
+#: 
+msgid "Bank account currency"
+msgstr "Բանկային հաշվի արժույթը"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "IBAN բանկային հաշիվ"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Բանկային հաշիվ BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Ձեր բանկային հաշիվ BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Բանկի հաշվի հասցեն"
+
+#: 
+msgid "Your bank account address"
+msgstr "Ձեր բանկային հաշվի հասցեն"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Բանկի հաշվի սեփականատիրոջ անունը"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Ձեր բանկային հաշվի սեփականատիրոջ անունը"
+
+#: 
+msgid "* This is optional"
+msgstr "* Սա պարտադիր է"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Ձեր բանկային հաշվի արժույթը"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Ձեր բանկային հաշիվ IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Ջնջել"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Դուք կարող եք ընտրել «Page icon» եւ «Page icon svg» (Էջի պատկերակն առաջնահերթ է) - Ցուցակ սրբապատկերներ այստեղ"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Դուք կստանաք էլ.փոստի հաստատում"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Խնդրում ենք հետեւել այս քայլին, ձեր դուրս գալու պահանջը լրացնելու համար:"
+
+#: 
+msgid "You need to have at least"
+msgstr "Դուք պետք է ունենաք առնվազն"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Դուք չունեք լցված հավասարակշռություն"
+
+#: 
+msgid "Total in "
+msgstr "Ընդհանուր առմամբ"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Դուք պետք է setup widthdraw մեթոդը"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Բանկային հաշիվ BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Ձեր բանկային հաշիվ BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Օրվա տեսականի\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Բաց օր"
+
+#: 
+msgid "Volume 24H"
+msgstr "Ուղղակի ծավալ"
+
+#: 
+msgid "Direct Volume"
+msgstr "Ուղղակի ծավալ"
+
+#: 
+msgid "Load more data"
+msgstr "Ավելացրեք ավելի շատ տվյալներ"
+
+#: 
+msgid "Qty"
+msgstr "Քանակ"
+
+#: 
+msgid "Gain"
+msgstr "Գնելու"
+
+#: 
+msgid "Price buy"
+msgstr "Գինը գնում է"
+
+#: 
+msgid "Disable chat"
+msgstr "Անջատել զրույցը"
+
+#: 
+msgid "Total gain"
+msgstr "Ընդհանուր շահույթ"
+
+#: 
+msgid "Confirmation"
+msgstr "Հաստատում"
+
+#: 
+msgid "Unit price"
+msgstr "Միավոր գինը"
+
+#: 
+msgid "Investment"
+msgstr "Ներդրումներ"
+
+#: 
+msgid "Quantity"
+msgstr "Քանակ"
+
+#: 
+msgid "Commission"
+msgstr "Հանձնաժողովը"
+
+#: 
+msgid "Confirm buying"
+msgstr "Հաստատեք գնելու"
+
+#: 
+msgid "New user"
+msgstr "Նոր օգտատեր"
+
+#: 
+msgid "Order passed"
+msgstr "Պատվերը հանձնվել է"
+
+#: 
+msgid "New subscription"
+msgstr "Նոր բաժանորդագրություն"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Ցույց տվեք ստացողի տեղեկատվությունը:"
+
+#: 
+msgid "Process"
+msgstr "Գործընթացը"
+
+#: 
+msgid "Hide details"
+msgstr "Թաքցնել մանրամասները"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Միացրեք բաժանորդագրությունները"
+
+#: 
+msgid "Enable free trial"
+msgstr "Միացնել անվճար փորձաշրջանը"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Ազատ դատավարության տեւողությունը (օրվա ընթացքում)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Ազատ դատավարության տեւողությունը"
+
+#: 
+msgid "Premium features"
+msgstr "Պրեմիում առանձնահատկություններ"
+
+#: 
+msgid "Free users features"
+msgstr "Ազատ օգտագործողների առանձնահատկությունները"
+
+#: 
+msgid "Add a new plan"
+msgstr "Ավելացրեք նոր ծրագիր"
+
+#: 
+msgid "Name plan"
+msgstr "Անուն պլան"
+
+#: 
+msgid "Price total"
+msgstr "Գինը `ընդհանուր"
+
+#: 
+msgid "Duration in days"
+msgstr "Ժամանակի տեւողությունը"
+
+#: 
+msgid "Duration"
+msgstr "Տեւողությունը"
+
+#: 
+msgid "Add this plan"
+msgstr "Ավելացնել այս ծրագիրը"
+
+#: 
+msgid "Plans available"
+msgstr "Պլանները մատչելի են"
+
+#: 
+msgid "Price plan"
+msgstr "Գնային պլան"
+
+#: 
+msgid "Duration in month"
+msgstr "Տեւողությունը ամիսը"
+
+#: 
+msgid "Price per month"
+msgstr "Գինը մեկ ամսվա համար"
+
+#: 
+msgid "Account"
+msgstr "Հաշիվ"
+
+#: 
+msgid "Exchanges"
+msgstr "Փոխանակում"
+
+#: 
+msgid "Total Free"
+msgstr "Ընդհանուր անվճար"
+
+#: 
+msgid "Total Used"
+msgstr "Ընդհանուր օգտագործված"
+
+#: 
+msgid "Order Ref."
+msgstr "Պատվիրել"
+
+#: 
+msgid "Ordered price"
+msgstr "Պատվիրված գինը"
+
+#: 
+msgid "Current price"
+msgstr "Ընթացիկ գինը"
+
+#: 
+msgid "Evolution"
+msgstr "Էվոլյուցիա"
+
+#: 
+msgid "Enable identity system"
+msgstr "Միացնել ինքնության համակարգը"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Բլոկների վաճառք, առանց ինքնության հաստատման"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Block կանխավճար `առանց ինքնության հաստատման"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Արգելափակել առանց ինքնության հաստատման"
+
+#: 
+msgid "Approve"
+msgstr "Հաստատեք"
+
+#: 
+msgid "Identity ID"
+msgstr "Ինքնության ID"
+
+#: 
+msgid "Identity step name"
+msgstr "Անհատականության քայլի անունը"
+
+#: 
+msgid "Identity step description"
+msgstr "Անհատականության քայլի նկարագրություն"
+
+#: 
+msgid "Identity order"
+msgstr "Ինքնության կարգը"
+
+#: 
+msgid "Down order"
+msgstr "Դեպի պատվեր"
+
+#: 
+msgid "Up order"
+msgstr "Մինչեւ պատվերը"
+
+#: 
+msgid "Add new identity step"
+msgstr "Ավելացնել նոր ինքնության քայլ"
+
+#: 
+msgid "Your step name"
+msgstr "Ձեր քայլի անունը"
+
+#: 
+msgid "Your step description"
+msgstr "Ձեր քայլի նկարագրությունը"
+
+#: 
+msgid "Identity step type"
+msgstr "Անհատականության քայլի տեսակը"
+
+#: 
+msgid "Upload new document"
+msgstr "Վերբեռնեք նոր փաստաթուղթ"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Ընտրեք փաստաթղթի տեսակի ցանկում"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Թույլ է տալիս ինքնության վերբեռնումը տեսախցիկով"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Տեսախցիկի փաստաթղթերի հարաբերակցությունը"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Ration (լայնություն / բարձրություն)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Հարաբերակցություն (լայնություն / բարձրություն)"
+
+#: 
+msgid "Document identity list"
+msgstr "Փաստաթղթերի ինքնության ցանկ"
+
+#: 
+msgid "Add new identity document"
+msgstr "Ավելացնել նոր ինքնության փաստաթուղթ"
+
+#: 
+msgid "Your document name"
+msgstr "Ձեր փաստաթղթի անունը"
+
+#: 
+msgid "My Holding"
+msgstr "Իմ հոլդինգը"
+
+#: 
+msgid "Holding"
+msgstr "Հոլդինգ"
+
+#: 
+msgid "Market Value"
+msgstr "Շուկայական արժեքը"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Profit / Loss"
+
+#: 
+msgid "Wallet"
+msgstr "Դրամապանակ"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Վավերացրեք բանկային փոխանցումը"
+
+#: 
+msgid "Transfert received date"
+msgstr "Փոխանցման ստացում ամսաթիվը"
+
+#: 
+msgid "Bank account received"
+msgstr "Բանկային հաշիվ ստացվեց"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Բանկի փոխանցման տեղեկանք"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Բանկային հաշվի ստացված գումար"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Օգտագործողի հաշվին փոխանցված գումարը"
+
+#: 
+msgid "User will receive"
+msgstr "Օգտվողը կստանա"
+
+#: 
+msgid "Dark"
+msgstr "Dark"
+
+#: 
+msgid "White"
+msgstr "Սպիտակ"
+
+#: 
+msgid "Enable Donation"
+msgstr "Միացնել նվիրատվությունը"
+
+#: 
+msgid "Donation text"
+msgstr "Նվիրատվության տեքստը"
+
+#: 
+msgid "Your donation text"
+msgstr "Ձեր նվիրատվության տեքստը"
+
+#: 
+msgid "Donation address list"
+msgstr "Նվիրատվության հասցեների ցանկ"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Ներդրեք մեկ հասցեի մեկ գիծ"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Line ձեւաչափը `BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "ԿՈՄՊՈԶԻՉԸ ՄԵՐ ՄԵՔԵՆԱՆԵՐԻՆ ԵՎ ԱՋԱԿՑԵԼ ԱՄՆ-ՈՒՄ"
+
+#: 
+msgid "Transactions history"
+msgstr "Գործարքների պատմությունը"
+
+#: 
+msgid "Description"
+msgstr "Նկարագրություն"
+
+#: 
+msgid "Reference ..."
+msgstr "Հղում ..."
+
+#: 
+msgid "Reference"
+msgstr "Հղում"
+
+#: 
+msgid "deposit"
+msgstr "ավանդը"
+
+#: 
+msgid "widthdraw"
+msgstr "լայնությունը"
+
+#: 
+msgid "Dépot"
+msgstr "Դեպրոտ"
+
+#: 
+msgid "Unknown"
+msgstr "Անհայտ"
+
+#: 
+msgid "BUY order done"
+msgstr "ԳՆԵԼ պատվերը"
+
+#: 
+msgid "SELL order done"
+msgstr "SELL կարգը արվել է"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "ՎԱՃԱՌԵԼՈՒ ԿԱՐԳ"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "Գնման պատվեր է կատարել"
+
+#: 
+msgid "Add a new item"
+msgstr "Նոր տարր ավելացրեք"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Ձեր GDAX բանալին"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Ձեր GDAX Pass- ը"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Ձեր GDAX գաղտնիքը"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Ձեր Bitmex ID- ն"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Ձեր Bitmex գաղտնիքը"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Ձեր OKCoin բանալին"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Ձեր OKCoin- ի գաղտնիքը"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Ձեր Luno Key ID- ն"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Ձեր Luno գաղտնիքը"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Ձեր Coinex Key"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Ձեր Coinex- ի գաղտնիքը"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Ձեր Btcmarket բանալին"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Ձեր Btcmarket գաղտնիքը"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Ձեր Livecoin բանալին"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Ձեր Livecoin գաղտնիքը"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Ձեր Quoinex Token ID- ն"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Ձեր Quoinex գաղտնիքը"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Ձեր Exmo բանալին"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Ձեր Exmo Secret- ը"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Ձեր YoBit բանալին"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Ձեր YoBit գաղտնիքը"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Ձեր Kucoin բանալին"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Ձեր Kucoin Անձնական"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Ձեր CEX Key- ը"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Ձեր CEX- ի գաղտնիքը"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Ձեր CEX UID- ը"
+
+#: 
+msgid "My orders"
+msgstr "Իմ պատվերները"
+
+#: 
+msgid "Size"
+msgstr "Չափը"
+
+#: 
+msgid "Limit price"
+msgstr "Սահմանաչափը"
+
+#: 
+msgid "Place buy order"
+msgstr "Տեղադրեք պատվերը"
+
+#: 
+msgid "Place sell order"
+msgstr "Տեղադրել վաճառքի կարգը"
+
+#: 
+msgid "Method"
+msgstr "Մեթոդ"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Դուք պետք է գրանցվեք Coinex- ում"
+
+#: 
+msgid "Enable live trading"
+msgstr "Միացնել կենդանի առեւտուրը"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Մուտքագրեք Coinex- ի հետ"
+
+#: 
+msgid "Week profit"
+msgstr "Շաբաթվա շահույթ"
+
+#: 
+msgid "Leaderboard"
+msgstr "Առաջատար սեղան"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Միացնել առաջատարը (հայրենի առեւտրի անհրաժեշտությունը թույլատրելի է)"
+
+#: 
+msgid "Active"
+msgstr "Ակտիվ"
+
+#: 
+msgid "Every"
+msgstr "Ամեն"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Սկսած զույգը, երբ նոր օգտվողը գրանցում է"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Միայն 1 զույգ թույլատրվում է"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Սկսել ցանկի զույգ դիտելը, երբ նոր օգտվողը գրանցվել է"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 զույգ յուրաքանչյուր գծի համար"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Ֆորմատ: ՇԱԲԱԹ: SYMBOL / CURRENCY"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Դուք պետք է մուտք գործեք Livecoin- ում"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Մուտքագրեք Livecoin- ի հետ"
+
+#: 
+msgid "Email not valid"
+msgstr "Էլ. Փոստը չի գործում"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Դուք պետք է մուտք գործեք Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Մուտքագրեք Yobit- ի հետ"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Հիմք ընդունելով բոլոր դրամապանակները"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Ձեր Poloniex բանալիը"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Ձեր Poloniex գաղտնիքը"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Ձեր փորձարկման տարբերակը ժամկետանց է:"
+
+#: 
+msgid "Become"
+msgstr "Դառնալ"
+
+#: 
+msgid "You will be charged"
+msgstr "Դուք կվճարեք"
+
+#: 
+msgid "for"
+msgstr "համար"
+
+#: 
+msgid "months"
+msgstr "ամիսներով"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Ձեր Քրեյքը ստեղնը"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Ձեր Կրակեն Անձնական"
+
+#: 
+msgid "will be ready for you !"
+msgstr "պատրաստ կլինի ձեզ համար:"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Դուք պետք է մուտք գործեք Binance- ում"
+
+#: 
+msgid "Login with Binance"
+msgstr "Մուտքագրեք Binance- ի հետ"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Դուք պետք է մուտք գործեք Poloniex- ում"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Մուտքագրեք Poloniex- ի հետ"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Դուք պետք է մուտք գործել Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Մուտքագրեք Exmo- ի հետ"
+
+#: 
+msgid "View the article"
+msgstr "Դիտեք հոդվածը"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Ձեր Bittrex բանալին"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Ձեր Bittrex գաղտնիքը"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Դուք պետք է մուտք գործել Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Մուտքագրեք Kraken- ով"
+
+#: 
+msgid "Markets"
+msgstr "Շուկաներ"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Թաքցնել շուկան (հայրենի առեւտրի անհրաժեշտությունը թույլատրելի է)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Թաքցնել պատվերների գիրքը"
+
+#: 
+msgid "Load orders book"
+msgstr "Բեռների պատվերների գիրք"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Ստեղծել ահազանգ, երբ ..."
+
+#: 
+msgid "Price is above"
+msgstr "Գինը բարձր է"
+
+#: 
+msgid "Price is bellow"
+msgstr "Գինը բարձրանում է"
+
+#: 
+msgid "Password not match"
+msgstr "Գաղտնաբառը չի համապատասխանում"
+

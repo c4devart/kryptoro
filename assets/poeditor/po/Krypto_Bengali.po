@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: bn\n"
+
+#: 
+msgid "Real account"
+msgstr "রিয়েল অ্যাকাউন্ট"
+
+#: 
+msgid "Board"
+msgstr "চিত্রলেখ\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "চালু করুন"
+
+#: 
+msgid "chart"
+msgstr "তালিকা\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "চার্ট বা আরো"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "নাম বা প্রতীক দ্বারা অনুসন্ধান করুন"
+
+#: 
+msgid "real account"
+msgstr "বাস্তব অ্যাকাউন্ট\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "সব ভারসাম্য দেখুন"
+
+#: 
+msgid "List accounts"
+msgstr "তালিকা তালিকা\n"
+""
+
+#: 
+msgid "History"
+msgstr "ইতিহাস"
+
+#: 
+msgid "Credit"
+msgstr "ধার"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "আদেশ বই"
+
+#: 
+msgid "Market"
+msgstr "বাজার"
+
+#: 
+msgid "Portfolio"
+msgstr "দফতর"
+
+#: 
+msgid "Leader board"
+msgstr "নেতা বোর্ড"
+
+#: 
+msgid "Calc."
+msgstr "ক্যালক।"
+
+#: 
+msgid "Watching"
+msgstr "পর্যবেক্ষক"
+
+#: 
+msgid "News"
+msgstr "খবর"
+
+#: 
+msgid "Panel"
+msgstr "প্যানেল"
+
+#: 
+msgid "Manager"
+msgstr "ম্যানেজার"
+
+#: 
+msgid "Admin"
+msgstr "অ্যাডমিন"
+
+#: 
+msgid "Converter"
+msgstr "পরিবর্তক"
+
+#: 
+msgid "Social"
+msgstr "সামাজিক"
+
+#: 
+msgid "Calendar"
+msgstr "পাঁজি"
+
+#: 
+msgid "Watchlist"
+msgstr "নজর তালিকা"
+
+#: 
+msgid "Contact us"
+msgstr "আমাদের সাথে যোগাযোগ করুন"
+
+#: 
+msgid "January"
+msgstr "জানুয়ারী"
+
+#: 
+msgid "February"
+msgstr "ফেব্রুয়ারি"
+
+#: 
+msgid "March"
+msgstr "মার্চ"
+
+#: 
+msgid "April"
+msgstr "এপ্রিল"
+
+#: 
+msgid "May"
+msgstr "মে"
+
+#: 
+msgid "June"
+msgstr "জুন"
+
+#: 
+msgid "July"
+msgstr "জুলাই"
+
+#: 
+msgid "August"
+msgstr "অগাস্ট"
+
+#: 
+msgid "September"
+msgstr "সেপ্টেম্বর"
+
+#: 
+msgid "October"
+msgstr "অক্টোবর"
+
+#: 
+msgid "November"
+msgstr "নভেম্বর"
+
+#: 
+msgid "December"
+msgstr "ডিসেম্বর"
+
+#: 
+msgid "Mon."
+msgstr "সোম"
+
+#: 
+msgid "Tue."
+msgstr "Tue."
+
+#: 
+msgid "Wed."
+msgstr "বুধ"
+
+#: 
+msgid "Thu."
+msgstr "Thu."
+
+#: 
+msgid "Fri."
+msgstr "শুক্র"
+
+#: 
+msgid "Sat."
+msgstr "সপ্তাহিক সংক্ষিপ্ত বিবরণ"
+
+#: 
+msgid "Sun."
+msgstr "সূর্যের"
+
+#: 
+msgid "Statistics"
+msgstr "পরিসংখ্যান"
+
+#: 
+msgid "Bank transferts"
+msgstr "ব্যাংক স্থানান্তর"
+
+#: 
+msgid "Payments"
+msgstr "পেমেন্টস্"
+
+#: 
+msgid "Subscriptions"
+msgstr "সাবস্ক্রিপশন"
+
+#: 
+msgid "Identity"
+msgstr "পরিচয়"
+
+#: 
+msgid "Users"
+msgstr "ব্যবহারকারীরা"
+
+#: 
+msgid "Orders"
+msgstr "অর্ডার"
+
+#: 
+msgid "Withdraw"
+msgstr "প্রত্যাহার"
+
+#: 
+msgid "Currency"
+msgstr "মুদ্রা"
+
+#: 
+msgid "Total trade"
+msgstr "মোট বাণিজ্য"
+
+#: 
+msgid "Total deposit"
+msgstr "মোট আমানত"
+
+#: 
+msgid "Total withdraw"
+msgstr "মোট প্রত্যাহার"
+
+#: 
+msgid "Fees"
+msgstr "ফি"
+
+#: 
+msgid "Name"
+msgstr "নাম"
+
+#: 
+msgid "Email"
+msgstr "ইমেইল"
+
+#: 
+msgid "Subscription"
+msgstr "চাঁদা"
+
+#: 
+msgid "Signin method"
+msgstr "সাইনইন পদ্ধতি"
+
+#: 
+msgid "Last login"
+msgstr "শেষ লগইন"
+
+#: 
+msgid "Notifications enabled"
+msgstr "বিজ্ঞপ্তি সক্রিয়"
+
+#: 
+msgid "Trial version"
+msgstr "পরীক্ষামূলক সংস্করণ"
+
+#: 
+msgid "day"
+msgstr "দিন"
+
+#: 
+msgid "Edit"
+msgstr "সম্পাদন করা"
+
+#: 
+msgid "Inactive"
+msgstr "নিষ্ক্রিয়"
+
+#: 
+msgid "Enabled"
+msgstr "সক্ষম করা"
+
+#: 
+msgid "Ref"
+msgstr "সূত্র"
+
+#: 
+msgid "User"
+msgstr "ব্যবহারকারী"
+
+#: 
+msgid "Order date"
+msgstr "অর্ডারের তারিখ"
+
+#: 
+msgid "Exchange"
+msgstr "বিনিময়"
+
+#: 
+msgid "Pair"
+msgstr "যুগল"
+
+#: 
+msgid "Type"
+msgstr "আদর্শ"
+
+#: 
+msgid "Amount"
+msgstr "পরিমাণ"
+
+#: 
+msgid "Received"
+msgstr "গৃহীত"
+
+#: 
+msgid "Total deducted"
+msgstr "মোট কাটা"
+
+#: 
+msgid "Total received"
+msgstr "মোট প্রাপ্ত"
+
+#: 
+msgid "Buy"
+msgstr "কেনা"
+
+#: 
+msgid "Sell"
+msgstr "বিক্রি করা\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "মুদ্রা তালিকা"
+
+#: 
+msgid "Market list"
+msgstr "বাজার তালিকা"
+
+#: 
+msgid "Heatmap"
+msgstr "তাপ মানচিত্র"
+
+#: 
+msgid "Price"
+msgstr "মূল্য"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "সরাসরি ভলিউম। 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "মোট ভলিউম। 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "বাজার টুপি"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg। 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h উচ্চ / নিম্ন"
+
+#: 
+msgid "Dashboard"
+msgstr "ড্যাশবোর্ড"
+
+#: 
+msgid "General settings"
+msgstr "সাধারণ সেটিংস"
+
+#: 
+msgid "Coins"
+msgstr "কয়েন"
+
+#: 
+msgid "Currencies"
+msgstr "মুদ্রা"
+
+#: 
+msgid "Mail settings"
+msgstr "মেইল সেটিংস"
+
+#: 
+msgid "Payment"
+msgstr "পারিশ্রমিক"
+
+#: 
+msgid "News - Social"
+msgstr "খবর - সামাজিক"
+
+#: 
+msgid "Intro"
+msgstr "ইন্ট্রো"
+
+#: 
+msgid "Trading"
+msgstr "লেনদেন"
+
+#: 
+msgid "Cron"
+msgstr "ক্রন"
+
+#: 
+msgid "Additional pages"
+msgstr "অতিরিক্ত পৃষ্ঠা"
+
+#: 
+msgid "Today's visits"
+msgstr "আজকের ভিজিট"
+
+#: 
+msgid "7 days visits"
+msgstr "7 দিন ভিজিট"
+
+#: 
+msgid "Number of users"
+msgstr "ব্যবহারকারীর সংখ্যা"
+
+#: 
+msgid "Number of coins"
+msgstr "কয়েন সংখ্যা"
+
+#: 
+msgid "Last users"
+msgstr "সর্বশেষ ব্যবহারকারীদের"
+
+#: 
+msgid "This website uses cookies"
+msgstr "এই ওয়েবসাইট কুকি ব্যবহার করে"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "আমাদের ওয়েবসাইটটি উন্নত এবং কার্যকরী ব্যবহারকারীর অভিজ্ঞতা, বিপণন এবং সামাজিক মিডিয়া কার্যকারিতা সরবরাহ করার জন্য আমাদের সাইটে সাইট ট্র্যাফিক এবং ব্যবহারকারী ক্রিয়াকলাপ পরীক্ষা করার জন্য কুকিজ ব্যবহার করে।"
+
+#: 
+msgid "Accept"
+msgstr "গ্রহণ করা"
+
+#: 
+msgid "Your e-mail address"
+msgstr "আপনার ইমেইল ঠিকানা"
+
+#: 
+msgid "Your password"
+msgstr "আপনার পাসওয়ার্ড"
+
+#: 
+msgid "Forgot password ?"
+msgstr "পাসওয়ার্ড ভুলে গেছেন ?"
+
+#: 
+msgid "Login"
+msgstr "লগইন"
+
+#: 
+msgid "or"
+msgstr "অথবা"
+
+#: 
+msgid "Create a new account"
+msgstr "একটি নতুন অ্যাকাউন্ট তৈরি করুন"
+
+#: 
+msgid "practice account"
+msgstr "অনুশীলন অ্যাকাউন্ট"
+
+#: 
+msgid "Symbol"
+msgstr "প্রতীক"
+
+#: 
+msgid "Last"
+msgstr "গত"
+
+#: 
+msgid "Chng (%)"
+msgstr "চং (%)"
+
+#: 
+msgid "Profile"
+msgstr "প্রোফাইলের"
+
+#: 
+msgid "Notification"
+msgstr "প্রজ্ঞাপন"
+
+#: 
+msgid "Security"
+msgstr "নিরাপত্তা"
+
+#: 
+msgid "Logout"
+msgstr "প্রস্থান"
+
+#: 
+msgid "Your name"
+msgstr "তোমার নাম"
+
+#: 
+msgid "Language"
+msgstr "ভাষা"
+
+#: 
+msgid "Type chart"
+msgstr "চার্ট লিখুন"
+
+#: 
+msgid "Change your password"
+msgstr "আপনার পাসওয়ার্ড পরিবর্তন করুন"
+
+#: 
+msgid "Repeat your password"
+msgstr "আপনার পাসওয়ার্ড পুনরাবৃত্তি করুন"
+
+#: 
+msgid "Back"
+msgstr "পিছনে"
+
+#: 
+msgid "Validate"
+msgstr "সত্যতা সমর্থন করা"
+
+#: 
+msgid "Title"
+msgstr "খেতাব"
+
+#: 
+msgid "Your website title"
+msgstr "আপনার ওয়েবসাইট শিরোনাম"
+
+#: 
+msgid "App description"
+msgstr "অ্যাপ্লিকেশন বর্ণনা"
+
+#: 
+msgid "Referal link"
+msgstr "রেফারেল লিঙ্ক"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "আপনার রেফারেল লিঙ্ক (উদাঃ চ্যাঞ্জেলি)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "রক্ষণাবেক্ষণ মোড"
+
+#: 
+msgid "Number format"
+msgstr "সংখ্যা বিন্যাস"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "ট্রেডমার্ক চার্ট চার্ট স্যুইচ করুন"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Autolanguage সক্রিয় করুন"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "POEditor ভাষা সক্রিয় করুন"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API কী"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "আপনার POEditor API কী"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor প্রকল্প নির্বাচক"
+
+#: 
+msgid "Allow signup"
+msgstr "সাইনআপ অনুমতি দিন"
+
+#: 
+msgid "User need verify account"
+msgstr "ব্যবহারকারী অ্যাকাউন্ট যাচাই প্রয়োজন"
+
+#: 
+msgid "Need captcha signup"
+msgstr "ক্যাপচা সাইনআপ প্রয়োজন"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "গুগল রিকপচা সাইট কী"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "আপনার গুগল রিকপচা সাইট কী"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "গুগল রিকপচা সিক্রেট কী"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "আপনার গুগল রিকপচা গোপন কী"
+
+#: 
+msgid "Sigin with google"
+msgstr "গুগলের সাথে সিগিন"
+
+#: 
+msgid "Google App ID"
+msgstr "গুগল অ্যাপ আইডি"
+
+#: 
+msgid "Your Google App ID"
+msgstr "আপনার গুগল অ্যাপ আইডি"
+
+#: 
+msgid "Google App Secret"
+msgstr "গুগল অ্যাপ গোপন"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "আপনার গুগল অ্যাপ গোপন"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "ফেসবুকে সিগিন"
+
+#: 
+msgid "Facebook App ID"
+msgstr "ফেসবুক অ্যাপ আইডি"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "আপনার ফেসবুক অ্যাপ আইডি"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "ফেসবুক অ্যাপ সিক্রেট"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "আপনার ফেসবুক অ্যাপ গোপন"
+
+#: 
+msgid "Google Analytics"
+msgstr "গুগল বিশ্লেষক"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "গুগল অ্যাড সক্ষম করুন"
+
+#: 
+msgid "Google Ad Client"
+msgstr "গুগল অ্যাড ক্লায়েন্ট"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "আপনার গুগল অ্যাড ক্লায়েন্ট"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "গুগল অ্যাড স্লট"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "আপনার গুগল অ্যাড স্লট"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "কুকি পপআপ সক্রিয় করুন"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "কুকি পপআপ শিরোনাম"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "আপনার কুকি পপআপ শিরোনাম"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "কুকি পপআপ টেক্সট"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "আপনার কুকি পপআপ টেক্সট"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "কালো তালিকাভুক্ত দেশ"
+
+#: 
+msgid "Save"
+msgstr "সংরক্ষণ করুন"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "ব্যবহারকারীর চার্ট টাইপ সুইচ করার অনুমতি দিন"
+
+#: 
+msgid "Done !"
+msgstr "সম্পন্ন !"
+
+#: 
+msgid "quantity"
+msgstr "পরিমাণ"
+
+#: 
+msgid "Enable native trading"
+msgstr "নেটিভ ট্রেডিং সক্রিয় করুন"
+
+#: 
+msgid "Balance configuration"
+msgstr "ব্যালেন্স কনফিগারেশন"
+
+#: 
+msgid "Show balance estimation"
+msgstr "ব্যালেন্স অনুমান দেখান"
+
+#: 
+msgid "User user currency select"
+msgstr "ব্যবহারকারী ইউজার মুদ্রা নির্বাচন করুন"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "ভারসাম্য অনুমান দেখান"
+
+#: 
+msgid "Referal system configuration"
+msgstr "রেফারেল সিস্টেম কনফিগারেশন"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "রেফারেল সক্ষম করুন (নেটিভ ট্রেডিং সক্রিয় করা প্রয়োজন)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "রেফারাল কমিশন ($, নির্দিষ্ট পরিমাণে)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "রেফারাল কমিশন ($, নির্দিষ্ট পরিমাণে) প্রাক্তন: যখন একটি রেফারেল সাইনআপ এবং প্রকৃত নগদ আমানত হয়, তখন উল্লেখ করুন 5 ডলার (মান = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "আমানত কনফিগারেশন"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "আমানত ফি (%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "সর্বনিম্ন জমা ($ ইন)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "জমা (সর্বোচ্চ $)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "আমানত মুদ্রা অনুমোদিত"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "আমানত ওয়ালেট গ্রহণ (যদি মানিব্যাগ বাস্তব মুদ্রা উপলব্ধ না)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "কনফিগারেশন প্রত্যাহার"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "সর্বনিম্ন প্রত্যাহার ($ ইন)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "প্রক্রিয়াকরণ সময় প্রত্যাহার (দিনের মধ্যে)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "প্রক্রিয়াকরণ সময় প্রত্যাহার (দিন) = প্রাক্তন 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "ট্রেডিং কনফিগারেশন"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "ট্রেডিং ফি (%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "অর্ডার রেফারেন্স প্যাটার্ন"
+
+#: 
+msgid "Real account configuration"
+msgstr "রিয়েল অ্যাকাউন্ট কনফিগারেশন"
+
+#: 
+msgid "Enable real account"
+msgstr "বাস্তব অ্যাকাউন্ট সক্রিয় করুন"
+
+#: 
+msgid "Practice account configuration"
+msgstr "অনুশীলন অ্যাকাউন্ট কনফিগারেশন"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "সর্বাধিক বিনামূল্যে আমানত ($)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "সর্বোচ্চ ফ্রি আমানত ($ ইন) প্রাক্তন: 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "বিনামূল্যে জমা আমানত প্রাপ্তি"
+
+#: 
+msgid "Ref."
+msgstr "সূত্র।"
+
+#: 
+msgid "Submited date"
+msgstr "জমা দিন"
+
+#: 
+msgid "Status"
+msgstr "অবস্থা"
+
+#: 
+msgid "Document name"
+msgstr "নথি নাম"
+
+#: 
+msgid "Documents"
+msgstr "কাগজপত্র"
+
+#: 
+msgid "Not processed"
+msgstr "প্রক্রিয়া করা হয় না"
+
+#: 
+msgid "Processed"
+msgstr "প্রক্রিয়াকৃত"
+
+#: 
+msgid "Payment success"
+msgstr "পেমেন্ট সাফল্য"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "প্রদান রেফারেন্স প্যাটার্ন"
+
+#: 
+msgid "Enable SMTP"
+msgstr "SMTP সক্রিয় করুন"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP সার্ভার"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "আপনার SMTP হোস্ট সার্ভার"
+
+#: 
+msgid "SMTP Port"
+msgstr "এসএমটিপি পোর্ট"
+
+#: 
+msgid "Your SMTP port"
+msgstr "আপনার এসএমটিপি পোর্ট"
+
+#: 
+msgid "SMTP Security"
+msgstr "এসএমপিপি নিরাপত্তা"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP ব্যবহারকারী"
+
+#: 
+msgid "Your SMTP user"
+msgstr "আপনার SMTP ব্যবহারকারী"
+
+#: 
+msgid "SMTP Password"
+msgstr "এসএমপিপি পাসওয়ার্ড"
+
+#: 
+msgid "Your SMTP password"
+msgstr "আপনার এসএমটিপি পাসওয়ার্ড"
+
+#: 
+msgid "Email sender name"
+msgstr "ইমেল প্রেরকের নাম"
+
+#: 
+msgid "Support mail"
+msgstr "সাপোর্ট মেইল"
+
+#: 
+msgid "Support Phone"
+msgstr "সাপোর্ট ফোন"
+
+#: 
+msgid "Support phone"
+msgstr "সাপোর্ট ফোন"
+
+#: 
+msgid "Support Address"
+msgstr "সমর্থন ঠিকানা"
+
+#: 
+msgid "DPO mail"
+msgstr "ডিপিও মেইল"
+
+#: 
+msgid "DPO Phone"
+msgstr "ডিপিও ফোন"
+
+#: 
+msgid "DPO phone"
+msgstr "ডিপিও ফোন"
+
+#: 
+msgid "Send welcome mail"
+msgstr "স্বাগত মেইল ​​পাঠান"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "স্বাগতম মেইল ​​বিষয়"
+
+#: 
+msgid "Calendar credentials"
+msgstr "ক্যালেন্ডার শংসাপত্র"
+
+#: 
+msgid "Enable calendar"
+msgstr "ক্যালেন্ডার সক্রিয় করুন"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "ক্যালেন্ডার ক্লায়েন্ট আইডি"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "আপনার ক্যালেন্ডার ক্লায়েন্ট আইডি"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "ক্যালেন্ডার ক্লায়েন্ট গোপন"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "শুধুমাত্র সক্ষম কয়েন সম্পর্কিত ঘটনা প্রদর্শন"
+
+#: 
+msgid "News feed"
+msgstr "ঘটনাচক্র"
+
+#: 
+msgid "Add news feed"
+msgstr "খবর ফিড যুক্ত করুন"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "আপনার আরএসএস ফিড লিঙ্ক"
+
+#: 
+msgid "Add"
+msgstr "যোগ"
+
+#: 
+msgid "Name feed"
+msgstr "নাম ফিড"
+
+#: 
+msgid "Url"
+msgstr "ইউআরএল"
+
+#: 
+msgid "Twitter accounts"
+msgstr "টুইটার অ্যাকাউন্ট"
+
+#: 
+msgid "Add twitter account"
+msgstr "টুইটার অ্যাকাউন্ট যোগ করুন"
+
+#: 
+msgid "Twitter name"
+msgstr "টুইটার নাম"
+
+#: 
+msgid "without"
+msgstr "ছাড়া"
+
+#: 
+msgid "Social name"
+msgstr "সামাজিক নাম"
+
+#: 
+msgid "Created date"
+msgstr "তৈরীর তারিখ"
+
+#: 
+msgid "Amount paid"
+msgstr "পরিমাণ অর্থ প্রদান করা"
+
+#: 
+msgid "Wallet received"
+msgstr "ওয়ালেট পেয়েছি"
+
+#: 
+msgid "Amount received"
+msgstr "পরিমাণ লাভ"
+
+#: 
+msgid "Payment gateway"
+msgstr "পেমেন্ট গেটওয়ে"
+
+#: 
+msgid "Proof"
+msgstr "প্রমাণ"
+
+#: 
+msgid "Modify balance"
+msgstr "ভারসাম্য পরিবর্তন করুন"
+
+#: 
+msgid "Select balance"
+msgstr "ভারসাম্য নির্বাচন করুন"
+
+#: 
+msgid "Modification type"
+msgstr "পরিবর্তন ধরনের"
+
+#: 
+msgid "Modification value"
+msgstr "পরিবর্তন মান"
+
+#: 
+msgid "Add modification"
+msgstr "পরিবর্তন যোগ করুন"
+
+#: 
+msgid "Card"
+msgstr "কার্ড"
+
+#: 
+msgid "Balances"
+msgstr "ভারসাম্যকে"
+
+#: 
+msgid "Remove"
+msgstr "অপসারণ"
+
+#: 
+msgid "Last location"
+msgstr "শেষ অবস্থান"
+
+#: 
+msgid "Currency use"
+msgstr "মুদ্রা ব্যবহার"
+
+#: 
+msgid "Signup with"
+msgstr "দিয়ে সাইন আপ"
+
+#: 
+msgid "Identity verification"
+msgstr "পরিচয় যাচাইকরণ"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 পদক্ষেপ অনুমোদন"
+
+#: 
+msgid "User status"
+msgstr "ব্যবহারকারীর অবস্থা"
+
+#: 
+msgid "Login history"
+msgstr "লগইন ইতিহাস"
+
+#: 
+msgid "More details"
+msgstr "আরো বিস্তারিত"
+
+#: 
+msgid "Deposit history"
+msgstr "আমানত ইতিহাস"
+
+#: 
+msgid "Total"
+msgstr "মোট"
+
+#: 
+msgid "Value in BTC"
+msgstr "বিটিসি মান"
+
+#: 
+msgid "Value in USD"
+msgstr "মূল্য ইউএসডি"
+
+#: 
+msgid "Withdraw method"
+msgstr "পদ্ধতি প্রত্যাহার"
+
+#: 
+msgid "Date"
+msgstr "তারিখ"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "একটি widthdraw জিজ্ঞাসা করুন"
+
+#: 
+msgid "WITHDRAW"
+msgstr "প্রত্যাহারের"
+
+#: 
+msgid "paypal"
+msgstr "পেপাল"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "রিসিভার অ্যাকাউন্ট চয়ন করুন"
+
+#: 
+msgid "Cancel"
+msgstr "বাতিল"
+
+#: 
+msgid "Next"
+msgstr "পরবর্তী"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "বিজ্ঞপ্তি এর কনফিগারেশন সম্পূর্ণ।"
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "আপনার PushBullet অ্যাক্সেস টোকেন"
+
+#: 
+msgid "Remove token"
+msgstr "টোকেন সরান"
+
+#: 
+msgid "You are premium !"
+msgstr "আপনি প্রিমিয়াম!"
+
+#: 
+msgid "left"
+msgstr "বাম"
+
+#: 
+msgid "Main settings"
+msgstr "প্রধান সেটিংস"
+
+#: 
+msgid "Period"
+msgstr "কাল"
+
+#: 
+msgid "Colour"
+msgstr "রঙ"
+
+#: 
+msgid "Thickness"
+msgstr "বেধ"
+
+#: 
+msgid "Reset"
+msgstr "রিসেট"
+
+#: 
+msgid "Apply"
+msgstr "প্রয়োগ করা"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "আপনার Google প্রমাণীকরণকারী কোড প্রবেশ করান"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "আপনার গুগল প্রমাণীকরণকারী কোড লিখুন"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "ব্যালান্স 0.001 বিটিসি কম মূল্যবান"
+
+#: 
+msgid "Hide small balance"
+msgstr "ছোট ভারসাম্য লুকান"
+
+#: 
+msgid "Estimate value"
+msgstr "মূল্য অনুমান"
+
+#: 
+msgid "Value in"
+msgstr "মূল্য"
+
+#: 
+msgid "Deposit"
+msgstr "আমানত"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "গুগল অনুমোদন সক্রিয়!"
+
+#: 
+msgid "Set as done"
+msgstr "সম্পন্ন হিসাবে সেট করুন"
+
+#: 
+msgid "Close"
+msgstr "ঘনিষ্ঠ"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "গুগল প্রমাণীকরণকারী কোড অবৈধ"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "আপনি ইমেল দ্বারা একটি widthdraw নিশ্চিতকরণ পাবেন"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "রেফার, ইউজার আইডি, প্রকার, মুদ্রা"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Widthdraw ফিল্টার"
+
+#: 
+msgid "Default"
+msgstr "ডিফল্ট"
+
+#: 
+msgid "Not confirmed"
+msgstr "নিশ্চিত না"
+
+#: 
+msgid "Done"
+msgstr "সম্পন্ন"
+
+#: 
+msgid "Payment filter"
+msgstr "পেমেন্ট ফিল্টার"
+
+#: 
+msgid "Need to be approved"
+msgstr "অনুমোদিত হতে হবে"
+
+#: 
+msgid "Paid"
+msgstr "পেইড"
+
+#: 
+msgid "Not paid"
+msgstr "পরিশোধ করা হয় না"
+
+#: 
+msgid "All payments"
+msgstr "সমস্ত পেমেন্ট"
+
+#: 
+msgid "Ask a proof"
+msgstr "একটি প্রমাণ জিজ্ঞাসা করুন"
+
+#: 
+msgid "Bank ref."
+msgstr "ব্যাংক রেফারেন্স।"
+
+#: 
+msgid "Proof received"
+msgstr "প্রমাণ প্রাপ্ত"
+
+#: 
+msgid "In pending"
+msgstr "মুলতুবি"
+
+#: 
+msgid "All widthdraw"
+msgstr "সমস্ত widthdraw"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "রেফারেন্স প্যাটার্ন প্রত্যাহার"
+
+#: 
+msgid "Withdraw filter"
+msgstr "ফিল্টার প্রত্যাহার"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Infos withdrawal"
+
+#: 
+msgid "year"
+msgstr "বছর"
+
+#: 
+msgid "month"
+msgstr "মাস"
+
+#: 
+msgid "week"
+msgstr "সপ্তাহ"
+
+#: 
+msgid "hour"
+msgstr "ঘন্টা"
+
+#: 
+msgid "minute"
+msgstr "মিনিট"
+
+#: 
+msgid "second"
+msgstr "দ্বিতীয়"
+
+#: 
+msgid "ago"
+msgstr "পূর্বে"
+
+#: 
+msgid "Bank transfert"
+msgstr "ব্যাংক ট্রান্সফার"
+
+#: 
+msgid "Deposit amount"
+msgstr "আমানত পরিমাণ"
+
+#: 
+msgid "Fill up"
+msgstr "পূরণ করা"
+
+#: 
+msgid "It's free"
+msgstr "এটা বিনামূল্যে"
+
+#: 
+msgid "You will receive"
+msgstr "আপনি পাবেন"
+
+#: 
+msgid "Add real funds"
+msgstr "বাস্তব তহবিল যোগ করুন"
+
+#: 
+msgid "Minimal deposit"
+msgstr "ন্যূনতম আমানত"
+
+#: 
+msgid "Enable credit card"
+msgstr "ক্রেডিট কার্ড সক্রিয় করুন"
+
+#: 
+msgid "Stipe private key"
+msgstr "ব্যক্তিগত কী স্টপ"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "আপনার স্ট্রিপ এপিআই কী"
+
+#: 
+msgid "Enable Paypal"
+msgstr "পেপ্যাল ​​সক্রিয় করুন"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "পেপ্যাল ​​লাইভ মোড সক্রিয় করুন"
+
+#: 
+msgid "Paypal client ID"
+msgstr "পেপ্যাল ​​ক্লায়েন্ট আইডি"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "আপনার পেপ্যাল ​​ক্লায়েন্ট আইডি"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "পেপ্যাল ​​ক্লায়েন্ট গোপন"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "আপনার পেপ্যাল ​​ক্লায়েন্ট গোপন"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "ব্লকোনোমিক্স সক্রিয় করুন"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "ব্লকনোমিক্স সিক্রেট কী"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "আপনার ব্লকনিমিক্স গোপন কী"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Fortumo সক্রিয় করুন"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo গোপন কী"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "আপনার fortumo গোপন কী"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo সেবা কী"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "আপনার fortumo সেবা কী"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Coingate সক্ষম করুন"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "CoinGate লাইভ মোড সক্ষম করুন"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth টোকেন"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "আপনার CoinGate Auth টোকেন"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate মুদ্রা প্রাপ্তি"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Coinpayments সক্রিয় করুন"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "মুদ্রা পাবলিক কী"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "আপনার মুদ্রা পাবলিক কী"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Coinpayments প্রাইভেট কী"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "আপনার coinpayments প্রাইভেট কী"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "মুদ্রা মার্চেন্ড আইডি"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "আপনার coinpayments Marchand আইডি"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "কয়েন পেমেন্ট আইপিএন গোপন"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "আপনার coinpayments আইপিএন গোপন"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Rave Flutterwave পেমেন্ট সক্ষম করুন"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Sandbox মোড Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave পাবলিক কী"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "আপনার Rave Flutterwave পাবলিক কী"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave গোপন কী"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "আপনার Rave FlutterWave গোপন কী"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave FlutterWave পেমেন্ট শিরোনাম"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "আপনার Rave FlutterWave পেমেন্ট শিরোনাম"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave FlutterWave পেমেন্ট প্রিফিক্স"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "আপনার রেভ ফ্লুটারওয়েভ পেমেন্ট প্রিফিক্স (উদাঃ KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Coinbase বাণিজ্য পেমেন্ট সক্রিয় করুন"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase বাণিজ্য API কী"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "আপনার Coinbase বাণিজ্য API কী"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase বাণিজ্য পেমেন্ট শিরোনাম"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "আপনার Coinbase বাণিজ্য পেমেন্ট শিরোনাম"
+
+#: 
+msgid "Enable Mollie"
+msgstr "মলি সক্রিয় করুন"
+
+#: 
+msgid "Mollie Key"
+msgstr "মলি কী"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "আপনার Molly কী"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Payeer সক্ষম করুন"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "পেয়ার শপ আইডি"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "আপনার পেয়ারের দোকান আইডি"
+
+#: 
+msgid "Payeer API Key"
+msgstr "পেয়ার API এ কী"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "আপনার পেয়ার API এ কী"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "ব্যাংক ট্রান্সফার সক্রিয় করুন"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "ব্যাংক ট্রান্সফার্ট একই সময়ে সর্বাধিক"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "ব্যাংক ট্রান্সফার্ট প্রমাণ সক্রিয়"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "ব্যাংক সর্বাধিক প্রমাণ transfert"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "আপনার যমিনি কী"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "আপনার যমিনি গোপন"
+
+#: 
+msgid "Select your platform"
+msgstr "আপনার প্ল্যাটফর্ম নির্বাচন করুন"
+
+#: 
+msgid "Sandbox"
+msgstr "স্যান্ডবক্স"
+
+#: 
+msgid "Live"
+msgstr "লাইভ"
+
+#: 
+msgid "Cron time"
+msgstr "ক্রন সময়"
+
+#: 
+msgid "Last update"
+msgstr "সর্বশেষ আপডেট"
+
+#: 
+msgid "Sync delay"
+msgstr "সিঙ্ক বিলম্ব"
+
+#: 
+msgid "Add additional page"
+msgstr "অতিরিক্ত পৃষ্ঠা যোগ করুন"
+
+#: 
+msgid "Page name"
+msgstr "পৃষ্ঠা নাম"
+
+#: 
+msgid "Page URL"
+msgstr "পৃষ্ঠা URL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "পৃষ্ঠা আইকন (উদাঃ lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "অথবা পৃষ্ঠা আইকন svg"
+
+#: 
+msgid "Icon"
+msgstr "আইকন"
+
+#: 
+msgid "SVG Picture"
+msgstr "এসভিজি ছবি"
+
+#: 
+msgid "Enable"
+msgstr "সক্ষম করা"
+
+#: 
+msgid "Disable"
+msgstr "অক্ষম"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "নতুন ব্যাংক ট্রান্সফার্ট তৈরি করুন"
+
+#: 
+msgid "Pending"
+msgstr "মুলতুবী"
+
+#: 
+msgid "Details"
+msgstr "বিস্তারিত"
+
+#: 
+msgid "Verified"
+msgstr "যাচাই"
+
+#: 
+msgid "Canceled"
+msgstr "বাতিল করা হয়েছে"
+
+#: 
+msgid "Declined"
+msgstr "অস্বীকার"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "আপনার Hitbtc কী"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "আপনার Hitbtc গোপন"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "আপনার বিটব্যাঙ্ক কী"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "আপনার বিটব্যাঙ্ক গোপন"
+
+#: 
+msgid "User level"
+msgstr "ব্যবহারকারী স্তর"
+
+#: 
+msgid "Expire in"
+msgstr "মধ্যে শেষ"
+
+#: 
+msgid "Back to login"
+msgstr "প্রবেশ করতে পেছান"
+
+#: 
+msgid "Let's go !"
+msgstr "চলো যাই !"
+
+#: 
+msgid "Welcome"
+msgstr "স্বাগত"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "আসুন আপনার ড্যাশবোর্ড একত্রিত করা যাক।"
+
+#: 
+msgid "Select your language"
+msgstr "আপনার ভাষা নির্বাচন করুন"
+
+#: 
+msgid "Select your currency"
+msgstr "আপনার মুদ্রা নির্বাচন করুন"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "আপনার প্রিয় ক্রিপ্টো নির্বাচন করুন"
+
+#: 
+msgid "left need to be selected"
+msgstr "বাম নির্বাচন করা প্রয়োজন"
+
+#: 
+msgid "Configuration complete !"
+msgstr "কনফিগারেশন সম্পূর্ণ!"
+
+#: 
+msgid "will now refresh"
+msgstr "এখন রিফ্রেশ হবে"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "পারফেক্ট মানি পেমেন্ট সক্ষম করুন"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "পারফেক্ট মানি পেনি অ্যাকাউন্ট"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "আপনার পারফেক্ট টাকা পেনি অ্যাকাউন্ট"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "মোবাইল, ব্রাউজার, উইন্ডোজ বিজ্ঞপ্তি"
+
+#: 
+msgid "Create price alert"
+msgstr "মূল্য সতর্কতা তৈরি করুন"
+
+#: 
+msgid "I need help !"
+msgstr "আমার সাহায্য দরকার !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "আপনার ফোনে PushBullet অ্যাপ্লিকেশনটি ডাউনলোড করুন (Android এবং iOS এর জন্য উপলব্ধ)"
+
+#: 
+msgid "Create an account on it"
+msgstr "এটি একটি অ্যাকাউন্ট তৈরি করুন"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "এখানে আপনার নতুন অ্যাকাউন্টের সাথে সংযোগ স্থাপন করুন"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "<B> সেটিংস </ b>> <b> অ্যাকাউন্ট </ b> এ যান এবং একটি <b> অ্যাক্সেস টোকেন </ b> তৈরি করুন"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "কী অনুলিপি করুন এবং পূরণে এটি পেস্ট করুন এবং সংরক্ষণ ক্লিক করুন।"
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "সংযোগটি সফল কিনা তা যাচাই করার জন্য একটি বিজ্ঞপ্তি পাঠানো হবে।"
+
+#: 
+msgid "Premium wait you !"
+msgstr "প্রিমিয়াম আপনি অপেক্ষা!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "2000 এর বেশি ক্রিপ্টো মুদ্রা"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "একটি সূচক বৃদ্ধি বা পড়ে যখন সতর্ক করা"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "মোবাইল এবং ট্যাবলেট উপর প্রতিক্রিয়াশীল"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "একই জায়গায় সংবাদ এবং সামাজিক পোস্ট"
+
+#: 
+msgid "Support"
+msgstr "সমর্থন"
+
+#: 
+msgid "Phone"
+msgstr "ফোন"
+
+#: 
+msgid "Address"
+msgstr "adress"
+
+#: 
+msgid "Contact DPO"
+msgstr "যোগাযোগ ডিপিও"
+
+#: 
+msgid "Your Binance Key"
+msgstr "আপনার বাইনারি কী"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "আপনার বাইনারি সিক্রেট"
+
+#: 
+msgid "Cardholder name"
+msgstr "কার্ডধারীর নাম"
+
+#: 
+msgid "Card number"
+msgstr "কার্ড নম্বর"
+
+#: 
+msgid "Expiration"
+msgstr "শ্বাসত্যাগ"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "প্রদর্শন করার জন্য কোন আদেশ নেই"
+
+#: 
+msgid "Premium"
+msgstr "প্রিমিয়াম"
+
+#: 
+msgid "Verify your identiy"
+msgstr "আপনার পরিচয় যাচাই করুন"
+
+#: 
+msgid "Estimate balance"
+msgstr "ব্যালেন্স অনুমান"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1 মি"
+
+#: 
+msgid "2w"
+msgstr "2W"
+
+#: 
+msgid "7d"
+msgstr "7D"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1 ঘণ্টা"
+
+#: 
+msgid "30min"
+msgstr "30 মিনিট"
+
+#: 
+msgid "Candlestick"
+msgstr "পিলসুজ"
+
+#: 
+msgid "Line"
+msgstr "লাইন"
+
+#: 
+msgid "Indicators"
+msgstr "সূচক"
+
+#: 
+msgid "Export"
+msgstr "রপ্তানি"
+
+#: 
+msgid "Alert"
+msgstr "সতর্ক"
+
+#: 
+msgid "Drawing"
+msgstr "অঙ্কন"
+
+#: 
+msgid "Trend Line"
+msgstr "ট্রেন্ড লাইন"
+
+#: 
+msgid "Text"
+msgstr "পাঠ"
+
+#: 
+msgid "Create a new alert"
+msgstr "একটি নতুন সতর্কতা তৈরি করুন"
+
+#: 
+msgid "% Fees"
+msgstr "% ফি"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Cryptocurrency চুক্তি প্রত্যাহার"
+
+#: 
+msgid "Decline"
+msgstr "পতন"
+
+#: 
+msgid "Agree"
+msgstr "রাজি"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Cryptocurrency আমানত চুক্তি"
+
+#: 
+msgid "Enable news popup"
+msgstr "খবর পপআপ সক্রিয় করুন"
+
+#: 
+msgid "News popup title"
+msgstr "খবর পপআপ শিরোনাম"
+
+#: 
+msgid "Your news popup title"
+msgstr "আপনার খবর পপআপ শিরোনাম"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "সংবাদ পপআপ ভিডিও (ভিডিও দেখানোর জন্য ফাঁকা রাখুন)"
+
+#: 
+msgid "News popup description"
+msgstr "খবর পপআপ বিবরণ"
+
+#: 
+msgid "Advert users"
+msgstr "বিজ্ঞাপন ব্যবহারকারীদের"
+
+#: 
+msgid "Enable intro"
+msgstr "ভূমিকা সক্রিয় করুন"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "ফি প্রত্যাহার (% মধ্যে)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "মুদ্রা প্রত্যাহার যখন ব্যাংক ট্রান্সফার্ট সতর্কতা ক্রিপ্টো মুদ্রা নয়"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Cryptocurrencies ব্যাংক ট্রান্সফার প্রত্যাহারের জন্য অনুমোদিত"
+
+#: 
+msgid "Estimate balance in"
+msgstr "ভারসাম্য ভারসাম্য"
+
+#: 
+msgid "Edit profile"
+msgstr "জীবন বৃত্তান্ত সম্পাদনা"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "ব্যাংক ট্রান্সফার জমা আমানত"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomics পেমেন্ট ফি (% মধ্যে)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "আপনার ব্লকনিমিক্স পেমেন্ট ফি (%তে)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumo পেমেন্ট ফি (%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "আপনার fortumo পেমেন্ট ফি (%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate পেমেন্ট ফি (%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "আপনার সহকারী পেমেন্ট ফি (%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "মুদ্রা পেমেন্ট ফি (% মধ্যে)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "আপনার মুদ্রা পেমেন্ট ফি (%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave FlutterWave পেমেন্ট ফি (% মধ্যে)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "আপনার rave flutterwave পেমেন্ট ফি (%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase বাণিজ্য পেমেন্ট ফি (%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "আপনার সিঙ্কবেস বাণিজ্য পেমেন্ট ফি (%তে)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie পেমেন্ট ফি (%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "আপনার mollie পেমেন্ট ফি (%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "পেয়ার পেমেন্ট ফি (%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "আপনার প্রদায়ক পেমেন্ট ফি (%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "ব্যাংক ট্রান্সফার্ট পেমেন্ট ফি (% মধ্যে)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "আপনার ব্যাংক ট্রান্সফার্ট পেমেন্ট ফি (%)"
+
+#: 
+msgid "Add new"
+msgstr "নতুন যোগ করুন"
+
+#: 
+msgid "Bank accounts"
+msgstr "ব্যাংক হিসাব"
+
+#: 
+msgid "Add new bank account"
+msgstr "নতুন ব্যাংক একাউন্ট যোগ করুন"
+
+#: 
+msgid "Bank account name"
+msgstr "ব্যাংক হিসাব নাম"
+
+#: 
+msgid "Your bank account name"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট নাম"
+
+#: 
+msgid "Bank account currency"
+msgstr "ব্যাংক অ্যাকাউন্ট মুদ্রা"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "ব্যাংক অ্যাকাউন্ট IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "ব্যাংক অ্যাকাউন্ট বিআইসি"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "ব্যাংক অ্যাকাউন্ট ঠিকানা"
+
+#: 
+msgid "Your bank account address"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট ঠিকানা"
+
+#: 
+msgid "Bank account owner name"
+msgstr "ব্যাংক অ্যাকাউন্ট মালিকের নাম"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট মালিকের নাম"
+
+#: 
+msgid "* This is optional"
+msgstr "* এই ঐচ্ছিক"
+
+#: 
+msgid "Your bank account currency"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট মুদ্রা"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট IBAN"
+
+#: 
+msgid "Delete"
+msgstr "মুছে ফেলা"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "আপনি 'পৃষ্ঠা আইকন' এবং 'পৃষ্ঠা আইকন svg' (পৃষ্ঠা আইকন অগ্রাধিকার) এর মধ্যে চয়ন করতে পারেন - এখানে উপলব্ধ তালিকা আইকন"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "আপনি একটি ইমেইল নিশ্চিতকরণ পাবেন"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "আপনার প্রত্যাহার অনুরোধ সম্পূর্ণ করার জন্য এই ধাপ অনুসরণ করুন।"
+
+#: 
+msgid "You need to have at least"
+msgstr "আপনি অন্তত আছে প্রয়োজন"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "আপনি উপলব্ধ কোন ভরাট ভারসাম্য নেই"
+
+#: 
+msgid "Total in "
+msgstr "মোট ইন"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "আপনি একটি widthdraw পদ্ধতি সেট আপ করতে হবে"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "ব্যাংক অ্যাকাউন্ট BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "আপনার ব্যাংক অ্যাকাউন্ট BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "দিন পরিসীমা\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "কার্য দিবস"
+
+#: 
+msgid "Volume 24H"
+msgstr "সরাসরি ভলিউম"
+
+#: 
+msgid "Direct Volume"
+msgstr "সরাসরি ভলিউম"
+
+#: 
+msgid "Load more data"
+msgstr "আরো তথ্য লোড করুন"
+
+#: 
+msgid "Qty"
+msgstr "Qty এ"
+
+#: 
+msgid "Gain"
+msgstr "লাভ করা"
+
+#: 
+msgid "Price buy"
+msgstr "মূল্য কিনতে"
+
+#: 
+msgid "Disable chat"
+msgstr "চ্যাট নিষ্ক্রিয় করুন"
+
+#: 
+msgid "Total gain"
+msgstr "মোট লাভ"
+
+#: 
+msgid "Confirmation"
+msgstr "অনুমোদন"
+
+#: 
+msgid "Unit price"
+msgstr "একক দাম"
+
+#: 
+msgid "Investment"
+msgstr "বিনিয়োগ"
+
+#: 
+msgid "Quantity"
+msgstr "পরিমাণ"
+
+#: 
+msgid "Commission"
+msgstr "কমিশন"
+
+#: 
+msgid "Confirm buying"
+msgstr "ক্রয় নিশ্চিত করুন"
+
+#: 
+msgid "New user"
+msgstr "নতুন ব্যবহারকারী"
+
+#: 
+msgid "Order passed"
+msgstr "আদেশ পাস"
+
+#: 
+msgid "New subscription"
+msgstr "নতুন সাবস্ক্রিপশন"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "প্রত্যাহার রিসিভার infos দেখান।"
+
+#: 
+msgid "Process"
+msgstr "প্রক্রিয়া"
+
+#: 
+msgid "Hide details"
+msgstr "আড়াল বিস্তারিত"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "সাবস্ক্রিপশন সক্রিয় করুন"
+
+#: 
+msgid "Enable free trial"
+msgstr "বিনামূল্যে ট্রায়াল সক্রিয় করুন"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "বিনামূল্যে ট্রায়াল সময়কাল (দিন)"
+
+#: 
+msgid "Free trial duration"
+msgstr "বিনামূল্যে ট্রায়াল সময়কাল"
+
+#: 
+msgid "Premium features"
+msgstr "প্রিমিয়াম বৈশিষ্ট্য"
+
+#: 
+msgid "Free users features"
+msgstr "বিনামূল্যে ব্যবহারকারী বৈশিষ্ট্য"
+
+#: 
+msgid "Add a new plan"
+msgstr "একটি নতুন পরিকল্পনা যোগ করুন"
+
+#: 
+msgid "Name plan"
+msgstr "নাম পরিকল্পনা"
+
+#: 
+msgid "Price total"
+msgstr "মূল্য মোট"
+
+#: 
+msgid "Duration in days"
+msgstr "দিন সময়কাল"
+
+#: 
+msgid "Duration"
+msgstr "স্থিতিকাল"
+
+#: 
+msgid "Add this plan"
+msgstr "এই পরিকল্পনা যোগ করুন"
+
+#: 
+msgid "Plans available"
+msgstr "প্ল্যান উপলব্ধ"
+
+#: 
+msgid "Price plan"
+msgstr "মূল্য পরিকল্পনা"
+
+#: 
+msgid "Duration in month"
+msgstr "মাস সময়কাল"
+
+#: 
+msgid "Price per month"
+msgstr "মূল্য প্রতি মাসে"
+
+#: 
+msgid "Account"
+msgstr "হিসাব"
+
+#: 
+msgid "Exchanges"
+msgstr "এক্সচেঞ্জ"
+
+#: 
+msgid "Total Free"
+msgstr "মোট বিনামূল্যে"
+
+#: 
+msgid "Total Used"
+msgstr "মোট ব্যবহৃত"
+
+#: 
+msgid "Order Ref."
+msgstr "অর্ডার রেফারেন্স।"
+
+#: 
+msgid "Ordered price"
+msgstr "আদেশ মূল্য"
+
+#: 
+msgid "Current price"
+msgstr "বর্তমান মূল্য"
+
+#: 
+msgid "Evolution"
+msgstr "বিবর্তন"
+
+#: 
+msgid "Enable identity system"
+msgstr "পরিচয় সিস্টেম সক্ষম করুন"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "পরিচয় যাচাইকরণ ছাড়া ট্রেডিং ব্লক"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "পরিচয় যাচাই ছাড়া ডিপোজিট ব্লক"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "পরিচয় যাচাই ছাড়া প্রত্যাহার অবরোধ"
+
+#: 
+msgid "Approve"
+msgstr "অনুমোদন করা"
+
+#: 
+msgid "Identity ID"
+msgstr "পরিচয় আইডি"
+
+#: 
+msgid "Identity step name"
+msgstr "পরিচয় ধাপের নাম"
+
+#: 
+msgid "Identity step description"
+msgstr "পরিচয় ধাপ বর্ণনা"
+
+#: 
+msgid "Identity order"
+msgstr "সনাক্তকরণ আদেশ"
+
+#: 
+msgid "Down order"
+msgstr "নিচে অর্ডার"
+
+#: 
+msgid "Up order"
+msgstr "আপ অর্ডার"
+
+#: 
+msgid "Add new identity step"
+msgstr "নতুন পরিচয় ধাপ যোগ করুন"
+
+#: 
+msgid "Your step name"
+msgstr "আপনার ধাপ নাম"
+
+#: 
+msgid "Your step description"
+msgstr "আপনার পদক্ষেপ বিবরণ"
+
+#: 
+msgid "Identity step type"
+msgstr "সনাক্তকরণ ধাপে টাইপ"
+
+#: 
+msgid "Upload new document"
+msgstr "নতুন নথি আপলোড করুন"
+
+#: 
+msgid "Choose in document type list"
+msgstr "নথি টাইপ তালিকা নির্বাচন করুন"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "ওয়েবক্যামের সাথে পরিচয় আপলোড সক্ষম করুন"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "ওয়েবক্যাম নথি অনুপাত"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "রেশন (প্রস্থ / উচ্চতা)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "অনুপাত (প্রস্থ / উচ্চতা)"
+
+#: 
+msgid "Document identity list"
+msgstr "নথি পরিচয় তালিকা"
+
+#: 
+msgid "Add new identity document"
+msgstr "নতুন পরিচয় নথি যোগ করুন"
+
+#: 
+msgid "Your document name"
+msgstr "আপনার নথি নাম"
+
+#: 
+msgid "My Holding"
+msgstr "আমার হোল্ডিং"
+
+#: 
+msgid "Holding"
+msgstr "অধিষ্ঠিত"
+
+#: 
+msgid "Market Value"
+msgstr "বাজার মূল্য"
+
+#: 
+msgid "Profit / Loss"
+msgstr "লাভ ক্ষতি"
+
+#: 
+msgid "Wallet"
+msgstr "মানিব্যাগ"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "ব্যাংক ট্রান্সফার্ট যাচাই করুন"
+
+#: 
+msgid "Transfert received date"
+msgstr "ট্রান্সফার্ট তারিখ প্রাপ্ত"
+
+#: 
+msgid "Bank account received"
+msgstr "ব্যাংক অ্যাকাউন্ট প্রাপ্ত"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "ব্যাংক ট্রান্সফার রেফারেন্স"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "ব্যাংক অ্যাকাউন্টে প্রাপ্ত পরিমাণ"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "পরিমাণ ব্যবহারকারী অ্যাকাউন্টে স্থানান্তরিত"
+
+#: 
+msgid "User will receive"
+msgstr "ব্যবহারকারী পাবেন"
+
+#: 
+msgid "Dark"
+msgstr "অন্ধকার"
+
+#: 
+msgid "White"
+msgstr "সাদা"
+
+#: 
+msgid "Enable Donation"
+msgstr "দান সক্রিয় করুন"
+
+#: 
+msgid "Donation text"
+msgstr "দান পাঠ্য"
+
+#: 
+msgid "Your donation text"
+msgstr "আপনার দান টেক্সট"
+
+#: 
+msgid "Donation address list"
+msgstr "দান ঠিকানা ঠিকানা"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "লাইন প্রতি 1 ঠিকানা রাখুন"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "লাইন বিন্যাস: বিটিসি: ঠিকানা"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "আমাদের ফেস একটি SMILE করা এবং দান দ্বারা মার্কিন সমর্থন :)"
+
+#: 
+msgid "Transactions history"
+msgstr "লেনদেন ইতিহাস"
+
+#: 
+msgid "Description"
+msgstr "বিবরণ"
+
+#: 
+msgid "Reference ..."
+msgstr "রেফারেন্স ..."
+
+#: 
+msgid "Reference"
+msgstr "উল্লেখ"
+
+#: 
+msgid "deposit"
+msgstr "আমানত"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "ডিপো"
+
+#: 
+msgid "Unknown"
+msgstr "অজানা"
+
+#: 
+msgid "BUY order done"
+msgstr "কেনা অর্ডার"
+
+#: 
+msgid "SELL order done"
+msgstr "বিক্রয় আদেশ সম্পন্ন"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "অর্ডার অর্ডার করা হয়েছে"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "অর্ডার অর্ডার করা হয়েছে"
+
+#: 
+msgid "Add a new item"
+msgstr "একটি নতুন আইটেম যোগ করুন"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "আপনার GDAX কী"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "আপনার GDAX পাস"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "আপনার GDAX গোপন"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "আপনার বিটমেক্স আইডি"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "আপনার বিটমেক্স গোপন"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "আপনার OKCoin কী"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "আপনার OKCoin গোপন"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "আপনার লুনো আইডি"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "আপনার লুণো সিক্রেট"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "আপনার Coinex কী"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "আপনার Coinex গোপন"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "আপনার বিটকার্কেট কী"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "আপনার Btcmarket গোপন"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "আপনার লাইভকোইন কী"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "আপনার লাইভকয়েন সিক্রেট"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "আপনার কোয়েইনক্স টোকেন আইডি"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "আপনার Quoinex গোপন"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "আপনার Exmo কী"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "আপনার Exmo গোপন"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "আপনার YoBit কী"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "আপনার YoBit গোপন"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "আপনার Kucoin কী"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "আপনার Kucoin ব্যক্তিগত"
+
+#: 
+msgid "Your CEX Key"
+msgstr "আপনার CEX কী"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "আপনার CEX গোপন"
+
+#: 
+msgid "Your CEX UID"
+msgstr "আপনার CEX ইউআইডি"
+
+#: 
+msgid "My orders"
+msgstr "আমার আদেশ"
+
+#: 
+msgid "Size"
+msgstr "আয়তন"
+
+#: 
+msgid "Limit price"
+msgstr "দাম সীমিত"
+
+#: 
+msgid "Place buy order"
+msgstr "অর্ডার অর্ডার রাখুন"
+
+#: 
+msgid "Place sell order"
+msgstr "বিক্রয় অর্ডার রাখুন"
+
+#: 
+msgid "Method"
+msgstr "পদ্ধতি"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "আপনি Coinex এ লগ ইন করতে হবে"
+
+#: 
+msgid "Enable live trading"
+msgstr "লাইভ ট্রেডিং সক্রিয় করুন"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Coinex সঙ্গে লগইন করুন"
+
+#: 
+msgid "Week profit"
+msgstr "সপ্তাহ মুনাফা"
+
+#: 
+msgid "Leaderboard"
+msgstr "লিডারবোর্ড"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "লিডারবোর্ড সক্ষম করুন (স্থানীয় ট্রেডিং সক্রিয় করা প্রয়োজন)"
+
+#: 
+msgid "Active"
+msgstr "সক্রিয়"
+
+#: 
+msgid "Every"
+msgstr "প্রতি"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "নতুন ব্যবহারকারী সাইনআপ যখন জোড়া শুরু"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "শুধুমাত্র 1 জোড়া অনুমতি দেওয়া হয়"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "নতুন ব্যবহারকারী সাইনআপ যখন তালিকা জোড়া যোগ শুরু"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "প্রতিটি লাইন জন্য 1 জোড়া প্রতিটি"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "বিন্যাস: বাজার: SYMBOL / কারেন্সি"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "আপনি Livecoin এ লগ ইন করতে হবে"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Livecoin সঙ্গে লগইন করুন"
+
+#: 
+msgid "Email not valid"
+msgstr "ইমেইল বৈধ নয়"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "আপনি Yobit এ লগ ইন করতে হবে"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Yobit সঙ্গে লগইন করুন"
+
+#: 
+msgid "Based on all wallet"
+msgstr "সব প্যাটার্ন উপর ভিত্তি করে"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "আপনার Poloniex কী"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "আপনার Poloniex গোপন"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "আপনার ট্রায়াল সংস্করণ মেয়াদ শেষ হয়ে গেছে!"
+
+#: 
+msgid "Become"
+msgstr "হয়ে উঠুন"
+
+#: 
+msgid "You will be charged"
+msgstr "আপনি চার্জ করা হবে"
+
+#: 
+msgid "for"
+msgstr "জন্য"
+
+#: 
+msgid "months"
+msgstr "মাসের"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "আপনার Kraken কী"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "আপনার Kraken ব্যক্তিগত"
+
+#: 
+msgid "will be ready for you !"
+msgstr "আপনার জন্য প্রস্তুত হবে!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "আপনি Binance এ লগ ইন করতে হবে"
+
+#: 
+msgid "Login with Binance"
+msgstr "বিনিময় সঙ্গে লগইন করুন"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "আপনি Poloniex এ লগ ইন করতে হবে"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Poloniex সঙ্গে লগইন করুন"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "আপনি Exmo এ লগ ইন করতে হবে"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Exmo সঙ্গে লগইন করুন"
+
+#: 
+msgid "View the article"
+msgstr "নিবন্ধ দেখুন"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "আপনার Bittrex কী"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "আপনার Bittrex গোপন"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "আপনি Kraken এ লগ ইন করতে হবে"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Kraken সঙ্গে লগইন করুন"
+
+#: 
+msgid "Markets"
+msgstr "বাজার"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "বাজার লুকান (স্থানীয় ট্রেডিং সক্রিয় করা প্রয়োজন)"
+
+#: 
+msgid "Hide orders book"
+msgstr "আদেশ বই লুকান"
+
+#: 
+msgid "Load orders book"
+msgstr "লোড অর্ডার বই"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "যখন একটি সতর্কতা তৈরি করুন ..."
+
+#: 
+msgid "Price is above"
+msgstr "মূল্য উপরে"
+
+#: 
+msgid "Price is bellow"
+msgstr "মূল্য bellow হয়"
+
+#: 
+msgid "Password not match"
+msgstr "পাসওয়ার্ড মেলে না"
+

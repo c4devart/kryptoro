@@ -1,0 +1,1411 @@
+body[kr-theme="light"] {
+  background: #f1f5f8;
+}
+
+/* Header */
+body[kr-theme="light"] > header > div {
+  background: #fff;
+}
+
+body[kr-theme="light"] > header > div > div > ul > li > svg {
+  fill:#9aa6b4;
+}
+
+body[kr-theme="light"] > header > div > div > ul > li:hover > svg {
+  fill : #758495;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-account:hover {
+  background : #eff2f7;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-account > span {
+  color:#3c4048;
+}
+
+body[kr-theme="light"] nav.kr-leftnav > ul > li {
+  border-bottom-color:#e6e6e6;
+}
+
+body[kr-theme="light"] nav.kr-leftnav {
+  border-right-color: #dadada;
+}
+
+body[kr-theme="light"] nav.kr-leftnav > ul > li > svg {
+  fill:#4b4e58;
+}
+
+body[kr-theme="light"] nav.kr-leftnav > ul > li > span {
+  color:#4b4e58;
+}
+
+body[kr-theme="light"] nav.kr-leftnav > ul > li:hover {
+  background : #e1e7ec;
+}
+
+body[kr-theme="light"] nav.kr-leftnav > ul > li.kr-leftnav-select {
+  background : #d4dde3;
+}
+
+body[kr-theme="light"] div.kr-wtchl > header,
+body[kr-theme="light"] div.kr-trade > header,
+body[kr-theme="light"] section.kr-calculatorside > header,
+body[kr-theme="light"] section.kr-infosside > section > header {
+  background: #fff;
+}
+
+body[kr-theme="light"] div.kr-wtchl > header > span,
+body[kr-theme="light"] div.kr-trade > header > span,
+body[kr-theme="light"] section.kr-calculatorside > header > span,
+body[kr-theme="light"] section.kr-infosside > section > header > span {
+  color:#171b29;
+}
+
+body[kr-theme="light"] section.kr-leftside,
+body[kr-theme="light"] div.kr-wtchl {
+  background: #f1f5f8;
+}
+
+body[kr-theme="light"] div.kr-wtchl > ul > li {
+  border-top-color: #e6e6e6;
+  color:#36383e;
+}
+
+body[kr-theme="light"] div.kr-wtchl > ul > li > div > div.kr-wtchl-inf > div.kr-wtchl-inf-pic > svg {
+  fill:#313131;
+}
+
+body[kr-theme="light"] div.kr-wtchl > ul > li > div > div.kr-wtchl-inf > div.kr-wtchl-inf-nm > span {
+  color:rgba(82, 82, 82, 0.7);
+}
+
+body[kr-theme="light"] ul.kr-trade-lst > li {
+  color:#727786;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard {
+  border-color: #eaeaea;
+  color:#565a63;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > svg {
+  fill:#f1f1f1;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard:hover > svg {
+  fill : #e0e0e0;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > div.kr-change-dashboard-selector {
+  background: #fff;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > div.kr-change-dashboard-selector::before {
+  border-color: transparent transparent #ffffff transparent;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > div.kr-change-dashboard-selector > div {
+  border-bottom-color: #f3f3f3;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > div.kr-change-dashboard-selector > div > ul > li > svg {
+  fill:#a8adb9;
+}
+
+body[kr-theme="light"] > header > div > div > ul.kr-top-graphlist > li.kr-top-graphlist-item-view {
+  background: #f7f9fd;
+  border-bottom-color: #f7f9fd;
+}
+
+body[kr-theme="light"] > header > div > div > ul.kr-top-graphlist > li > div > svg {
+  fill:#575859;
+}
+
+body[kr-theme="light"] > header > div > div > ul.kr-top-graphlist > li {
+  color:#36383e;
+}
+
+body[kr-theme="light"] > header > div > div > ul.kr-top-graphlist > li.kr-top-graphlist-item-view.kr-top-graphlist-item-selected {
+  background: #efeff1;
+}
+
+body[kr-theme="light"] body > header > div > div > ul.kr-top-graphlist > li {
+  border-color: #e6e6e6;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-addgraph-dashboard > svg {
+  fill:#d9dbde;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-addgraph-dashboard {
+  border-color: #eaeaea;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select {
+  background: #fff;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > header > input[type="text"] {
+  border-color:#e8e8e8;
+  color:#5c5f6b;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > header > input[type="text"]:focus {
+  border-color:#d9d9d9;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li {
+  border-top-color: #f3f3f3;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li:last-child {
+  border-bottom-color: #f3f3f3;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li:hover {
+  background : #f6f6f6;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li > .kr-dash-pan-cry-select-lst-i > div > label {
+  color:#5c5f6b;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li > .kr-dash-pan-cry-select-lst-i > div > svg {
+  fill:#5c5f6b;
+  color:#5c5f6b;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li > .kr-dash-pan-cry-select-lst-tdn svg {
+  fill:#838792;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li > .kr-dash-pan-cry-select-lst-tdn:hover svg {
+  fill:#808090;
+}
+
+body[kr-theme="light"] .kr-dash-pan-cry-select > ul.kr-dash-pan-cry-select-lst > li > .kr-dash-pan-cry-select-lst-tdn.watching-list-present svg {
+  fill : #ebcf15 !important;
+}
+
+
+body[kr-theme="light"]  > footer {
+  background: #fff;
+  box-shadow: 0px -2px 2px 0px #0000000d;
+}
+
+body[kr-theme="light"]  > footer > div.kr-current-time {
+  color:#5c5f6b;
+}
+
+body[kr-theme="light"] section.kr-dashboard > div.kr-dashboard-loading {
+  background: #f1f5f8;
+}
+
+/* Market & heatmap */
+body[kr-theme="light"] div.kr-marketcoinlist > nav, div.kr-heatmap > nav {
+  background: #f9f9f9;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > nav > ul > li, div.kr-heatmap > nav > ul > li {
+  border-bottom-color: #f9f9f9;
+  color:#afb8c7;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > nav > ul > li:hover,
+body[kr-theme="light"] div.kr-heatmap > nav > ul > li:hover {
+  background: rgba(0,0,0,0.06);
+  border-bottom-color: rgba(0,0,0,0.06);
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > nav > ul > li.kr-nav-selected, div.kr-heatmap > nav > ul > li.kr-nav-selected {
+  border-bottom-color: #a6abb3;
+  color:#5c5f6b;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > div.kr-marketlist > div {
+  border-top-color:#e5e7ea;
+  border-bottom-color:#ffffff;
+  color:#5c5f6b;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > div.kr-marketlist > div.kr-marketlist-header {
+  background: #f9f9f9;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > div.kr-marketlist > div > div.kr-marketlist-cellffhl > div.kr-marketlist-ffhl > div.kr-marketlist-ffhl-progr {
+  background: #d4dae2;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > div.kr-marketlist > div > div.kr-marketlist-cellffhl > div.kr-marketlist-ffhl > div.kr-marketlist-ffhl-progr > div:first-child {
+  background: #777f8c;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > div.kr-marketlist > div:hover {
+  background: #d9e0e4 !important;
+}
+
+body[kr-theme="light"] div.kr-marketcoinlist > nav > form > input[type="text"] {
+  background: rgba(0, 0, 0, 0.02);
+  color:#3f4144;
+}
+
+/* Scrollbar webkit */
+body[kr-theme="light"] ::-webkit-scrollbar-thumb {
+  border        : 0px none #ffffff;
+  border-radius : 31px;
+  background    : #979da9;
+}
+
+body[kr-theme="light"] ::-webkit-scrollbar-thumb:hover {
+  background : #979da9;
+}
+
+body[kr-theme="light"] ::-webkit-scrollbar-thumb:active {
+  background : #979da9;
+}
+
+body[kr-theme="light"] ::-webkit-scrollbar-track {
+  border        : 0px none #ffffff;
+  border-radius : 50px;
+  background    : #f1f5f8;
+}
+
+body[kr-theme="light"] ::-webkit-scrollbar-track:hover {
+  background : #f1f5f8;
+}
+
+body[kr-theme="light"] ::-webkit-scrollbar-track:active {
+  background : #f1f5f8;
+}
+
+body[kr-theme="light"] ::-webkit-scrollbar-corner {
+  background : #f1f5f8;
+}
+
+/* Calculator */
+body[kr-theme="light"] section.kr-calculatorside {
+  background: #f1f5f8;
+  border-right-color:#f1f5f8;
+}
+
+/* Trading action */
+body[kr-theme="light"]  div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-amount > div.kr-dash-pan-action-amount-s {
+  background: #fff;
+  border-color: #fff;
+}
+
+body[kr-theme="light"]  div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-amount > div.kr-dash-pan-action-amount-s:hover {
+  background: #fff;
+  border-color: #fff;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-amount > ul > li {
+  background: #fff;
+  color:#36383e;
+}
+
+body[kr-theme="light"]  div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-amount > ul > li:hover {
+  background: #f6f6f6;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-amount > div.kr-dash-pan-action-amount-s > div > input[type="number"],
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-amount > div.kr-dash-pan-action-amount-s > div,
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-qtd > label {
+  color:#36383e;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-account > div.kr-account-pic {
+  box-shadow: 0px 1px 2px 0px #bdbdbd;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-slcthird > ul,
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-slcthird > div{
+  background: #fff;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-slcthird > div > img,
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action > div.kr-dash-pan-action-slcthird > ul > li > img {
+  filter: none;
+}
+
+body[kr-theme="light"] div.kr-trade > header > div > svg {
+  fill:#121212;
+}
+
+body[kr-theme="light"] section.kr-chat-right > ul {
+  background: #d4dde3;
+}
+
+body[kr-theme="light"] body > header > div > div > ul.kr-top-graphlist > li {
+  border-color:#eaeaea;
+}
+
+body[kr-theme="light"] section.kr-infosside {
+  border-right-color:#fff;
+}
+
+body[kr-theme="light"] > footer > div > ul > li.kr-toggle-white > span {
+  color:#565656;
+}
+
+body[kr-theme="light"] > header > div > div > ul.kr-top-graphlist > li {
+  border-color: #efeff1;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > footer {
+  background: #f1f5f8;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > footer > ul > li {
+  background: #d4dde3;
+  color:#48494c;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > footer > ul > li:hover {
+  background: #b9c3ca;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section {
+  background: #f1f5f8;
+  border-top-color: #d4dde3;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum {
+  background: #d4dde3;
+  color:#575859;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change {
+  color:#575859;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li {
+  border-bottom-color: rgba(0, 0, 0, 0.09);
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li:hover {
+  background: rgba(0,0,0,0.04);
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section {
+  background: #f4f6f9;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > header {
+  background: #ffffff;
+  color:#575859;
+  box-shadow: 0px 2px 3px 0px #0000001c;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div {
+  border-bottom-color: rgba(0, 0, 0, 0.08);
+  color:#2f2f2f;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:last-child > span {
+  color:#fff;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > header > div > svg {
+  fill:#575859;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > img {
+  filter: none;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel > h3 {
+  color:#696b6d;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel > div.kr-credit-feescalc > div {
+  background: rgba(0, 0, 0, 0.04);
+  color:#535558;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel > div.kr-credit-feescalc > div[kr-credit-calcfees="total"] {
+  color:#fff;
+  background: #29c359;
+}
+
+body[kr-theme="light"] section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form.kr-charges-creditcard > div > div > label {
+  color:#525354;
+}
+
+body[kr-theme="light"] section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form.kr-charges-creditcard > div > div > div > input[type="text"] {
+  border-color: #75757533;
+  color:#5a5a5a;
+}
+
+body[kr-theme="light"] form.kr-charges-creditcard > div > div > div > select {
+  background: transparent;
+}
+
+body[kr-theme="light"] section.kr-newsside,
+body[kr-theme="light"] section.kr-orderbookside,
+body[kr-theme="light"] section.kr-rankingside,
+body[kr-theme="light"] section.kr-calendareventitem {
+  border-right-color: #e8ecf3;
+}
+
+body[kr-theme="light"] section.kr-newsside > header > div,
+body[kr-theme="light"] section.kr-orderbookside > header > div,
+body[kr-theme="light"] section.kr-rankingside > header > div {
+  color:#585e63;
+}
+
+body[kr-theme="light"] section.kr-newsside > header > div > svg,
+body[kr-theme="light"] section.kr-orderbookside > header > div > svg,
+body[kr-theme="light"] section.kr-rankingside > header > div > svg {
+  fill:#585e63;
+}
+
+body[kr-theme="light"] section.kr-newsside > header > ul > li {
+  border-bottom-color: rgba(14, 14, 14, 0.1);
+}
+
+body[kr-theme="light"] section.kr-newsside > header > ul > li > svg {
+  fill:#66686b;
+}
+
+body[kr-theme="light"] .spinner {
+  background: rgba(0, 0, 0,0.25);
+}
+
+body[kr-theme="light"] section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos {
+  color:#1f1f1f;
+}
+
+body[kr-theme="light"] section.kr-newsside > section > h4.kr-calendar-spacetitle {
+  color:#fe4f00;
+  border-bottom-color: rgba(6, 6, 6, 0.1);
+}
+
+body[kr-theme="light"] section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos > div.kr-calendar-infos > img {
+  filter: none;
+  opacity: 0.8;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-percentage {
+  background:  rgba(6, 6, 6, 0.1);
+}
+
+body[kr-theme="light"] section.kr-newsside > section > section.kr-social-post {
+  color:#1f1f1f;
+  border-bottom-color: rgba(6, 6, 6, 0.1);
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-minm {
+  background: rgba(0, 0, 0, 0.05);
+  color:#2d2f31;
+}
+
+body[kr-theme="light"] .kr-admin > h3 {
+  border-bottom-color: rgba(6, 6, 6, 0.1);
+  color:#2d2f31;
+}
+
+body[kr-theme="light"] .kr-admin > div.kr-admin-table > table,
+body[kr-theme="light"] .kr-admin-line > div {
+  box-shadow: 0px 2px 5px 0px #00000026;
+}
+
+body[kr-theme="light"] section.kr-orderbookside > section {
+  color:#2d2d2d;
+}
+
+body[kr-theme="light"] section.kr-orderbookside > ul > li {
+  color:#444546;
+}
+
+body[kr-theme="light"] section.kr-orderbookside > ul > li {
+  border-bottom-color: rgba(6, 6, 6, 0.1);
+}
+
+body[kr-theme="light"] section.kr-orderbookside > ul > li > div > div > img {
+  filter:none;
+  opacity: 0.7;
+}
+
+body[kr-theme="light"] section.kr-orderbookside > div.kr-orderbookside-resum > div {
+  color:#444546;
+}
+
+body[kr-theme="light"] section.kr-orderbookside > ul {
+  border-top-color: rgba(6, 6, 6, 0.1);
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb {
+  background: -webkit-linear-gradient(left, rgba(255,255,255,0.6) 11%, rgba(255, 255, 255, 0) 100% );
+  background:linear-gradient(to right,rgba(255,255,255,0.6) 11%,rgba(255,255,255,0) 100%);
+}
+
+body[kr-theme="light"] div.kr-dash-pan-tb-nopt-n > label {
+  color:#575859;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-tb > div > div.kr-dash-pan-tb-nopt > div > svg {
+  fill:#575859;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-pa > li {
+  background: rgb(212, 221, 227);
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-pa > li > svg {
+  fill:#575859;
+  color:#575859;
+}
+
+body[kr-theme="light"] section.export-popup > section,
+body[kr-theme="light"] div.kr-overley > section {
+  background: #f4f6f9;
+  box-shadow: 0px 1px 3px 0px #10141d30;
+}
+
+body[kr-theme="light"] section.export-popup > section > header,
+body[kr-theme="light"] section.kr-chat > section > header,
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > header,
+body[kr-theme="light"] div.kr-overley > section > header {
+  background: #ffffff;
+  color:#575859;
+  box-shadow: 0px 2px 3px 0px #0000001c;
+  z-index: 999;
+}
+
+body[kr-theme="light"] div.kr-overley > section > header > span {
+  color:#575859;
+}
+
+body[kr-theme="light"] section.export-popup > section > ul > li {
+  background: #262c3b0d;
+  color:rgba(0, 0, 0, 0.84);
+}
+
+body[kr-theme="light"] section.export-popup > section > ul > li > svg {
+  fill:rgba(0, 0, 0, 0.84);
+}
+
+body[kr-theme="light"] section.export-popup > section > header > div:hover {
+  background: rgba(0,0,0,0.05);
+}
+
+body[kr-theme="light"] section.export-popup > section > header > div > svg {
+  fill:rgba(0, 0, 0, 0.84);
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section {
+  background: #f4f6f9;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > aside {
+  background: #d4dde3;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > aside > ul > li {
+  border-bottom-color: rgba(6, 6, 6, 0.1);
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > aside > input[type="text"] {
+  border-bottom-color: rgba(6, 6, 6, 0.1);
+  color: #575859;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > aside > ul > li > div.kr-chat-ulist-infos > div,
+body[kr-theme="light"] section.kr-chat > section > section > aside > ul > li > div.kr-chat-ulist-infos > span {
+  color: #575859;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > aside > ul > li:hover {
+  background: #ced8df;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > header {
+  background: #f2f2f3;
+  color:#4a4f56;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > header > div.kr-chat-c-user > div.kr-chat-c-user-infos > div {
+  color:rgba(0,0,0,0.7);
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > header > ul > li > a {
+  background: #363c4f1a;
+  color:#5a5656;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > header > ul > li > a:hover {
+  background: #363c4f26;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > header > ul > li > a > svg {
+  fill:#5a5656;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > header > div.kr-chat-c-user > div.kr-chat-c-user-infos > div > div.kr-chat-c-user-infos-status {
+  background: rgba(107, 106, 106, 0.2);
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > section > div.kr-chat-msg > div.kr-chat-msg-content > div > div {
+  background: #cdd2de5c;
+  color:#5c6065;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > section > div.kr-chat-msg > div.kr-chat-msg-content > span {
+  color:#6c6f73;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > section > div > div.kr-chat-msg-content > div > img {
+  box-shadow: 0px 2px 2px 0px #00000017;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > form {
+  background: #ffffff;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > form > ul > li > svg,
+body[kr-theme="light"] section.kr-chat > section > header > div.kr-chat-close > svg {
+  fill:#5c6065;
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > form > div > input[type="text"] {
+  color:#5c6065;
+}
+
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > section > div.kr-chat-chngdate > span {
+  background: #f4f6f9;
+  color:#999ea7
+}
+
+body[kr-theme="light"] section.kr-chat > section > section > section > section > section > div.kr-chat-chngdate {
+  border-top-color: #2b34481f;
+}
+
+body[kr-theme="light"] section.kr-chat-right > ul > li > div.kr-chat-status {
+  border-color: #d4dde3;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-comvote > li.kr-dash-pan-com-t > ul > li {
+  box-shadow: 0px 0px 21px #00000029;
+}
+
+body[kr-theme="light"] section.kr-dashboard > div.kr-dash-pannel.kr-dash-chart-n > div[symbol="not_init"] > div.kr-dash-pan-lgl {
+  background: rgba(255, 255, 255, 0.6);
+}
+
+body[kr-theme="light"] section.kr-port > section {
+  border-bottom-color: #d0d0d0;
+  border-right-color: #d0d0d0;
+}
+
+body[kr-theme="light"] section.kr-port-holding > ul > li {
+  color:#2b2a2a;
+}
+
+body[kr-theme="light"] section.kr-port-holding > header {
+  background: rgba(0, 0, 0, 0.04);
+  color:#3e3e3e;
+}
+
+body[kr-theme="light"] section.kr-port-holding > header > ul > li:last-child > span {
+  color:#fff;
+}
+
+body[kr-theme="light"] section.kr-port > section > ul > li {
+  border-bottom-color: #d0d0d0;
+  color: #3e3e3e;
+}
+
+body[kr-theme="light"] section.kr-port-holding > header > div > ul > li > svg {
+  fill:#3e3e3e;
+}
+
+body[kr-theme="light"] section.kr-port > section > header {
+  color:#000;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > header > span,
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > header > div.kr-dash-pan-type-s > span {
+  color:#596067;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads {
+  background: #f5f5f5;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > section > div > ul > li {
+  border-bottom-color: #dadada;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > section > div > ul > li > ul > li > svg {
+  fill:#919296;
+  color:#919296;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > section > div > ul > li > ul > li:hover > svg {
+  color : #676e77;
+  fill  : #676e77;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > div.kr-dash-pan-ads > section > div > ul > li:hover {
+  color      : #1b1b1b;
+  background : #edecec;
+}
+
+body[kr-theme="light"] div.kr-overley > section > form > section > section > span {
+    color:#000;
+}
+
+body[kr-theme="light"] div.kr-overley > section > form > section > section {
+  border-bottom-color: #363c4e17;
+}
+
+body[kr-theme="light"] div.kr-overley > section > form > section > section > ul > li > input[type="text"],
+body[kr-theme="light"] div.kr-overley > section > form > section > section > ul > li > div {
+  background: #ffffff;
+  color:#363c4f;
+}
+
+body[kr-theme="light"] div.kr-overley > section > form > section > section > ul > li > div.kr-indicator-cfg-select .kr-indicator-cfg-line {
+  border-color: #5e646d;
+}
+
+body[kr-theme="light"] div.kr-overley > section > form > section > section > ul > li > div.kr-indicator-cfg-select > div > svg {
+  fill:#5e646d;
+  color:#5e646d;
+}
+
+body[kr-theme="light"] div.kr-overley > section > form > section > section > ul > li > div.kr-indicator-cfg-select > ul {
+  background: #ffffff;
+  box-shadow: 0px 2px 2px 0 #00000038;
+}
+
+body[kr-theme="light"] section.kr-rankingside > section.kr-rankingside-mine > div {
+  background: #7777771a;
+  color:#333538;
+}
+
+body[kr-theme="light"] section.kr-rankingside > section.kr-rankingside-mine > div > div {
+  border-color: #f1f5f8;
+}
+
+body[kr-theme="light"] section.kr-rankingside > ul > li {
+  border-bottom-color: rgba(8, 8, 8, 0.05);
+  color:#3c4046;
+}
+
+body[kr-theme="light"] section.kr-user,
+body[kr-theme="light"] section.kr-news-detailed {
+  box-shadow: -5px 0px 20px #00000029;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li {
+  border-color: #696969;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-cust > li > svg {
+  fill:#1a1a1a;
+  color:#1a1a1a;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > div.kr-wallet-top-thirdparty {
+  color:#2f3031;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > div.kr-wallet-top-thirdparty > svg {
+  fill:#2f3031;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section.kr-wallet-top-thirdparty > div.kr-wallet-top-change > ul > li > img {
+  filter: none;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:first-child > span {
+  color:#313335;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:last-child > span {
+  color:#313335;
+}
+
+/* Calendar event */
+body[kr-theme="light"] section.kr-calendareventitem > header > div {
+  color:#313335;
+}
+
+body[kr-theme="light"] section.kr-calendareventitem > header > span {
+  color:#313335;
+}
+
+body[kr-theme="light"] section.kr-calendareventitem > header > div > svg {
+  fill:#313335;
+}
+
+body[kr-theme="light"] section.kr-calendareventitem > section.kr-calendareventitem-coininfos {
+  background: rgba(255, 255, 255, 0.32);
+  color:#17191b;
+}
+
+body[kr-theme="light"] section.kr-calendareventitem > section.kr-calendareventitem-coininfos > div > img {
+  filter: none;
+  opacity: 0.5;
+}
+
+body[kr-theme="light"] section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote > div.kr-calendareventitem-content-vote-i,
+body[kr-theme="light"] section.kr-calendareventitem > section.kr-calendareventitem-content > p {
+color:#313335;
+}
+
+body[kr-theme="light"] section.kr-chat-right > ul > li.kr-chat-right-openchat {
+  background: #363c4f;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-available > label,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div {
+  color:#313335;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div > input[type="text"] {
+  color:#313335;
+  background: #fff;
+}
+
+body[kr-theme="light"] section.kr-coin-inf {
+  overflow: hidden;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > header {
+  background: #fff;
+  color:#181f2c;
+  box-shadow: 0px 2px 3px #00000024;
+  z-index: 1;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > header > div.kr-cinf-name > div.kr-cinf-pic > img {
+  filter:none;
+  opacity: 0.5;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > header > div.kr-cinf-item {
+  color:#181f2cde;
+  border-left-color: #aeb1b92e;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > div > section.kr-cinf-order > section {
+  border-right-color: #fff;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > div > section.kr-cinf-order > section > header {
+  background: #fff;
+  color:#181f2c;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > div > section.kr-cinf-order > section > div {
+  background: #d4dde3;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > div > section.kr-cinf-order > section > div > div {
+  color:#464f61;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > div > section.kr-cinf-order > section > div > div > i {
+  color:#6a7282;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > div > section.kr-cinf-order > section > ul > li {
+  color:#343d4e;
+  border-bottom-color: #272f401f;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action {
+  background: #fff;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > nav > ul > li.selected-act-bs-n {
+  color:#20283a !important;
+  border-bottom-color: #20283a !important;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > nav > ul > li {
+  color:#20283a80 !important;
+  border-bottom-color: #20283a26 !important;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > span {
+  color:#404650;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > div {
+  background: #d4dde3;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul {
+  border-top-color: #4650671c;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div {
+  background: #d4dde3;
+  color:#848c92;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div:hover {
+  background : #c4cfd6;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul > li > span {
+  color:#20283a;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section {
+  background: #fff;
+  border-left-color: #ccd6dc;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section {
+  border-bottom-color: #ccd6dc;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section > header {
+  background: #d4dde3;
+  color:#2d333e;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-orderbook > ul > li > span {
+  color:#40495ae0;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-orderbook > section {
+  background: #d4dde3;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-orderbook > section > h3 {
+  color:#181f2c;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > div > span {
+  color:#181f2c;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > footer {
+  background: #d4dde3;
+
+}
+
+body[kr-theme="light"] section.kr-coin-inf > footer > ul > li {
+  color:#586277;
+  border-right-color: #bdc6cc;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > footer > ul > li > label {
+  color:#20283a;
+}
+
+body[kr-theme="light"] section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > div > input[type="text"] {
+  color:#20283a;
+}
+
+body[kr-theme="light"] > footer > div > div.kr-donation {
+  background: rgba(0, 0, 0, 0.1);
+  color:#252525eb;
+}
+
+body[kr-theme="light"] > footer > div > div.kr-donation:hover {
+  background: rgba(0, 0, 0, 0.15);
+  color:#252525eb;
+}
+
+body[kr-theme="light"] > footer > div.kr-footer-right-side > div.kr-footer-contact {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+body[kr-theme="light"] > footer > div.kr-footer-right-side > div.kr-footer-contact:hover {
+  background: rgba(0, 0, 0, 0.15);
+}
+
+body[kr-theme="light"] > footer > div.kr-footer-right-side > div.kr-footer-contact > span {
+  color:#252525eb;
+}
+
+body[kr-theme="light"] > footer > div.kr-footer-right-side > div.kr-footer-contact > div > svg {
+  fill:#252525eb;
+}
+
+body[kr-theme="light"] > footer > div.kr-footer-right-side > div.kr-current-time {
+  color:#252525eb;
+}
+
+body[kr-theme="light"] nav.kr-leftnav {
+  background: #f1f5f8;
+}
+
+body[kr-theme="light"] section.kr-dashboard > div.kr-dash-pannel > div > section.kr-dash-pan-hedr {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"] section.kr-dashboard > div.kr-dash-pannel > div > section.kr-dash-pan-hedr > ul > li > svg {
+  fill:#131722;
+}
+
+body[kr-theme="light"] section.kr-dashboard > div.kr-dash-pannel > div > section.kr-dash-pan-hedr > div.kr-dash-pan-hedr-ca > div,
+body[kr-theme="light"] section.kr-dashboard > div.kr-dash-pannel > div > section.kr-dash-pan-hedr > ul {
+  border-color: #b5c2cc;
+}
+
+body[kr-theme="light"] section.kr-dashboard > div.kr-dash-pannel > div > section.kr-dash-pan-hedr > div > input[type="text"] {
+  border-color: #b5c2cc;
+  color:#131722c7;
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed {
+  background: #d3dce2;
+  color:#131722ba;
+  box-shadow: 0px -2px 5px #0000000d;
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed > header {
+  background: #fff;
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed > header > ul > li > svg {
+  fill:#131722;
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed > nav > ul,
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed > ul > li {
+  border-color: #b5c2cc;
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed.kr-dash-orderlistpassed-layer {
+  opacity: 0.9;
+}
+
+body[kr-theme="light"] div.kr-dash-pan-cry > div.kr-dash-pan-action {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"] div.kr-wtchl > header input[type="text"].kr-search-field {
+  background: #d3dce2;
+  color:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-wtchl > header input[type="text"].kr-search-field:focus {
+  background: #c1ccd4;
+  color:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-wtchl > ul > li:nth-child(2n) {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"] div.kr-wtchl > ul > li:hover,
+body[kr-theme="light"] div.kr-wtchl > ul > li:nth-child(2n):hover {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"] div.kr-wtchl > nav > ul {
+  border-color: #b5c2cc;
+}
+
+body[kr-theme="light"] div.kr-infoscurrencylf {
+  background: #fff;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf > header {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf > header > span {
+  color:#131722ba;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf-header > h2 {
+  color:#131722ba;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf-price > span.kr-infoscurrencylf-price-cp {
+  color:#131722ba;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf-range {
+  color:#131722ba;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-bar {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"]  div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-bar > div::after {
+  background: #131722;
+}
+
+body[kr-theme="light"]  section.kr-infoscurrencylf-orderbook > div > header {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"]  section.kr-infoscurrencylf-orderbook > div > header > ul > li {
+  color:#131722ba;
+}
+
+body[kr-theme="light"]  section.kr-infoscurrencylf-orderbook > div > section > div > ul > li {
+  color:#131722ba;
+}
+
+body[kr-theme="light"]  section.kr-infoscurrencylf-orderbook > div > section > div > div {
+  opacity: 0.2;
+}
+
+body[kr-theme="light"] section.kr-search {
+  background: #fff;
+  color:#131722ba;
+}
+
+body[kr-theme="light"] section.kr-search > header {
+  background: #fff;
+}
+
+body[kr-theme="light"] section.kr-search > ul > li:hover {
+  background: #f1f5f8;
+}
+
+body[kr-theme="light"] section.kr-search > header > input[type="text"] {
+  color:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-search-field-content div.kr-search-field-content-bicon {
+  background: #f4f6f9;
+  color:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-search-field-content div.kr-search-field-content-bicon > input[type="text"] {
+  background: #f4f6f9;
+  color:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-search-field-content div.kr-search-field-content-bicon > svg {
+  fill:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-search-field-content div.kr-search-field-content-bicon > div > svg {
+  fill:#131722ba;
+}
+
+body[kr-theme="light"] div.kr-search-field-content  div.kr-search-field-content-bicon > div:hover {
+  background: #9ba0a521;
+}
+
+body[kr-theme="light"] section.kr-orderbookside > ul > li:hover {
+  background: #9ba0a521;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > header > div {
+  color:#131722ba;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > header > div > div > img {
+  filter: brightness(1) invert(0);
+  opacity: 0.7;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > section.kr-orderinfoside-dt {
+  background: #d3dce2;
+  color:#131722ba;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > section.kr-orderinfoside-dt > span {
+  color:#131722c4;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > section.kr-orderinfoside-dt > div > svg {
+  fill:#131722ba;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout > li > label {
+  color:#131722ba;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > ul.kr-orderinfoside-minf > li {
+  color:#131722ba;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > ul.kr-orderinfoside-minf > li > div {
+  background: #d3dce2;
+
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > section > ul.kr-orderinfoside-minf {
+  border-color: #d3dce2;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside {
+  border-color: #d3dce2;
+}
+
+body[kr-theme="light"] section.kr-orderinfoside > header > div > svg {
+  fill:#131722ba;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > img {
+  filter: brightness(100) invert(0);
+  opacity: 0.1;
+}
+
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard:hover > img {
+  filter: brightness(100) invert(0);
+  opacity: 0.12;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > div.kr-change-dashboard-selector > div > ul > li > img{
+  filter: brightness(100) invert(0);
+  opacity: 0.12;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-change-dashboard > div.kr-change-dashboard-selector > div > ul > li:hover > img {
+  opacity : 0.15;
+}
+
+body[kr-theme="light"] section.kr-balance-view > header > h2,
+body[kr-theme="light"] section.kr-balance-view > header > div > span > b {
+  color:#252525c9;
+}
+
+body[kr-theme="light"] section.kr-balance-view > header > div > div > input[type="text"] {
+  background: #fff;
+  color:#252525c9;
+  box-shadow: 0px 2px 5px 0px #0000001a;
+}
+
+body[kr-theme="light"] section.kr-balance-view > header > div > div > div {
+  background: rgba(0, 0, 0, 0.07);
+  color:#252525;
+}
+
+body[kr-theme="light"] div.kr-marketlist > div.kr-marketlist-header {
+  background: #fff;
+}
+body[kr-theme="light"] div.kr-marketlist > div {
+  border-color:#363c4f17;
+  color:#252525c9;
+}
+
+body[kr-theme="light"] div.kr-marketlist > div:hover {
+  background: #ffffff !important;
+}
+
+body[kr-theme="light"] section.kr-balance-view > header > div > span {
+  color:#363c4f9e;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > nav,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav {
+  background: #ebedf1;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > nav > ul > li,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li {
+  border-color: #cccfd6;
+  color:#474d5ceb;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > h2,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > form > h2 {
+  color:#5f656d;
+
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > h2 > span,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > form > h2 > span {
+  color:#fff;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-feescalc > div {
+  background: #d3dce2;
+  color:#252525;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li:last-child,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li.kr-balance-range-preview-total,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-feescalc > div[kr-credit-calcfees="total"] {
+  color:#fff;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li:last-child,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > form > ul > li:last-child {
+  background: #d3dce2;
+  color:#252525;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc > select,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-gauth > input[type="text"] {
+  background: #fff;
+  color:#2f353e;
+  box-shadow: 0px 2px 5px 0px #0000002b;
+
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc > span,
+body[kr-theme="light"]section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-gauth > span {
+  color:#3b4048;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-cblance > section,
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > h3 {
+  color:#3b4048;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li > label {
+  background: #d3dce2;
+  color:#3b4048;
+}
+
+body[kr-theme="light"] section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li.kr-balance-range-preview-total {
+  background: #29c359 !important;
+}
+
+body[kr-theme="light"] section.createalert-popup > section {
+  background: #ffffff;
+}
+
+body[kr-theme="light"] section.createalert-popup > section > header {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"] section.createalert-popup > section > section > form > section.createalert-infos-pair > div,
+body[kr-theme="light"] section.createalert-popup > section > section > form > section.createalert-valert > span,
+body[kr-theme="light"] section.createalert-popup > section > section > form > section.createalert-valert > div > div > span,
+body[kr-theme="light"] section.createalert-popup > section > section > form > section.createalert-valert > div > div > div > input[type="text"],
+body[kr-theme="light"] section.createalert-popup > section > section > form > section.createalert-valert > div > div > div > div,
+body[kr-theme="light"] div.kr-infoscurrencylf > ul > li {
+  color:#3b4048;
+}
+
+body[kr-theme="light"] section.createalert-popup > section > header > div > svg {
+  fill:#3b4048;
+}
+
+body[kr-theme="light"] section.createalert-popup > section > section > form > section.createalert-valert > div > div > div {
+  background: #d3dce2;
+}
+
+body[kr-theme="light"] > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > ul > li > div {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed > ul > li:nth-child(2n) {
+  background: #353c4f0f;
+}
+
+body[kr-theme="light"] section.kr-dashboard > section.kr-dash-orderlistpassed > ul > li > div {
+  opacity: 0.95;
+}
+
+body[kr-theme="light"] section.kr-leftside > div.kr-leftside-hide-controller {
+  background: rgba(51, 51, 51, 0.21);
+}
+
+body[kr-theme="light"] section.kr-leftside > div.kr-leftside-hide-controller > svg {
+  fill:#000;
+}

@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: hr\n"
+
+#: 
+msgid "Real account"
+msgstr "Pravi račun"
+
+#: 
+msgid "Board"
+msgstr "grafikon\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Obratite se"
+
+#: 
+msgid "chart"
+msgstr "grafikon\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "grafikone ili više"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Pretraživanje po imenu ili simbolu"
+
+#: 
+msgid "real account"
+msgstr "pravi račun\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Pogledajte sve ravnoteže"
+
+#: 
+msgid "List accounts"
+msgstr "Popis računa\n"
+""
+
+#: 
+msgid "History"
+msgstr "Povijest"
+
+#: 
+msgid "Credit"
+msgstr "Kreditna"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Naručite knjigu"
+
+#: 
+msgid "Market"
+msgstr "Tržište"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfelj"
+
+#: 
+msgid "Leader board"
+msgstr "Voditeljica odbora"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "gledanje"
+
+#: 
+msgid "News"
+msgstr "Vijesti"
+
+#: 
+msgid "Panel"
+msgstr "Ploča"
+
+#: 
+msgid "Manager"
+msgstr "Menadžer"
+
+#: 
+msgid "Admin"
+msgstr "Admin"
+
+#: 
+msgid "Converter"
+msgstr "Konverter"
+
+#: 
+msgid "Social"
+msgstr "socijalni"
+
+#: 
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: 
+msgid "Watchlist"
+msgstr "Popis praćenja"
+
+#: 
+msgid "Contact us"
+msgstr "Kontaktirajte nas"
+
+#: 
+msgid "January"
+msgstr "siječanj"
+
+#: 
+msgid "February"
+msgstr "veljača"
+
+#: 
+msgid "March"
+msgstr "ožujak"
+
+#: 
+msgid "April"
+msgstr "travanj"
+
+#: 
+msgid "May"
+msgstr "svibanj"
+
+#: 
+msgid "June"
+msgstr "lipanj"
+
+#: 
+msgid "July"
+msgstr "srpanj"
+
+#: 
+msgid "August"
+msgstr "kolovoz"
+
+#: 
+msgid "September"
+msgstr "rujan"
+
+#: 
+msgid "October"
+msgstr "listopad"
+
+#: 
+msgid "November"
+msgstr "studeni"
+
+#: 
+msgid "December"
+msgstr "prosinac"
+
+#: 
+msgid "Mon."
+msgstr "Pon"
+
+#: 
+msgid "Tue."
+msgstr "Uto"
+
+#: 
+msgid "Wed."
+msgstr "Oženiti se."
+
+#: 
+msgid "Thu."
+msgstr "Čet"
+
+#: 
+msgid "Fri."
+msgstr "Pet"
+
+#: 
+msgid "Sat."
+msgstr "Sat."
+
+#: 
+msgid "Sun."
+msgstr "Sunce."
+
+#: 
+msgid "Statistics"
+msgstr "Statistika"
+
+#: 
+msgid "Bank transferts"
+msgstr "Bankovni transferi"
+
+#: 
+msgid "Payments"
+msgstr "Plaćanja"
+
+#: 
+msgid "Subscriptions"
+msgstr "Pretplate"
+
+#: 
+msgid "Identity"
+msgstr "Identitet"
+
+#: 
+msgid "Users"
+msgstr "Korisnici"
+
+#: 
+msgid "Orders"
+msgstr "Narudžbe"
+
+#: 
+msgid "Withdraw"
+msgstr "Povući"
+
+#: 
+msgid "Currency"
+msgstr "Valuta"
+
+#: 
+msgid "Total trade"
+msgstr "Ukupna trgovina"
+
+#: 
+msgid "Total deposit"
+msgstr "Ukupni depozit"
+
+#: 
+msgid "Total withdraw"
+msgstr "Ukupno se povlači"
+
+#: 
+msgid "Fees"
+msgstr "naknade"
+
+#: 
+msgid "Name"
+msgstr "Ime"
+
+#: 
+msgid "Email"
+msgstr "E-mail"
+
+#: 
+msgid "Subscription"
+msgstr "Pretplata"
+
+#: 
+msgid "Signin method"
+msgstr "Metoda signina"
+
+#: 
+msgid "Last login"
+msgstr "Zadnja prijava"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Obavijesti su omogućene"
+
+#: 
+msgid "Trial version"
+msgstr "Probna verzija"
+
+#: 
+msgid "day"
+msgstr "dan"
+
+#: 
+msgid "Edit"
+msgstr "Uredi"
+
+#: 
+msgid "Inactive"
+msgstr "neaktivan"
+
+#: 
+msgid "Enabled"
+msgstr "Omogućeno"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "Korisnik"
+
+#: 
+msgid "Order date"
+msgstr "Datum narudžbe"
+
+#: 
+msgid "Exchange"
+msgstr "razmjena"
+
+#: 
+msgid "Pair"
+msgstr "Par"
+
+#: 
+msgid "Type"
+msgstr "Tip"
+
+#: 
+msgid "Amount"
+msgstr "Iznos"
+
+#: 
+msgid "Received"
+msgstr "primljen"
+
+#: 
+msgid "Total deducted"
+msgstr "Ukupno oduzeto"
+
+#: 
+msgid "Total received"
+msgstr "Ukupno primljeno"
+
+#: 
+msgid "Buy"
+msgstr "Kupiti"
+
+#: 
+msgid "Sell"
+msgstr "Prodavati\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Popis kovanica"
+
+#: 
+msgid "Market list"
+msgstr "Popis tržišta"
+
+#: 
+msgid "Heatmap"
+msgstr "Toplinska karta"
+
+#: 
+msgid "Price"
+msgstr "Cijena"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Direct Vol. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Total Vol. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Market Cap"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h visoka / niska"
+
+#: 
+msgid "Dashboard"
+msgstr "kontrolna ploča"
+
+#: 
+msgid "General settings"
+msgstr "Opće postavke"
+
+#: 
+msgid "Coins"
+msgstr "Kovanice"
+
+#: 
+msgid "Currencies"
+msgstr "valute"
+
+#: 
+msgid "Mail settings"
+msgstr "Postavke pošte"
+
+#: 
+msgid "Payment"
+msgstr "Plaćanje"
+
+#: 
+msgid "News - Social"
+msgstr "Vijesti - društveni"
+
+#: 
+msgid "Intro"
+msgstr "Uvod"
+
+#: 
+msgid "Trading"
+msgstr "trgovački"
+
+#: 
+msgid "Cron"
+msgstr "cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Dodatne stranice"
+
+#: 
+msgid "Today's visits"
+msgstr "Današnji posjeti"
+
+#: 
+msgid "7 days visits"
+msgstr "7 dana posjeta"
+
+#: 
+msgid "Number of users"
+msgstr "Broj korisnika"
+
+#: 
+msgid "Number of coins"
+msgstr "Broj kovanica"
+
+#: 
+msgid "Last users"
+msgstr "Zadnji korisnici"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Ova web stranica koristi kolačiće"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Naša web stranica koristi kolačiće za ispitivanje prometa na web-lokaciji i aktivnosti korisnika na našoj web-lokaciji, za poboljšano i učinkovito korisničko iskustvo, marketing i pružanje funkcionalnosti društvenih medija."
+
+#: 
+msgid "Accept"
+msgstr "Prihvatiti"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Vaša email adresa"
+
+#: 
+msgid "Your password"
+msgstr "Tvoja lozinka"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Zaboravili ste lozinku ?"
+
+#: 
+msgid "Login"
+msgstr "Prijaviti se"
+
+#: 
+msgid "or"
+msgstr "ili"
+
+#: 
+msgid "Create a new account"
+msgstr "Izraditi novi račun"
+
+#: 
+msgid "practice account"
+msgstr "praksi računa"
+
+#: 
+msgid "Symbol"
+msgstr "Simbol"
+
+#: 
+msgid "Last"
+msgstr "Posljednji"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profil"
+
+#: 
+msgid "Notification"
+msgstr "Obavijest"
+
+#: 
+msgid "Security"
+msgstr "sigurnosti"
+
+#: 
+msgid "Logout"
+msgstr "Odjaviti se"
+
+#: 
+msgid "Your name"
+msgstr "Tvoje ime"
+
+#: 
+msgid "Language"
+msgstr "Jezik"
+
+#: 
+msgid "Type chart"
+msgstr "Upišite grafikon"
+
+#: 
+msgid "Change your password"
+msgstr "promjeni lozinku"
+
+#: 
+msgid "Repeat your password"
+msgstr "Ponovite zaporku"
+
+#: 
+msgid "Back"
+msgstr "leđa"
+
+#: 
+msgid "Validate"
+msgstr "potvrditi"
+
+#: 
+msgid "Title"
+msgstr "Titula"
+
+#: 
+msgid "Your website title"
+msgstr "Naslov vaše web stranice"
+
+#: 
+msgid "App description"
+msgstr "Opis aplikacije"
+
+#: 
+msgid "Referal link"
+msgstr "Referentna veza"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Vaša referalna veza (npr. Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Održavanje"
+
+#: 
+msgid "Number format"
+msgstr "Format broja"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Prebacite grafikone na sheme trgovanja"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Omogući autolanguage"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Omogući POEditor jezik"
+
+#: 
+msgid "POEditor API Key"
+msgstr "API ključ POEditor"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "API ključ za POEditor"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "Odabir projekta za POEditor"
+
+#: 
+msgid "Allow signup"
+msgstr "Dopusti prijava"
+
+#: 
+msgid "User need verify account"
+msgstr "Korisnik treba potvrditi račun"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Trebate prijavu za captcha"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Googleov ključ za web stranicu Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Vaš Google Recaptcha web-ključ"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Tajni ključ Google Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Vaš tajni ključ Google Recaptcha"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin s Googleom"
+
+#: 
+msgid "Google App ID"
+msgstr "ID Google App"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Vaš ID za Google App"
+
+#: 
+msgid "Google App Secret"
+msgstr "Tajna Google App"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Vaša tajna Google App"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin s Facebookom"
+
+#: 
+msgid "Facebook App ID"
+msgstr "ID aplikacije Facebook"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Vaš ID Facebook aplikacije"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook aplikacijska tajna"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Vaša Facebookova aplikacija"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Omogući Google oglas"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Ad Client"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Vaš Google Ad Client"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google oglasno mjesto"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Vaš Google oglasno mjesto"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Omogući kolačić popup"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Naslov kolačića skočnih prozora"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Naslov skočnog popisa kolačića"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Kolačić Popup tekst"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Popup tekst kolačića"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Zemlje s crnim popisom"
+
+#: 
+msgid "Save"
+msgstr "Uštedjeti"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Dopusti korisniku prebacivanje vrste grafikona"
+
+#: 
+msgid "Done !"
+msgstr "Gotovo!"
+
+#: 
+msgid "quantity"
+msgstr "količina"
+
+#: 
+msgid "Enable native trading"
+msgstr "Omogući izvorno trgovanje"
+
+#: 
+msgid "Balance configuration"
+msgstr "Konfiguracija stanja"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Pokaži procjenu stanja"
+
+#: 
+msgid "User user currency select"
+msgstr "Odabir valute korisnika"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Prikaži procjenu stanja u"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Konfiguracija referalnog sustava"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Omogućivanje preporuke (potrebno je omogućiti izvorno trgovanje)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referalna komisija (u $, fiksni iznos)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referalna provizija (u $, fiksni iznos): Ako se prijavi za prijavu i uplati stvarni novac, prijavi se osvoji 5 $ (vrijednost = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Konfiguracija pologa"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Naknade za polog (u%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Minimalna uplata (u $)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Maksimalna uplata (u $)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Dopuštene valute pologa"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Primajte lisnicu (ako nije dostupna stvarna valuta novčanika)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Povuci konfiguraciju"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Povuci minimum (u $)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Povucite vrijeme obrade (u danima)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Povucite vrijeme obrade (u danima) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Konfiguracija trgovine"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Naknade za trgovanje (u%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Referentni obrazac narudžbe"
+
+#: 
+msgid "Real account configuration"
+msgstr "Konfiguracija stvarnog računa"
+
+#: 
+msgid "Enable real account"
+msgstr "Omogući pravi račun"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Konfiguracija računa u praksi"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Maksimalni besplatni depozit (u $)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Maksimalni besplatni depozit (u $): 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Primanje novčanika s besplatnim depozitima"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Podneseni datum"
+
+#: 
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgid "Document name"
+msgstr "Naziv dokumenta"
+
+#: 
+msgid "Documents"
+msgstr "Dokumenti"
+
+#: 
+msgid "Not processed"
+msgstr "Nije obrađeno"
+
+#: 
+msgid "Processed"
+msgstr "obrađen"
+
+#: 
+msgid "Payment success"
+msgstr "Uspjeh plaćanja"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Referentni obrazac za plaćanje"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Omogući SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP poslužitelj"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Vaš poslužitelj SMTP poslužitelja"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP port"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Vaša SMTP priključka"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP sigurnost"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP korisnika"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Vaš SMTP korisnik"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP lozinku"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Vaša SMTP lozinka"
+
+#: 
+msgid "Email sender name"
+msgstr "Naziv pošiljatelja e-pošte"
+
+#: 
+msgid "Support mail"
+msgstr "Podrška putem pošte"
+
+#: 
+msgid "Support Phone"
+msgstr "Podrška telefonu"
+
+#: 
+msgid "Support phone"
+msgstr "Podržite telefon"
+
+#: 
+msgid "Support Address"
+msgstr "Adresa podrške"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO pošta"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO telefon"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO telefon"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Pošalji poštu dobrodošlice"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Predmet dobrodošlice pošte"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Kalendarske vjerodajnice"
+
+#: 
+msgid "Enable calendar"
+msgstr "Omogući kalendar"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "ID klijenta kalendara"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Vaš ID klijenta kalendara"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Tajna klijenta kalendara"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Prikaži samo događaje u odnosu na omogućene kovanice"
+
+#: 
+msgid "News feed"
+msgstr "Vijesti"
+
+#: 
+msgid "Add news feed"
+msgstr "Dodajte vijesti"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Vaša veza na RSS feed"
+
+#: 
+msgid "Add"
+msgstr "Dodati"
+
+#: 
+msgid "Name feed"
+msgstr "Feed naziva"
+
+#: 
+msgid "Url"
+msgstr "uRL"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter računi"
+
+#: 
+msgid "Add twitter account"
+msgstr "Dodajte račun za twitter"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter ime"
+
+#: 
+msgid "without"
+msgstr "bez"
+
+#: 
+msgid "Social name"
+msgstr "Društveno ime"
+
+#: 
+msgid "Created date"
+msgstr "Datum izrade"
+
+#: 
+msgid "Amount paid"
+msgstr "Uplaćeni iznos"
+
+#: 
+msgid "Wallet received"
+msgstr "Primljen je novčanik"
+
+#: 
+msgid "Amount received"
+msgstr "Primljeni iznos"
+
+#: 
+msgid "Payment gateway"
+msgstr "Pristupnik za plaćanje"
+
+#: 
+msgid "Proof"
+msgstr "Dokaz"
+
+#: 
+msgid "Modify balance"
+msgstr "Izmijeni ravnotežu"
+
+#: 
+msgid "Select balance"
+msgstr "Odaberite ravnotežu"
+
+#: 
+msgid "Modification type"
+msgstr "Vrsta modifikacije"
+
+#: 
+msgid "Modification value"
+msgstr "Vrijednost izmjene"
+
+#: 
+msgid "Add modification"
+msgstr "Dodajte izmjene"
+
+#: 
+msgid "Card"
+msgstr "Kartica"
+
+#: 
+msgid "Balances"
+msgstr "Vage"
+
+#: 
+msgid "Remove"
+msgstr "Ukloniti"
+
+#: 
+msgid "Last location"
+msgstr "Zadnja lokacija"
+
+#: 
+msgid "Currency use"
+msgstr "Upotreba valute"
+
+#: 
+msgid "Signup with"
+msgstr "Prijavite se s"
+
+#: 
+msgid "Identity verification"
+msgstr "Provjera identiteta"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 koraka autentifikacije"
+
+#: 
+msgid "User status"
+msgstr "Korisnički status"
+
+#: 
+msgid "Login history"
+msgstr "Povijest prijave"
+
+#: 
+msgid "More details"
+msgstr "Više detalja"
+
+#: 
+msgid "Deposit history"
+msgstr "Povijest depozita"
+
+#: 
+msgid "Total"
+msgstr "ukupno"
+
+#: 
+msgid "Value in BTC"
+msgstr "Vrijednost u BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Vrijednost u USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Metoda povlačenja"
+
+#: 
+msgid "Date"
+msgstr "Datum"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Pitaj widthdraw"
+
+#: 
+msgid "WITHDRAW"
+msgstr "POVUĆI"
+
+#: 
+msgid "paypal"
+msgstr "PayPal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Odaberite račun prijemnika"
+
+#: 
+msgid "Cancel"
+msgstr "Otkazati"
+
+#: 
+msgid "Next"
+msgstr "Sljedeći"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Završna konfiguracija obavijesti."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Vaš PushBullet pristupni token"
+
+#: 
+msgid "Remove token"
+msgstr "Ukloni token"
+
+#: 
+msgid "You are premium !"
+msgstr "Vi ste premium!"
+
+#: 
+msgid "left"
+msgstr "lijevo"
+
+#: 
+msgid "Main settings"
+msgstr "Glavne postavke"
+
+#: 
+msgid "Period"
+msgstr "Razdoblje"
+
+#: 
+msgid "Colour"
+msgstr "Boja"
+
+#: 
+msgid "Thickness"
+msgstr "Debljina"
+
+#: 
+msgid "Reset"
+msgstr "Reset"
+
+#: 
+msgid "Apply"
+msgstr "primijeniti"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Unesite svoj Google kod autentifikatora"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Unesite kôd Google autentifikatora"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Salda vrijednosti manje od 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Sakrij malu ravnotežu"
+
+#: 
+msgid "Estimate value"
+msgstr "Procjena vrijednosti"
+
+#: 
+msgid "Value in"
+msgstr "Vrijednost u"
+
+#: 
+msgid "Deposit"
+msgstr "depozit"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google Authentification je omogućiti!"
+
+#: 
+msgid "Set as done"
+msgstr "Postavite kao gotove"
+
+#: 
+msgid "Close"
+msgstr "Zatvoriti"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Kôd Google autentifikatora nije valjan"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Dobit ćete potvrdu widthdraw e-poštom"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, User ID, Type, Valuta"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Filter Widthdraw"
+
+#: 
+msgid "Default"
+msgstr "Zadano"
+
+#: 
+msgid "Not confirmed"
+msgstr "Nije potvrđeno"
+
+#: 
+msgid "Done"
+msgstr "Gotovo"
+
+#: 
+msgid "Payment filter"
+msgstr "Filtar za plaćanje"
+
+#: 
+msgid "Need to be approved"
+msgstr "Trebate biti odobreni"
+
+#: 
+msgid "Paid"
+msgstr "plaćen"
+
+#: 
+msgid "Not paid"
+msgstr "Neplaćen"
+
+#: 
+msgid "All payments"
+msgstr "Sva plaćanja"
+
+#: 
+msgid "Ask a proof"
+msgstr "Zatraži dokaz"
+
+#: 
+msgid "Bank ref."
+msgstr "Bank ref."
+
+#: 
+msgid "Proof received"
+msgstr "Primljena je potvrda"
+
+#: 
+msgid "In pending"
+msgstr "U tijeku je"
+
+#: 
+msgid "All widthdraw"
+msgstr "Sve širine"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Povucite referentni obrazac"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Iskoristite filtar"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Povucite podatke"
+
+#: 
+msgid "year"
+msgstr "godina"
+
+#: 
+msgid "month"
+msgstr "mjesec"
+
+#: 
+msgid "week"
+msgstr "tjedan"
+
+#: 
+msgid "hour"
+msgstr "sat"
+
+#: 
+msgid "minute"
+msgstr "minuta"
+
+#: 
+msgid "second"
+msgstr "drugi"
+
+#: 
+msgid "ago"
+msgstr "prije"
+
+#: 
+msgid "Bank transfert"
+msgstr "Prijenos banaka"
+
+#: 
+msgid "Deposit amount"
+msgstr "Količina uplate"
+
+#: 
+msgid "Fill up"
+msgstr "Napuniti"
+
+#: 
+msgid "It's free"
+msgstr "Slobodno je"
+
+#: 
+msgid "You will receive"
+msgstr "Dobit ćete"
+
+#: 
+msgid "Add real funds"
+msgstr "Dodaj stvarna sredstva"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimalni polog"
+
+#: 
+msgid "Enable credit card"
+msgstr "Omogući kreditnu karticu"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe privatni ključ"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "API ključ Vaše linije"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Omogući Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Omogućite način rada Paypal Live"
+
+#: 
+msgid "Paypal client ID"
+msgstr "ID klijenta Paypal"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Vaš ID klijenta paypal"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Client Secret"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Vaš Paypal klijent tajna"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Omogući Blockonomics"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Tajni ključ Blockonomics"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Vaš tajni taj blokonomije"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Omogući Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo tajni ključ"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Tvoj fortumo tajni ključ"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo servisni ključ"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Vaš servisni ključ za uslugu"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Omogući Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Omogućite CoinGate live način rada"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Vaš CoinGate Auth Token"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "Valuta novčane mase"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Omogući plaćanje dona"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Javni ključ kovanica"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Vaš javni ključ kovanica"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Osobni ključ kovanica"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Vaš osobni ključ kovanica"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Kovanice Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Vaš novac plaćanja Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Novčana naknada IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Vaš novac za plaćanje IPN tajne"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Omogućite plaćanje Rave Flutterwave"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Način pijeska Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave javni ključ"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Vaš javni ključ Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave tajni ključ"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Vaš Rave Flutterwave tajni ključ"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave naslov plaćanja"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Vaš Rave Flutterwave naslov plaćanja"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Preuzimanje Rave Flutterwave plaćanja"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Vaš Rave Flutterwave prefiks plaćanja (npr. KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Omogući plaćanje Coinbase Commerce"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase commerce API ključ"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Vaš ključ za API za trgovinu Coinbase"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Naslov bonusa trgovine na maloprodaji"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Naslov vašeg plaćanja u trgovini Coinbase"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Omogući Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Tvoj Mollie ključ"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Omogući Payeer"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Payeer Shop ID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "ID vašeg Payeera"
+
+#: 
+msgid "Payeer API Key"
+msgstr "API ključ Payeera"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "API ključ Payeera"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Omogući prijenos banke"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Maksimalni prijenos banke u isto vrijeme"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Omogućeno je dokazivanje bankovnog prijenosa"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Najveći dokaz za prijenos banke"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Vaš Gemini Key"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Vaša Blizina Tajna"
+
+#: 
+msgid "Select your platform"
+msgstr "Odaberite platformu"
+
+#: 
+msgid "Sandbox"
+msgstr "kutija s pijeskom"
+
+#: 
+msgid "Live"
+msgstr "Uživo"
+
+#: 
+msgid "Cron time"
+msgstr "Cron Time"
+
+#: 
+msgid "Last update"
+msgstr "Zadnje ažuriranje"
+
+#: 
+msgid "Sync delay"
+msgstr "Odgoda sinkronizacije"
+
+#: 
+msgid "Add additional page"
+msgstr "Dodajte dodatnu stranicu"
+
+#: 
+msgid "Page name"
+msgstr "Naziv stranice"
+
+#: 
+msgid "Page URL"
+msgstr "URL stranice"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Ikona stranice (npr: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Ili ikona stranice svg"
+
+#: 
+msgid "Icon"
+msgstr "Ikona"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG Slika"
+
+#: 
+msgid "Enable"
+msgstr "Omogućiti"
+
+#: 
+msgid "Disable"
+msgstr "onesposobiti"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Stvorite novi bankovni prijenos"
+
+#: 
+msgid "Pending"
+msgstr "U tijeku"
+
+#: 
+msgid "Details"
+msgstr "Detalji"
+
+#: 
+msgid "Verified"
+msgstr "ovjeren"
+
+#: 
+msgid "Canceled"
+msgstr "otkazan"
+
+#: 
+msgid "Declined"
+msgstr "Odbijeno"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Vaš Hitbtc ključ"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Vaša Hitbtc tajna"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Vaš Bitbank ključ"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Tvoj Bitbank Secret"
+
+#: 
+msgid "User level"
+msgstr "Korisnička razina"
+
+#: 
+msgid "Expire in"
+msgstr "Istječe"
+
+#: 
+msgid "Back to login"
+msgstr "Natrag na prijavu"
+
+#: 
+msgid "Let's go !"
+msgstr "Idemo !"
+
+#: 
+msgid "Welcome"
+msgstr "Dobrodošli"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Konfigurirajte vašu nadzornu ploču."
+
+#: 
+msgid "Select your language"
+msgstr "Odaberite svoj jezik"
+
+#: 
+msgid "Select your currency"
+msgstr "Odaberite svoju valutu"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Odaberite kripto vaših favorita"
+
+#: 
+msgid "left need to be selected"
+msgstr "lijevo treba odabrati"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Kompletacija je dovršena!"
+
+#: 
+msgid "will now refresh"
+msgstr "sada će se osvježiti"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Omogućite plaćanje savršenom novcem"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Savršen račun primatelja novca"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Vaš savršeni račun primatelja novca"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Mobilne, pregledničke i obavijesti sustava Windows"
+
+#: 
+msgid "Create price alert"
+msgstr "Stvorite upozorenje o cijenama"
+
+#: 
+msgid "I need help !"
+msgstr "Trebam pomoć !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Preuzmite aplikaciju PushBullet na telefonu (dostupno za Android i iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Stvorite račun na njemu"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Povežite se s novim računom ovdje"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Idite na <b> Postavke </ b>> <b> Račun </ b> i izradite <b> Access token </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Kopirajte ključ i zalijepite ga na ispunu i kliknite na spremanje."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Obavijest će biti poslana da provjerite je li veza uspješna."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium vas čeka!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Više od 2000 kripto valute"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Budite oprezni kada indikator raste ili pada"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Odgovara na mobitelu i tabletu"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Vijesti i društvene postaje na istom mjestu"
+
+#: 
+msgid "Support"
+msgstr "podrška"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Address"
+msgstr "Adresa"
+
+#: 
+msgid "Contact DPO"
+msgstr "Kontaktirajte DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Vaš ključ za bijeg"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Vaša Binance Secret"
+
+#: 
+msgid "Cardholder name"
+msgstr "Ime vlasnika kartice"
+
+#: 
+msgid "Card number"
+msgstr "Broj kartice"
+
+#: 
+msgid "Expiration"
+msgstr "izdisanje"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "Nema naredbe za prikazivanje"
+
+#: 
+msgid "Premium"
+msgstr "Premija"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Potvrdite svoj identitet"
+
+#: 
+msgid "Estimate balance"
+msgstr "Procjena ravnoteže"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1h"
+
+#: 
+msgid "30min"
+msgstr "30min"
+
+#: 
+msgid "Candlestick"
+msgstr "Svijećnjak"
+
+#: 
+msgid "Line"
+msgstr "Crta"
+
+#: 
+msgid "Indicators"
+msgstr "pokazatelji"
+
+#: 
+msgid "Export"
+msgstr "Izvoz"
+
+#: 
+msgid "Alert"
+msgstr "uzbuna"
+
+#: 
+msgid "Drawing"
+msgstr "Crtanje"
+
+#: 
+msgid "Trend Line"
+msgstr "Trend Line"
+
+#: 
+msgid "Text"
+msgstr "Tekst"
+
+#: 
+msgid "Create a new alert"
+msgstr "Stvorite novo upozorenje"
+
+#: 
+msgid "% Fees"
+msgstr "Naknade%"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Kriptovalutnost povlači sporazum"
+
+#: 
+msgid "Decline"
+msgstr "Odbiti"
+
+#: 
+msgid "Agree"
+msgstr "složiti"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Sporazum o šifriranoj valuti"
+
+#: 
+msgid "Enable news popup"
+msgstr "Omogući vijesti skočnih prozora"
+
+#: 
+msgid "News popup title"
+msgstr "Naslov popup naslova"
+
+#: 
+msgid "Your news popup title"
+msgstr "Vaš naslov vijesti skočnih prozora"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Popup video vijesti (stavite prazno za ne prikazivanje videozapisa)"
+
+#: 
+msgid "News popup description"
+msgstr "Opis skočnih vijesti"
+
+#: 
+msgid "Advert users"
+msgstr "Korisnici oglasa"
+
+#: 
+msgid "Enable intro"
+msgstr "Omogući uvod"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Povlačenje naknada (u%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Obavijest o prijenosu banke kada se valuta povlačenja ne kriptovaluta"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Kreditne kartice dozvoljene za povlačenje bankovnog prijenosa"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Procjena ravnoteže u sustavu"
+
+#: 
+msgid "Edit profile"
+msgstr "Uredi profil"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Ugovor o polaganju bankovnog transfera"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Naknade platnog prometa (u%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Vaše plaćanje plaćanja blockonomics (u%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Naknade za plaćanje Fortumo (u%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Vaša uplata za plaćanje (u%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "Naknade za plaćanje CoinGate (u%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Naknade za plaćanje naknade (u%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Naknade za plaćanje duga (u%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Vaše pristojbe za plaćanje novcem (u postocima)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave naknade za plaćanje (u postocima)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Vaše rave flutterwave naknade za plaćanje (u%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Naknada za plaćanje trgovine na maloprodaji (u%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Naknade plaćanja trgovine na suvenirnici (u postocima)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie plaćanje Naknade (u%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Vaše mollie plaćanje naknade (u%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Naknada za plaćanje (u%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Vaše plaćanje plaćanja (u%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Naknade za prijenos banke Naknade (u postocima)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Naknade za plaćanje bankovnim prijenosom (u%)"
+
+#: 
+msgid "Add new"
+msgstr "Dodaj novi"
+
+#: 
+msgid "Bank accounts"
+msgstr "bankovni računi"
+
+#: 
+msgid "Add new bank account"
+msgstr "Dodajte novi bankovni račun"
+
+#: 
+msgid "Bank account name"
+msgstr "Naziv bankovnog računa"
+
+#: 
+msgid "Your bank account name"
+msgstr "Naziv vašeg bankovnog računa"
+
+#: 
+msgid "Bank account currency"
+msgstr "Valuta bankovnog računa"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Bankovni račun IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Bankovni račun BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Vaš bankovni račun BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Adresa bankovnog računa"
+
+#: 
+msgid "Your bank account address"
+msgstr "Adresa vašeg bankovnog računa"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Naziv vlasnika bankovnog računa"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Ime vlasnika bankovnog računa"
+
+#: 
+msgid "* This is optional"
+msgstr "* Ovo je neobavezno"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Valuta vašeg bankovnog računa"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Vaš bankovni račun IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Izbrisati"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Možete birati između \"ikona stranice\" i \"ikona stranice svg\" (ikona stranice je prioritet) - Ovdje možete pronaći ikone popisa"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Dobit ćete potvrdu e-poštom"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Slijedite ovaj korak da biste dovršili zahtjev za povlačenje."
+
+#: 
+msgid "You need to have at least"
+msgstr "Moraš imati najmanje"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Nemate dovoljno raspoloživih sredstava"
+
+#: 
+msgid "Total in "
+msgstr "Ukupno u"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Morate postaviti metodu widthdraw"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Bankovni račun BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Vaš bankovni račun BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Dnevni raspon\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Otvoreni dan"
+
+#: 
+msgid "Volume 24H"
+msgstr "Izravna glasnoća"
+
+#: 
+msgid "Direct Volume"
+msgstr "Izravna glasnoća"
+
+#: 
+msgid "Load more data"
+msgstr "Učitajte više podataka"
+
+#: 
+msgid "Qty"
+msgstr "Kol"
+
+#: 
+msgid "Gain"
+msgstr "dobit"
+
+#: 
+msgid "Price buy"
+msgstr "Cijena kupiti"
+
+#: 
+msgid "Disable chat"
+msgstr "Onemogućite chat"
+
+#: 
+msgid "Total gain"
+msgstr "Ukupna dobit"
+
+#: 
+msgid "Confirmation"
+msgstr "Potvrda"
+
+#: 
+msgid "Unit price"
+msgstr "Jedinična cijena"
+
+#: 
+msgid "Investment"
+msgstr "Ulaganje"
+
+#: 
+msgid "Quantity"
+msgstr "Količina"
+
+#: 
+msgid "Commission"
+msgstr "komisija"
+
+#: 
+msgid "Confirm buying"
+msgstr "Potvrdite kupnju"
+
+#: 
+msgid "New user"
+msgstr "Novi korisnik"
+
+#: 
+msgid "Order passed"
+msgstr "Red je prošao"
+
+#: 
+msgid "New subscription"
+msgstr "Nova pretplata"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Prikaži povlačite podatke o prijemniku."
+
+#: 
+msgid "Process"
+msgstr "Postupak"
+
+#: 
+msgid "Hide details"
+msgstr "Sakri detalje"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Omogući pretplate"
+
+#: 
+msgid "Enable free trial"
+msgstr "Omogući besplatnu probnu verziju"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Trajanje besplatnog probnog razdoblja (u danu)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Trajanje besplatnog probnog razdoblja"
+
+#: 
+msgid "Premium features"
+msgstr "Premium značajke"
+
+#: 
+msgid "Free users features"
+msgstr "Besplatne značajke korisnika"
+
+#: 
+msgid "Add a new plan"
+msgstr "Dodajte novi plan"
+
+#: 
+msgid "Name plan"
+msgstr "Plan imena"
+
+#: 
+msgid "Price total"
+msgstr "Ukupna cijena"
+
+#: 
+msgid "Duration in days"
+msgstr "Trajanje u danima"
+
+#: 
+msgid "Duration"
+msgstr "Trajanje"
+
+#: 
+msgid "Add this plan"
+msgstr "Dodajte ovaj plan"
+
+#: 
+msgid "Plans available"
+msgstr "Dostupni su planovi"
+
+#: 
+msgid "Price plan"
+msgstr "Plan cijena"
+
+#: 
+msgid "Duration in month"
+msgstr "Trajanje u mjesecu"
+
+#: 
+msgid "Price per month"
+msgstr "Cijena po mjesecu"
+
+#: 
+msgid "Account"
+msgstr "Račun"
+
+#: 
+msgid "Exchanges"
+msgstr "Razmjena"
+
+#: 
+msgid "Total Free"
+msgstr "Ukupno besplatno"
+
+#: 
+msgid "Total Used"
+msgstr "Ukupno korišteno"
+
+#: 
+msgid "Order Ref."
+msgstr "Narudžba ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Naručena cijena"
+
+#: 
+msgid "Current price"
+msgstr "Trenutna cijena"
+
+#: 
+msgid "Evolution"
+msgstr "Evolucija"
+
+#: 
+msgid "Enable identity system"
+msgstr "Omogući sustav identiteta"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Blokirajte trgovinu bez provjere identiteta"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Blokiraj depozit bez provjere identiteta"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Blokiraj se bez potvrde identiteta"
+
+#: 
+msgid "Approve"
+msgstr "Odobriti"
+
+#: 
+msgid "Identity ID"
+msgstr "ID identiteta"
+
+#: 
+msgid "Identity step name"
+msgstr "Ime naziva identiteta"
+
+#: 
+msgid "Identity step description"
+msgstr "Opis koraka identiteta"
+
+#: 
+msgid "Identity order"
+msgstr "Redoslijed identiteta"
+
+#: 
+msgid "Down order"
+msgstr "Dolje"
+
+#: 
+msgid "Up order"
+msgstr "Poredak gore"
+
+#: 
+msgid "Add new identity step"
+msgstr "Dodajte novi korak identiteta"
+
+#: 
+msgid "Your step name"
+msgstr "Ime vašeg koraka"
+
+#: 
+msgid "Your step description"
+msgstr "Opis vašeg koraka"
+
+#: 
+msgid "Identity step type"
+msgstr "Vrsta koraka identiteta"
+
+#: 
+msgid "Upload new document"
+msgstr "Prenesite novi dokument"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Odaberite vrstu popisa dokumenata"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Omogućivanje prijenosa identiteta putem web-kamere"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Omjer dokumenta za Webcam"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Odnos (širina / visina)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Omjer (širina / visina)"
+
+#: 
+msgid "Document identity list"
+msgstr "Popis identiteta dokumenta"
+
+#: 
+msgid "Add new identity document"
+msgstr "Dodaj novi identitetni dokument"
+
+#: 
+msgid "Your document name"
+msgstr "Naziv vašeg dokumenta"
+
+#: 
+msgid "My Holding"
+msgstr "Moj Holding"
+
+#: 
+msgid "Holding"
+msgstr "Držanje"
+
+#: 
+msgid "Market Value"
+msgstr "Tržišna vrijednost"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Gubitak profita"
+
+#: 
+msgid "Wallet"
+msgstr "Novčanik"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Potvrđivanje bankovnog prijenosa"
+
+#: 
+msgid "Transfert received date"
+msgstr "Prijenos je primio datum"
+
+#: 
+msgid "Bank account received"
+msgstr "Primili su bankovni račun"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Referenca za prijenos banke"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Iznos zaprimljen na bankovnom računu"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Iznos prenesen na korisnički račun"
+
+#: 
+msgid "User will receive"
+msgstr "Korisnik će primiti"
+
+#: 
+msgid "Dark"
+msgstr "mrak"
+
+#: 
+msgid "White"
+msgstr "bijela"
+
+#: 
+msgid "Enable Donation"
+msgstr "Omogući donaciju"
+
+#: 
+msgid "Donation text"
+msgstr "Donacijski tekst"
+
+#: 
+msgid "Your donation text"
+msgstr "Vaš donacijski tekst"
+
+#: 
+msgid "Donation address list"
+msgstr "Popis adresa za donaciju"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Stavite 1 adresu po retku"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Oblik linije: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "POKUŠITE SMILU NA NAŠIM ČINOVIMA I PODRŠKU US PRIJATELJU :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Povijest transakcija"
+
+#: 
+msgid "Description"
+msgstr "Opis"
+
+#: 
+msgid "Reference ..."
+msgstr "Referenca ..."
+
+#: 
+msgid "Reference"
+msgstr "upućivanje"
+
+#: 
+msgid "deposit"
+msgstr "depozit"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Depo"
+
+#: 
+msgid "Unknown"
+msgstr "nepoznat"
+
+#: 
+msgid "BUY order done"
+msgstr "KUPITE red ispunjen"
+
+#: 
+msgid "SELL order done"
+msgstr "PRODAJA je izvršena"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "PRODAVATI REDOSLU DONE"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "KUPITE REDOSLIJED DONE"
+
+#: 
+msgid "Add a new item"
+msgstr "Dodajte novu stavku"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Vaš GDAX ključ"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Vaš GDAX Pass"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Vaša GDAX tajna"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Vaš Bitmex ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Bitmex tajna"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Vaš OKCoin ključ"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Tvoj OKCoin tajni"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Vaš Luno Key ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Tvoj Luno tajni"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Vaš ključ za Coinex"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Vaša Coinex tajna"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Vaš ključ za Btcmarket"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Tvoj Btcmarket Secret"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Vaš ključ za Livecoin"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Vaša Livecoin tajna"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Vaš ID Quoinex tokena"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Vaša tajna Quoinexa"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Vaš Exmo Key"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Vaša Exmo Secret"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Vaš YoBit ključ"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Tvoja YoBit tajna"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Vaš Kucoin ključ"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Vaš Kucoin Private"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Vaš CEX ključ"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Vaša CEX tajna"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Vaš CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "Moje narudžbe"
+
+#: 
+msgid "Size"
+msgstr "Veličina"
+
+#: 
+msgid "Limit price"
+msgstr "Ograničite cijenu"
+
+#: 
+msgid "Place buy order"
+msgstr "Mjesto narudžbe kupiti"
+
+#: 
+msgid "Place sell order"
+msgstr "Mjesto narudžbe prodati"
+
+#: 
+msgid "Method"
+msgstr "način"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Morate biti prijavljeni na Coinexu"
+
+#: 
+msgid "Enable live trading"
+msgstr "Omogućite trgovinu uživo"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Prijavite se s Coinexom"
+
+#: 
+msgid "Week profit"
+msgstr "Dobit u tjednu"
+
+#: 
+msgid "Leaderboard"
+msgstr "Vodeći"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Omogućite ploču s najboljim rezultatima (potrebno je omogućiti izvorno trgovanje)"
+
+#: 
+msgid "Active"
+msgstr "Aktivan"
+
+#: 
+msgid "Every"
+msgstr "Svaki"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Početni par kada se novi korisnik registrira"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Dopušteno je samo 1 par"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Počevši gledati par popisa kada se novi korisnik prijavi"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 par za svaku liniju"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Format: TRŽIŠTE: SIMBOL / VALUTA"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Morate biti prijavljeni na Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Prijavite se s Livecoinom"
+
+#: 
+msgid "Email not valid"
+msgstr "E-pošta nije važeća"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Morate biti prijavljeni na Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Prijavite se s Yobitom"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Na temelju svih novčanika"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Vaš Poloniex ključ"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Vaša Polonieksna tajna"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Probna verzija je istekla!"
+
+#: 
+msgid "Become"
+msgstr "Postati"
+
+#: 
+msgid "You will be charged"
+msgstr "Tebi će se naplatiti"
+
+#: 
+msgid "for"
+msgstr "za"
+
+#: 
+msgid "months"
+msgstr "mjeseci"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Vaš Kraken ključ"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Vaš Kraken Private"
+
+#: 
+msgid "will be ready for you !"
+msgstr "će biti spreman za vas!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Morate biti prijavljeni na Binanceu"
+
+#: 
+msgid "Login with Binance"
+msgstr "Prijavite se s Binanceom"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Morate biti prijavljeni na Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Prijavite se s Poloniexom"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Morate biti prijavljeni na Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Prijavite se s Exmoom"
+
+#: 
+msgid "View the article"
+msgstr "Pogledajte članak"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Vaš ključ za Bittrex"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Tvoj Bittrex tajni"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Morate biti prijavljeni na Krakenu"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Prijavite se s Krakenom"
+
+#: 
+msgid "Markets"
+msgstr "tržišta"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Sakrij tržište (mora biti omogućeno izvorno trgovanje)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Sakrij knjigu narudžbi"
+
+#: 
+msgid "Load orders book"
+msgstr "Rezervirajte knjige narudžbi"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Stvorite upozorenje kada ..."
+
+#: 
+msgid "Price is above"
+msgstr "Cijena je iznad"
+
+#: 
+msgid "Price is bellow"
+msgstr "Cijena je ispod"
+
+#: 
+msgid "Password not match"
+msgstr "Zaporka se ne podudara"
+

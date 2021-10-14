@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: vi\n"
+
+#: 
+msgid "Real account"
+msgstr "Tài khoản thực"
+
+#: 
+msgid "Board"
+msgstr "Biểu đồ\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Vui lòng bật"
+
+#: 
+msgid "chart"
+msgstr "đồ thị\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "biểu đồ trở lên"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Tìm kiếm theo tên hoặc biểu tượng"
+
+#: 
+msgid "real account"
+msgstr "Tài khoản thực\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Xem tất cả số dư"
+
+#: 
+msgid "List accounts"
+msgstr "Liệt kê tài khoản\n"
+""
+
+#: 
+msgid "History"
+msgstr "Lịch sử"
+
+#: 
+msgid "Credit"
+msgstr "tín dụng"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Quyển sổ đặc Mua hàng"
+
+#: 
+msgid "Market"
+msgstr "Thị trường"
+
+#: 
+msgid "Portfolio"
+msgstr "Danh mục đầu tư"
+
+#: 
+msgid "Leader board"
+msgstr "Ban lãnh đạo"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Xem"
+
+#: 
+msgid "News"
+msgstr "Tin tức"
+
+#: 
+msgid "Panel"
+msgstr "Bảng điều khiển"
+
+#: 
+msgid "Manager"
+msgstr "Giám đốc"
+
+#: 
+msgid "Admin"
+msgstr "quản trị viên"
+
+#: 
+msgid "Converter"
+msgstr "Chuyển đổi"
+
+#: 
+msgid "Social"
+msgstr "Xã hội"
+
+#: 
+msgid "Calendar"
+msgstr "Lịch"
+
+#: 
+msgid "Watchlist"
+msgstr "Danh sách theo dõi"
+
+#: 
+msgid "Contact us"
+msgstr "Liên hệ chúng tôi"
+
+#: 
+msgid "January"
+msgstr "tháng Giêng"
+
+#: 
+msgid "February"
+msgstr "Tháng hai"
+
+#: 
+msgid "March"
+msgstr "tháng Ba"
+
+#: 
+msgid "April"
+msgstr "Tháng tư"
+
+#: 
+msgid "May"
+msgstr "có thể"
+
+#: 
+msgid "June"
+msgstr "Tháng sáu"
+
+#: 
+msgid "July"
+msgstr "Tháng 7"
+
+#: 
+msgid "August"
+msgstr "tháng Tám"
+
+#: 
+msgid "September"
+msgstr "Tháng Chín"
+
+#: 
+msgid "October"
+msgstr "Tháng Mười"
+
+#: 
+msgid "November"
+msgstr "Tháng mười một"
+
+#: 
+msgid "December"
+msgstr "Tháng mười hai"
+
+#: 
+msgid "Mon."
+msgstr "Thứ Hai"
+
+#: 
+msgid "Tue."
+msgstr "Thứ Ba"
+
+#: 
+msgid "Wed."
+msgstr "Thứ Tư."
+
+#: 
+msgid "Thu."
+msgstr "Thứ năm"
+
+#: 
+msgid "Fri."
+msgstr "Thứ Sáu"
+
+#: 
+msgid "Sat."
+msgstr "Ngồi."
+
+#: 
+msgid "Sun."
+msgstr "Mặt trời."
+
+#: 
+msgid "Statistics"
+msgstr "Số liệu thống kê"
+
+#: 
+msgid "Bank transferts"
+msgstr "Chuyển khoản ngân hàng"
+
+#: 
+msgid "Payments"
+msgstr "Thanh toán"
+
+#: 
+msgid "Subscriptions"
+msgstr "Đăng ký"
+
+#: 
+msgid "Identity"
+msgstr "Danh tính"
+
+#: 
+msgid "Users"
+msgstr "Người dùng"
+
+#: 
+msgid "Orders"
+msgstr "Đơn đặt hàng"
+
+#: 
+msgid "Withdraw"
+msgstr "Rút tiền"
+
+#: 
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: 
+msgid "Total trade"
+msgstr "Tổng giao dịch"
+
+#: 
+msgid "Total deposit"
+msgstr "Tổng số tiền gửi"
+
+#: 
+msgid "Total withdraw"
+msgstr "Tổng số tiền rút"
+
+#: 
+msgid "Fees"
+msgstr "Phí"
+
+#: 
+msgid "Name"
+msgstr "Tên"
+
+#: 
+msgid "Email"
+msgstr "E-mail"
+
+#: 
+msgid "Subscription"
+msgstr "Đăng ký"
+
+#: 
+msgid "Signin method"
+msgstr "Phương thức đăng nhập"
+
+#: 
+msgid "Last login"
+msgstr "Lân đăng nhập cuôi"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Đã bật thông báo"
+
+#: 
+msgid "Trial version"
+msgstr "Phiên bản dùng thử"
+
+#: 
+msgid "day"
+msgstr "ngày"
+
+#: 
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: 
+msgid "Inactive"
+msgstr "Không hoạt động"
+
+#: 
+msgid "Enabled"
+msgstr "Đã bật"
+
+#: 
+msgid "Ref"
+msgstr "Tham khảo"
+
+#: 
+msgid "User"
+msgstr "Người dùng"
+
+#: 
+msgid "Order date"
+msgstr "Ngày đặt hàng"
+
+#: 
+msgid "Exchange"
+msgstr "Trao đổi, giao dịch"
+
+#: 
+msgid "Pair"
+msgstr "Đôi"
+
+#: 
+msgid "Type"
+msgstr "Kiểu"
+
+#: 
+msgid "Amount"
+msgstr "Số tiền"
+
+#: 
+msgid "Received"
+msgstr "Nhận"
+
+#: 
+msgid "Total deducted"
+msgstr "Tổng số đã khấu trừ"
+
+#: 
+msgid "Total received"
+msgstr "Tổng số nhận được"
+
+#: 
+msgid "Buy"
+msgstr "Mua"
+
+#: 
+msgid "Sell"
+msgstr "Bán\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Danh sách tiền xu"
+
+#: 
+msgid "Market list"
+msgstr "Danh sách thị trường"
+
+#: 
+msgid "Heatmap"
+msgstr "Bản đồ nhiệt"
+
+#: 
+msgid "Price"
+msgstr "Giá bán"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Tập trực tiếp 24 giờ"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Tổng số Vol. 24 giờ"
+
+#: 
+msgid "Market Cap"
+msgstr "Vốn hóa thị trường"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg. 24 giờ"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h cao / thấp"
+
+#: 
+msgid "Dashboard"
+msgstr "bảng điều khiển"
+
+#: 
+msgid "General settings"
+msgstr "Cài đặt chung"
+
+#: 
+msgid "Coins"
+msgstr "đồng xu"
+
+#: 
+msgid "Currencies"
+msgstr "Đơn vị tiền tệ"
+
+#: 
+msgid "Mail settings"
+msgstr "Cài đặt thư"
+
+#: 
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: 
+msgid "News - Social"
+msgstr "Tin tức - Xã hội"
+
+#: 
+msgid "Intro"
+msgstr "Giới thiệu"
+
+#: 
+msgid "Trading"
+msgstr "Thương mại"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Trang bổ sung"
+
+#: 
+msgid "Today's visits"
+msgstr "Lượt truy cập hôm nay"
+
+#: 
+msgid "7 days visits"
+msgstr "7 ngày thăm"
+
+#: 
+msgid "Number of users"
+msgstr "Số lượng người dùng"
+
+#: 
+msgid "Number of coins"
+msgstr "Số lượng tiền xu"
+
+#: 
+msgid "Last users"
+msgstr "Người dùng cuối"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Trang web này sử dụng cookie"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Trang web của chúng tôi sử dụng cookie để kiểm tra lưu lượng truy cập trang web và hoạt động của người dùng trong khi trên trang web của chúng tôi, để nâng cao và hiệu quả trải nghiệm người dùng, tiếp thị và cung cấp chức năng truyền thông xã hội."
+
+#: 
+msgid "Accept"
+msgstr "Chấp nhận"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Địa chỉ email của bạn"
+
+#: 
+msgid "Your password"
+msgstr "Mật khẩu của bạn"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Quên mật khẩu ?"
+
+#: 
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: 
+msgid "or"
+msgstr "hoặc là"
+
+#: 
+msgid "Create a new account"
+msgstr "Tạo tài khoản mới"
+
+#: 
+msgid "practice account"
+msgstr "tài khoản thực hành"
+
+#: 
+msgid "Symbol"
+msgstr "Ký hiệu"
+
+#: 
+msgid "Last"
+msgstr "Cuối cùng"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: 
+msgid "Notification"
+msgstr "Thông báo"
+
+#: 
+msgid "Security"
+msgstr "Bảo vệ"
+
+#: 
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: 
+msgid "Your name"
+msgstr "Tên của bạn"
+
+#: 
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: 
+msgid "Type chart"
+msgstr "Loại biểu đồ"
+
+#: 
+msgid "Change your password"
+msgstr "Thay đổi mật khẩu của bạn"
+
+#: 
+msgid "Repeat your password"
+msgstr "Lặp lại mật khẩu của bạn"
+
+#: 
+msgid "Back"
+msgstr "Trở lại"
+
+#: 
+msgid "Validate"
+msgstr "Xác thực"
+
+#: 
+msgid "Title"
+msgstr "Chức vụ"
+
+#: 
+msgid "Your website title"
+msgstr "Tiêu đề trang web của bạn"
+
+#: 
+msgid "App description"
+msgstr "Mô tả ứng dụng"
+
+#: 
+msgid "Referal link"
+msgstr "Liên kết giới thiệu"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Liên kết giới thiệu của bạn (ví dụ: Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Chế độ bảo trì"
+
+#: 
+msgid "Number format"
+msgstr "Định dạng số"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Chuyển biểu đồ sang biểu đồ giao dịch"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Bật tự động ngôn ngữ"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Bật ngôn ngữ POEditor"
+
+#: 
+msgid "POEditor API Key"
+msgstr "Khóa API POEditor"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Khóa API POEditor của bạn"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "Trình chọn dự án POEditor"
+
+#: 
+msgid "Allow signup"
+msgstr "Cho phép đăng ký"
+
+#: 
+msgid "User need verify account"
+msgstr "Người dùng cần xác minh tài khoản"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Cần đăng ký captcha"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Khóa trang web Google Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Khóa trang web Google Recaptcha của bạn"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Khóa bí mật của Google Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Khóa bí mật của Google Recaptcha của bạn"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin với google"
+
+#: 
+msgid "Google App ID"
+msgstr "ID ứng dụng Google"
+
+#: 
+msgid "Your Google App ID"
+msgstr "ID ứng dụng Google của bạn"
+
+#: 
+msgid "Google App Secret"
+msgstr "Bí mật ứng dụng Google"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Bí mật ứng dụng Google của bạn"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin với Facebook"
+
+#: 
+msgid "Facebook App ID"
+msgstr "ID ứng dụng Facebook"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "ID ứng dụng Facebook của bạn"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Bí mật ứng dụng Facebook"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Bí mật ứng dụng Facebook của bạn"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Bật quảng cáo Google"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Ad Client"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Ứng dụng khách Quảng cáo Google của bạn"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Vùng quảng cáo của Google"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Vùng quảng cáo Google của bạn"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Bật bật lên cookie"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Tiêu đề bật lên cookie"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Tiêu đề bật lên Cookie của bạn"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Văn bản Popup Cookie"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Văn bản bật lên Cookie của bạn"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Các quốc gia nằm trong danh sách đen"
+
+#: 
+msgid "Save"
+msgstr "Tiết kiệm"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Cho phép người dùng chuyển loại biểu đồ"
+
+#: 
+msgid "Done !"
+msgstr "Làm xong !"
+
+#: 
+msgid "quantity"
+msgstr "số lượng"
+
+#: 
+msgid "Enable native trading"
+msgstr "Bật giao dịch gốc"
+
+#: 
+msgid "Balance configuration"
+msgstr "Cấu hình số dư"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Hiển thị ước tính số dư"
+
+#: 
+msgid "User user currency select"
+msgstr "Chọn loại tiền người dùng"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Hiển thị ước tính số dư trong"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Cấu hình hệ thống giới thiệu"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Bật tính năng giới thiệu (cần phải bật giao dịch gốc)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Tiền hoa hồng giới thiệu (bằng $, số tiền cố định)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Tiền hoa hồng giới thiệu (bằng $, số tiền cố định) ví dụ: Khi đăng ký tham chiếu và gửi tiền mặt thực, thì tiền thưởng tham khảo 5 $ (giá trị = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Cấu hình gửi tiền"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Phí đặt cọc (tính bằng%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Tiền gửi tối thiểu (bằng đô la)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Tiền gửi tối đa (bằng đô la)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Cho phép tiền gửi tiền gửi"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Ví tiền gửi nhận được (nếu ví tiền thật không có sẵn)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Rút cấu hình"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Rút tối thiểu (bằng đô la)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Rút tiền thời gian xử lý (tính theo ngày)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Rút lại thời gian xử lý (tính theo ngày) = ví dụ: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Cấu hình giao dịch"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Phí giao dịch (bằng%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Mẫu tham chiếu đơn đặt hàng"
+
+#: 
+msgid "Real account configuration"
+msgstr "Cấu hình tài khoản thực"
+
+#: 
+msgid "Enable real account"
+msgstr "Bật tài khoản thực"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Thực hành cấu hình tài khoản"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Khoản tiền gửi tối đa miễn phí (bằng đô la Mỹ)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Số tiền nạp tối đa miễn phí (bằng $): 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Nhận tiền gửi miễn phí"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Ngày được gửi"
+
+#: 
+msgid "Status"
+msgstr "Trạng thái"
+
+#: 
+msgid "Document name"
+msgstr "Tên tài liệu"
+
+#: 
+msgid "Documents"
+msgstr "Các tài liệu"
+
+#: 
+msgid "Not processed"
+msgstr "Không được xử lý"
+
+#: 
+msgid "Processed"
+msgstr "Xử lý"
+
+#: 
+msgid "Payment success"
+msgstr "Thanh toán thành công"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Mẫu tham chiếu thanh toán"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Bật SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "Máy chủ SMTP"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Máy chủ lưu trữ SMTP của bạn"
+
+#: 
+msgid "SMTP Port"
+msgstr "Cổng SMTP"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Cổng SMTP của bạn"
+
+#: 
+msgid "SMTP Security"
+msgstr "Bảo mật SMTP"
+
+#: 
+msgid "SMTP User"
+msgstr "Người dùng SMTP"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Người dùng SMTP của bạn"
+
+#: 
+msgid "SMTP Password"
+msgstr "Mật khẩu SMTP"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Mật khẩu SMTP của bạn"
+
+#: 
+msgid "Email sender name"
+msgstr "Tên người gửi email"
+
+#: 
+msgid "Support mail"
+msgstr "Thư hỗ trợ"
+
+#: 
+msgid "Support Phone"
+msgstr "Điện thoại hỗ trợ"
+
+#: 
+msgid "Support phone"
+msgstr "Hỗ trợ điện thoại"
+
+#: 
+msgid "Support Address"
+msgstr "Địa chỉ hỗ trợ"
+
+#: 
+msgid "DPO mail"
+msgstr "Thư DPO"
+
+#: 
+msgid "DPO Phone"
+msgstr "Điện thoại DPO"
+
+#: 
+msgid "DPO phone"
+msgstr "Điện thoại DPO"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Gửi thư chào mừng"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Chủ đề thư chào mừng"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Thông tin đăng nhập lịch"
+
+#: 
+msgid "Enable calendar"
+msgstr "Bật lịch"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "ID ứng dụng lịch"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "ID ứng dụng lịch của bạn"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Bí mật của ứng dụng khách lịch"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Chỉ hiển thị các sự kiện liên quan đến đồng tiền đã bật"
+
+#: 
+msgid "News feed"
+msgstr "Nguồn cấp tin tức"
+
+#: 
+msgid "Add news feed"
+msgstr "Thêm nguồn cấp tin tức"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Liên kết Nguồn cấp RSS của bạn"
+
+#: 
+msgid "Add"
+msgstr "Thêm vào"
+
+#: 
+msgid "Name feed"
+msgstr "Nguồn cấp dữ liệu tên"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Tài khoản Twitter"
+
+#: 
+msgid "Add twitter account"
+msgstr "Thêm tài khoản twitter"
+
+#: 
+msgid "Twitter name"
+msgstr "Tên Twitter"
+
+#: 
+msgid "without"
+msgstr "không có"
+
+#: 
+msgid "Social name"
+msgstr "Tên xã hội"
+
+#: 
+msgid "Created date"
+msgstr "Ngày tạo ra"
+
+#: 
+msgid "Amount paid"
+msgstr "Số tiền đã thanh toán"
+
+#: 
+msgid "Wallet received"
+msgstr "Đã nhận được ví tiền"
+
+#: 
+msgid "Amount received"
+msgstr "Số tiền nhận được"
+
+#: 
+msgid "Payment gateway"
+msgstr "Cổng thanh toán"
+
+#: 
+msgid "Proof"
+msgstr "Bằng chứng"
+
+#: 
+msgid "Modify balance"
+msgstr "Sửa đổi số dư"
+
+#: 
+msgid "Select balance"
+msgstr "Chọn số dư"
+
+#: 
+msgid "Modification type"
+msgstr "Loại sửa đổi"
+
+#: 
+msgid "Modification value"
+msgstr "Giá trị sửa đổi"
+
+#: 
+msgid "Add modification"
+msgstr "Thêm sửa đổi"
+
+#: 
+msgid "Card"
+msgstr "Thẻ"
+
+#: 
+msgid "Balances"
+msgstr "Số dư"
+
+#: 
+msgid "Remove"
+msgstr "Tẩy"
+
+#: 
+msgid "Last location"
+msgstr "Vị trí cuối cùng"
+
+#: 
+msgid "Currency use"
+msgstr "Sử dụng tiền tệ"
+
+#: 
+msgid "Signup with"
+msgstr "Đăng ký với"
+
+#: 
+msgid "Identity verification"
+msgstr "Xác minh danh tính"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "Xác thực 2 bước"
+
+#: 
+msgid "User status"
+msgstr "Tâm trạng người dùng"
+
+#: 
+msgid "Login history"
+msgstr "Lịch sử đăng nhập"
+
+#: 
+msgid "More details"
+msgstr "Biết thêm chi tiết"
+
+#: 
+msgid "Deposit history"
+msgstr "Lịch sử tiền gửi"
+
+#: 
+msgid "Total"
+msgstr "Toàn bộ"
+
+#: 
+msgid "Value in BTC"
+msgstr "Giá trị trong BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Giá trị bằng USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Phương thức rút tiền"
+
+#: 
+msgid "Date"
+msgstr "Ngày"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Hỏi chiều rộng"
+
+#: 
+msgid "WITHDRAW"
+msgstr "RÚT TIỀN"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Chọn tài khoản người nhận"
+
+#: 
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: 
+msgid "Next"
+msgstr "Kế tiếp"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Hoàn thành cấu hình của thông báo."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Mã thông báo truy cập PushBullet của bạn"
+
+#: 
+msgid "Remove token"
+msgstr "Xóa mã thông báo"
+
+#: 
+msgid "You are premium !"
+msgstr "Bạn là cao cấp!"
+
+#: 
+msgid "left"
+msgstr "trái"
+
+#: 
+msgid "Main settings"
+msgstr "Cài đặt chính"
+
+#: 
+msgid "Period"
+msgstr "Giai đoạn"
+
+#: 
+msgid "Colour"
+msgstr "Màu"
+
+#: 
+msgid "Thickness"
+msgstr "Độ dày"
+
+#: 
+msgid "Reset"
+msgstr "Cài lại"
+
+#: 
+msgid "Apply"
+msgstr "Ứng dụng"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Nhập mã Google Authenticator của bạn"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Nhập mã Google Authenticator của bạn"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Số dư có giá trị nhỏ hơn 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Ẩn số dư nhỏ"
+
+#: 
+msgid "Estimate value"
+msgstr "Giá trị ước tính"
+
+#: 
+msgid "Value in"
+msgstr "Giá trị trong"
+
+#: 
+msgid "Deposit"
+msgstr "Tiền gửi"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google Authentification được bật!"
+
+#: 
+msgid "Set as done"
+msgstr "Đặt làm xong"
+
+#: 
+msgid "Close"
+msgstr "Gần"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Mã Google Authenticator không hợp lệ"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Bạn sẽ nhận được xác nhận rút gọn bằng email"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, User ID, Type, Currency"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Bộ lọc Widthdraw"
+
+#: 
+msgid "Default"
+msgstr "Mặc định"
+
+#: 
+msgid "Not confirmed"
+msgstr "Không được xác nhận"
+
+#: 
+msgid "Done"
+msgstr "Làm xong"
+
+#: 
+msgid "Payment filter"
+msgstr "Bộ lọc thanh toán"
+
+#: 
+msgid "Need to be approved"
+msgstr "Cần được phê duyệt"
+
+#: 
+msgid "Paid"
+msgstr "Đã thanh toán"
+
+#: 
+msgid "Not paid"
+msgstr "Chưa thanh toán"
+
+#: 
+msgid "All payments"
+msgstr "Tất cả các khoản thanh toán"
+
+#: 
+msgid "Ask a proof"
+msgstr "Hỏi bằng chứng"
+
+#: 
+msgid "Bank ref."
+msgstr "Ngân hàng ref."
+
+#: 
+msgid "Proof received"
+msgstr "Đã nhận được bằng chứng"
+
+#: 
+msgid "In pending"
+msgstr "Đang chờ"
+
+#: 
+msgid "All widthdraw"
+msgstr "Tất cả chiều rộng"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Rút mẫu tham chiếu"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Thu hồi bộ lọc"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Rút tiền"
+
+#: 
+msgid "year"
+msgstr "năm"
+
+#: 
+msgid "month"
+msgstr "tháng"
+
+#: 
+msgid "week"
+msgstr "tuần"
+
+#: 
+msgid "hour"
+msgstr "giờ"
+
+#: 
+msgid "minute"
+msgstr "phút"
+
+#: 
+msgid "second"
+msgstr "thứ hai"
+
+#: 
+msgid "ago"
+msgstr "trước đây"
+
+#: 
+msgid "Bank transfert"
+msgstr "Chuyển khoản ngân hàng"
+
+#: 
+msgid "Deposit amount"
+msgstr "Số tiền gửi"
+
+#: 
+msgid "Fill up"
+msgstr "Lâp đây"
+
+#: 
+msgid "It's free"
+msgstr "Nó miễn phí"
+
+#: 
+msgid "You will receive"
+msgstr "Bạn sẽ nhận"
+
+#: 
+msgid "Add real funds"
+msgstr "Thêm tiền thật"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Tiền gửi tối thiểu"
+
+#: 
+msgid "Enable credit card"
+msgstr "Bật thẻ tín dụng"
+
+#: 
+msgid "Stipe private key"
+msgstr "Khóa riêng"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Khóa API sọc của bạn"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Bật Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Bật chế độ Trực tiếp Paypal"
+
+#: 
+msgid "Paypal client ID"
+msgstr "ID khách hàng Paypal"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "ID khách hàng paypal của bạn"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Bí mật của khách hàng Paypal"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Khách hàng paypal của bạn bí mật"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Bật tính năng chặn"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Khóa bí mật"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Khóa bí mật của bạn"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Bật Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Khóa bí mật của Fortumo"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Khóa bí mật của bạn"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Khóa dịch vụ Fortumo"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Khóa dịch vụ fortumo của bạn"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Bật Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Bật chế độ trực tiếp CoinGate"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "Mã thông báo CoinGate Auth"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Mã xác thực CoinGate của bạn"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate Nhận tiền tệ"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Bật tính năng Thanh toán"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Khóa công cộng Coinpayments"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Khóa công cộng Coinpayments của bạn"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Khóa riêng tư thanh toán"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Khóa riêng tư Coinpayments của bạn"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "ID Marchand thanh toán"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "ID Marchpayments Marchand của bạn"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Bí mật IPN của Coinpayments"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Bí mật IPN Coinpayments của bạn"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Bật thanh toán Rave Flutterwave"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Chế độ hộp cát Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Phím công cộng Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Khóa công khai Rave Flutterwave của bạn"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Phím bí mật Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Khóa bí mật Rave Flutterwave của bạn"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave Payment Title"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Tiêu đề thanh toán Rave Flutterwave của bạn"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Tiền tố thanh toán Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Tiền tố thanh toán Rave Flutterwave của bạn (ví dụ: KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Bật thanh toán qua Commercebase"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Khóa API thương mại Coinbase"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Khóa API thương mại Coinbase của bạn"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Thương mại Coinbase"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Thương hiệu Coinbase của bạn"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Bật Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Khóa Mollie của bạn"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Bật Payeer"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "ID cửa hàng Payeer"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "ID cửa hàng Payeer của bạn"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Khóa API Payeer"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Khóa API Payeer của bạn"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Bật chuyển khoản ngân hàng"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Chuyển khoản ngân hàng tối đa cùng một lúc"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Đã bật bằng chứng chuyển khoản ngân hàng"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Chứng từ tối đa chuyển khoản ngân hàng"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Khóa Gemini của bạn"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Bí mật Gemini của bạn"
+
+#: 
+msgid "Select your platform"
+msgstr "Chọn nền tảng của bạn"
+
+#: 
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: 
+msgid "Live"
+msgstr "Trực tiếp"
+
+#: 
+msgid "Cron time"
+msgstr "Thời gian Cron"
+
+#: 
+msgid "Last update"
+msgstr "Cập nhật cuối cùng"
+
+#: 
+msgid "Sync delay"
+msgstr "Độ trễ đồng bộ hóa"
+
+#: 
+msgid "Add additional page"
+msgstr "Thêm trang bổ sung"
+
+#: 
+msgid "Page name"
+msgstr "Tên trang"
+
+#: 
+msgid "Page URL"
+msgstr "URL trang"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Biểu tượng trang (ví dụ: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Hoặc biểu tượng trang svg"
+
+#: 
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: 
+msgid "SVG Picture"
+msgstr "Ảnh SVG"
+
+#: 
+msgid "Enable"
+msgstr "Bật"
+
+#: 
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Tạo chuyển khoản ngân hàng mới"
+
+#: 
+msgid "Pending"
+msgstr "Đang chờ xử lý"
+
+#: 
+msgid "Details"
+msgstr "Chi tiết"
+
+#: 
+msgid "Verified"
+msgstr "Đã xác minh"
+
+#: 
+msgid "Canceled"
+msgstr "Đã hủy"
+
+#: 
+msgid "Declined"
+msgstr "Bị từ chối"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Khóa Hitbtc của bạn"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Bí mật Hitbtc của bạn"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Khóa Bitbank của bạn"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Bí mật Bitbank của bạn"
+
+#: 
+msgid "User level"
+msgstr "Cấp người dùng"
+
+#: 
+msgid "Expire in"
+msgstr "Hết hạn trong"
+
+#: 
+msgid "Back to login"
+msgstr "Quay lại đăng nhập"
+
+#: 
+msgid "Let's go !"
+msgstr "Đi nào !"
+
+#: 
+msgid "Welcome"
+msgstr "Chào mừng"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Hãy cùng cấu hình Trang tổng quan của bạn."
+
+#: 
+msgid "Select your language"
+msgstr "chọn ngôn ngữ của bạn"
+
+#: 
+msgid "Select your currency"
+msgstr "Chọn loại tiền tệ của bạn"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Chọn mật mã yêu thích của bạn"
+
+#: 
+msgid "left need to be selected"
+msgstr "còn lại cần phải được lựa chọn"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Hoàn tất cấu hình!"
+
+#: 
+msgid "will now refresh"
+msgstr "bây giờ sẽ làm mới"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Bật thanh toán bằng Perfect Money"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Tài khoản người nhận tiền hoàn hảo"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Tài khoản người nhận tiền hoàn hảo của bạn"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Thông báo trên thiết bị di động, trình duyệt, cửa sổ"
+
+#: 
+msgid "Create price alert"
+msgstr "Tạo cảnh báo giá"
+
+#: 
+msgid "I need help !"
+msgstr "Tôi cần giúp đỡ !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Tải xuống ứng dụng PushBullet trên điện thoại của bạn (có sẵn cho Android và iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Tạo một tài khoản trên đó"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Kết nối với tài khoản mới của bạn tại đây"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Bật <b> Cài đặt </ b>> <b> Tài khoản </ b> và tạo <b> Mã thông báo truy cập </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Sao chép khóa và dán vào điền và nhấp vào lưu."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Một thông báo sẽ được gửi để kiểm tra xem kết nối có thành công hay không."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Đặc biệt chờ bạn!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Hơn 2000 loại tiền điện tử"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Được cảnh báo khi chỉ báo tăng hoặc giảm"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Đáp ứng trên thiết bị di động và máy tính bảng"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Tin tức và bài đăng trên mạng xã hội ở cùng một nơi"
+
+#: 
+msgid "Support"
+msgstr "Ủng hộ"
+
+#: 
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: 
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: 
+msgid "Contact DPO"
+msgstr "Liên hệ với DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Khóa Binance của bạn"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Bí mật Binance của bạn"
+
+#: 
+msgid "Cardholder name"
+msgstr "Tên chủ thẻ"
+
+#: 
+msgid "Card number"
+msgstr "Số thẻ"
+
+#: 
+msgid "Expiration"
+msgstr "Hết hạn"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "tiền điện tử"
+
+#: 
+msgid "No order to show"
+msgstr "Không có thứ tự hiển thị"
+
+#: 
+msgid "Premium"
+msgstr "Phí bảo hiểm"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Xác minh danh tính của bạn"
+
+#: 
+msgid "Estimate balance"
+msgstr "Số dư ước tính"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1 triệu"
+
+#: 
+msgid "2w"
+msgstr "2 tuần"
+
+#: 
+msgid "7d"
+msgstr "7 ngày"
+
+#: 
+msgid "1d"
+msgstr "1 ngày"
+
+#: 
+msgid "12h"
+msgstr "12 giờ"
+
+#: 
+msgid "2h"
+msgstr "2 giờ"
+
+#: 
+msgid "1h"
+msgstr "1 giờ"
+
+#: 
+msgid "30min"
+msgstr "30 phút"
+
+#: 
+msgid "Candlestick"
+msgstr "Candlestick"
+
+#: 
+msgid "Line"
+msgstr "Hàng"
+
+#: 
+msgid "Indicators"
+msgstr "Các chỉ số"
+
+#: 
+msgid "Export"
+msgstr "Xuất khẩu"
+
+#: 
+msgid "Alert"
+msgstr "Cảnh báo"
+
+#: 
+msgid "Drawing"
+msgstr "Vẽ"
+
+#: 
+msgid "Trend Line"
+msgstr "Đường xu hướng"
+
+#: 
+msgid "Text"
+msgstr "Bản văn"
+
+#: 
+msgid "Create a new alert"
+msgstr "Tạo thông báo mới"
+
+#: 
+msgid "% Fees"
+msgstr "% Phí"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Hợp đồng rút tiền điện tử"
+
+#: 
+msgid "Decline"
+msgstr "Từ chối"
+
+#: 
+msgid "Agree"
+msgstr "Đồng ý"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Thỏa thuận ký quỹ tiền điện tử"
+
+#: 
+msgid "Enable news popup"
+msgstr "Bật bật tin tức"
+
+#: 
+msgid "News popup title"
+msgstr "Tiêu đề bật lên tin tức"
+
+#: 
+msgid "Your news popup title"
+msgstr "Tiêu đề bật lên tin tức của bạn"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Video bật lên tin tức (để trống để không hiển thị video)"
+
+#: 
+msgid "News popup description"
+msgstr "Tin tức bật lên mô tả"
+
+#: 
+msgid "Advert users"
+msgstr "Người dùng quảng cáo"
+
+#: 
+msgid "Enable intro"
+msgstr "Bật giới thiệu"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Phí rút tiền (tính bằng%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Thông báo chuyển khoản ngân hàng khi rút tiền không phải là tiền điện tử"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Tiền điện tử được phép rút tiền qua ngân hàng"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Ước tính số dư trong"
+
+#: 
+msgid "Edit profile"
+msgstr "Chỉnh sửa hồ sơ"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Thỏa thuận ký quỹ chuyển khoản ngân hàng"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Phí thanh toán theo khối (tính bằng%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Phí thanh toán của bạn (tính bằng%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Phí thanh toán Fortumo (bằng%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Phí thanh toán fortumo của bạn (bằng%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "Phí thanh toán CoinGate (bằng%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Phí thanh toán tổng hợp của bạn (tính bằng%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Phí thanh toán trả sau (bằng%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Phí thanh toán coinpayment của bạn (bằng%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Phí thanh toán Rave Flutterwave (tính bằng%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Rave của bạn flutterwave lệ phí thanh toán (trong%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Phí thanh toán thương mại Coinbase Phí (bằng%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Phí thanh toán thương mại coinbase của bạn (tính bằng%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Phí thanh toán Mollie (bằng%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Phí thanh toán của bạn (bằng%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Phí thanh toán của người trả tiền (bằng%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Phí thanh toán của người trả tiền của bạn (bằng%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Phí chuyển khoản ngân hàng (bằng%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Phí chuyển khoản ngân hàng của bạn (bằng%)"
+
+#: 
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: 
+msgid "Bank accounts"
+msgstr "Tài khoản ngân hàng"
+
+#: 
+msgid "Add new bank account"
+msgstr "Thêm tài khoản ngân hàng mới"
+
+#: 
+msgid "Bank account name"
+msgstr "tên tài khoản ngân hàng"
+
+#: 
+msgid "Your bank account name"
+msgstr "Tên tài khoản ngân hàng của bạn"
+
+#: 
+msgid "Bank account currency"
+msgstr "Tài khoản tiền tệ của ngân hàng"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Tài khoản ngân hàng IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Tài khoản ngân hàng BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Tài khoản ngân hàng của bạn BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Địa chỉ tài khoản ngân hàng"
+
+#: 
+msgid "Your bank account address"
+msgstr "Địa chỉ tài khoản ngân hàng của bạn"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Tên chủ sở hữu tài khoản ngân hàng"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Tên chủ sở hữu tài khoản ngân hàng của bạn"
+
+#: 
+msgid "* This is optional"
+msgstr "* Đây là tùy chọn"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Tiền tệ tài khoản ngân hàng của bạn"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Tài khoản ngân hàng của bạn IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Bạn có thể chọn beetween 'Page icon' và 'Page icon svg' (biểu tượng trang là ưu tiên) - Danh sách các biểu tượng có sẵn ở đây"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Bạn sẽ nhận được xác nhận qua email"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Vui lòng thực hiện theo bước này để hoàn tất yêu cầu rút tiền của bạn."
+
+#: 
+msgid "You need to have at least"
+msgstr "Bạn cần phải có ít nhất"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Bạn không có bất kỳ số dư đầy đủ nào"
+
+#: 
+msgid "Total in "
+msgstr "Tổng số in␣"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Bạn cần phải thiết lập một phương pháp widthdraw"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Tài khoản ngân hàng BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Tài khoản ngân hàng của bạn BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Phạm vi ngày\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Ngày khai trương"
+
+#: 
+msgid "Volume 24H"
+msgstr "Khối lượng trực tiếp"
+
+#: 
+msgid "Direct Volume"
+msgstr "Khối lượng trực tiếp"
+
+#: 
+msgid "Load more data"
+msgstr "Tải thêm dữ liệu"
+
+#: 
+msgid "Qty"
+msgstr "Số lượng"
+
+#: 
+msgid "Gain"
+msgstr "Thu được"
+
+#: 
+msgid "Price buy"
+msgstr "Giá mua"
+
+#: 
+msgid "Disable chat"
+msgstr "Tắt trò chuyện"
+
+#: 
+msgid "Total gain"
+msgstr "Tổng lợi ích"
+
+#: 
+msgid "Confirmation"
+msgstr "Xác nhận"
+
+#: 
+msgid "Unit price"
+msgstr "Đơn giá"
+
+#: 
+msgid "Investment"
+msgstr "Đầu tư"
+
+#: 
+msgid "Quantity"
+msgstr "Số lượng"
+
+#: 
+msgid "Commission"
+msgstr "Uỷ ban"
+
+#: 
+msgid "Confirm buying"
+msgstr "Xác nhận mua"
+
+#: 
+msgid "New user"
+msgstr "Người dùng mới"
+
+#: 
+msgid "Order passed"
+msgstr "Đơn đặt hàng đã qua"
+
+#: 
+msgid "New subscription"
+msgstr "Đăng ký mới"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Hiển thị thông tin người nhận rút tiền."
+
+#: 
+msgid "Process"
+msgstr "Quá trình"
+
+#: 
+msgid "Hide details"
+msgstr "Ẩn chi tiết"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Bật đăng ký"
+
+#: 
+msgid "Enable free trial"
+msgstr "Bật dùng thử miễn phí"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Thời gian dùng thử miễn phí (tính theo ngày)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Thời gian dùng thử miễn phí"
+
+#: 
+msgid "Premium features"
+msgstr "Tính năng cao cấp"
+
+#: 
+msgid "Free users features"
+msgstr "Tính năng người dùng miễn phí"
+
+#: 
+msgid "Add a new plan"
+msgstr "Thêm gói mới"
+
+#: 
+msgid "Name plan"
+msgstr "Tên gói"
+
+#: 
+msgid "Price total"
+msgstr "Tổng giá"
+
+#: 
+msgid "Duration in days"
+msgstr "Thời lượng trong ngày"
+
+#: 
+msgid "Duration"
+msgstr "Thời lượng"
+
+#: 
+msgid "Add this plan"
+msgstr "Thêm gói này"
+
+#: 
+msgid "Plans available"
+msgstr "Kế hoạch có sẵn"
+
+#: 
+msgid "Price plan"
+msgstr "Bảng giá"
+
+#: 
+msgid "Duration in month"
+msgstr "Thời lượng trong tháng"
+
+#: 
+msgid "Price per month"
+msgstr "Giá mỗi tháng"
+
+#: 
+msgid "Account"
+msgstr "Tài khoản"
+
+#: 
+msgid "Exchanges"
+msgstr "Trao đổi"
+
+#: 
+msgid "Total Free"
+msgstr "Tổng số miễn phí"
+
+#: 
+msgid "Total Used"
+msgstr "Tổng số đã sử dụng"
+
+#: 
+msgid "Order Ref."
+msgstr "Đặt hàng Ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Giá đặt hàng"
+
+#: 
+msgid "Current price"
+msgstr "Giá hiện tại"
+
+#: 
+msgid "Evolution"
+msgstr "Sự phát triển"
+
+#: 
+msgid "Enable identity system"
+msgstr "Bật hệ thống nhận dạng"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Chặn giao dịch không xác minh danh tính"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Chặn khoản tiền gửi không xác minh danh tính"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Chặn rút tiền mà không xác minh danh tính"
+
+#: 
+msgid "Approve"
+msgstr "Phê duyệt"
+
+#: 
+msgid "Identity ID"
+msgstr "ID nhận dạng"
+
+#: 
+msgid "Identity step name"
+msgstr "Tên bước nhận dạng"
+
+#: 
+msgid "Identity step description"
+msgstr "Mô tả bước nhận dạng"
+
+#: 
+msgid "Identity order"
+msgstr "Thứ tự nhận dạng"
+
+#: 
+msgid "Down order"
+msgstr "Thứ tự xuống"
+
+#: 
+msgid "Up order"
+msgstr "Lên thứ tự"
+
+#: 
+msgid "Add new identity step"
+msgstr "Thêm bước nhận dạng mới"
+
+#: 
+msgid "Your step name"
+msgstr "Tên bước của bạn"
+
+#: 
+msgid "Your step description"
+msgstr "Mô tả bước của bạn"
+
+#: 
+msgid "Identity step type"
+msgstr "Loại bước nhận dạng"
+
+#: 
+msgid "Upload new document"
+msgstr "Tải lên tài liệu mới"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Chọn trong danh sách loại tài liệu"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Bật tải lên danh tính với webcam"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Tỷ lệ tài liệu webcam"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Khẩu phần (Chiều rộng / Chiều cao)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Tỷ lệ (Chiều rộng / Chiều cao)"
+
+#: 
+msgid "Document identity list"
+msgstr "Danh sách nhận dạng tài liệu"
+
+#: 
+msgid "Add new identity document"
+msgstr "Thêm tài liệu nhận dạng mới"
+
+#: 
+msgid "Your document name"
+msgstr "Tên tài liệu của bạn"
+
+#: 
+msgid "My Holding"
+msgstr "My Holding"
+
+#: 
+msgid "Holding"
+msgstr "Giữ"
+
+#: 
+msgid "Market Value"
+msgstr "Giá trị thị trường"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Mất lợi nhuận"
+
+#: 
+msgid "Wallet"
+msgstr "Ví tiền"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Xác thực chuyển khoản ngân hàng"
+
+#: 
+msgid "Transfert received date"
+msgstr "Ngày nhận được chuyển"
+
+#: 
+msgid "Bank account received"
+msgstr "Đã nhận được tài khoản ngân hàng"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Tham chiếu chuyển khoản ngân hàng"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Số tiền nhận được trong tài khoản ngân hàng"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Số tiền được chuyển vào tài khoản người dùng"
+
+#: 
+msgid "User will receive"
+msgstr "Người dùng sẽ nhận được"
+
+#: 
+msgid "Dark"
+msgstr "Tối"
+
+#: 
+msgid "White"
+msgstr "trắng"
+
+#: 
+msgid "Enable Donation"
+msgstr "Kích hoạt đóng góp"
+
+#: 
+msgid "Donation text"
+msgstr "Văn bản đóng góp"
+
+#: 
+msgid "Your donation text"
+msgstr "Văn bản đóng góp của bạn"
+
+#: 
+msgid "Donation address list"
+msgstr "Danh sách địa chỉ đóng góp"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Đặt 1 địa chỉ trên mỗi dòng"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Định dạng đường: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "PUT A SMILE ON FACES CỦA CHÚNG TÔI VÀ H SUP TRỢ CHÚNG TÔI BỞI DONATING :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Lịch sử giao dịch"
+
+#: 
+msgid "Description"
+msgstr "Sự miêu tả"
+
+#: 
+msgid "Reference ..."
+msgstr "Tài liệu tham khảo ..."
+
+#: 
+msgid "Reference"
+msgstr "Tài liệu tham khảo"
+
+#: 
+msgid "deposit"
+msgstr "tiền gửi"
+
+#: 
+msgid "widthdraw"
+msgstr "chiều rộng"
+
+#: 
+msgid "Dépot"
+msgstr "Kho chứa"
+
+#: 
+msgid "Unknown"
+msgstr "không xác định"
+
+#: 
+msgid "BUY order done"
+msgstr "Đã hoàn tất đơn đặt hàng"
+
+#: 
+msgid "SELL order done"
+msgstr "Đã hoàn thành đơn đặt hàng"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "BÁN ĐƠN ĐẶT HÀNG"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "MUA ĐƠN ĐẶT HÀNG"
+
+#: 
+msgid "Add a new item"
+msgstr "Thêm mục mới"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Khóa GDAX của bạn"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Thẻ GDAX của bạn"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Bí mật GDAX của bạn"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "ID Bitmex của bạn"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Bí mật Bitmex của bạn"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Khóa OKCoin của bạn"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Bí mật OKCoin của bạn"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "ID khóa Luno của bạn"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Luno Secret của bạn"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Khóa Coinex của bạn"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Bí mật Coinex của bạn"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Khóa Btcmarket của bạn"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Bí mật Btcmarket của bạn"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Khóa Livecoin của bạn"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Bí mật Livecoin của bạn"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "ID mã thông báo Quoinex của bạn"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Bí mật Quoinex của bạn"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Khóa Exmo của bạn"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Bí mật Exmo của bạn"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Khóa YoBit của bạn"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Bí mật YoBit của bạn"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Khóa Kucoin của bạn"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Riêng tư Kucoin của bạn"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Khóa CEX của bạn"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Bí mật CEX của bạn"
+
+#: 
+msgid "Your CEX UID"
+msgstr "UEX CEX của bạn"
+
+#: 
+msgid "My orders"
+msgstr "Đơn đặt hàng của tôi"
+
+#: 
+msgid "Size"
+msgstr "Kích thước"
+
+#: 
+msgid "Limit price"
+msgstr "Giá giới hạn"
+
+#: 
+msgid "Place buy order"
+msgstr "Đặt lệnh mua"
+
+#: 
+msgid "Place sell order"
+msgstr "Đặt lệnh bán"
+
+#: 
+msgid "Method"
+msgstr "phương pháp"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Bạn cần phải đăng nhập tại Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "Bật giao dịch trực tiếp"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Đăng nhập với Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Lợi nhuận hàng tuần"
+
+#: 
+msgid "Leaderboard"
+msgstr "Bảng dẫn đầu"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Bật bảng xếp hạng (cần phải bật giao dịch gốc)"
+
+#: 
+msgid "Active"
+msgstr "Hoạt động"
+
+#: 
+msgid "Every"
+msgstr "Mỗi"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Bắt đầu cặp khi đăng ký người dùng mới"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Chỉ cho phép 1 cặp"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Bắt đầu xem cặp danh sách khi đăng ký người dùng mới"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 cặp cho mỗi dòng"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Định dạng: THỊ TRƯỜNG: SYMBOL / CURRENCY"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Bạn cần đăng nhập vào Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Đăng nhập với Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "Email không hợp lệ"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Bạn cần phải đăng nhập tại Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Đăng nhập với Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Dựa trên tất cả các ví"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Khóa Poloniex của bạn"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Bí mật Poloniex của bạn"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Phiên bản dùng thử của bạn đã hết hạn!"
+
+#: 
+msgid "Become"
+msgstr "Trở nên"
+
+#: 
+msgid "You will be charged"
+msgstr "Bạn sẽ bị tính phí"
+
+#: 
+msgid "for"
+msgstr "cho"
+
+#: 
+msgid "months"
+msgstr "tháng"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Khóa Kraken của bạn"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Kraken của bạn riêng tư"
+
+#: 
+msgid "will be ready for you !"
+msgstr "sẽ sẵn sàng cho bạn!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Bạn cần đăng nhập vào Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr "Đăng nhập với Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Bạn cần đăng nhập tại Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Đăng nhập với Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Bạn cần phải đăng nhập tại Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Đăng nhập bằng Exmo"
+
+#: 
+msgid "View the article"
+msgstr "Xem bài viết"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Khóa Bittrex của bạn"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Bí mật Bittrex của bạn"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Bạn cần đăng nhập vào Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Đăng nhập bằng Kraken"
+
+#: 
+msgid "Markets"
+msgstr "Thị trường"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Ẩn thị trường (cần phải bật giao dịch gốc)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Ẩn đơn đặt hàng"
+
+#: 
+msgid "Load orders book"
+msgstr "Tải đơn đặt hàng"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Tạo thông báo khi ..."
+
+#: 
+msgid "Price is above"
+msgstr "Giá trên"
+
+#: 
+msgid "Price is bellow"
+msgstr "Giá là dưới đây"
+
+#: 
+msgid "Password not match"
+msgstr "Mật khẩu không khớp"
+

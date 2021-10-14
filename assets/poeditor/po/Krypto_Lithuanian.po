@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: lt\n"
+
+#: 
+msgid "Real account"
+msgstr "Tikra sąskaita"
+
+#: 
+msgid "Board"
+msgstr "Diagrama\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Prašau pasukti"
+
+#: 
+msgid "chart"
+msgstr "diagrama\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "diagramos ar daugiau"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Ieškoti pagal pavadinimą arba simbolį"
+
+#: 
+msgid "real account"
+msgstr "reali sąskaita\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Žiūrėti visus likučius"
+
+#: 
+msgid "List accounts"
+msgstr "Sąrašų sąrašas\n"
+""
+
+#: 
+msgid "History"
+msgstr "Istorija"
+
+#: 
+msgid "Credit"
+msgstr "Kreditas"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Užsisakyti knygą"
+
+#: 
+msgid "Market"
+msgstr "Turgus"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfelis"
+
+#: 
+msgid "Leader board"
+msgstr "\"Leader\" lenta"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Žiūriu"
+
+#: 
+msgid "News"
+msgstr "žinios"
+
+#: 
+msgid "Panel"
+msgstr "Skydas"
+
+#: 
+msgid "Manager"
+msgstr "Vadybininkas"
+
+#: 
+msgid "Admin"
+msgstr "Administratorius"
+
+#: 
+msgid "Converter"
+msgstr "Konverteris"
+
+#: 
+msgid "Social"
+msgstr "Socialinis"
+
+#: 
+msgid "Calendar"
+msgstr "Kalendorius"
+
+#: 
+msgid "Watchlist"
+msgstr "Žiūrėti sąrašą"
+
+#: 
+msgid "Contact us"
+msgstr "Susisiekite su mumis"
+
+#: 
+msgid "January"
+msgstr "Sausis"
+
+#: 
+msgid "February"
+msgstr "Vasaris"
+
+#: 
+msgid "March"
+msgstr "Kovas"
+
+#: 
+msgid "April"
+msgstr "Balandis"
+
+#: 
+msgid "May"
+msgstr "Gegužė"
+
+#: 
+msgid "June"
+msgstr "Birželio mėn"
+
+#: 
+msgid "July"
+msgstr "Liepos mėn"
+
+#: 
+msgid "August"
+msgstr "Rugpjūtis"
+
+#: 
+msgid "September"
+msgstr "Rugsėjis"
+
+#: 
+msgid "October"
+msgstr "Spalio mėn"
+
+#: 
+msgid "November"
+msgstr "Lapkričio mėn"
+
+#: 
+msgid "December"
+msgstr "Gruodžio mėn"
+
+#: 
+msgid "Mon."
+msgstr "Pirmadienis"
+
+#: 
+msgid "Tue."
+msgstr "Antradienis"
+
+#: 
+msgid "Wed."
+msgstr "Trečiadienis"
+
+#: 
+msgid "Thu."
+msgstr "Tue"
+
+#: 
+msgid "Fri."
+msgstr "Penktadienis"
+
+#: 
+msgid "Sat."
+msgstr "Šeštadienis"
+
+#: 
+msgid "Sun."
+msgstr "Saulė"
+
+#: 
+msgid "Statistics"
+msgstr "Statistika"
+
+#: 
+msgid "Bank transferts"
+msgstr "Banko pervedimai"
+
+#: 
+msgid "Payments"
+msgstr "Mokėjimai"
+
+#: 
+msgid "Subscriptions"
+msgstr "Prenumeratos"
+
+#: 
+msgid "Identity"
+msgstr "Tapatybė"
+
+#: 
+msgid "Users"
+msgstr "Vartotojai"
+
+#: 
+msgid "Orders"
+msgstr "Užsakymai"
+
+#: 
+msgid "Withdraw"
+msgstr "Atšaukti"
+
+#: 
+msgid "Currency"
+msgstr "Valiuta"
+
+#: 
+msgid "Total trade"
+msgstr "Bendra prekyba"
+
+#: 
+msgid "Total deposit"
+msgstr "Bendras indėlis"
+
+#: 
+msgid "Total withdraw"
+msgstr "Iš viso pasitraukti"
+
+#: 
+msgid "Fees"
+msgstr "Mokesčiai"
+
+#: 
+msgid "Name"
+msgstr "vardas"
+
+#: 
+msgid "Email"
+msgstr "El. Paštas"
+
+#: 
+msgid "Subscription"
+msgstr "Prenumerata"
+
+#: 
+msgid "Signin method"
+msgstr "Signin metodas"
+
+#: 
+msgid "Last login"
+msgstr "Paskutinis prisijungimas"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Įjungti pranešimai"
+
+#: 
+msgid "Trial version"
+msgstr "Bandomoji versija"
+
+#: 
+msgid "day"
+msgstr "diena"
+
+#: 
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: 
+msgid "Inactive"
+msgstr "Neaktyvus"
+
+#: 
+msgid "Enabled"
+msgstr "Įjungtas"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "Vartotojas"
+
+#: 
+msgid "Order date"
+msgstr "Užsakymo data"
+
+#: 
+msgid "Exchange"
+msgstr "Birža"
+
+#: 
+msgid "Pair"
+msgstr "Pora"
+
+#: 
+msgid "Type"
+msgstr "Įveskite"
+
+#: 
+msgid "Amount"
+msgstr "Suma"
+
+#: 
+msgid "Received"
+msgstr "Gauta"
+
+#: 
+msgid "Total deducted"
+msgstr "Iš viso išskaičiuotas"
+
+#: 
+msgid "Total received"
+msgstr "Iš viso gautas"
+
+#: 
+msgid "Buy"
+msgstr "Pirkti"
+
+#: 
+msgid "Sell"
+msgstr "Parduoti\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Monetų sąrašas"
+
+#: 
+msgid "Market list"
+msgstr "Rinkos sąrašas"
+
+#: 
+msgid "Heatmap"
+msgstr "\"Heatmap\""
+
+#: 
+msgid "Price"
+msgstr "Kaina"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Tiesioginis vol. 24 val"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Bendras tūris 24 val"
+
+#: 
+msgid "Market Cap"
+msgstr "Rinkos kapitalizacija"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg. 24 val"
+
+#: 
+msgid "24h High/Low"
+msgstr "24 val. Aukšta / maža"
+
+#: 
+msgid "Dashboard"
+msgstr "Prietaisų skydelis"
+
+#: 
+msgid "General settings"
+msgstr "Bendrieji nustatymai"
+
+#: 
+msgid "Coins"
+msgstr "Monetos"
+
+#: 
+msgid "Currencies"
+msgstr "Valiuta"
+
+#: 
+msgid "Mail settings"
+msgstr "Pašto nustatymai"
+
+#: 
+msgid "Payment"
+msgstr "Mokėjimas"
+
+#: 
+msgid "News - Social"
+msgstr "Naujienos - Socialiniai"
+
+#: 
+msgid "Intro"
+msgstr "Intro"
+
+#: 
+msgid "Trading"
+msgstr "Prekyba"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Papildomi puslapiai"
+
+#: 
+msgid "Today's visits"
+msgstr "Šiandienos vizitai"
+
+#: 
+msgid "7 days visits"
+msgstr "7 dienų vizitai"
+
+#: 
+msgid "Number of users"
+msgstr "Vartotojų skaičius"
+
+#: 
+msgid "Number of coins"
+msgstr "Monetų skaičius"
+
+#: 
+msgid "Last users"
+msgstr "Paskutiniai vartotojai"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Ši svetainė naudoja slapukus"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Mūsų tinklalapyje naudojami slapukai, siekiant patikrinti svetainės srautą ir naudotojų veiklą mūsų svetainėje, siekiant sustiprinti ir efektyviai naudotis vartotojų patirtimi, rinkodarai ir teikti socialinės žiniasklaidos funkcijas."
+
+#: 
+msgid "Accept"
+msgstr "Priimti"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Jūsų elektroninio pašto adresas"
+
+#: 
+msgid "Your password"
+msgstr "Jūsų slaptažodis"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Pamiršote slaptažodį ?"
+
+#: 
+msgid "Login"
+msgstr "Prisijungti"
+
+#: 
+msgid "or"
+msgstr "arba"
+
+#: 
+msgid "Create a new account"
+msgstr "Sukurti naują paskyrą"
+
+#: 
+msgid "practice account"
+msgstr "praktikos sąskaita"
+
+#: 
+msgid "Symbol"
+msgstr "Simbolis"
+
+#: 
+msgid "Last"
+msgstr "Paskutinis"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profilis"
+
+#: 
+msgid "Notification"
+msgstr "Pranešimas"
+
+#: 
+msgid "Security"
+msgstr "Saugumas"
+
+#: 
+msgid "Logout"
+msgstr "Atsijungti"
+
+#: 
+msgid "Your name"
+msgstr "Tavo vardas"
+
+#: 
+msgid "Language"
+msgstr "Kalba"
+
+#: 
+msgid "Type chart"
+msgstr "Įveskite diagramą"
+
+#: 
+msgid "Change your password"
+msgstr "pasikeiskite slaptažodį"
+
+#: 
+msgid "Repeat your password"
+msgstr "Pakartokite savo slaptažodį"
+
+#: 
+msgid "Back"
+msgstr "Atgal"
+
+#: 
+msgid "Validate"
+msgstr "Patvirtinti"
+
+#: 
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: 
+msgid "Your website title"
+msgstr "Jūsų svetainės pavadinimas"
+
+#: 
+msgid "App description"
+msgstr "Programos aprašymas"
+
+#: 
+msgid "Referal link"
+msgstr "Referencinė nuoroda"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Jūsų referencinė nuoroda (pvz., Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Priežiūros režimas"
+
+#: 
+msgid "Number format"
+msgstr "Skaičiavimo formatas"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Perjungti diagramas į prekybos diagramas"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Įgalinti automatinį kalbą"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Įgalinti POEditor kalbą"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API raktas"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Jūsų POEditor API raktas"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor projekto pasirinkimas"
+
+#: 
+msgid "Allow signup"
+msgstr "Leisti registruotis"
+
+#: 
+msgid "User need verify account"
+msgstr "Vartotojas turi patvirtinti paskyrą"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Reikia captcha registracijos"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "\"Google Recaptcha\" svetainės raktas"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Jūsų \"Google Recaptcha\" svetainės raktas"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "\"Google Recaptcha Secret Key\""
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Jūsų \"Google Recaptcha\" slaptas raktas"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin su google"
+
+#: 
+msgid "Google App ID"
+msgstr "\"Google\" programos ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Jūsų \"Google\" programos ID"
+
+#: 
+msgid "Google App Secret"
+msgstr "\"Google\" programos slaptas"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "\"Google\" programa slapta"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin su \"Facebook\""
+
+#: 
+msgid "Facebook App ID"
+msgstr "\"Facebook\" programos ID"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Jūsų \"Facebook\" programos ID"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "\"Facebook\" programos slaptas"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Jūsų \"Facebook\" programos paslaptis"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google analizė"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Įgalinti \"Google\" skelbimą"
+
+#: 
+msgid "Google Ad Client"
+msgstr "\"Google\" skelbimo klientas"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Jūsų \"Google\" skelbimo klientas"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "\"Google\" skelbimų sritis"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Jūsų \"Google\" skelbimų lenta"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Įgalinti slapukų iššokantį langą"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Cookie popup pavadinimas"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Jūsų slapukų pop-up pavadinimas"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Cookie Popup tekstas"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Jūsų slapukų iššokantis tekstas"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Juodosios sąrašo šalys"
+
+#: 
+msgid "Save"
+msgstr "Sutaupyti"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Leisti naudotojui keisti diagramos tipą"
+
+#: 
+msgid "Done !"
+msgstr "Padaryta !"
+
+#: 
+msgid "quantity"
+msgstr "kiekis"
+
+#: 
+msgid "Enable native trading"
+msgstr "Įgalinti vietinę prekybą"
+
+#: 
+msgid "Balance configuration"
+msgstr "Balanso konfigūracija"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Rodyti balanso įvertinimą"
+
+#: 
+msgid "User user currency select"
+msgstr "Vartotojo vartotojo valiuta pasirinkite"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Rodyti balanso įvertinimą"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Referalų sistemos konfigūracija"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Įgalinti referalų (reikia įjungti vietinę prekybą)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referencinė komisija ($, fiksuota suma)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Persiuntimo komisija ($, fiksuota suma) ex: Kai registruojantis referatas ir indėlių realus pinigais, refer win 5 $ (vertė = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Indėlio konfigūracija"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Indėlių mokesčiai (%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Minimalus indėlis ($)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Maksimalus indėlis ($)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Indėlių valiuta leidžiama"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Gaunamas indėlio krepšelis (jei piniginės realios valiutos nėra)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Atšaukti konfigūraciją"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Atšaukti minimalų sumą ($)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Atšaukti apdorojimo laiką (dienomis)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Atšaukti apdorojimo laiką (dienomis) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Prekybos konfigūracija"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Prekybos mokesčiai (%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Užsakymo nuorodos formatas"
+
+#: 
+msgid "Real account configuration"
+msgstr "Tikroji sąskaitos konfigūracija"
+
+#: 
+msgid "Enable real account"
+msgstr "Įgalinti realią sąskaitą"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Praktikos paskyros konfigūracija"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Didžiausias nemokamas užstatas ($)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Didžiausias nemokamas užstatas ($) ex: 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Gaukite nemokamą indėlio piniginę"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Pateikta data"
+
+#: 
+msgid "Status"
+msgstr "Statusas"
+
+#: 
+msgid "Document name"
+msgstr "Dokumento pavadinimas"
+
+#: 
+msgid "Documents"
+msgstr "Dokumentai"
+
+#: 
+msgid "Not processed"
+msgstr "Neapdorotas"
+
+#: 
+msgid "Processed"
+msgstr "Perdirbta"
+
+#: 
+msgid "Payment success"
+msgstr "Mokėjimo sėkmė"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Mokesčių atskaitos modelis"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Įgalinti SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP serveris"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Jūsų SMTP serveris"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP prievadas"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Jūsų SMTP prievadas"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP saugumas"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP vartotojas"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Jūsų SMTP vartotojas"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP slaptažodis"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Jūsų SMTP slaptažodis"
+
+#: 
+msgid "Email sender name"
+msgstr "Siųsti siuntėjo vardą"
+
+#: 
+msgid "Support mail"
+msgstr "Palaikykite paštą"
+
+#: 
+msgid "Support Phone"
+msgstr "Palaikymas telefonu"
+
+#: 
+msgid "Support phone"
+msgstr "Palaikykite telefoną"
+
+#: 
+msgid "Support Address"
+msgstr "Palaikymo adresas"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO paštas"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO telefonas"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO telefonas"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Siųsti kvietimą paštu"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Sveiki atvykę į pašto temą"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Kalendoriaus kredencialai"
+
+#: 
+msgid "Enable calendar"
+msgstr "Įgalinti kalendorių"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Kalendoriaus kliento ID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Jūsų kalendoriaus kliento ID"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Kalendoriaus kliento slaptumas"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Rodyti tik įvykius, susijusius su įjungtais monetomis"
+
+#: 
+msgid "News feed"
+msgstr "Naujienų srautas"
+
+#: 
+msgid "Add news feed"
+msgstr "Pridėti naujienų kanalą"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Jūsų RSS kanalo nuoroda"
+
+#: 
+msgid "Add"
+msgstr "Papildyti"
+
+#: 
+msgid "Name feed"
+msgstr "Vardas pašarus"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter sąskaitos"
+
+#: 
+msgid "Add twitter account"
+msgstr "Pridėti Twitter sąskaitą"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter vardas"
+
+#: 
+msgid "without"
+msgstr "be"
+
+#: 
+msgid "Social name"
+msgstr "Socialinis vardas"
+
+#: 
+msgid "Created date"
+msgstr "Sukurta data"
+
+#: 
+msgid "Amount paid"
+msgstr "Sumokėta suma"
+
+#: 
+msgid "Wallet received"
+msgstr "Gaubtas gautas"
+
+#: 
+msgid "Amount received"
+msgstr "Gautos sumos"
+
+#: 
+msgid "Payment gateway"
+msgstr "Mokėjimo šliuzai"
+
+#: 
+msgid "Proof"
+msgstr "Įrodymas"
+
+#: 
+msgid "Modify balance"
+msgstr "Keisti balansą"
+
+#: 
+msgid "Select balance"
+msgstr "Pasirinkite balansą"
+
+#: 
+msgid "Modification type"
+msgstr "Modifikacijos tipas"
+
+#: 
+msgid "Modification value"
+msgstr "Modifikavimo vertė"
+
+#: 
+msgid "Add modification"
+msgstr "Pridėti pakeitimą"
+
+#: 
+msgid "Card"
+msgstr "Kortelė"
+
+#: 
+msgid "Balances"
+msgstr "Likučiai"
+
+#: 
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: 
+msgid "Last location"
+msgstr "Paskutinė vieta"
+
+#: 
+msgid "Currency use"
+msgstr "Valiutos naudojimas"
+
+#: 
+msgid "Signup with"
+msgstr "Registruotis su"
+
+#: 
+msgid "Identity verification"
+msgstr "Tapatybės patvirtinimas"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 etapo autentifikavimas"
+
+#: 
+msgid "User status"
+msgstr "Vartotojo būsena"
+
+#: 
+msgid "Login history"
+msgstr "Prisijungimo istorija"
+
+#: 
+msgid "More details"
+msgstr "Daugiau informacijos"
+
+#: 
+msgid "Deposit history"
+msgstr "Depozito istorija"
+
+#: 
+msgid "Total"
+msgstr "Iš viso"
+
+#: 
+msgid "Value in BTC"
+msgstr "Vertė BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Vertė USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Atėmimo metodas"
+
+#: 
+msgid "Date"
+msgstr "Data"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Paklauskite pločio"
+
+#: 
+msgid "WITHDRAW"
+msgstr "Atšaukti"
+
+#: 
+msgid "paypal"
+msgstr "PayPal"
+
+#: 
+msgid "banktransfert"
+msgstr "banketransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Pasirinkite imtuvo paskyrą"
+
+#: 
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#: 
+msgid "Next"
+msgstr "Kitas"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Pranešimo konfigūracija baigta."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Jūsų PushBullet prieigos raktas"
+
+#: 
+msgid "Remove token"
+msgstr "Pašalinti raktą"
+
+#: 
+msgid "You are premium !"
+msgstr "Jūs esate apdovanotas!"
+
+#: 
+msgid "left"
+msgstr "kairėje"
+
+#: 
+msgid "Main settings"
+msgstr "Pagrindiniai nustatymai"
+
+#: 
+msgid "Period"
+msgstr "Laikotarpis"
+
+#: 
+msgid "Colour"
+msgstr "Spalva"
+
+#: 
+msgid "Thickness"
+msgstr "Storis"
+
+#: 
+msgid "Reset"
+msgstr "Atstatyti"
+
+#: 
+msgid "Apply"
+msgstr "Taikyti"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Paimkite \"Google\" autentifikavimo kodą"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Įveskite \"Google\" autentifikavimo kodą"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Likučiai, kurių vertė yra mažesnė nei 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Slėpti mažą balansą"
+
+#: 
+msgid "Estimate value"
+msgstr "Įvertinimo vertė"
+
+#: 
+msgid "Value in"
+msgstr "Vertė"
+
+#: 
+msgid "Deposit"
+msgstr "Indėlis"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "\"Google\" autentifikavimas įgalintas!"
+
+#: 
+msgid "Set as done"
+msgstr "Nustatyti kaip atliktą"
+
+#: 
+msgid "Close"
+msgstr "Uždaryti"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "\"Google\" autentifikavimo kodas neteisingas"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Jūs gausite patvirtinimą apie platinimą elektroniniu paštu"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Nuoroda, vartotojo vardas, tipas, valiuta"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Pločio filtras"
+
+#: 
+msgid "Default"
+msgstr "Numatytas"
+
+#: 
+msgid "Not confirmed"
+msgstr "Nepatvirtintas"
+
+#: 
+msgid "Done"
+msgstr "padaryta"
+
+#: 
+msgid "Payment filter"
+msgstr "Mokėjimo filtras"
+
+#: 
+msgid "Need to be approved"
+msgstr "Reikia patvirtinti"
+
+#: 
+msgid "Paid"
+msgstr "Mokama"
+
+#: 
+msgid "Not paid"
+msgstr "Nesumoketas"
+
+#: 
+msgid "All payments"
+msgstr "Visi mokėjimai"
+
+#: 
+msgid "Ask a proof"
+msgstr "Paklauskite įrodymo"
+
+#: 
+msgid "Bank ref."
+msgstr "Banko ref."
+
+#: 
+msgid "Proof received"
+msgstr "Gauta įrodymas"
+
+#: 
+msgid "In pending"
+msgstr "Laukiama"
+
+#: 
+msgid "All widthdraw"
+msgstr "Visas skersmuo"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Atšaukti pavyzdinį modelį"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Atšaukti filtrą"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Atšaukti informaciją"
+
+#: 
+msgid "year"
+msgstr "metai"
+
+#: 
+msgid "month"
+msgstr "mėnuo"
+
+#: 
+msgid "week"
+msgstr "savaitę"
+
+#: 
+msgid "hour"
+msgstr "valandą"
+
+#: 
+msgid "minute"
+msgstr "minutė"
+
+#: 
+msgid "second"
+msgstr "antra"
+
+#: 
+msgid "ago"
+msgstr "prieš"
+
+#: 
+msgid "Bank transfert"
+msgstr "Banko pervedimas"
+
+#: 
+msgid "Deposit amount"
+msgstr "Indėlio suma"
+
+#: 
+msgid "Fill up"
+msgstr "Pripildyti"
+
+#: 
+msgid "It's free"
+msgstr "Tai nemokama"
+
+#: 
+msgid "You will receive"
+msgstr "Tu gausi"
+
+#: 
+msgid "Add real funds"
+msgstr "Pridėti realius pinigus"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimalus indėlis"
+
+#: 
+msgid "Enable credit card"
+msgstr "Įgalinti kreditinę kortelę"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe privatus raktas"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Jūsų juostos API raktas"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Įjungti \"Paypal\""
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Įjungti \"Paypal Live\" režimą"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal kliento ID"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Jūsų \"PayPal\" kliento ID"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Client Secret"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Jūsų PayPal kliento paslaptis"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Įjungti \"Blockonomics\""
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blokonomika Slaptas raktas"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Jūsų blokonomijos slaptas raktas"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Įjunkite \"Fortumo\""
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "\"Fortumo Secret\" raktas"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Jūsų \"laipsnio\" slaptas raktas"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "\"Fortumo\" paslaugos klavišas"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Jūsų \"Fortumo\" paslaugos raktas"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Įjungti \"Coingate\""
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Įgalinti \"CoinGate\" režimą"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Jūsų \"CoinGate Auth Token\""
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "\"CoinGate\" gavimo valiuta"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Įgalinti \"Coinpayments\""
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Monetų atsiskaitymų viešasis raktas"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Jūsų \"Coinpayments\" viešasis raktas"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Monetų atsiskaitymų privati ​​raktas"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Jūsų \"Coinpayments\" privatus raktas"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Monetų mokėjimas Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Jūsų \"Coinpayments Marchand\" ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Monetų mokėjimas IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Jūsų \"Coinpayments\" IPN Secret"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Įgalinti \"Rave Flutterwave\" mokėjimą"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Sandbox režimas Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave viešasis raktas"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Jūsų Rave Flutterwave viešasis raktas"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave Secret Key"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Jūsų Rave Flutterwave slaptas raktas"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave mokėjimo antraštė"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Jūsų \"Rave Flutterwave\" apmokėjimo pavadinimas"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave mokėjimo prefiksas"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Jūsų \"Rave Flutterwave\" mokėjimo prefiksas (pvz., KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Įgalinti Coinbase Commerce mokėjimą"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase komercijos API raktas"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Jūsų \"Coinbase\" komercijos API raktas"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase komercijos mokėjimo pavardė"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Jūsų \"Coinbase\" komercijos mokėjimo pavadinimas"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Įjunkite Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Jūsų Mollie raktas"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Įjungti \"Payeer\""
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Mokėtojo parduotuvės ID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Jūsų mokėtojo parduotuvės ID"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer API raktas"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Jūsų mokėtojo API raktas"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Įgalinti banko pervedimą"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Banko pervedimas maksimalus tuo pačiu metu"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Banko pervedimo įrodymas įjungtas"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Bankas perveda maksimalų įrodymą"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Jūsų Dvynių raktas"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Jūsų Dvynių paslaptis"
+
+#: 
+msgid "Select your platform"
+msgstr "Pasirinkite savo platformą"
+
+#: 
+msgid "Sandbox"
+msgstr "Smėlio dėžė"
+
+#: 
+msgid "Live"
+msgstr "Gyvai"
+
+#: 
+msgid "Cron time"
+msgstr "Crono laikas"
+
+#: 
+msgid "Last update"
+msgstr "Paskutiniai pakeitimai"
+
+#: 
+msgid "Sync delay"
+msgstr "Sinchronizavimo uždelsimas"
+
+#: 
+msgid "Add additional page"
+msgstr "Pridėti papildomą puslapį"
+
+#: 
+msgid "Page name"
+msgstr "Puslapio pavadinimas"
+
+#: 
+msgid "Page URL"
+msgstr "Puslapio URL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Puslapio piktograma (pvz .: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Arba puslapio piktograma svg"
+
+#: 
+msgid "Icon"
+msgstr "Piktograma"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG paveikslėlis"
+
+#: 
+msgid "Enable"
+msgstr "Įgalinti"
+
+#: 
+msgid "Disable"
+msgstr "Išjungti"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Sukurkite naują banko pervedimą"
+
+#: 
+msgid "Pending"
+msgstr "Kol"
+
+#: 
+msgid "Details"
+msgstr "Informacija"
+
+#: 
+msgid "Verified"
+msgstr "Patvirtinta"
+
+#: 
+msgid "Canceled"
+msgstr "Atšauktas"
+
+#: 
+msgid "Declined"
+msgstr "Atmesta"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Jūsų \"Hitbtc\" raktas"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Jūsų Hitbtc paslaptis"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Jūsų \"BitBank\" raktas"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Jūsų \"Bitbank\" paslaptis"
+
+#: 
+msgid "User level"
+msgstr "Vartotojo lygis"
+
+#: 
+msgid "Expire in"
+msgstr "Pasibaigs"
+
+#: 
+msgid "Back to login"
+msgstr "Atgal į prisijungimą"
+
+#: 
+msgid "Let's go !"
+msgstr "Eime !"
+
+#: 
+msgid "Welcome"
+msgstr "Sveiki"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Sukursime savo prietaisų skydelį."
+
+#: 
+msgid "Select your language"
+msgstr "Pasirinkite savo kalbą"
+
+#: 
+msgid "Select your currency"
+msgstr "Pasirinkite savo valiutą"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Pasirinkite savo mėgstamiausius šifratus"
+
+#: 
+msgid "left need to be selected"
+msgstr "kairėje reikia pasirinkti"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Konfigūracija baigta!"
+
+#: 
+msgid "will now refresh"
+msgstr "dabar atnaujins"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Įgalinti \"Perfect Money\" mokėjimą"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "\"Perfect Money\" gavėjo sąskaita"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Jūsų \"Perfect Money\" gavėjo sąskaita"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Mobilusis, naršyklė, \"Windows\" pranešimai"
+
+#: 
+msgid "Create price alert"
+msgstr "Kurti kainų įspėjimą"
+
+#: 
+msgid "I need help !"
+msgstr "Man reikia pagalbos !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Atsisiųskite \"PushBullet\" programą savo telefone (galimas \"Android\" ir \"iOS\")"
+
+#: 
+msgid "Create an account on it"
+msgstr "Sukurkite paskyrą joje"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Susisiekite su savo nauja paskyra čia"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Eikite į <b> Nustatymai </ b>> <b> Sąskaita </ ​​b> ir sukurkite <b> Tokeną prieigos </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Kopijuoti raktą ir įklijuoti jį į užpildymą ir spustelėkite išsaugoti."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Jei norite patikrinti, ar ryšys sėkmingas, bus išsiųstas pranešimas."
+
+#: 
+msgid "Premium wait you !"
+msgstr "\"Premium\" lauki!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Daugiau nei 2000 kriptografinių valiutų"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Būkite įspėti, kai indikatorius auga ar sumažėja"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Atsakomas į mobiliuosius telefonus ir planšetinius kompiuterius"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Naujienos ir socialiniai pranešimai toje pačioje vietoje"
+
+#: 
+msgid "Support"
+msgstr "Parama"
+
+#: 
+msgid "Phone"
+msgstr "Telefonas"
+
+#: 
+msgid "Address"
+msgstr "Adresas"
+
+#: 
+msgid "Contact DPO"
+msgstr "Susisiekite su DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Jūsų binanso raktas"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Jūsų Binance paslaptis"
+
+#: 
+msgid "Cardholder name"
+msgstr "Kortelės savininko vardas"
+
+#: 
+msgid "Card number"
+msgstr "Kortelės numeris"
+
+#: 
+msgid "Expiration"
+msgstr "Galiojimo pabaiga"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "kriptokursai"
+
+#: 
+msgid "No order to show"
+msgstr "Neleidžiama parodyti"
+
+#: 
+msgid "Premium"
+msgstr "Premija"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Patvirtinkite savo vardą"
+
+#: 
+msgid "Estimate balance"
+msgstr "Įvertinti balansą"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2 val"
+
+#: 
+msgid "7d"
+msgstr "7 d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12 val"
+
+#: 
+msgid "2h"
+msgstr "2 val"
+
+#: 
+msgid "1h"
+msgstr "1 val"
+
+#: 
+msgid "30min"
+msgstr "30 min"
+
+#: 
+msgid "Candlestick"
+msgstr "Žvakidė"
+
+#: 
+msgid "Line"
+msgstr "Linija"
+
+#: 
+msgid "Indicators"
+msgstr "Rodikliai"
+
+#: 
+msgid "Export"
+msgstr "Eksportas"
+
+#: 
+msgid "Alert"
+msgstr "Budrus"
+
+#: 
+msgid "Drawing"
+msgstr "Brėžinys"
+
+#: 
+msgid "Trend Line"
+msgstr "Tendencija linija"
+
+#: 
+msgid "Text"
+msgstr "Tekstas"
+
+#: 
+msgid "Create a new alert"
+msgstr "Sukurkite naują įspėjimą"
+
+#: 
+msgid "% Fees"
+msgstr "% Mokesčių"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Kripto valiutos atsisakymas"
+
+#: 
+msgid "Decline"
+msgstr "Atmesti"
+
+#: 
+msgid "Agree"
+msgstr "Sutinku"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Kripto valiutos indėlio sutartis"
+
+#: 
+msgid "Enable news popup"
+msgstr "Įgalinti naujienų iššokantį langą"
+
+#: 
+msgid "News popup title"
+msgstr "Naujienos pop-up pavadinimas"
+
+#: 
+msgid "Your news popup title"
+msgstr "Jūsų naujienų pop-up pavadinimas"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Populiariausias naujienų vaizdo įrašas (tuščias vaizdo įrašo nerodyti)"
+
+#: 
+msgid "News popup description"
+msgstr "Populiariausias naujienų aprašas"
+
+#: 
+msgid "Advert users"
+msgstr "Skelbimo vartotojai"
+
+#: 
+msgid "Enable intro"
+msgstr "Įjungti intro"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Atlyginimo mokesčiai (%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Persiuntimas apie banko pavedimą, kai atsiimama valiuta, nėra kriptografinė valiuta"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Kriptografinės valiutos leidžiama banko pervedimams atšaukti"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Įvertinti balansą"
+
+#: 
+msgid "Edit profile"
+msgstr "Redaguoti profilį"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Banko pervedimo indėlio sutartis"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Mokesčiai už blokonomiką Mokesčiai (%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Jūsų blokonomijos mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "\"Fortumo\" mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Jūsų sumokėjimo mokesčiai (%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "\"CoinGate\" mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Jūsų privalomojo mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Mokesčiai už monetų apmokėjimą (%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Jūsų monetų mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave mokesčiai (%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Jūsų rave flutterwave mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Mokesčiai už Coinbase komercijos mokestį (%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Jūsų \"coinbase\" komercijos mokesčiai (%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Jūsų Mollie mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Mokėtojo mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Jūsų mokėtojo mokėjimo mokesčiai (%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Banko pavedimo mokėjimas Mokesčiai (%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Jūsų banko pervedimo mokesčiai (%)"
+
+#: 
+msgid "Add new"
+msgstr "Pridėti naują"
+
+#: 
+msgid "Bank accounts"
+msgstr "banko sąskaitos"
+
+#: 
+msgid "Add new bank account"
+msgstr "Pridėti naują banko sąskaitą"
+
+#: 
+msgid "Bank account name"
+msgstr "Banko sąskaitos pavadinimas"
+
+#: 
+msgid "Your bank account name"
+msgstr "Jūsų banko sąskaitos pavadinimas"
+
+#: 
+msgid "Bank account currency"
+msgstr "Banko sąskaitos valiuta"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "IBAN banko sąskaitoje"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Banko sąskaita BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Jūsų banko sąskaita BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Banko sąskaitos adresas"
+
+#: 
+msgid "Your bank account address"
+msgstr "Jūsų banko sąskaitos adresas"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Banko sąskaitos savininko vardas"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Jūsų banko sąskaitos savininko vardas"
+
+#: 
+msgid "* This is optional"
+msgstr "* Tai yra neprivaloma"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Jūsų banko sąskaitos valiuta"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Jūsų banko sąskaita IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Galite pasirinkti tarp \"puslapio piktogramos\" ir \"puslapio piktogramos svg\" (puslapio piktograma yra prioritetas) - sąrašas piktogramų galima rasti čia"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Gausite el. Pašto patvirtinimą"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Prašome laikytis šio žingsnio, kad užbaigtumėte prašymą atsisakyti sutarties."
+
+#: 
+msgid "You need to have at least"
+msgstr "Jums reikia bent jau"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Jūs neturite jokio užpildyto likučio"
+
+#: 
+msgid "Total in "
+msgstr "Iš viso"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Jums reikia nustatyti widthdraw metodą"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Banko sąskaita BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Jūsų banko sąskaita BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Dienos diapazonas\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Atvirų durų diena"
+
+#: 
+msgid "Volume 24H"
+msgstr "Tiesioginis tomas"
+
+#: 
+msgid "Direct Volume"
+msgstr "Tiesioginis tomas"
+
+#: 
+msgid "Load more data"
+msgstr "Įkelkite daugiau duomenų"
+
+#: 
+msgid "Qty"
+msgstr "Kiekis"
+
+#: 
+msgid "Gain"
+msgstr "Pasiekti"
+
+#: 
+msgid "Price buy"
+msgstr "Kaina pirkti"
+
+#: 
+msgid "Disable chat"
+msgstr "Išjungti pokalbį"
+
+#: 
+msgid "Total gain"
+msgstr "Bendras pelnas"
+
+#: 
+msgid "Confirmation"
+msgstr "Patvirtinimas"
+
+#: 
+msgid "Unit price"
+msgstr "Vieneto kaina"
+
+#: 
+msgid "Investment"
+msgstr "Investicijos"
+
+#: 
+msgid "Quantity"
+msgstr "Kiekis"
+
+#: 
+msgid "Commission"
+msgstr "Komisija"
+
+#: 
+msgid "Confirm buying"
+msgstr "Patvirtinkite pirkimą"
+
+#: 
+msgid "New user"
+msgstr "Naujas vartotojas"
+
+#: 
+msgid "Order passed"
+msgstr "Užsakymas praėjo"
+
+#: 
+msgid "New subscription"
+msgstr "Naujas prenumerata"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Rodyti pašalinti imtuvo informaciją."
+
+#: 
+msgid "Process"
+msgstr "Procesas"
+
+#: 
+msgid "Hide details"
+msgstr "Paslėpti detales"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Įgalinti prenumeratas"
+
+#: 
+msgid "Enable free trial"
+msgstr "Įgalinti nemokamą bandomąją versiją"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Nemokamas bandomasis laikotarpis (dieną)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Nemokama bandomoji trukmė"
+
+#: 
+msgid "Premium features"
+msgstr "\"Premium\" funkcijos"
+
+#: 
+msgid "Free users features"
+msgstr "Nemokama vartotojų funkcijos"
+
+#: 
+msgid "Add a new plan"
+msgstr "Pridėti naują planą"
+
+#: 
+msgid "Name plan"
+msgstr "Vardo planas"
+
+#: 
+msgid "Price total"
+msgstr "Bendra kaina"
+
+#: 
+msgid "Duration in days"
+msgstr "Trukmė dienomis"
+
+#: 
+msgid "Duration"
+msgstr "Trukmė"
+
+#: 
+msgid "Add this plan"
+msgstr "Pridėti šį planą"
+
+#: 
+msgid "Plans available"
+msgstr "Galimi planai"
+
+#: 
+msgid "Price plan"
+msgstr "Kainų planas"
+
+#: 
+msgid "Duration in month"
+msgstr "Trukmė mėnesį"
+
+#: 
+msgid "Price per month"
+msgstr "Kaina per mėnesį"
+
+#: 
+msgid "Account"
+msgstr "Sąskaita"
+
+#: 
+msgid "Exchanges"
+msgstr "Mainai"
+
+#: 
+msgid "Total Free"
+msgstr "Viso nemokamai"
+
+#: 
+msgid "Total Used"
+msgstr "Bendras naudojimas"
+
+#: 
+msgid "Order Ref."
+msgstr "Užsakymo nuoroda"
+
+#: 
+msgid "Ordered price"
+msgstr "Užsakyta kaina"
+
+#: 
+msgid "Current price"
+msgstr "Dabartinė kaina"
+
+#: 
+msgid "Evolution"
+msgstr "Evoliucija"
+
+#: 
+msgid "Enable identity system"
+msgstr "Įgalinti tapatybės sistemą"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Blokuoti prekybą be tapatybės patvirtinimo"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Blokuoti indėlį be tapatybės patvirtinimo"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Blokuoti pašalinti be tapatybės patvirtinimo"
+
+#: 
+msgid "Approve"
+msgstr "Patvirtinti"
+
+#: 
+msgid "Identity ID"
+msgstr "Tapatybės kodas"
+
+#: 
+msgid "Identity step name"
+msgstr "Tapatybės žingsnio vardas"
+
+#: 
+msgid "Identity step description"
+msgstr "Tapatybės žingsnio aprašymas"
+
+#: 
+msgid "Identity order"
+msgstr "Asmens nurodymas"
+
+#: 
+msgid "Down order"
+msgstr "Žemyn tvarka"
+
+#: 
+msgid "Up order"
+msgstr "Aukštyn tvarka"
+
+#: 
+msgid "Add new identity step"
+msgstr "Pridėti naują tapatybės žingsnį"
+
+#: 
+msgid "Your step name"
+msgstr "Jūsų žingsnio pavadinimas"
+
+#: 
+msgid "Your step description"
+msgstr "Jūsų žingsnio aprašymas"
+
+#: 
+msgid "Identity step type"
+msgstr "Tapatybės žingsnio tipas"
+
+#: 
+msgid "Upload new document"
+msgstr "Įkelkite naują dokumentą"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Pasirinkite dokumento tipų sąrašą"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Įgalinkite tapatybės įkėlimą naudodami kamerą"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Kameros dokumento santykis"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Ration (plotis / aukštis)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Santykis (plotis / aukštis)"
+
+#: 
+msgid "Document identity list"
+msgstr "Dokumento tapatybės sąrašas"
+
+#: 
+msgid "Add new identity document"
+msgstr "Pridėti naują tapatybės dokumentą"
+
+#: 
+msgid "Your document name"
+msgstr "Jūsų dokumento pavadinimas"
+
+#: 
+msgid "My Holding"
+msgstr "Mano ūkis"
+
+#: 
+msgid "Holding"
+msgstr "Holdingas"
+
+#: 
+msgid "Market Value"
+msgstr "Rinkos vertė"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Pelnas / nuostoliai"
+
+#: 
+msgid "Wallet"
+msgstr "Piniginė"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Patvirtinkite banko pervedimą"
+
+#: 
+msgid "Transfert received date"
+msgstr "Perkelti gautą datą"
+
+#: 
+msgid "Bank account received"
+msgstr "Gauta banko sąskaita"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Banko pervedimo nuoroda"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Banko sąskaitoje gauta suma"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Suma, perkelta į vartotojo abonementą"
+
+#: 
+msgid "User will receive"
+msgstr "Vartotojas gaus"
+
+#: 
+msgid "Dark"
+msgstr "Tamsus"
+
+#: 
+msgid "White"
+msgstr "Balta"
+
+#: 
+msgid "Enable Donation"
+msgstr "Įgalinti dovaną"
+
+#: 
+msgid "Donation text"
+msgstr "Dovanojimo tekstas"
+
+#: 
+msgid "Your donation text"
+msgstr "Jūsų aukos tekstas"
+
+#: 
+msgid "Donation address list"
+msgstr "Aukojimo adresų sąrašas"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Įdėkite 1 adresą į eilutę"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Linijos formatas: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "IŠSKIRTINTI MUZIEJUS IR PAGALBA JAV DOTACIJOSE :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Sandorių istorija"
+
+#: 
+msgid "Description"
+msgstr "apibūdinimas"
+
+#: 
+msgid "Reference ..."
+msgstr "Nuoroda ..."
+
+#: 
+msgid "Reference"
+msgstr "Nuoroda"
+
+#: 
+msgid "deposit"
+msgstr "indėlis"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Dépot"
+
+#: 
+msgid "Unknown"
+msgstr "Nežinoma"
+
+#: 
+msgid "BUY order done"
+msgstr "PIRKTI atlikti užsakymą"
+
+#: 
+msgid "SELL order done"
+msgstr "SELL užsakymas padarytas"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "PARDUODAMI PASKIRTIS"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "PIRKTI ORDER done"
+
+#: 
+msgid "Add a new item"
+msgstr "Pridėti naują elementą"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Jūsų GDAX raktas"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Jūsų GDAX leidimas"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Jūsų GDAX paslaptis"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Jūsų \"Bitmex\" ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Jūsų Bitmex paslaptis"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Jūsų OKCoin raktas"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Jūsų OKCoin paslaptis"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Jūsų Luno rakto ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Jūsų Luno paslaptis"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Jūsų \"Coinex\" raktas"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Jūsų Coinex paslaptis"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Jūsų \"Btcmarket\" raktas"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Jūsų \"Btcmarket\" paslaptis"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Jūsų \"Livecoin\" raktas"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Jūsų Livecoin paslaptis"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Jūsų Quoinex Token ID"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Jūsų \"Quoinex\" paslaptis"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Jūsų Exmo raktas"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Jūsų \"Exmo Secret\""
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Jūsų \"YoBit\" raktas"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Jūsų \"YoBit\" paslaptis"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Jūsų Kucoin raktas"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Jūsų \"Kucoin Private\""
+
+#: 
+msgid "Your CEX Key"
+msgstr "Jūsų CEX raktas"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Jūsų CEX paslaptis"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Jūsų CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "Mano įsakymai"
+
+#: 
+msgid "Size"
+msgstr "Dydis"
+
+#: 
+msgid "Limit price"
+msgstr "Ribinė kaina"
+
+#: 
+msgid "Place buy order"
+msgstr "Vieta pirkimo užsakymas"
+
+#: 
+msgid "Place sell order"
+msgstr "Padėkite parduoti"
+
+#: 
+msgid "Method"
+msgstr "Metodas"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Jums reikia prisijungti prie Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "Įgalinti gyvą prekybą"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Prisijungti su Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Savaitės pelnas"
+
+#: 
+msgid "Leaderboard"
+msgstr "\"Leaderboard\""
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Įgalinti skelbimų lentyną (turi būti įjungta vietinė prekyba)"
+
+#: 
+msgid "Active"
+msgstr "Aktyvus"
+
+#: 
+msgid "Every"
+msgstr "Kiekvienas"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Pradedant porą, kai prisijungia naujas vartotojas"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Leidžiama tik 1 pora"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Pradedant žiūrėti sąrašo porą, kai registruojama nauja vartotojo"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 pora kiekvienai eilutei"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Formatas: RINKA: SYMBOL / VALIUTA"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Jūs turite prisijungti prie Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Prisijungti su Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "El. Paštas negalioja"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Jums reikia prisijungti prie Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Prisijungti su \"Yobit\""
+
+#: 
+msgid "Based on all wallet"
+msgstr "Remiantis visomis piniginėmis"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Jūsų Poloniex raktas"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Jūsų Poloniex paslaptis"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Jūsų bandomosios versijos galiojimas baigėsi!"
+
+#: 
+msgid "Become"
+msgstr "Tapk"
+
+#: 
+msgid "You will be charged"
+msgstr "Jūs turėsite sumokėti"
+
+#: 
+msgid "for"
+msgstr "dėl"
+
+#: 
+msgid "months"
+msgstr "mėnesių"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Jūsų Krakeno raktas"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Jūsų Kraken Private"
+
+#: 
+msgid "will be ready for you !"
+msgstr "bus pasiruošęs tau!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Jūs turite prisijungti prie \"Binance\""
+
+#: 
+msgid "Login with Binance"
+msgstr "Prisijungti su binanais"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Jūs turite prisijungti prie \"Poloniex\""
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Prisijunkite prie \"Poloniex\""
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Jūs turite būti prisijungęs prie \"Exmo\""
+
+#: 
+msgid "Login with Exmo"
+msgstr "Prisijungti su Exmo"
+
+#: 
+msgid "View the article"
+msgstr "Peržiūrėkite straipsnį"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Jūsų \"Bittrex\" raktas"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Jūsų Bittrex paslaptis"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Jūs turite prisijungti prie Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Prisijungti su Kraken"
+
+#: 
+msgid "Markets"
+msgstr "Rinkos"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Slėpti rinką (turi būti įjungta vietinė prekyba)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Slėpti užsakymų knygą"
+
+#: 
+msgid "Load orders book"
+msgstr "Įkelti užsakymų knygą"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Sukurkite įspėjimą, kai ..."
+
+#: 
+msgid "Price is above"
+msgstr "Kaina yra didesnė"
+
+#: 
+msgid "Price is bellow"
+msgstr "Kaina yra žemiau"
+
+#: 
+msgid "Password not match"
+msgstr "Slaptažodis neatitinka"
+

@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: tr\n"
+
+#: 
+msgid "Real account"
+msgstr "Gerçek hesap"
+
+#: 
+msgid "Board"
+msgstr "grafik\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Lütfen dön"
+
+#: 
+msgid "chart"
+msgstr "grafik\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "grafikler veya daha fazlası"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "İsim veya simge ile ara"
+
+#: 
+msgid "real account"
+msgstr "gerçek hesap\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Tüm dengeleri gör"
+
+#: 
+msgid "List accounts"
+msgstr "Liste hesapları\n"
+""
+
+#: 
+msgid "History"
+msgstr "Tarihçe"
+
+#: 
+msgid "Credit"
+msgstr "Kredi"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Sipariş defteri"
+
+#: 
+msgid "Market"
+msgstr "Market"
+
+#: 
+msgid "Portfolio"
+msgstr "Portföy"
+
+#: 
+msgid "Leader board"
+msgstr "Liderler Sıralaması"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Seyretme"
+
+#: 
+msgid "News"
+msgstr "Haber"
+
+#: 
+msgid "Panel"
+msgstr "Panel"
+
+#: 
+msgid "Manager"
+msgstr "yönetici"
+
+#: 
+msgid "Admin"
+msgstr "yönetim"
+
+#: 
+msgid "Converter"
+msgstr "Dönüştürücü"
+
+#: 
+msgid "Social"
+msgstr "Sosyal"
+
+#: 
+msgid "Calendar"
+msgstr "Takvim"
+
+#: 
+msgid "Watchlist"
+msgstr "TAKİP"
+
+#: 
+msgid "Contact us"
+msgstr "Bizimle iletişime geçin"
+
+#: 
+msgid "January"
+msgstr "Ocak"
+
+#: 
+msgid "February"
+msgstr "Şubat"
+
+#: 
+msgid "March"
+msgstr "Mart"
+
+#: 
+msgid "April"
+msgstr "Nisan"
+
+#: 
+msgid "May"
+msgstr "Mayıs ayı"
+
+#: 
+msgid "June"
+msgstr "Haziran"
+
+#: 
+msgid "July"
+msgstr "Temmuz"
+
+#: 
+msgid "August"
+msgstr "Ağustos"
+
+#: 
+msgid "September"
+msgstr "Eylül"
+
+#: 
+msgid "October"
+msgstr "Ekim"
+
+#: 
+msgid "November"
+msgstr "Kasım"
+
+#: 
+msgid "December"
+msgstr "Aralık"
+
+#: 
+msgid "Mon."
+msgstr "Pzt"
+
+#: 
+msgid "Tue."
+msgstr "Sal"
+
+#: 
+msgid "Wed."
+msgstr "Evlenmek."
+
+#: 
+msgid "Thu."
+msgstr "Per"
+
+#: 
+msgid "Fri."
+msgstr "Cum"
+
+#: 
+msgid "Sat."
+msgstr "Oturdu."
+
+#: 
+msgid "Sun."
+msgstr "Güneş."
+
+#: 
+msgid "Statistics"
+msgstr "istatistik"
+
+#: 
+msgid "Bank transferts"
+msgstr "Banka transferleri"
+
+#: 
+msgid "Payments"
+msgstr "Ödemeler"
+
+#: 
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+#: 
+msgid "Identity"
+msgstr "Kimlik"
+
+#: 
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: 
+msgid "Orders"
+msgstr "Emirler"
+
+#: 
+msgid "Withdraw"
+msgstr "Çekil"
+
+#: 
+msgid "Currency"
+msgstr "Para birimi"
+
+#: 
+msgid "Total trade"
+msgstr "Toplam ticaret"
+
+#: 
+msgid "Total deposit"
+msgstr "Toplam mevduat"
+
+#: 
+msgid "Total withdraw"
+msgstr "Toplam çekilme"
+
+#: 
+msgid "Fees"
+msgstr "harç"
+
+#: 
+msgid "Name"
+msgstr "isim"
+
+#: 
+msgid "Email"
+msgstr "E-posta"
+
+#: 
+msgid "Subscription"
+msgstr "abone"
+
+#: 
+msgid "Signin method"
+msgstr "Signin yöntemi"
+
+#: 
+msgid "Last login"
+msgstr "Son giriş"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Bildirimler etkin"
+
+#: 
+msgid "Trial version"
+msgstr "Deneme sürümü"
+
+#: 
+msgid "day"
+msgstr "gün"
+
+#: 
+msgid "Edit"
+msgstr "Düzenle"
+
+#: 
+msgid "Inactive"
+msgstr "etkisiz"
+
+#: 
+msgid "Enabled"
+msgstr "Etkin"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "kullanıcı"
+
+#: 
+msgid "Order date"
+msgstr "Sipariş tarihi"
+
+#: 
+msgid "Exchange"
+msgstr "Değiş tokuş"
+
+#: 
+msgid "Pair"
+msgstr "Çift"
+
+#: 
+msgid "Type"
+msgstr "tip"
+
+#: 
+msgid "Amount"
+msgstr "Miktar"
+
+#: 
+msgid "Received"
+msgstr "Alınan"
+
+#: 
+msgid "Total deducted"
+msgstr "Toplam kesinti"
+
+#: 
+msgid "Total received"
+msgstr "Toplam alındı"
+
+#: 
+msgid "Buy"
+msgstr "satın almak"
+
+#: 
+msgid "Sell"
+msgstr "Satmak\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Bozuk para listesi"
+
+#: 
+msgid "Market list"
+msgstr "Pazar listesi"
+
+#: 
+msgid "Heatmap"
+msgstr "Sıcaklık haritası"
+
+#: 
+msgid "Price"
+msgstr "Fiyat"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Direkt Vol. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Toplam Vol. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Piyasa değeri"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Değ. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24 saat Yüksek / Düşük"
+
+#: 
+msgid "Dashboard"
+msgstr "gösterge paneli"
+
+#: 
+msgid "General settings"
+msgstr "Genel Ayarlar"
+
+#: 
+msgid "Coins"
+msgstr "madeni para"
+
+#: 
+msgid "Currencies"
+msgstr "Kurlar"
+
+#: 
+msgid "Mail settings"
+msgstr "Mail ayarları"
+
+#: 
+msgid "Payment"
+msgstr "Ödeme"
+
+#: 
+msgid "News - Social"
+msgstr "Haberler - Sosyal"
+
+#: 
+msgid "Intro"
+msgstr "giriş"
+
+#: 
+msgid "Trading"
+msgstr "ticari"
+
+#: 
+msgid "Cron"
+msgstr "cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Ek Sayfalar"
+
+#: 
+msgid "Today's visits"
+msgstr "Bugünün ziyaretleri"
+
+#: 
+msgid "7 days visits"
+msgstr "7 günlük ziyaret"
+
+#: 
+msgid "Number of users"
+msgstr "kullanıcı sayısı"
+
+#: 
+msgid "Number of coins"
+msgstr "Sikke sayısı"
+
+#: 
+msgid "Last users"
+msgstr "Son kullanıcılar"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Bu web sitesi çerez kullanıyor"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Sitemiz, site trafiğini ve kullanıcı aktivitesini incelemek için sitemizi kullanırken, gelişmiş ve etkin kullanıcı deneyimi, pazarlama ve sosyal medya işlevselliği sağlamak için çerezler kullanır."
+
+#: 
+msgid "Accept"
+msgstr "Kabul etmek"
+
+#: 
+msgid "Your e-mail address"
+msgstr "E"
+
+#: 
+msgid "Your password"
+msgstr "Şifreniz"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Parolanızı mı unuttunuz ?"
+
+#: 
+msgid "Login"
+msgstr "Oturum aç"
+
+#: 
+msgid "or"
+msgstr "veya"
+
+#: 
+msgid "Create a new account"
+msgstr "Yeni bir hesap oluştur"
+
+#: 
+msgid "practice account"
+msgstr "uygulama hesabı"
+
+#: 
+msgid "Symbol"
+msgstr "sembol"
+
+#: 
+msgid "Last"
+msgstr "Son"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profil"
+
+#: 
+msgid "Notification"
+msgstr "Bildirim"
+
+#: 
+msgid "Security"
+msgstr "Güvenlik"
+
+#: 
+msgid "Logout"
+msgstr "Çıkış Yap"
+
+#: 
+msgid "Your name"
+msgstr "Adınız"
+
+#: 
+msgid "Language"
+msgstr "Dil"
+
+#: 
+msgid "Type chart"
+msgstr "Tip grafik"
+
+#: 
+msgid "Change your password"
+msgstr "Şifreni değiştir"
+
+#: 
+msgid "Repeat your password"
+msgstr "Şifrenizi tekrarlayın"
+
+#: 
+msgid "Back"
+msgstr "Geri"
+
+#: 
+msgid "Validate"
+msgstr "onaylamak"
+
+#: 
+msgid "Title"
+msgstr "Başlık"
+
+#: 
+msgid "Your website title"
+msgstr "Web sitenizin başlığı"
+
+#: 
+msgid "App description"
+msgstr "Uygulama açıklaması"
+
+#: 
+msgid "Referal link"
+msgstr "Referal link"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Referal linkiniz (örn: Değişimsel)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Bakım Modu"
+
+#: 
+msgid "Number format"
+msgstr "Sayı biçimi"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Grafikleri ticaret görüş çizelgesine geçir"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Otomatik dili etkinleştir"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "POEditor Dilini Etkinleştir"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API Anahtarı"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "POEditor API Anahtarınız"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor Proje Seçici"
+
+#: 
+msgid "Allow signup"
+msgstr "Kaydolmaya izin ver"
+
+#: 
+msgid "User need verify account"
+msgstr "Kullanıcının hesabı doğrulaması gerekiyor"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Captcha Kaydı Gerekir"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha Site Anahtarı"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Google Recaptcha Site Anahtarınız"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha Gizli Anahtarı"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Google Recaptcha Gizli Anahtarınız"
+
+#: 
+msgid "Sigin with google"
+msgstr "Google ile Sigin"
+
+#: 
+msgid "Google App ID"
+msgstr "Google Uygulama Kimliği"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Google Uygulama Kimliği"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google Uygulama Sırrı"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Google Uygulama Sırrınız"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Facebook ile Sigin"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebook Uygulama Kimliği"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Facebook Uygulama Kimliğiniz"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook Uygulama Sırrı"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Facebook Uygulama Sırrınız"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Google Reklamı Etkinleştir"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Reklam İstemcisi"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Google Reklam Müşteriniz"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google Reklam Alanı"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Google Reklam alanınız"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Çerez açılır penceresini etkinleştir"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Çerez Popup başlığı"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Çerez açılır sayfanızın başlığı"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Çerez Popup metni"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Çerez açılır metniniz"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Kara listeye alınmış ülkeler"
+
+#: 
+msgid "Save"
+msgstr "Kayıt etmek"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Kullanıcının grafik türünü değiştirmesine izin ver"
+
+#: 
+msgid "Done !"
+msgstr "Bitti!"
+
+#: 
+msgid "quantity"
+msgstr "miktar"
+
+#: 
+msgid "Enable native trading"
+msgstr "Yerel ticareti etkinleştir"
+
+#: 
+msgid "Balance configuration"
+msgstr "Denge yapılandırması"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Denge tahminini göster"
+
+#: 
+msgid "User user currency select"
+msgstr "Kullanıcı kullanıcısı para birimi seç"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "İçindeki bakiye tahminini göster"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Referal sistem yapılandırması"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Referali etkinleştir (yerel işlemin etkinleştirilmesi gerekir)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referal komisyon ($, sabit tutarda)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referal komisyon ($, sabit tutar): Bir referal kayıt ve gerçek para yatırıldığında, referans 5 $ kazanır (value = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Mevduat yapılandırması"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Depozito ücretleri (% olarak)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Para yatırma minimum ($ olarak)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Para yatırma miktarı ($ olarak)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Para yatırma parasına izin verilir"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Mevduat cüzdanı alır (cüzdanın gerçek para birimi mevcut değilse)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Yapılandırmayı geri çek"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Minimum çek ($ olarak)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "İşlem süresini geri çekme (gün içinde)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Çekilme süresi (gün cinsinden) = örn .: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Ticaret yapılandırma"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Ticaret ücretleri (% olarak)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Sipariş referansı örneği"
+
+#: 
+msgid "Real account configuration"
+msgstr "Gerçek hesap yapılandırması"
+
+#: 
+msgid "Enable real account"
+msgstr "Gerçek hesabı etkinleştir"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Pratik hesap yapılandırması"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Maksimum ücretsiz teminat ($ olarak)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Maksimum ücretsiz teminat ($ olarak): 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Ücretsiz depozito cüzdanı"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Gönderilen tarih"
+
+#: 
+msgid "Status"
+msgstr "durum"
+
+#: 
+msgid "Document name"
+msgstr "Belge adı"
+
+#: 
+msgid "Documents"
+msgstr "evraklar"
+
+#: 
+msgid "Not processed"
+msgstr "İşlenmemiş"
+
+#: 
+msgid "Processed"
+msgstr "İşlenmiş"
+
+#: 
+msgid "Payment success"
+msgstr "Başarılı ödeme"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Ödeme referansı modeli"
+
+#: 
+msgid "Enable SMTP"
+msgstr "SMTP'yi etkinleştir"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP sunucusu"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "SMTP ana sunucunuz"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP Bağlantı Noktası"
+
+#: 
+msgid "Your SMTP port"
+msgstr "SMTP bağlantı noktanız"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP Güvenliği"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP Kullanıcısı"
+
+#: 
+msgid "Your SMTP user"
+msgstr "SMTP kullanıcın"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP Şifresi"
+
+#: 
+msgid "Your SMTP password"
+msgstr "SMTP şifreniz"
+
+#: 
+msgid "Email sender name"
+msgstr "E-posta gönderen adı"
+
+#: 
+msgid "Support mail"
+msgstr "Destek postası"
+
+#: 
+msgid "Support Phone"
+msgstr "Destek telefon"
+
+#: 
+msgid "Support phone"
+msgstr "Destek telefon"
+
+#: 
+msgid "Support Address"
+msgstr "Destek Adresi"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO postası"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO Telefonu"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO telefonu"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Hoşgeldin postası gönder"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Hoşgeldin posta konusu"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Takvim kimlik bilgileri"
+
+#: 
+msgid "Enable calendar"
+msgstr "Takvimi etkinleştir"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Takvim Müşteri Kimliği"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Takvim Müşteri Kimliğiniz"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Takvim İstemcisi Sırrı"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Sadece etkin paralarla ilgili olayları göster"
+
+#: 
+msgid "News feed"
+msgstr "Haber akışı"
+
+#: 
+msgid "Add news feed"
+msgstr "Haber akışı ekle"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "RSS Feed'iniz"
+
+#: 
+msgid "Add"
+msgstr "Eklemek"
+
+#: 
+msgid "Name feed"
+msgstr "İsim besleme"
+
+#: 
+msgid "Url"
+msgstr "URL"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter hesapları"
+
+#: 
+msgid "Add twitter account"
+msgstr "Twitter hesabı ekle"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter adı"
+
+#: 
+msgid "without"
+msgstr "olmadan"
+
+#: 
+msgid "Social name"
+msgstr "Sosyal adı"
+
+#: 
+msgid "Created date"
+msgstr "Oluşturulma tarihi"
+
+#: 
+msgid "Amount paid"
+msgstr "Ödenen miktar"
+
+#: 
+msgid "Wallet received"
+msgstr "Cüzdan alındı"
+
+#: 
+msgid "Amount received"
+msgstr "Alınan tutar"
+
+#: 
+msgid "Payment gateway"
+msgstr "Ödeme ağ geçidi"
+
+#: 
+msgid "Proof"
+msgstr "Kanıt"
+
+#: 
+msgid "Modify balance"
+msgstr "Dengeyi değiştir"
+
+#: 
+msgid "Select balance"
+msgstr "Denge seç"
+
+#: 
+msgid "Modification type"
+msgstr "Modifikasyon tipi"
+
+#: 
+msgid "Modification value"
+msgstr "Modifikasyon değeri"
+
+#: 
+msgid "Add modification"
+msgstr "Değişiklik ekle"
+
+#: 
+msgid "Card"
+msgstr "kart"
+
+#: 
+msgid "Balances"
+msgstr "Bakiyesi"
+
+#: 
+msgid "Remove"
+msgstr "Kaldır"
+
+#: 
+msgid "Last location"
+msgstr "Son konum"
+
+#: 
+msgid "Currency use"
+msgstr "Para birimi kullanımı"
+
+#: 
+msgid "Signup with"
+msgstr "İle kayıt olun"
+
+#: 
+msgid "Identity verification"
+msgstr "Kimlik doğrulama"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 Adımlı Kimlik Doğrulama"
+
+#: 
+msgid "User status"
+msgstr "Kullanıcı durumu"
+
+#: 
+msgid "Login history"
+msgstr "Giriş geçmişi"
+
+#: 
+msgid "More details"
+msgstr "Daha fazla detay"
+
+#: 
+msgid "Deposit history"
+msgstr "Mevduat tarihi"
+
+#: 
+msgid "Total"
+msgstr "Genel Toplam"
+
+#: 
+msgid "Value in BTC"
+msgstr "BTC'deki değer"
+
+#: 
+msgid "Value in USD"
+msgstr "ABD Doları cinsinden değer"
+
+#: 
+msgid "Withdraw method"
+msgstr "Çekme yöntemi"
+
+#: 
+msgid "Date"
+msgstr "tarih"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Widthdraw sor"
+
+#: 
+msgid "WITHDRAW"
+msgstr "ÇEKİL"
+
+#: 
+msgid "paypal"
+msgstr "payPal"
+
+#: 
+msgid "banktransfert"
+msgstr "banka transferi"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Alıcı hesabını seç"
+
+#: 
+msgid "Cancel"
+msgstr "İptal etmek"
+
+#: 
+msgid "Next"
+msgstr "Sonraki"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Bildirim'in yapılandırması tamamlandı."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "PushBullet Erişim Simgeniz"
+
+#: 
+msgid "Remove token"
+msgstr "Jetonu kaldır"
+
+#: 
+msgid "You are premium !"
+msgstr "Sen primisin!"
+
+#: 
+msgid "left"
+msgstr "ayrıldı"
+
+#: 
+msgid "Main settings"
+msgstr "Ana ayarlar"
+
+#: 
+msgid "Period"
+msgstr "dönem"
+
+#: 
+msgid "Colour"
+msgstr "Renk"
+
+#: 
+msgid "Thickness"
+msgstr "Kalınlık"
+
+#: 
+msgid "Reset"
+msgstr "Reset"
+
+#: 
+msgid "Apply"
+msgstr "Uygulamak"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Google Şifrematik Kodunuzu girin"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Google Şifrematik Kodunuzu girin"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "0.001 BTC'den düşük değerli bakiyeler"
+
+#: 
+msgid "Hide small balance"
+msgstr "Küçük dengeyi gizle"
+
+#: 
+msgid "Estimate value"
+msgstr "Tahmin değeri"
+
+#: 
+msgid "Value in"
+msgstr "Değer"
+
+#: 
+msgid "Deposit"
+msgstr "Depozito"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google Kimlik Doğrulama etkin!"
+
+#: 
+msgid "Set as done"
+msgstr "Tamamlandı olarak ayarla"
+
+#: 
+msgid "Close"
+msgstr "Kapat"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google Authenticator kodu geçersiz"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "E-posta ile widthdraw onayını alacaksınız"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, Kullanıcı Kimliği, Tip, Para Birimi"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Genişlik filtresi"
+
+#: 
+msgid "Default"
+msgstr "Varsayılan"
+
+#: 
+msgid "Not confirmed"
+msgstr "Onaylanmadı"
+
+#: 
+msgid "Done"
+msgstr "tamam"
+
+#: 
+msgid "Payment filter"
+msgstr "Ödeme filtresi"
+
+#: 
+msgid "Need to be approved"
+msgstr "Onaylanması gerekiyor"
+
+#: 
+msgid "Paid"
+msgstr "ödenmiş"
+
+#: 
+msgid "Not paid"
+msgstr "Ödenmeyen"
+
+#: 
+msgid "All payments"
+msgstr "Tüm ödemeler"
+
+#: 
+msgid "Ask a proof"
+msgstr "Bir kanıt isteyin"
+
+#: 
+msgid "Bank ref."
+msgstr "Banka ref."
+
+#: 
+msgid "Proof received"
+msgstr "Alınan kanıt"
+
+#: 
+msgid "In pending"
+msgstr "Beklemede"
+
+#: 
+msgid "All widthdraw"
+msgstr "Tüm widthdraw"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Referans desenini geri çekme"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Çek filtresi"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Çekimleri çek"
+
+#: 
+msgid "year"
+msgstr "yıl"
+
+#: 
+msgid "month"
+msgstr "ay"
+
+#: 
+msgid "week"
+msgstr "hafta"
+
+#: 
+msgid "hour"
+msgstr "saat"
+
+#: 
+msgid "minute"
+msgstr "dakika"
+
+#: 
+msgid "second"
+msgstr "ikinci"
+
+#: 
+msgid "ago"
+msgstr "önce"
+
+#: 
+msgid "Bank transfert"
+msgstr "banka transferi"
+
+#: 
+msgid "Deposit amount"
+msgstr "Mevduat miktarı"
+
+#: 
+msgid "Fill up"
+msgstr "Doldur"
+
+#: 
+msgid "It's free"
+msgstr "Bedava"
+
+#: 
+msgid "You will receive"
+msgstr "Alacaksınız"
+
+#: 
+msgid "Add real funds"
+msgstr "Reel fon ekle"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimum depozito"
+
+#: 
+msgid "Enable credit card"
+msgstr "Kredi kartını etkinleştir"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe özel anahtarı"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Şerit API Anahtarınız"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Paypal etkinleştirme"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Paypal Live modunu etkinleştir"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal müşteri kimliği"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Paypal müşteri kimliğiniz"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Müşteri Sırrı"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Paypal müşteriniz Gizli"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Enable Blockonomics"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomics Gizli anahtar"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Blokonomi gizli anahtarınız"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Fortumo'yu etkinleştir"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo Gizli anahtar"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Fortumo gizli anahtarınız"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo Servis anahtarı"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Fortumo servis anahtarınız"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Coingate'i etkinleştir"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "CoinGate canlı modunu etkinleştir"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Jetonu"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Senin CoinGate Auth Jetonu"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate Para Birimi Al"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Paralı Ödemeleri Etkinleştir"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Coinpayments Genel Anahtar"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Coinpayments Genel Anahtarınız"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Coinpayments Özel Anahtar"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Coinpayments Özel Anahtarınız"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand Kimliği"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand Kimliği"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Coinpayments IPN Sırrı"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Para Ödemeleriniz IPN Secret"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Rave Flutterwave ödemesini etkinleştir"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Sandbox modu Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave Genel Anahtarı"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave Genel Anahtarınız"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave Gizli Anahtarı"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave Gizli Anahtarınız"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave Ödeme Başlığı"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Rave Flutterwave Ödeme başlığınız"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Flutterwave Ödeme Öneki Rave Rave"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Rave Flutterwave Ödeme öneki (ör: KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Coinbase Ticaret ödemesini etkinleştir"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase ticareti API'sı Anahtarı"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Coinbase ticaret API Anahtarınız"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase ticaret Ödeme Başlığı"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Coinbase ticaretiniz Ödeme başlığı"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Mollie'yi etkinleştir"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Senin Mollie Anahtarın"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Payeer'i etkinleştir"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Payeer Shop Kimliği"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Payeer Alışveriş Numaranız"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer API Anahtarı"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Payeer API Anahtarınız"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Banka havalesini etkinleştir"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Banka aynı anda maksimum transfer"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Banka havalesi kanıtı etkin"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Banka aktarımı maksimum kanıt"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "İkizler Anahtarınız"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Gemini Sırrınız"
+
+#: 
+msgid "Select your platform"
+msgstr "Platformunu seç"
+
+#: 
+msgid "Sandbox"
+msgstr "Kum havuzu"
+
+#: 
+msgid "Live"
+msgstr "Canlı"
+
+#: 
+msgid "Cron time"
+msgstr "Cron Zamanı"
+
+#: 
+msgid "Last update"
+msgstr "Son Güncelleme"
+
+#: 
+msgid "Sync delay"
+msgstr "Senkronizasyon gecikmesi"
+
+#: 
+msgid "Add additional page"
+msgstr "Ek sayfa ekle"
+
+#: 
+msgid "Page name"
+msgstr "Sayfa ismi"
+
+#: 
+msgid "Page URL"
+msgstr "Sayfa URL'si"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Sayfa simgesi (ör. Lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Veya sayfa simgesi svg"
+
+#: 
+msgid "Icon"
+msgstr "ikon"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG Resmi"
+
+#: 
+msgid "Enable"
+msgstr "etkinleştirme"
+
+#: 
+msgid "Disable"
+msgstr "Devre dışı"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Yeni banka havalesi oluştur"
+
+#: 
+msgid "Pending"
+msgstr "kadar"
+
+#: 
+msgid "Details"
+msgstr "ayrıntılar"
+
+#: 
+msgid "Verified"
+msgstr "Doğrulanmış"
+
+#: 
+msgid "Canceled"
+msgstr "İptal edildi"
+
+#: 
+msgid "Declined"
+msgstr "Reddedilen"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Hitbtc Anahtarınız"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Hitbtc Sırrınız"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Bitbank Anahtarınız"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Bitbank Sırrınız"
+
+#: 
+msgid "User level"
+msgstr "Kullanıcı düzeyi"
+
+#: 
+msgid "Expire in"
+msgstr "İçinde sona ermek"
+
+#: 
+msgid "Back to login"
+msgstr "Girişe geri dön"
+
+#: 
+msgid "Let's go !"
+msgstr "Hadi gidelim !"
+
+#: 
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Kontrol Panelinizi bir araya getirelim."
+
+#: 
+msgid "Select your language"
+msgstr "Dilinizi seçiniz"
+
+#: 
+msgid "Select your currency"
+msgstr "Para birimini seç"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Favori kriptolarınızı seçin"
+
+#: 
+msgid "left need to be selected"
+msgstr "solun seçilmesi gerekiyor"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Yapılandırma tamamlandı!"
+
+#: 
+msgid "will now refresh"
+msgstr "şimdi yenilenecek"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Mükemmel Para ödemesini etkinleştirin"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Mükemmel Para Alacaklı Hesabı"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Mükemmel Para Alacaklı Hesabı"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Mobil, tarayıcı, pencere bildirimleri"
+
+#: 
+msgid "Create price alert"
+msgstr "Fiyat uyarısı oluştur"
+
+#: 
+msgid "I need help !"
+msgstr "Yardıma ihtiyacım var !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Telefonunuzda PushBullet uygulamasını indirin (Android ve iOS için kullanılabilir)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Üzerinde bir hesap oluştur"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Yeni hesabınıza buradan bağlanın"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "<B> Ayarlar </ b>> <b> Hesap </ b> ’a gidin ve bir <b> Erişim belirteci </ b> oluşturun."
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Anahtarı kopyalayın ve dolguya yapıştırın ve kaydet'e tıklayın."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Connexion'un başarılı olup olmadığını kontrol etmek için bir bildirim gönderilecektir."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium seni bekler!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "2000'den fazla kripto para birimi"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Bir gösterge büyüdüğünde veya düştüğünde uyarı alın"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Mobil ve tablet üzerinde duyarlı"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Aynı yerde haberler ve sosyal yayınlar"
+
+#: 
+msgid "Support"
+msgstr "Destek"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Address"
+msgstr "Adres"
+
+#: 
+msgid "Contact DPO"
+msgstr "İletişim DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Binance Anahtarınız"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Binance Sırrınız"
+
+#: 
+msgid "Cardholder name"
+msgstr "Kart Sahibinin Adı"
+
+#: 
+msgid "Card number"
+msgstr "Kart numarası"
+
+#: 
+msgid "Expiration"
+msgstr "Son"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "Gösterilecek sipariş yok"
+
+#: 
+msgid "Premium"
+msgstr "Ödül"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Kimliğini doğrula"
+
+#: 
+msgid "Estimate balance"
+msgstr "Tahmini bakiye"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2s"
+
+#: 
+msgid "1h"
+msgstr "1h"
+
+#: 
+msgid "30min"
+msgstr "30 dk"
+
+#: 
+msgid "Candlestick"
+msgstr "şamdan"
+
+#: 
+msgid "Line"
+msgstr "Hat"
+
+#: 
+msgid "Indicators"
+msgstr "Göstergeler"
+
+#: 
+msgid "Export"
+msgstr "İhracat"
+
+#: 
+msgid "Alert"
+msgstr "Alarm"
+
+#: 
+msgid "Drawing"
+msgstr "Çizim"
+
+#: 
+msgid "Trend Line"
+msgstr "Trend Hattı"
+
+#: 
+msgid "Text"
+msgstr "Metin"
+
+#: 
+msgid "Create a new alert"
+msgstr "Yeni bir uyarı oluştur"
+
+#: 
+msgid "% Fees"
+msgstr "% Ücret"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Cryptocurrency çekilme sözleşmesi"
+
+#: 
+msgid "Decline"
+msgstr "düşüş"
+
+#: 
+msgid "Agree"
+msgstr "anlaşmak"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Cryptocurrency mevduat sözleşmesi"
+
+#: 
+msgid "Enable news popup"
+msgstr "Haber pop-up'ını etkinleştir"
+
+#: 
+msgid "News popup title"
+msgstr "Haberler açılır başlık"
+
+#: 
+msgid "Your news popup title"
+msgstr "Haberler açılır başlık"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Haberler pop-up videosu (gösterilmeyen video için boş koy)"
+
+#: 
+msgid "News popup description"
+msgstr "Haberler açılır açıklaması"
+
+#: 
+msgid "Advert users"
+msgstr "Advert kullanıcıları"
+
+#: 
+msgid "Enable intro"
+msgstr "Girişi etkinleştir"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Çekme ücretleri (% olarak)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Para çekerken kripto para birimi değilken banka havalesi uyarısı"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Kripto para birimleri banka havalesi çekilmesine izin verdi"
+
+#: 
+msgid "Estimate balance in"
+msgstr "İçindeki bakiye tahmini"
+
+#: 
+msgid "Edit profile"
+msgstr "Profili Düzenle"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Banka havalesi mevduat sözleşmesi"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomics ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Blockonomics ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumo ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Fortumo ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Yardım ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Coinpayments ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Bozuk para ödeme ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Flutterwave ödeme ücretlerini Rave (% olarak)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Rave flutterwave ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase ticaret ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Bozuk parası ticaret ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Mollie ödeme ücretiniz (% olarak)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Payeer ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Ödeme yapan ödeme ücretleriniz (% olarak)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Banka havalesi ödeme ücretleri (% olarak)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Banka havalesi ödeme ücretiniz (% olarak)"
+
+#: 
+msgid "Add new"
+msgstr "Yeni ekle"
+
+#: 
+msgid "Bank accounts"
+msgstr "banka hesabı"
+
+#: 
+msgid "Add new bank account"
+msgstr "Yeni banka hesabı ekle"
+
+#: 
+msgid "Bank account name"
+msgstr "Banka hesap adı"
+
+#: 
+msgid "Your bank account name"
+msgstr "Banka hesap adınız"
+
+#: 
+msgid "Bank account currency"
+msgstr "Banka Hesap Para Birimi"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Banka hesabı IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Banka hesabı BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Banka hesabınız BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Banka hesap adresi"
+
+#: 
+msgid "Your bank account address"
+msgstr "Banka hesap adresiniz"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Banka hesabı sahibi adı"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Banka hesabı sahibi adınız"
+
+#: 
+msgid "* This is optional"
+msgstr "* Bu isteğe bağlıdır"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Banka hesap para biriminiz"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Banka hesabınız IBAN"
+
+#: 
+msgid "Delete"
+msgstr "silmek"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "'Sayfa simgesi' ve 'Sayfa simgesi svg' arasında seçim yapabilirsiniz (Sayfa simgesi önceliklidir) - Liste simgeleri burada kullanılabilir"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Bir e-posta onayı alacaksınız"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Para çekme talebinizi tamamlamak için lütfen bu adımı izleyin."
+
+#: 
+msgid "You need to have at least"
+msgstr "En azından sahip olmalısın"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Doldurulmuş bir bakiyeniz yok"
+
+#: 
+msgid "Total in "
+msgstr "Toplam in␣"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Widthdraw yöntemi ayarlamanız gerekiyor"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Banka hesabı BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Banka hesabınız BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Gün aralığı\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Açık gün"
+
+#: 
+msgid "Volume 24H"
+msgstr "Doğrudan ses"
+
+#: 
+msgid "Direct Volume"
+msgstr "Doğrudan ses"
+
+#: 
+msgid "Load more data"
+msgstr "Daha fazla veri yükle"
+
+#: 
+msgid "Qty"
+msgstr "Adet"
+
+#: 
+msgid "Gain"
+msgstr "Kazanç"
+
+#: 
+msgid "Price buy"
+msgstr "Fiyat satın al"
+
+#: 
+msgid "Disable chat"
+msgstr "Sohbeti devre dışı bırak"
+
+#: 
+msgid "Total gain"
+msgstr "Toplam kazanç"
+
+#: 
+msgid "Confirmation"
+msgstr "Onayla"
+
+#: 
+msgid "Unit price"
+msgstr "Birim fiyat"
+
+#: 
+msgid "Investment"
+msgstr "Yatırım"
+
+#: 
+msgid "Quantity"
+msgstr "miktar"
+
+#: 
+msgid "Commission"
+msgstr "komisyon"
+
+#: 
+msgid "Confirm buying"
+msgstr "Satın alma işlemini onayla"
+
+#: 
+msgid "New user"
+msgstr "Yeni kullanıcı"
+
+#: 
+msgid "Order passed"
+msgstr "Sipariş geçti"
+
+#: 
+msgid "New subscription"
+msgstr "Yeni abonelik"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Receiver alıcı bilgilerini göster."
+
+#: 
+msgid "Process"
+msgstr "süreç"
+
+#: 
+msgid "Hide details"
+msgstr "Detayları gizle"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Abonelikleri etkinleştir"
+
+#: 
+msgid "Enable free trial"
+msgstr "Ücretsiz denemeyi etkinleştir"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Ücretsiz deneme süresi (günde)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Ücretsiz deneme süresi"
+
+#: 
+msgid "Premium features"
+msgstr "Ayrıcalıklı özellikler"
+
+#: 
+msgid "Free users features"
+msgstr "Ücretsiz kullanıcı özellikleri"
+
+#: 
+msgid "Add a new plan"
+msgstr "Yeni bir plan ekle"
+
+#: 
+msgid "Name plan"
+msgstr "İsim planı"
+
+#: 
+msgid "Price total"
+msgstr "Fiyat toplamı"
+
+#: 
+msgid "Duration in days"
+msgstr "Gün içinde süre"
+
+#: 
+msgid "Duration"
+msgstr "süre"
+
+#: 
+msgid "Add this plan"
+msgstr "Bu planı ekle"
+
+#: 
+msgid "Plans available"
+msgstr "Mevcut planları"
+
+#: 
+msgid "Price plan"
+msgstr "Fiyat planı"
+
+#: 
+msgid "Duration in month"
+msgstr "Aydaki süre"
+
+#: 
+msgid "Price per month"
+msgstr "Aylık fiyat"
+
+#: 
+msgid "Account"
+msgstr "hesap"
+
+#: 
+msgid "Exchanges"
+msgstr "Değişimleri"
+
+#: 
+msgid "Total Free"
+msgstr "Toplam Ücretsiz"
+
+#: 
+msgid "Total Used"
+msgstr "Toplam Kullanılmış"
+
+#: 
+msgid "Order Ref."
+msgstr "Sipariş Ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Sipariş edilen fiyat"
+
+#: 
+msgid "Current price"
+msgstr "Mevcut fiyat"
+
+#: 
+msgid "Evolution"
+msgstr "Evrim"
+
+#: 
+msgid "Enable identity system"
+msgstr "Kimlik sistemini etkinleştir"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Kimlik doğrulama olmadan ticareti engelle"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Kimlik doğrulama olmadan blok depozito"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Kimlik doğrulaması olmadan para çekmeyi engelle"
+
+#: 
+msgid "Approve"
+msgstr "onaylamak"
+
+#: 
+msgid "Identity ID"
+msgstr "Kimlik Kimliği"
+
+#: 
+msgid "Identity step name"
+msgstr "Kimlik adımı adı"
+
+#: 
+msgid "Identity step description"
+msgstr "Kimlik adımı açıklaması"
+
+#: 
+msgid "Identity order"
+msgstr "Kimlik sırası"
+
+#: 
+msgid "Down order"
+msgstr "Aşağı sipariş"
+
+#: 
+msgid "Up order"
+msgstr "Sipariş kadar"
+
+#: 
+msgid "Add new identity step"
+msgstr "Yeni kimlik adımı ekle"
+
+#: 
+msgid "Your step name"
+msgstr "Adım adın"
+
+#: 
+msgid "Your step description"
+msgstr "Adım açıklamanız"
+
+#: 
+msgid "Identity step type"
+msgstr "Kimlik adımı türü"
+
+#: 
+msgid "Upload new document"
+msgstr "Yeni belge yükle"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Belge türü listesinde seçim yap"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Web kamerasıyla kimlik yüklemeyi etkinleştir"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Webcam doküman oranı"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Rasyon (Genişlik / Yükseklik)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Oran (Genişlik / Yükseklik)"
+
+#: 
+msgid "Document identity list"
+msgstr "Belge kimlik listesi"
+
+#: 
+msgid "Add new identity document"
+msgstr "Yeni kimlik belgesi ekle"
+
+#: 
+msgid "Your document name"
+msgstr "Belgenizin adı"
+
+#: 
+msgid "My Holding"
+msgstr "Holdingim"
+
+#: 
+msgid "Holding"
+msgstr "Tutma"
+
+#: 
+msgid "Market Value"
+msgstr "Market değeri"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Kar kaybı"
+
+#: 
+msgid "Wallet"
+msgstr "Cüzdan"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Banka havalesini doğrulayın"
+
+#: 
+msgid "Transfert received date"
+msgstr "Alınan tarihi aktar"
+
+#: 
+msgid "Bank account received"
+msgstr "Banka hesabı alındı"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Banka havale referansı"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Banka hesabından alınan tutar"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Kullanıcı hesabına aktarılan miktar"
+
+#: 
+msgid "User will receive"
+msgstr "Kullanıcı alacak"
+
+#: 
+msgid "Dark"
+msgstr "karanlık"
+
+#: 
+msgid "White"
+msgstr "Beyaz"
+
+#: 
+msgid "Enable Donation"
+msgstr "Bağış Etkinleştir"
+
+#: 
+msgid "Donation text"
+msgstr "Bağış metni"
+
+#: 
+msgid "Your donation text"
+msgstr "Bağış metniniz"
+
+#: 
+msgid "Donation address list"
+msgstr "Bağış adres listesi"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Satır başına 1 adresi koy"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Çizgi formatı: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "GELECEĞİMİZDEKİ BİR GÜLÜMSEMEYE VE BİZİ İYİLEŞTİRMENİZE DESTEK VERMEK :)"
+
+#: 
+msgid "Transactions history"
+msgstr "İşlem geçmişi"
+
+#: 
+msgid "Description"
+msgstr "Açıklama"
+
+#: 
+msgid "Reference ..."
+msgstr "Referans ..."
+
+#: 
+msgid "Reference"
+msgstr "Referans"
+
+#: 
+msgid "deposit"
+msgstr "Depozito"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Depo"
+
+#: 
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+#: 
+msgid "BUY order done"
+msgstr "Sipariş ver"
+
+#: 
+msgid "SELL order done"
+msgstr "SATIŞ sipariş ver"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "Sipariş satmak"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "Satın almak sipariş"
+
+#: 
+msgid "Add a new item"
+msgstr "Yeni bir öğe ekle"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "GDAX Anahtarınız"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "GDAX Geçişiniz"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "GDAX Sırrınız"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Bitmex kimliğiniz"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Bitmex Sırrınız"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "OKCoin Anahtarınız"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "OKCoin Secret'ınız"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Luno Anahtar Kimliğiniz"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Senin Luno Sırrın"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Coinex Anahtarınız"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Senin Coinex Sırrın"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Btcmarket Anahtarınız"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Btcmarket Sırrınız"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Livecoin Anahtarınız"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Livecoin Secret'ınız"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Quoinex Jeton Kimliğiniz"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Quoinex Sırrınız"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Exmo Anahtarınız"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Exmo Secret'ınız"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "YoBit Anahtarınız"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "YoBit Sırrın"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Kucoin Anahtarınız"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Kucoin Özel"
+
+#: 
+msgid "Your CEX Key"
+msgstr "CEX Anahtarınız"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "CEX Sırrınız"
+
+#: 
+msgid "Your CEX UID"
+msgstr "CEX UID'niz"
+
+#: 
+msgid "My orders"
+msgstr "Siparişlerim"
+
+#: 
+msgid "Size"
+msgstr "Boyut"
+
+#: 
+msgid "Limit price"
+msgstr "Sınır fiyatı"
+
+#: 
+msgid "Place buy order"
+msgstr "Sipariş satın yerleştirin"
+
+#: 
+msgid "Place sell order"
+msgstr "Yer satmak sipariş"
+
+#: 
+msgid "Method"
+msgstr "Yöntem"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Coinex'te oturum açmanız gerekiyor"
+
+#: 
+msgid "Enable live trading"
+msgstr "Canlı ticareti etkinleştir"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Coinex ile giriş yap"
+
+#: 
+msgid "Week profit"
+msgstr "Hafta karı"
+
+#: 
+msgid "Leaderboard"
+msgstr "Liderler Sıralaması"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Yayın tablosunu etkinleştir (yerel işlemin etkinleştirilmesi gerekir)"
+
+#: 
+msgid "Active"
+msgstr "Aktif"
+
+#: 
+msgid "Every"
+msgstr "Her"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Yeni kullanıcı kaydı olduğunda başlangıç ​​çifti"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Sadece 1 çifte izin verilir"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Yeni kullanıcı kaydı olduğunda izleme listesi çifti başlatılıyor"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "Her satır için 1 çift"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Biçim: PİYASA: SEMBOL / CURRENCY"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Livecoin'de oturum açmanız gerekiyor"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Livecoin ile giriş yap"
+
+#: 
+msgid "Email not valid"
+msgstr "E-posta geçerli değil"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Yobit'e giriş yapmalısın"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Yobit ile giriş yap"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Tüm cüzdanlara göre"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Poloniex Anahtarınız"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Poloniex Sırrınız"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Deneme sürümünüzün süresi doldu!"
+
+#: 
+msgid "Become"
+msgstr "Olmak"
+
+#: 
+msgid "You will be charged"
+msgstr "Ücretlendirileceksiniz"
+
+#: 
+msgid "for"
+msgstr "için"
+
+#: 
+msgid "months"
+msgstr "ay"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Kraken Anahtarınız"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Kraken Özel"
+
+#: 
+msgid "will be ready for you !"
+msgstr "senin için hazır olacak!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Binance'de giriş yapmanız gerekiyor"
+
+#: 
+msgid "Login with Binance"
+msgstr "Binance ile giriş yap"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Poloniex'e giriş yapmanız gerekiyor"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Poloniex ile giriş yap"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Exmo'ya giriş yapmanız gerekiyor"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Exmo ile giriş yap"
+
+#: 
+msgid "View the article"
+msgstr "Makaleyi görüntüle"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Bittrex Anahtarınız"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Bittrex Sırrınız"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Kraken'e giriş yapmanız gerekiyor"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Kraken ile giriş yap"
+
+#: 
+msgid "Markets"
+msgstr "Piyasalar"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Pazarı gizle (yerel işlemin etkinleştirilmesi gerekir)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Emir defterini gizle"
+
+#: 
+msgid "Load orders book"
+msgstr "Siparişler kitap yükle"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Bir uyarı oluşturduğunuzda ..."
+
+#: 
+msgid "Price is above"
+msgstr "Fiyat yukarıda"
+
+#: 
+msgid "Price is bellow"
+msgstr "Fiyat feryat"
+
+#: 
+msgid "Password not match"
+msgstr "Şifre eşleşmiyor"
+

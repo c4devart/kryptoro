@@ -1,0 +1,2950 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: ru\n"
+
+#: 
+msgid "Real account"
+msgstr "действующий аккаунт\n"
+""
+
+#: 
+msgid "Board"
+msgstr "панель"
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Пожалуйста, установите устройство в альбомной ориентации"
+
+#: 
+msgid "chart"
+msgstr "график\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "графики или другое"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "поиск по имени или символу"
+
+#: 
+msgid "real account"
+msgstr "действующий аккаунт"
+
+#: 
+msgid "See all balances"
+msgstr "Просмотреть все остатки"
+
+#: 
+msgid "List accounts"
+msgstr "Список учетных записей\n"
+""
+
+#: 
+msgid "History"
+msgstr "история"
+
+#: 
+msgid "Credit"
+msgstr "кредит"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Книга заказов"
+
+#: 
+msgid "Market"
+msgstr "рынок"
+
+#: 
+msgid "Portfolio"
+msgstr "портфолио"
+
+#: 
+msgid "Leader board"
+msgstr "Доска лидеров"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "наблюдение"
+
+#: 
+msgid "News"
+msgstr "Новости"
+
+#: 
+msgid "Panel"
+msgstr "панель"
+
+#: 
+msgid "Manager"
+msgstr "Менеджер"
+
+#: 
+msgid "Admin"
+msgstr "Администратор"
+
+#: 
+msgid "Converter"
+msgstr "конвертер"
+
+#: 
+msgid "Social"
+msgstr "Социальное"
+
+#: 
+msgid "Calendar"
+msgstr "Календарь"
+
+#: 
+msgid "Watchlist"
+msgstr "Список"
+
+#: 
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: 
+msgid "January"
+msgstr "январь"
+
+#: 
+msgid "February"
+msgstr "февраль"
+
+#: 
+msgid "March"
+msgstr "Март"
+
+#: 
+msgid "April"
+msgstr "апрель"
+
+#: 
+msgid "May"
+msgstr "май"
+
+#: 
+msgid "June"
+msgstr "июнь"
+
+#: 
+msgid "July"
+msgstr "июль"
+
+#: 
+msgid "August"
+msgstr "августейший"
+
+#: 
+msgid "September"
+msgstr "сентябрь"
+
+#: 
+msgid "October"
+msgstr "октября"
+
+#: 
+msgid "November"
+msgstr "ноябрь"
+
+#: 
+msgid "December"
+msgstr "Декабрь"
+
+#: 
+msgid "Mon."
+msgstr "ПН"
+
+#: 
+msgid "Tue."
+msgstr "Вт"
+
+#: 
+msgid "Wed."
+msgstr "Мы б."
+
+#: 
+msgid "Thu."
+msgstr "Чт"
+
+#: 
+msgid "Fri."
+msgstr "Пт"
+
+#: 
+msgid "Sat."
+msgstr "Сидел."
+
+#: 
+msgid "Sun."
+msgstr "Солнце."
+
+#: 
+msgid "Statistics"
+msgstr "Статистика"
+
+#: 
+msgid "Bank transferts"
+msgstr "Банковские переводы"
+
+#: 
+msgid "Payments"
+msgstr "платежи"
+
+#: 
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: 
+msgid "Identity"
+msgstr "тождественность"
+
+#: 
+msgid "Users"
+msgstr "пользователей"
+
+#: 
+msgid "Orders"
+msgstr "заказы"
+
+#: 
+msgid "Withdraw"
+msgstr "Изымать"
+
+#: 
+msgid "Currency"
+msgstr "валюта"
+
+#: 
+msgid "Total trade"
+msgstr "Итоговая торговля"
+
+#: 
+msgid "Total deposit"
+msgstr "Общий депозит"
+
+#: 
+msgid "Total withdraw"
+msgstr "Полный вывод"
+
+#: 
+msgid "Fees"
+msgstr "сборы"
+
+#: 
+msgid "Name"
+msgstr "имя"
+
+#: 
+msgid "Email"
+msgstr "Эл. адрес"
+
+#: 
+msgid "Subscription"
+msgstr "Подписка"
+
+#: 
+msgid "Signin method"
+msgstr "Метод подписи"
+
+#: 
+msgid "Last login"
+msgstr "Последний Войти"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Включены уведомления"
+
+#: 
+msgid "Trial version"
+msgstr "Пробная версия"
+
+#: 
+msgid "day"
+msgstr "день"
+
+#: 
+msgid "Edit"
+msgstr "редактировать"
+
+#: 
+msgid "Inactive"
+msgstr "Неактивный"
+
+#: 
+msgid "Enabled"
+msgstr "Включено"
+
+#: 
+msgid "Ref"
+msgstr "ссылка"
+
+#: 
+msgid "User"
+msgstr "пользователь"
+
+#: 
+msgid "Order date"
+msgstr "Дата заказа"
+
+#: 
+msgid "Exchange"
+msgstr "обмен"
+
+#: 
+msgid "Pair"
+msgstr "пара"
+
+#: 
+msgid "Type"
+msgstr "Тип"
+
+#: 
+msgid "Amount"
+msgstr "Количество"
+
+#: 
+msgid "Received"
+msgstr "Получено"
+
+#: 
+msgid "Total deducted"
+msgstr "Итого вычитается"
+
+#: 
+msgid "Total received"
+msgstr "Всего получено"
+
+#: 
+msgid "Buy"
+msgstr "купить"
+
+#: 
+msgid "Sell"
+msgstr "продавать\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Список монет"
+
+#: 
+msgid "Market list"
+msgstr "Список рынков"
+
+#: 
+msgid "Heatmap"
+msgstr "Тепловая карта"
+
+#: 
+msgid "Price"
+msgstr "Цена"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Прямой том. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Общее количество. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Рыночная капитализация"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Изм. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h Высокий / Низкий"
+
+#: 
+msgid "Dashboard"
+msgstr "Панель приборов"
+
+#: 
+msgid "General settings"
+msgstr "Общие настройки"
+
+#: 
+msgid "Coins"
+msgstr "монеты"
+
+#: 
+msgid "Currencies"
+msgstr "валюты"
+
+#: 
+msgid "Mail settings"
+msgstr "Настройки почты"
+
+#: 
+msgid "Payment"
+msgstr "Оплата"
+
+#: 
+msgid "News - Social"
+msgstr "Новости - Социальные"
+
+#: 
+msgid "Intro"
+msgstr "вступление"
+
+#: 
+msgid "Trading"
+msgstr "торговый"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Дополнительные страницы"
+
+#: 
+msgid "Today's visits"
+msgstr "Сегодняшние визиты"
+
+#: 
+msgid "7 days visits"
+msgstr "7 дней посещения"
+
+#: 
+msgid "Number of users"
+msgstr "Количество пользователей"
+
+#: 
+msgid "Number of coins"
+msgstr "Количество монет"
+
+#: 
+msgid "Last users"
+msgstr "Последние пользователи"
+
+#: 
+msgid "This website uses cookies"
+msgstr "Этот сайт использует файлы cookie"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "На нашем веб-сайте используются файлы cookie для проверки трафика сайта и активности пользователей на нашем сайте, для улучшения и эффективного использования пользователями, маркетинга и обеспечения функциональности социальных сетей."
+
+#: 
+msgid "Accept"
+msgstr "принимать"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Ваш адрес электронной почты"
+
+#: 
+msgid "Your password"
+msgstr "Ваш пароль"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Забыли пароль ?"
+
+#: 
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: 
+msgid "or"
+msgstr "или"
+
+#: 
+msgid "Create a new account"
+msgstr "Создать новый аккаунт"
+
+#: 
+msgid "practice account"
+msgstr "счет практики"
+
+#: 
+msgid "Symbol"
+msgstr "Символ"
+
+#: 
+msgid "Last"
+msgstr "Последний"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Профиль"
+
+#: 
+msgid "Notification"
+msgstr "уведомление"
+
+#: 
+msgid "Security"
+msgstr "Безопасность"
+
+#: 
+msgid "Logout"
+msgstr "Выйти"
+
+#: 
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: 
+msgid "Language"
+msgstr "язык"
+
+#: 
+msgid "Type chart"
+msgstr "Тип диаграммы"
+
+#: 
+msgid "Change your password"
+msgstr "Измените свой пароль"
+
+#: 
+msgid "Repeat your password"
+msgstr "Повторите свой пароль"
+
+#: 
+msgid "Back"
+msgstr "назад"
+
+#: 
+msgid "Validate"
+msgstr "утверждать"
+
+#: 
+msgid "Title"
+msgstr "заглавие"
+
+#: 
+msgid "Your website title"
+msgstr "Название вашего сайта"
+
+#: 
+msgid "App description"
+msgstr "Описание приложения"
+
+#: 
+msgid "Referal link"
+msgstr "Ссылка"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Ваша реферальная ссылка (например: Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Режим обслуживания"
+
+#: 
+msgid "Number format"
+msgstr "Формат номера"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Переключение диаграмм в диаграммы торговли"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Включить автоязык"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Включить язык POEditor"
+
+#: 
+msgid "POEditor API Key"
+msgstr "Ключ API-интерфейса POEditor"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Ваш ключ API-интерфейса POEditor"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "Селектор проекта POEditor"
+
+#: 
+msgid "Allow signup"
+msgstr "Разрешить регистрацию"
+
+#: 
+msgid "User need verify account"
+msgstr "Подтверждение учетной записи пользователя"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Нужна регистрация captcha"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Ключ сайта Google Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Ваш ключ сайта Google Recaptcha"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Секретный ключ Google Recaptcha"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Ваш секретный ключ Google Recaptcha"
+
+#: 
+msgid "Sigin with google"
+msgstr "Сигин с Google"
+
+#: 
+msgid "Google App ID"
+msgstr "Идентификатор приложения Google"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Идентификатор вашего приложения Google"
+
+#: 
+msgid "Google App Secret"
+msgstr "Секрет Google App"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Ваш секрет Google App"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Сигин с Facebook"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Идентификатор приложения Facebook"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Ваш идентификатор приложения Facebook"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Ваш секрет Facebook"
+
+#: 
+msgid "Google Analytics"
+msgstr "Гугл Аналитика"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Включить Google Ad"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Ad Client"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Ваш клиент Google Ad"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Рекламный слот Google"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Ваш слот Google Ad"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Включить всплывающее окно cookie"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Название файла Cookie"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Заголовок вашего Cookie"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Текст всплывающего меню Cookie"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Всплывающий текст вашего Cookie"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Страны, внесенные в черный список"
+
+#: 
+msgid "Save"
+msgstr "Сохранить"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Разрешить пользователю изменять тип диаграммы"
+
+#: 
+msgid "Done !"
+msgstr "Готово !"
+
+#: 
+msgid "quantity"
+msgstr "количество"
+
+#: 
+msgid "Enable native trading"
+msgstr "Включить собственную торговлю"
+
+#: 
+msgid "Balance configuration"
+msgstr "Конфигурация баланса"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Показать оценку баланса"
+
+#: 
+msgid "User user currency select"
+msgstr "Выбор валюты пользователя"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Показать оценку баланса в"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Конфигурация реферальной системы"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Включить реферал (необходимо включить встроенную торговлю)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Реферальная комиссия (в $, фиксированная сумма)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Реферальная комиссия (в $, фиксированная сумма) ex: Когда реферальная регистрация и внесение реальных денежных средств, ссылка выигрывает 5 $ (значение = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Настройка депозита"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Плата за депозит (в%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Минимальный депозит (в долларах США)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Максимальный депозит (в $)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Валюта депозита разрешена"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Получатель кошелька получает (если реальная валюта кошелька недоступна)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Снятие конфигурации"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Снять минимальный (в $)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Время обработки вывода (в днях)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Время обработки вывода (в днях) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Конфигурация торговли"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Стоимость торгов (в%)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Схема заказа заказа"
+
+#: 
+msgid "Real account configuration"
+msgstr "Конфигурация реального аккаунта"
+
+#: 
+msgid "Enable real account"
+msgstr "Включить реальный счет"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Настройка учетной записи"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Максимальный бесплатный депозит (в долларах США)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Максимальный бесплатный депозит (в долларах США): 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Получатель бесплатного депозита"
+
+#: 
+msgid "Ref."
+msgstr "Ссылка"
+
+#: 
+msgid "Submited date"
+msgstr "Дата отправления"
+
+#: 
+msgid "Status"
+msgstr "Положение дел"
+
+#: 
+msgid "Document name"
+msgstr "Название документа"
+
+#: 
+msgid "Documents"
+msgstr "документы"
+
+#: 
+msgid "Not processed"
+msgstr "Не обработан"
+
+#: 
+msgid "Processed"
+msgstr "Обработанный"
+
+#: 
+msgid "Payment success"
+msgstr "Успех платежа"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Схема оплаты"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Включить SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "Сервер SMTP"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Ваш хост-сервер SMTP"
+
+#: 
+msgid "SMTP Port"
+msgstr "Порт SMTP"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Ваш SMTP-порт"
+
+#: 
+msgid "SMTP Security"
+msgstr "Безопасность SMTP"
+
+#: 
+msgid "SMTP User"
+msgstr "Пользователь SMTP"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Ваш пользователь SMTP"
+
+#: 
+msgid "SMTP Password"
+msgstr "Пароль SMTP"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Ваш пароль SMTP"
+
+#: 
+msgid "Email sender name"
+msgstr "Имя отправителя электронной почты"
+
+#: 
+msgid "Support mail"
+msgstr "Поддержка почты"
+
+#: 
+msgid "Support Phone"
+msgstr "Поддержка телефона"
+
+#: 
+msgid "Support phone"
+msgstr "Поддержка телефона"
+
+#: 
+msgid "Support Address"
+msgstr "Адрес поддержки"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO mail"
+
+#: 
+msgid "DPO Phone"
+msgstr "Телефон DPO"
+
+#: 
+msgid "DPO phone"
+msgstr "Телефон DPO"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Отправить приветственную почту"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Тема приветственной почты"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Календарь учетных данных"
+
+#: 
+msgid "Enable calendar"
+msgstr "Включить календарь"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Квест клиента"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Идентификатор клиента календаря"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Календарный клиентский секрет"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Показывать только события с включенными монетами"
+
+#: 
+msgid "News feed"
+msgstr "Новостная лента"
+
+#: 
+msgid "Add news feed"
+msgstr "Добавить ленту новостей"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Ваша ссылка для RSS-канала"
+
+#: 
+msgid "Add"
+msgstr "Добавить"
+
+#: 
+msgid "Name feed"
+msgstr "Фид имени"
+
+#: 
+msgid "Url"
+msgstr "Веб-сайт"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Аккаунты Twitter"
+
+#: 
+msgid "Add twitter account"
+msgstr "Добавить учетную запись Twitter"
+
+#: 
+msgid "Twitter name"
+msgstr "Имя Twitter"
+
+#: 
+msgid "without"
+msgstr "без"
+
+#: 
+msgid "Social name"
+msgstr "Социальное имя"
+
+#: 
+msgid "Created date"
+msgstr "Дата создания"
+
+#: 
+msgid "Amount paid"
+msgstr "Сумма уплаченного"
+
+#: 
+msgid "Wallet received"
+msgstr "Полученный кошелек"
+
+#: 
+msgid "Amount received"
+msgstr "Полученная сумма"
+
+#: 
+msgid "Payment gateway"
+msgstr "Платежный шлюз"
+
+#: 
+msgid "Proof"
+msgstr "доказательство"
+
+#: 
+msgid "Modify balance"
+msgstr "Изменить баланс"
+
+#: 
+msgid "Select balance"
+msgstr "Выбрать баланс"
+
+#: 
+msgid "Modification type"
+msgstr "Тип модификации"
+
+#: 
+msgid "Modification value"
+msgstr "Значение модификации"
+
+#: 
+msgid "Add modification"
+msgstr "Добавить модификацию"
+
+#: 
+msgid "Card"
+msgstr "Карта"
+
+#: 
+msgid "Balances"
+msgstr "противовесов"
+
+#: 
+msgid "Remove"
+msgstr "Удалить"
+
+#: 
+msgid "Last location"
+msgstr "Последнее местоположение"
+
+#: 
+msgid "Currency use"
+msgstr "Использование валюты"
+
+#: 
+msgid "Signup with"
+msgstr "Регистрация"
+
+#: 
+msgid "Identity verification"
+msgstr "Проверка подлинности"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 Step Authentification"
+
+#: 
+msgid "User status"
+msgstr "Статус пользователь"
+
+#: 
+msgid "Login history"
+msgstr "История входа"
+
+#: 
+msgid "More details"
+msgstr "Подробнее"
+
+#: 
+msgid "Deposit history"
+msgstr "История депозита"
+
+#: 
+msgid "Total"
+msgstr "Всего"
+
+#: 
+msgid "Value in BTC"
+msgstr "Стоимость в BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Стоимость в долларах США"
+
+#: 
+msgid "Withdraw method"
+msgstr "Метод вывода"
+
+#: 
+msgid "Date"
+msgstr "Дата"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Запросить ширину"
+
+#: 
+msgid "WITHDRAW"
+msgstr "ИЗЫМАТЬ"
+
+#: 
+msgid "paypal"
+msgstr "PayPal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Выберите учетную запись приемника"
+
+#: 
+msgid "Cancel"
+msgstr "Отмена"
+
+#: 
+msgid "Next"
+msgstr "следующий"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Конфигурация оповещения завершена."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Ваш токен доступа к PushBullet"
+
+#: 
+msgid "Remove token"
+msgstr "Удалить токен"
+
+#: 
+msgid "You are premium !"
+msgstr "Вы премиум!"
+
+#: 
+msgid "left"
+msgstr "оставил"
+
+#: 
+msgid "Main settings"
+msgstr "Основные настройки"
+
+#: 
+msgid "Period"
+msgstr "период"
+
+#: 
+msgid "Colour"
+msgstr "Цвет"
+
+#: 
+msgid "Thickness"
+msgstr "Толщина"
+
+#: 
+msgid "Reset"
+msgstr "Сброс"
+
+#: 
+msgid "Apply"
+msgstr "Подать заявление"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Взять код Google Authenticator"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Введите код Google Authenticator"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Балансы оцениваются менее 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Скрыть небольшой баланс"
+
+#: 
+msgid "Estimate value"
+msgstr "Оценочная стоимость"
+
+#: 
+msgid "Value in"
+msgstr "Значение в"
+
+#: 
+msgid "Deposit"
+msgstr "депозит"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Аутентификация Google включена!"
+
+#: 
+msgid "Set as done"
+msgstr "Сделать как сделано"
+
+#: 
+msgid "Close"
+msgstr "Закрыть"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Недопустимый код Google Authenticator."
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Вы получите подтверждение ширины по электронной почте"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ссылка, идентификатор пользователя, тип, валюта"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Фильтр Widthdraw"
+
+#: 
+msgid "Default"
+msgstr "По умолчанию"
+
+#: 
+msgid "Not confirmed"
+msgstr "Не подтверждено"
+
+#: 
+msgid "Done"
+msgstr "Готово"
+
+#: 
+msgid "Payment filter"
+msgstr "Платежный фильтр"
+
+#: 
+msgid "Need to be approved"
+msgstr "Необходимо утвердить"
+
+#: 
+msgid "Paid"
+msgstr "оплаченный"
+
+#: 
+msgid "Not paid"
+msgstr "Не оплачен"
+
+#: 
+msgid "All payments"
+msgstr "Все платежи"
+
+#: 
+msgid "Ask a proof"
+msgstr "Спросите доказательства"
+
+#: 
+msgid "Bank ref."
+msgstr "Bank ref."
+
+#: 
+msgid "Proof received"
+msgstr "Доказательство получено"
+
+#: 
+msgid "In pending"
+msgstr "В ожидании"
+
+#: 
+msgid "All widthdraw"
+msgstr "Все ширина"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Вывести ссылочный шаблон"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Сбросить фильтр"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Информация об отзыве"
+
+#: 
+msgid "year"
+msgstr "год"
+
+#: 
+msgid "month"
+msgstr "месяц"
+
+#: 
+msgid "week"
+msgstr "неделю"
+
+#: 
+msgid "hour"
+msgstr "час"
+
+#: 
+msgid "minute"
+msgstr "минут"
+
+#: 
+msgid "second"
+msgstr "второй"
+
+#: 
+msgid "ago"
+msgstr "тому назад"
+
+#: 
+msgid "Bank transfert"
+msgstr "Банковский перевод"
+
+#: 
+msgid "Deposit amount"
+msgstr "Сумма вклада"
+
+#: 
+msgid "Fill up"
+msgstr "Заполнить"
+
+#: 
+msgid "It's free"
+msgstr "Это бесплатно"
+
+#: 
+msgid "You will receive"
+msgstr "Вы получите"
+
+#: 
+msgid "Add real funds"
+msgstr "Добавить реальные фонды"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Минимальный депозит"
+
+#: 
+msgid "Enable credit card"
+msgstr "Включить кредитную карту"
+
+#: 
+msgid "Stipe private key"
+msgstr "Стильный закрытый ключ"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Ключ API вашей полосы"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Включить Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Включить режим Paypal Live"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Идентификатор клиента Paypal"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Ваш идентификатор клиента PayPal"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Секрет клиента Paypal"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Ваш клиент PayPal Secret"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Включить блокировку"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Секретный ключ"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Ваш секретный секретный блок"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Включить Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Секретный ключ Fortumo"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Ваш секретный ключ fortumo"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Сервисный ключ Fortumo"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Ваш служебный ключ fortumo"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Включить Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Включить режим Live CoinGate"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Ваш токен CoinGate Auth"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate Получать валюту"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Включить монеты"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Открытый ключ Coinpayments"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Ваш открытый ключ Coinpayments"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Частный ключ Coinpayments"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Частный ключ Coinpayments"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Идентификационный номер вашего маржинального платежа"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Ценные бумаги IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Секрет вашей IP-сети Coinpayments"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Включить оплату Rave Flutterwave"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Режим песочницы Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Открытый ключ Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Ваш открытый ключ Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Секретный ключ Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Ваш секретный ключ Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Заголовок платежа Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Ваше название платежа Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Префикс платежа Rave Flutterwave"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Префикс платежа Rave Flutterwave (например: KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Включить оплату Coinbase Commerce"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Ключ API торговли Coinbase"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Ваш ключ API торговли Coinbase"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Коинбазная коммерция Название платежа"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Ваша коммерческая сделка Coinbase"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Включить Молли"
+
+#: 
+msgid "Mollie Key"
+msgstr "Молли Ключ"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Ваш ключ Молли"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Включить Payeer"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Идентификатор магазина Payeer"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Ваш идентификатор магазина Payeer"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Ключ API Payeer"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Ключ API Payeer"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Включить банковский перевод"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Максимальный банковский перевод одновременно"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Предоставление банковского перевода включено"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Максимальное доказательство банковского перевода"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Ваш Близнецы"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Секрет Близнецов"
+
+#: 
+msgid "Select your platform"
+msgstr "Выберите платформу"
+
+#: 
+msgid "Sandbox"
+msgstr "песочница"
+
+#: 
+msgid "Live"
+msgstr "Жить"
+
+#: 
+msgid "Cron time"
+msgstr "Время в Крон"
+
+#: 
+msgid "Last update"
+msgstr "Последнее обновление"
+
+#: 
+msgid "Sync delay"
+msgstr "Задержка синхронизации"
+
+#: 
+msgid "Add additional page"
+msgstr "Добавить дополнительную страницу"
+
+#: 
+msgid "Page name"
+msgstr "Название страницы"
+
+#: 
+msgid "Page URL"
+msgstr "URL страницы"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Значок страницы (например: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Или значок страницы svg"
+
+#: 
+msgid "Icon"
+msgstr "Значок"
+
+#: 
+msgid "SVG Picture"
+msgstr "Изображение SVG"
+
+#: 
+msgid "Enable"
+msgstr "включить"
+
+#: 
+msgid "Disable"
+msgstr "запрещать"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Создать новый банковский перевод"
+
+#: 
+msgid "Pending"
+msgstr "в ожидании"
+
+#: 
+msgid "Details"
+msgstr "Детали"
+
+#: 
+msgid "Verified"
+msgstr "проверенный"
+
+#: 
+msgid "Canceled"
+msgstr "отменен"
+
+#: 
+msgid "Declined"
+msgstr "Отклонено"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Ваш Hitbtc Key"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Ваш секрет Hitbtc"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Ваш битбанк"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Секрет Битбанка"
+
+#: 
+msgid "User level"
+msgstr "Уровень пользователя"
+
+#: 
+msgid "Expire in"
+msgstr "Истечение срока действия"
+
+#: 
+msgid "Back to login"
+msgstr "Вернуться на страницу входа"
+
+#: 
+msgid "Let's go !"
+msgstr "Поехали !"
+
+#: 
+msgid "Welcome"
+msgstr "желанный"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Давайте сконфигурируем вашу панель инструментов."
+
+#: 
+msgid "Select your language"
+msgstr "Выберите ваш язык"
+
+#: 
+msgid "Select your currency"
+msgstr "Выберите валюту"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Выберите свой любимый крипто"
+
+#: 
+msgid "left need to be selected"
+msgstr "слева нужно выбрать"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Конфигурация завершена!"
+
+#: 
+msgid "will now refresh"
+msgstr "обновится"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Включить платеж Perfect Money"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Учетная запись Perfect Money Payee"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Ваша учетная запись Perfect Money Payee"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Мобильный, браузер, уведомления о Windows"
+
+#: 
+msgid "Create price alert"
+msgstr "Создать оповещение о цене"
+
+#: 
+msgid "I need help !"
+msgstr "Мне нужна помощь !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Загрузите приложение PushBullet на свой телефон (доступно для Android и iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Создайте учетную запись на нем"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Подключитесь к новой учетной записи здесь"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Включите <b> Настройки </ b>> <b> Аккаунт </ b> и создайте токен <b> Access </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Скопируйте ключ и вставьте его на заливку и нажмите «Сохранить»."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Будет отправлено уведомление, чтобы проверить, успешна ли связь."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Премиум ждет вас!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Более 2000 криптовалют"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Будьте предупреждены, когда индикатор растет или падает"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Отзывчивость на мобильных устройствах и планшетах"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Новости и социальные должности в одном и том же месте"
+
+#: 
+msgid "Support"
+msgstr "Поддержка"
+
+#: 
+msgid "Phone"
+msgstr "Телефон"
+
+#: 
+msgid "Address"
+msgstr "Адрес"
+
+#: 
+msgid "Contact DPO"
+msgstr "Как связаться с DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Ваш код биннанса"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Секрет вашей битны"
+
+#: 
+msgid "Cardholder name"
+msgstr "Имя владельца карты"
+
+#: 
+msgid "Card number"
+msgstr "Номер карты"
+
+#: 
+msgid "Expiration"
+msgstr "истечение"
+
+#: 
+msgid "CCV"
+msgstr "ККТ"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "Не показывать"
+
+#: 
+msgid "Premium"
+msgstr "премия"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Подтвердите свой идентификатор"
+
+#: 
+msgid "Estimate balance"
+msgstr "Расчетный баланс"
+
+#: 
+msgid "5m"
+msgstr "5м"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1ч"
+
+#: 
+msgid "30min"
+msgstr "30 минут"
+
+#: 
+msgid "Candlestick"
+msgstr "подсвечник"
+
+#: 
+msgid "Line"
+msgstr "Линия"
+
+#: 
+msgid "Indicators"
+msgstr "индикаторы"
+
+#: 
+msgid "Export"
+msgstr "экспорт"
+
+#: 
+msgid "Alert"
+msgstr "бдительный"
+
+#: 
+msgid "Drawing"
+msgstr "Рисование"
+
+#: 
+msgid "Trend Line"
+msgstr "Линия тренда"
+
+#: 
+msgid "Text"
+msgstr "Текст"
+
+#: 
+msgid "Create a new alert"
+msgstr "Создать новое оповещение"
+
+#: 
+msgid "% Fees"
+msgstr "% Сборы"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Соглашение о снятии криптовалюты"
+
+#: 
+msgid "Decline"
+msgstr "снижение"
+
+#: 
+msgid "Agree"
+msgstr "Согласен"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Соглашение об использовании шифрования"
+
+#: 
+msgid "Enable news popup"
+msgstr "Включить всплывающее окно новостей"
+
+#: 
+msgid "News popup title"
+msgstr "Всплывающее название новости"
+
+#: 
+msgid "Your news popup title"
+msgstr "Ваше всплывающее название новости"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Всплывающее видео из новостей (пустая строка для не показывать видео)"
+
+#: 
+msgid "News popup description"
+msgstr "Всплывающее описание новостей"
+
+#: 
+msgid "Advert users"
+msgstr "Пользователи"
+
+#: 
+msgid "Enable intro"
+msgstr "Включить ввод"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Снятие комиссионных (в%)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Предупреждение банковского перевода при снятии валюты не является криптовалютой"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Cryptocurrencies разрешены для банковского перевода"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Оцените баланс в"
+
+#: 
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Договор с банковским переводом"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Плата за регистрацию (в%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Ваша плата за блокировку (в%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Плата за бронирование Fortumo (в%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Ваша плата за фортумо (в%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "Платежи за вознаграждение CoinGate (в%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Ваши комиссионные вознаграждения (в%)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Плата за монеточные платежи (в%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Плата за уплату монеток (в%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Плата за проезд Rave Flutterwave (в%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Ваши взнос за оплату рейта (в%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Плата за коммерческую торговлю монеты (в%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Плата за оплату коммерческого платежа (в%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Плата за молли (в%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Плата за уплату молли (в%)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Плата за оплату оплаты (в%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Плата за оплату выплат (в%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Плата за банковский перевод (в%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Плата за банковский перевод (в%)"
+
+#: 
+msgid "Add new"
+msgstr "Добавить новое"
+
+#: 
+msgid "Bank accounts"
+msgstr "банковские счета"
+
+#: 
+msgid "Add new bank account"
+msgstr "Добавить новый банковский счет"
+
+#: 
+msgid "Bank account name"
+msgstr "Название банковского счета"
+
+#: 
+msgid "Your bank account name"
+msgstr "Имя вашего банковского счета"
+
+#: 
+msgid "Bank account currency"
+msgstr "Валюта банковского счета"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Банковский счет IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Банковский счет BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Ваш банковский счет BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Адрес банковского счета"
+
+#: 
+msgid "Your bank account address"
+msgstr "Адрес вашего банковского счета"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Имя владельца банковского счета"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Имя владельца вашего банковского счета"
+
+#: 
+msgid "* This is optional"
+msgstr "* Это необязательно"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Валюта вашего банковского счета"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Ваш банковский счет IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Удалить"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Вы можете выбрать между «Значок страницы» и «Значок страницы svg» (значок страницы является приоритетом). Список доступных значков здесь."
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Вы получите подтверждение по электронной почте"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Следуйте этому шагу, чтобы завершить запрос на снятие средств."
+
+#: 
+msgid "You need to have at least"
+msgstr "Вы должны иметь хотя бы"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "У вас нет заполненного баланса"
+
+#: 
+msgid "Total in "
+msgstr "Всего в"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Вам нужно настроить метод widthdraw"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Банковский счет BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Ваш банковский счет BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Дневной диапазон\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "День открытых дверей"
+
+#: 
+msgid "Volume 24H"
+msgstr "Прямой объем"
+
+#: 
+msgid "Direct Volume"
+msgstr "Прямой объем"
+
+#: 
+msgid "Load more data"
+msgstr "Загрузите дополнительные данные"
+
+#: 
+msgid "Qty"
+msgstr "Кол-во"
+
+#: 
+msgid "Gain"
+msgstr "Усиление"
+
+#: 
+msgid "Price buy"
+msgstr "Цена покупки"
+
+#: 
+msgid "Disable chat"
+msgstr "Отключить чат"
+
+#: 
+msgid "Total gain"
+msgstr "Общий прирост"
+
+#: 
+msgid "Confirmation"
+msgstr "подтверждение"
+
+#: 
+msgid "Unit price"
+msgstr "Цена за единицу"
+
+#: 
+msgid "Investment"
+msgstr "инвестиции"
+
+#: 
+msgid "Quantity"
+msgstr "Количество"
+
+#: 
+msgid "Commission"
+msgstr "комиссия"
+
+#: 
+msgid "Confirm buying"
+msgstr "Подтвердить покупку"
+
+#: 
+msgid "New user"
+msgstr "Новый пользователь"
+
+#: 
+msgid "Order passed"
+msgstr "Заказ прошел"
+
+#: 
+msgid "New subscription"
+msgstr "Новая подписка"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Показать информацию о приемнике."
+
+#: 
+msgid "Process"
+msgstr "Обработать"
+
+#: 
+msgid "Hide details"
+msgstr "Скрыть детали"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Включить подписки"
+
+#: 
+msgid "Enable free trial"
+msgstr "Включить бесплатную пробную версию"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Продолжительность бесплатного пробного периода (в день)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Бесплатная пробная продолжительность"
+
+#: 
+msgid "Premium features"
+msgstr "Премиум функции"
+
+#: 
+msgid "Free users features"
+msgstr "Бесплатные функции пользователей"
+
+#: 
+msgid "Add a new plan"
+msgstr "Добавить новый план"
+
+#: 
+msgid "Name plan"
+msgstr "План имен"
+
+#: 
+msgid "Price total"
+msgstr "Общая стоимость"
+
+#: 
+msgid "Duration in days"
+msgstr "Продолжительность дня"
+
+#: 
+msgid "Duration"
+msgstr "продолжительность"
+
+#: 
+msgid "Add this plan"
+msgstr "Добавить этот план"
+
+#: 
+msgid "Plans available"
+msgstr "Доступные планы"
+
+#: 
+msgid "Price plan"
+msgstr "Ценовой план"
+
+#: 
+msgid "Duration in month"
+msgstr "Продолжительность месяца"
+
+#: 
+msgid "Price per month"
+msgstr "Цена в месяц"
+
+#: 
+msgid "Account"
+msgstr "Счет"
+
+#: 
+msgid "Exchanges"
+msgstr "Обмены"
+
+#: 
+msgid "Total Free"
+msgstr "Всего свободных"
+
+#: 
+msgid "Total Used"
+msgstr "Всего использованных"
+
+#: 
+msgid "Order Ref."
+msgstr "Заказ №."
+
+#: 
+msgid "Ordered price"
+msgstr "Упорядоченная цена"
+
+#: 
+msgid "Current price"
+msgstr "Текущая цена"
+
+#: 
+msgid "Evolution"
+msgstr "эволюция"
+
+#: 
+msgid "Enable identity system"
+msgstr "Включить систему идентификации"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Блокировать торговлю без проверки подлинности"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Блокировать депозит без проверки личности"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Блокировать снятие без проверки личности"
+
+#: 
+msgid "Approve"
+msgstr "Одобрить"
+
+#: 
+msgid "Identity ID"
+msgstr "Идентификатор личности"
+
+#: 
+msgid "Identity step name"
+msgstr "Имя шага идентификации"
+
+#: 
+msgid "Identity step description"
+msgstr "Описание шага идентификации"
+
+#: 
+msgid "Identity order"
+msgstr "Порядок идентификации"
+
+#: 
+msgid "Down order"
+msgstr "Порядок вниз"
+
+#: 
+msgid "Up order"
+msgstr "Вверх"
+
+#: 
+msgid "Add new identity step"
+msgstr "Добавить новый идентификатор"
+
+#: 
+msgid "Your step name"
+msgstr "Ваше имя шага"
+
+#: 
+msgid "Your step description"
+msgstr "Ваше описание шага"
+
+#: 
+msgid "Identity step type"
+msgstr "Тип шага идентификации"
+
+#: 
+msgid "Upload new document"
+msgstr "Загрузить новый документ"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Выберите в списке типов документов"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Включить загрузку удостоверений с помощью веб-камеры"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Коэффициент документа веб-камеры"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Рацион (ширина / высота)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Соотношение (ширина / высота)"
+
+#: 
+msgid "Document identity list"
+msgstr "Идентификационный список документов"
+
+#: 
+msgid "Add new identity document"
+msgstr "Добавить новый идентификационный документ"
+
+#: 
+msgid "Your document name"
+msgstr "Название вашего документа"
+
+#: 
+msgid "My Holding"
+msgstr "Мой холдинг"
+
+#: 
+msgid "Holding"
+msgstr "Держа"
+
+#: 
+msgid "Market Value"
+msgstr "Рыночная стоимость"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Потеря прибыли"
+
+#: 
+msgid "Wallet"
+msgstr "Бумажник"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Проверка банковского перевода"
+
+#: 
+msgid "Transfert received date"
+msgstr "Дата получения перевода"
+
+#: 
+msgid "Bank account received"
+msgstr "Полученный банковский счет"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Ссылка на банковский перевод"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Сумма, полученная на банковском счете"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Сумма, переведенная в учетную запись пользователя"
+
+#: 
+msgid "User will receive"
+msgstr "Пользователь получит"
+
+#: 
+msgid "Dark"
+msgstr "Темно"
+
+#: 
+msgid "White"
+msgstr "белый"
+
+#: 
+msgid "Enable Donation"
+msgstr "Включить пожертвование"
+
+#: 
+msgid "Donation text"
+msgstr "Текст пожертвования"
+
+#: 
+msgid "Your donation text"
+msgstr "Ваш текст пожертвования"
+
+#: 
+msgid "Donation address list"
+msgstr "Список адресов пожертвований"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Поместите 1 адрес в строку"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Формат линии: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "ПОЗВОЛЯЙТЕ УЛЫБКА НА НАШИХ ЛИЦАХ И ПОДДЕРЖИВАЙТЕ США ПОСМОТРЕТЬ :)"
+
+#: 
+msgid "Transactions history"
+msgstr "История транзакций"
+
+#: 
+msgid "Description"
+msgstr "Описание"
+
+#: 
+msgid "Reference ..."
+msgstr "Справка ..."
+
+#: 
+msgid "Reference"
+msgstr "Справка"
+
+#: 
+msgid "deposit"
+msgstr "депозит"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Депо"
+
+#: 
+msgid "Unknown"
+msgstr "неизвестный"
+
+#: 
+msgid "BUY order done"
+msgstr "ПОКУПАТЬ"
+
+#: 
+msgid "SELL order done"
+msgstr "Выполнение заказа"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "ПРОДАТЬ ЗАКАЗАТЬ"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "ПОКУПКА ЗАКАЗА"
+
+#: 
+msgid "Add a new item"
+msgstr "Добавить новый элемент"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Ваш ключ GDAX"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Ваш GDAX Pass"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Ваш секрет GDAX"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Ваш идентификатор Bitmex"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Секрет вашего Битмекса"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Ваш ключ OKCoin"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Ваш секрет OKCoin"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Ваш идентификатор ключа Luno"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Ваш секрет Luno"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Ваш ключ Coinex"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Твой секрет"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Ваш ключ Btcmarket"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Ваш секрет Btcmarket"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Ваш ключ Livecoin"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Секрет вашей личной жизни"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Идентификатор вашего идентификатора Quoinex"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Ваш секрет Quoinex"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Ваш Exmo Key"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Ваш Exmo Secret"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Ваш YoBit Key"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Ваш секрет YoBit"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Ваш ключ Кукойн"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Ваш Кукуин Частный"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Ваш CEX-ключ"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Ваш секрет CEX"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Ваш CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "Мои заказы"
+
+#: 
+msgid "Size"
+msgstr "Размер"
+
+#: 
+msgid "Limit price"
+msgstr "Предельная цена"
+
+#: 
+msgid "Place buy order"
+msgstr "Разместить заявку на покупку"
+
+#: 
+msgid "Place sell order"
+msgstr "Разместить заявку на продажу"
+
+#: 
+msgid "Method"
+msgstr "метод"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Вы должны быть зарегистрированы в Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "Включить прямую торговлю"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Вход с Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Недельная прибыль"
+
+#: 
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Включить таблицу лидеров (необходимо включить встроенную торговлю)"
+
+#: 
+msgid "Active"
+msgstr "активный"
+
+#: 
+msgid "Every"
+msgstr "каждый"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Стартовая пара при регистрации нового пользователя"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Разрешается использовать только 1 пару"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Запуск пары просмотра списка при регистрации нового пользователя"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 пара для каждой линии"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Формат: РЫНОК: СИМВОЛ / ВАЛЮТА"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Вы должны быть зарегистрированы в Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Войти через Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "Электронная почта не действительна"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Вы должны быть зарегистрированы в Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Войти через Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "На основе всего кошелька"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Ваш ключ Poloniex"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Ваш секрет Poloniex"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Срок действия вашей пробной версии истек!"
+
+#: 
+msgid "Become"
+msgstr "Стали"
+
+#: 
+msgid "You will be charged"
+msgstr "С вас будет взиматься"
+
+#: 
+msgid "for"
+msgstr "для"
+
+#: 
+msgid "months"
+msgstr "месяцы"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Ваш ключ Кракена"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Ваш Kraken Private"
+
+#: 
+msgid "will be ready for you !"
+msgstr "будут готовы к вам!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Вы должны быть зарегистрированы в Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr "Войти через Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Вы должны быть зарегистрированы в Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Войти в Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Вы должны быть зарегистрированы в Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Вход с Exmo"
+
+#: 
+msgid "View the article"
+msgstr "Просмотреть статью"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Ваш ключ Bittrex"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Ваш секрет Биттрекса"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Вы должны быть зарегистрированы в Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Вход с Kraken"
+
+#: 
+msgid "Markets"
+msgstr "рынки"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Скрыть рынок (необходимо активировать собственную торговлю)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Скрыть книгу заказов"
+
+#: 
+msgid "Load orders book"
+msgstr "Загрузить книгу заказов"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Создать оповещение, когда ..."
+
+#: 
+msgid "Price is above"
+msgstr "Цена выше"
+
+#: 
+msgid "Price is bellow"
+msgstr "Цена ниже"
+
+#: 
+msgid "Password not match"
+msgstr "Пароль не соответствует"
+

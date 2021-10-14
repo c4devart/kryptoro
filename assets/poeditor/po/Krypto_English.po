@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: en\n"
+
+#: 
+msgid "Real account"
+msgstr "Real account"
+
+#: 
+msgid "Board"
+msgstr "Graph\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Please turn"
+
+#: 
+msgid "chart"
+msgstr "chart\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "charts or more"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Search by name or symbol"
+
+#: 
+msgid "real account"
+msgstr "real account\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "See all balances"
+
+#: 
+msgid "List accounts"
+msgstr "List accounts\n"
+""
+
+#: 
+msgid "History"
+msgstr "History"
+
+#: 
+msgid "Credit"
+msgstr "Credit"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "Order book"
+
+#: 
+msgid "Market"
+msgstr "Market"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: 
+msgid "Leader board"
+msgstr "Leader board"
+
+#: 
+msgid "Calc."
+msgstr "Calc."
+
+#: 
+msgid "Watching"
+msgstr "Watching"
+
+#: 
+msgid "News"
+msgstr "News"
+
+#: 
+msgid "Panel"
+msgstr "Panel"
+
+#: 
+msgid "Manager"
+msgstr "Manager"
+
+#: 
+msgid "Admin"
+msgstr "Admin"
+
+#: 
+msgid "Converter"
+msgstr "Converter"
+
+#: 
+msgid "Social"
+msgstr "Social"
+
+#: 
+msgid "Calendar"
+msgstr "Calendar"
+
+#: 
+msgid "Watchlist"
+msgstr "Watchlist"
+
+#: 
+msgid "Contact us"
+msgstr "Contact us"
+
+#: 
+msgid "January"
+msgstr "January"
+
+#: 
+msgid "February"
+msgstr "February"
+
+#: 
+msgid "March"
+msgstr "March"
+
+#: 
+msgid "April"
+msgstr "April"
+
+#: 
+msgid "May"
+msgstr "May"
+
+#: 
+msgid "June"
+msgstr "June"
+
+#: 
+msgid "July"
+msgstr "July"
+
+#: 
+msgid "August"
+msgstr "August"
+
+#: 
+msgid "September"
+msgstr "September"
+
+#: 
+msgid "October"
+msgstr "October"
+
+#: 
+msgid "November"
+msgstr "November"
+
+#: 
+msgid "December"
+msgstr "December"
+
+#: 
+msgid "Mon."
+msgstr "Mon."
+
+#: 
+msgid "Tue."
+msgstr "Tue."
+
+#: 
+msgid "Wed."
+msgstr "Wed."
+
+#: 
+msgid "Thu."
+msgstr "Thu."
+
+#: 
+msgid "Fri."
+msgstr "Fri."
+
+#: 
+msgid "Sat."
+msgstr "Sat."
+
+#: 
+msgid "Sun."
+msgstr "Sun."
+
+#: 
+msgid "Statistics"
+msgstr "Statistics"
+
+#: 
+msgid "Bank transferts"
+msgstr "Bank transferts"
+
+#: 
+msgid "Payments"
+msgstr "Payments"
+
+#: 
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+#: 
+msgid "Identity"
+msgstr "Identity"
+
+#: 
+msgid "Users"
+msgstr "Users"
+
+#: 
+msgid "Orders"
+msgstr "Orders"
+
+#: 
+msgid "Withdraw"
+msgstr "Withdraw"
+
+#: 
+msgid "Currency"
+msgstr "Currency"
+
+#: 
+msgid "Total trade"
+msgstr "Total trade"
+
+#: 
+msgid "Total deposit"
+msgstr "Total deposit"
+
+#: 
+msgid "Total withdraw"
+msgstr "Total withdraw"
+
+#: 
+msgid "Fees"
+msgstr "Fees"
+
+#: 
+msgid "Name"
+msgstr "Name"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Subscription"
+msgstr "Subscription"
+
+#: 
+msgid "Signin method"
+msgstr "Signin method"
+
+#: 
+msgid "Last login"
+msgstr "Last login"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Notifications enabled"
+
+#: 
+msgid "Trial version"
+msgstr "Trial version"
+
+#: 
+msgid "day"
+msgstr "day"
+
+#: 
+msgid "Edit"
+msgstr "Edit"
+
+#: 
+msgid "Inactive"
+msgstr "Inactive"
+
+#: 
+msgid "Enabled"
+msgstr "Enabled"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "User"
+
+#: 
+msgid "Order date"
+msgstr "Order date"
+
+#: 
+msgid "Exchange"
+msgstr "Exchange"
+
+#: 
+msgid "Pair"
+msgstr "Pair"
+
+#: 
+msgid "Type"
+msgstr "Type"
+
+#: 
+msgid "Amount"
+msgstr "Amount"
+
+#: 
+msgid "Received"
+msgstr "Received"
+
+#: 
+msgid "Total deducted"
+msgstr "Total deducted"
+
+#: 
+msgid "Total received"
+msgstr "Total received"
+
+#: 
+msgid "Buy"
+msgstr "Buy"
+
+#: 
+msgid "Sell"
+msgstr "Sell\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Coin list"
+
+#: 
+msgid "Market list"
+msgstr "Market list"
+
+#: 
+msgid "Heatmap"
+msgstr "Heatmap"
+
+#: 
+msgid "Price"
+msgstr "Price"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Direct Vol. 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Total Vol. 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Market Cap"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg. 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h High/Low"
+
+#: 
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: 
+msgid "General settings"
+msgstr "General settings"
+
+#: 
+msgid "Coins"
+msgstr "Coins"
+
+#: 
+msgid "Currencies"
+msgstr "Currencies"
+
+#: 
+msgid "Mail settings"
+msgstr "Mail settings"
+
+#: 
+msgid "Payment"
+msgstr "Payment"
+
+#: 
+msgid "News - Social"
+msgstr "News - Social"
+
+#: 
+msgid "Intro"
+msgstr "Intro"
+
+#: 
+msgid "Trading"
+msgstr "Trading"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Additional pages"
+
+#: 
+msgid "Today's visits"
+msgstr "Today's visits"
+
+#: 
+msgid "7 days visits"
+msgstr "7 days visits"
+
+#: 
+msgid "Number of users"
+msgstr "Number of users"
+
+#: 
+msgid "Number of coins"
+msgstr "Number of coins"
+
+#: 
+msgid "Last users"
+msgstr "Last users"
+
+#: 
+msgid "This website uses cookies"
+msgstr "This website uses cookies"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+
+#: 
+msgid "Accept"
+msgstr "Accept"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Your e-mail address"
+
+#: 
+msgid "Your password"
+msgstr "Your password"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Forgot password ?"
+
+#: 
+msgid "Login"
+msgstr "Login"
+
+#: 
+msgid "or"
+msgstr "or"
+
+#: 
+msgid "Create a new account"
+msgstr "Create a new account"
+
+#: 
+msgid "practice account"
+msgstr "practice account"
+
+#: 
+msgid "Symbol"
+msgstr "Symbol"
+
+#: 
+msgid "Last"
+msgstr "Last"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profile"
+
+#: 
+msgid "Notification"
+msgstr "Notification"
+
+#: 
+msgid "Security"
+msgstr "Security"
+
+#: 
+msgid "Logout"
+msgstr "Logout"
+
+#: 
+msgid "Your name"
+msgstr "Your name"
+
+#: 
+msgid "Language"
+msgstr "Language"
+
+#: 
+msgid "Type chart"
+msgstr "Type chart"
+
+#: 
+msgid "Change your password"
+msgstr "Change your password"
+
+#: 
+msgid "Repeat your password"
+msgstr "Repeat your password"
+
+#: 
+msgid "Back"
+msgstr "Back"
+
+#: 
+msgid "Validate"
+msgstr "Validate"
+
+#: 
+msgid "Title"
+msgstr "Title"
+
+#: 
+msgid "Your website title"
+msgstr "Your website title"
+
+#: 
+msgid "App description"
+msgstr "App description"
+
+#: 
+msgid "Referal link"
+msgstr "Referal link"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Your referal link (ex : Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Maintenance mode"
+
+#: 
+msgid "Number format"
+msgstr "Number format"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Switch charts to tradingview charts"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Enable autolanguage"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Enable POEditor Language"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API Key"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Your POEditor API Key"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor Project Selector"
+
+#: 
+msgid "Allow signup"
+msgstr "Allow signup"
+
+#: 
+msgid "User need verify account"
+msgstr "User need verify account"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Need captcha signup"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha Site Key"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Your Google Recaptcha Site Key"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha Secret Key"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Your Google Recaptcha Secret Key"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin with google"
+
+#: 
+msgid "Google App ID"
+msgstr "Google App ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Your Google App ID"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google App Secret"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Your Google App Secret"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin with Facebook"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Your Facebook App ID"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Your Facebook App Secret"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Enable Google Ad"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Ad Client"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Your Google Ad Client"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google Ad Slot"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Your Google Ad slot"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Enable Cookie popup"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Cookie Popup title"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Your Cookie popup title"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Cookie Popup text"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Your Cookie popup text"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Blacklisted countries"
+
+#: 
+msgid "Save"
+msgstr "Save"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Allow user to switch chart type"
+
+#: 
+msgid "Done !"
+msgstr "Done !"
+
+#: 
+msgid "quantity"
+msgstr "quantity"
+
+#: 
+msgid "Enable native trading"
+msgstr "Enable native trading"
+
+#: 
+msgid "Balance configuration"
+msgstr "Balance configuration"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Show balance estimation"
+
+#: 
+msgid "User user currency select"
+msgstr "User user currency select"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Show balance estimation in"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Referal system configuration"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Enable referal (native trading need to be enabled)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referal comission (in $, fixed amount)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Deposit configuration"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Deposit fees (in %)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Deposit minimum (in $)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Deposit maximum (in $)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Deposit currencies allowed"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Deposit wallet receive (if wallet real currency not available)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Withdraw configuration"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Withdraw minimum (in $)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Withdraw processing time (in days)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Withdraw processing time (in days) = ex : 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Trading configuration"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Trading fees (in %)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Order reference pattern"
+
+#: 
+msgid "Real account configuration"
+msgstr "Real account configuration"
+
+#: 
+msgid "Enable real account"
+msgstr "Enable real account"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Practice account configuration"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Maximum free deposit (in $)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Maximum free deposit (in $) ex : 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Free deposit wallet receive"
+
+#: 
+msgid "Ref."
+msgstr "Ref."
+
+#: 
+msgid "Submited date"
+msgstr "Submited date"
+
+#: 
+msgid "Status"
+msgstr "Status"
+
+#: 
+msgid "Document name"
+msgstr "Document name"
+
+#: 
+msgid "Documents"
+msgstr "Documents"
+
+#: 
+msgid "Not processed"
+msgstr "Not processed"
+
+#: 
+msgid "Processed"
+msgstr "Processed"
+
+#: 
+msgid "Payment success"
+msgstr "Payment success"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Payment reference pattern"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Enable SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP Server"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Your SMTP host server"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP Port"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Your SMTP port"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP Security"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP User"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Your SMTP user"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP Password"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Your SMTP password"
+
+#: 
+msgid "Email sender name"
+msgstr "Email sender name"
+
+#: 
+msgid "Support mail"
+msgstr "Support mail"
+
+#: 
+msgid "Support Phone"
+msgstr "Support Phone"
+
+#: 
+msgid "Support phone"
+msgstr "Support phone"
+
+#: 
+msgid "Support Address"
+msgstr "Support Address"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO mail"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO Phone"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO phone"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Send welcome mail"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Welcome mail subject"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Calendar credentials"
+
+#: 
+msgid "Enable calendar"
+msgstr "Enable calendar"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Calendar Client ID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Your Calendar Client ID"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Calendar Client Secret"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Only show events in relation to enabled coins"
+
+#: 
+msgid "News feed"
+msgstr "News feed"
+
+#: 
+msgid "Add news feed"
+msgstr "Add news feed"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Your RSS Feed link"
+
+#: 
+msgid "Add"
+msgstr "Add"
+
+#: 
+msgid "Name feed"
+msgstr "Name feed"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter accounts"
+
+#: 
+msgid "Add twitter account"
+msgstr "Add twitter account"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter name"
+
+#: 
+msgid "without"
+msgstr "without"
+
+#: 
+msgid "Social name"
+msgstr "Social name"
+
+#: 
+msgid "Created date"
+msgstr "Created date"
+
+#: 
+msgid "Amount paid"
+msgstr "Amount paid"
+
+#: 
+msgid "Wallet received"
+msgstr "Wallet received"
+
+#: 
+msgid "Amount received"
+msgstr "Amount received"
+
+#: 
+msgid "Payment gateway"
+msgstr "Payment gateway"
+
+#: 
+msgid "Proof"
+msgstr "Proof"
+
+#: 
+msgid "Modify balance"
+msgstr "Modify balance"
+
+#: 
+msgid "Select balance"
+msgstr "Select balance"
+
+#: 
+msgid "Modification type"
+msgstr "Modification type"
+
+#: 
+msgid "Modification value"
+msgstr "Modification value"
+
+#: 
+msgid "Add modification"
+msgstr "Add modification"
+
+#: 
+msgid "Card"
+msgstr "Card"
+
+#: 
+msgid "Balances"
+msgstr "Balances"
+
+#: 
+msgid "Remove"
+msgstr "Remove"
+
+#: 
+msgid "Last location"
+msgstr "Last location"
+
+#: 
+msgid "Currency use"
+msgstr "Currency use"
+
+#: 
+msgid "Signup with"
+msgstr "Signup with"
+
+#: 
+msgid "Identity verification"
+msgstr "Identity verification"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 Step Authentification"
+
+#: 
+msgid "User status"
+msgstr "User status"
+
+#: 
+msgid "Login history"
+msgstr "Login history"
+
+#: 
+msgid "More details"
+msgstr "More details"
+
+#: 
+msgid "Deposit history"
+msgstr "Deposit history"
+
+#: 
+msgid "Total"
+msgstr "Total"
+
+#: 
+msgid "Value in BTC"
+msgstr "Value in BTC"
+
+#: 
+msgid "Value in USD"
+msgstr "Value in USD"
+
+#: 
+msgid "Withdraw method"
+msgstr "Withdraw method"
+
+#: 
+msgid "Date"
+msgstr "Date"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Ask a widthdraw"
+
+#: 
+msgid "WITHDRAW"
+msgstr "WITHDRAW"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Choose receiver account"
+
+#: 
+msgid "Cancel"
+msgstr "Cancel"
+
+#: 
+msgid "Next"
+msgstr "Next"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Notification's configuration complete."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Your PushBullet Access Token"
+
+#: 
+msgid "Remove token"
+msgstr "Remove token"
+
+#: 
+msgid "You are premium !"
+msgstr "You are premium !"
+
+#: 
+msgid "left"
+msgstr "left"
+
+#: 
+msgid "Main settings"
+msgstr "Main settings"
+
+#: 
+msgid "Period"
+msgstr "Period"
+
+#: 
+msgid "Colour"
+msgstr "Colour"
+
+#: 
+msgid "Thickness"
+msgstr "Thickness"
+
+#: 
+msgid "Reset"
+msgstr "Reset"
+
+#: 
+msgid "Apply"
+msgstr "Apply"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Entrer your Google Authenticator Code"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Enter your Google Authenticator Code"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Balances valued less than 0.001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Hide small balance"
+
+#: 
+msgid "Estimate value"
+msgstr "Estimate value"
+
+#: 
+msgid "Value in"
+msgstr "Value in"
+
+#: 
+msgid "Deposit"
+msgstr "Deposit"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google Authentification is enable !"
+
+#: 
+msgid "Set as done"
+msgstr "Set as done"
+
+#: 
+msgid "Close"
+msgstr "Close"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google Authenticator code is invalid"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "You will receive a widthdraw confirmation by email"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, User ID, Type, Currency"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Widthdraw filter"
+
+#: 
+msgid "Default"
+msgstr "Default"
+
+#: 
+msgid "Not confirmed"
+msgstr "Not confirmed"
+
+#: 
+msgid "Done"
+msgstr "Done"
+
+#: 
+msgid "Payment filter"
+msgstr "Payment filter"
+
+#: 
+msgid "Need to be approved"
+msgstr "Need to be approved"
+
+#: 
+msgid "Paid"
+msgstr "Paid"
+
+#: 
+msgid "Not paid"
+msgstr "Not paid"
+
+#: 
+msgid "All payments"
+msgstr "All payments"
+
+#: 
+msgid "Ask a proof"
+msgstr "Ask a proof"
+
+#: 
+msgid "Bank ref."
+msgstr "Bank ref."
+
+#: 
+msgid "Proof received"
+msgstr "Proof received"
+
+#: 
+msgid "In pending"
+msgstr "In pending"
+
+#: 
+msgid "All widthdraw"
+msgstr "All widthdraw"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Withdraw reference pattern"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Withdraw filter"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Withdraw infos"
+
+#: 
+msgid "year"
+msgstr "year"
+
+#: 
+msgid "month"
+msgstr "month"
+
+#: 
+msgid "week"
+msgstr "week"
+
+#: 
+msgid "hour"
+msgstr "hour"
+
+#: 
+msgid "minute"
+msgstr "minute"
+
+#: 
+msgid "second"
+msgstr "second"
+
+#: 
+msgid "ago"
+msgstr "ago"
+
+#: 
+msgid "Bank transfert"
+msgstr "Bank transfert"
+
+#: 
+msgid "Deposit amount"
+msgstr "Deposit amount"
+
+#: 
+msgid "Fill up"
+msgstr "Fill up"
+
+#: 
+msgid "It's free"
+msgstr "It's free"
+
+#: 
+msgid "You will receive"
+msgstr "You will receive"
+
+#: 
+msgid "Add real funds"
+msgstr "Add real funds"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimal deposit"
+
+#: 
+msgid "Enable credit card"
+msgstr "Enable credit card"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe private key"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Your Stripe API Key"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Enable Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Enable Paypal Live mode"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal client ID"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Your paypal client ID"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Client Secret"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Your paypal client Secret"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Enable Blockonomics"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomics Secret key"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Your blockonomics secret key"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Enable Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo Secret key"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Your fortumo secret key"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo Service key"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Your fortumo service key"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Enable Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Enable CoinGate live mode"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Your CoinGate Auth Token"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate Receive Currency"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Enable Coinpayments"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Coinpayments Public Key"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Your Coinpayments Public Key"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Coinpayments Private Key"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Your Coinpayments Private Key"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Your Coinpayments Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Coinpayments IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Your Coinpayments IPN Secret"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Enable Rave Flutterwave payment"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Sandbox mode Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave Public Key"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Your Rave Flutterwave Public Key"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave Secret Key"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Your Rave Flutterwave Secret Key"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave Payment Title"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Your Rave Flutterwave Payment title"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave Payment Prefix"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Enable Coinbase Commerce payment"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase commerce API Key"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Your Coinbase commerce API Key"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase commerce Payment Title"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Your Coinbase commerce Payment title"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Enable Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Your Mollie Key"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Enable Payeer"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Payeer Shop ID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Your Payeer Shop ID"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer API Key"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Your Payeer API Key"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Enable Bank transfert"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Bank transfert maximum at the same time"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Bank transfert proof enabled"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Bank transfert maximum proof"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Your Gemini Key"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Your Gemini Secret"
+
+#: 
+msgid "Select your platform"
+msgstr "Select your platform"
+
+#: 
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: 
+msgid "Live"
+msgstr "Live"
+
+#: 
+msgid "Cron time"
+msgstr "Cron Time"
+
+#: 
+msgid "Last update"
+msgstr "Last update"
+
+#: 
+msgid "Sync delay"
+msgstr "Sync delay"
+
+#: 
+msgid "Add additional page"
+msgstr "Add additional page"
+
+#: 
+msgid "Page name"
+msgstr "Page name"
+
+#: 
+msgid "Page URL"
+msgstr "Page URL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Page icon (ex : lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Or page icon svg"
+
+#: 
+msgid "Icon"
+msgstr "Icon"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG Picture"
+
+#: 
+msgid "Enable"
+msgstr "Enable"
+
+#: 
+msgid "Disable"
+msgstr "Disable"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Create new bank transfert"
+
+#: 
+msgid "Pending"
+msgstr "Pending"
+
+#: 
+msgid "Details"
+msgstr "Details"
+
+#: 
+msgid "Verified"
+msgstr "Verified"
+
+#: 
+msgid "Canceled"
+msgstr "Canceled"
+
+#: 
+msgid "Declined"
+msgstr "Declined"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Your Hitbtc Key"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Your Hitbtc Secret"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Your Bitbank Key"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Your Bitbank Secret"
+
+#: 
+msgid "User level"
+msgstr "User level"
+
+#: 
+msgid "Expire in"
+msgstr "Expire in"
+
+#: 
+msgid "Back to login"
+msgstr "Back to login"
+
+#: 
+msgid "Let's go !"
+msgstr "Let's go !"
+
+#: 
+msgid "Welcome"
+msgstr "Welcome"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Let's configure together your Dashboard."
+
+#: 
+msgid "Select your language"
+msgstr "Select your language"
+
+#: 
+msgid "Select your currency"
+msgstr "Select your currency"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Select your favorites crypto"
+
+#: 
+msgid "left need to be selected"
+msgstr "left need to be selected"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Configuration complete !"
+
+#: 
+msgid "will now refresh"
+msgstr "will now refresh"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Enable Perfect Money payment"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Perfect Money Payee Account"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Your Perfect Money Payee Account"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Mobile, browser, windows notifications"
+
+#: 
+msgid "Create price alert"
+msgstr "Create price alert"
+
+#: 
+msgid "I need help !"
+msgstr "I need help !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Download PushBullet app on your phone (available for Android & iOS)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Create an account on it"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Connect with your new account here"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Copy the key and paste it on the fill and click on save."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "An notification will be sent to check if connexion is successful."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium wait you !"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "More than 2000 crypto currencies"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Be alerted when an indicator grows or falls"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Responsive on mobile and tablet"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "News and social posts at the same place"
+
+#: 
+msgid "Support"
+msgstr "Support"
+
+#: 
+msgid "Phone"
+msgstr "Phone"
+
+#: 
+msgid "Address"
+msgstr "Adress"
+
+#: 
+msgid "Contact DPO"
+msgstr "Contact DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Your Binance Key"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Your Binance Secret"
+
+#: 
+msgid "Cardholder name"
+msgstr "Cardholder name"
+
+#: 
+msgid "Card number"
+msgstr "Card number"
+
+#: 
+msgid "Expiration"
+msgstr "Expiration"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "No order to show"
+
+#: 
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Verify your identiy"
+
+#: 
+msgid "Estimate balance"
+msgstr "Estimate balance"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2h"
+
+#: 
+msgid "1h"
+msgstr "1h"
+
+#: 
+msgid "30min"
+msgstr "30min"
+
+#: 
+msgid "Candlestick"
+msgstr "Candlestick"
+
+#: 
+msgid "Line"
+msgstr "Line"
+
+#: 
+msgid "Indicators"
+msgstr "Indicators"
+
+#: 
+msgid "Export"
+msgstr "Export"
+
+#: 
+msgid "Alert"
+msgstr "Alert"
+
+#: 
+msgid "Drawing"
+msgstr "Drawing"
+
+#: 
+msgid "Trend Line"
+msgstr "Trend Line"
+
+#: 
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgid "Create a new alert"
+msgstr "Create a new alert"
+
+#: 
+msgid "% Fees"
+msgstr "% Fees"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Cryptocurrency withdraw agreement"
+
+#: 
+msgid "Decline"
+msgstr "Decline"
+
+#: 
+msgid "Agree"
+msgstr "Agree"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Cryptocurrency deposit agreement"
+
+#: 
+msgid "Enable news popup"
+msgstr "Enable news popup"
+
+#: 
+msgid "News popup title"
+msgstr "News popup title"
+
+#: 
+msgid "Your news popup title"
+msgstr "Your news popup title"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "News popup video (put blank for not show video)"
+
+#: 
+msgid "News popup description"
+msgstr "News popup description"
+
+#: 
+msgid "Advert users"
+msgstr "Advert users"
+
+#: 
+msgid "Enable intro"
+msgstr "Enable intro"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Withdraw fees (in %)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Bank transfert alert when withdraw currency is not crypto-currency"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Cryptocurrencies allowed for bank transfert withdraw"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Estimate balance in"
+
+#: 
+msgid "Edit profile"
+msgstr "Edit profile"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Bank transfert deposit agreement"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomics payment Fees (in %)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Your blockonomics payment fees (in %)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumo payment Fees (in %)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Your fortumo payment fees (in %)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate payment Fees (in %)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Your coingate payment fees (in %)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Coinpayments payment Fees (in %)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Your coinpayment payment fees (in %)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave payment Fees (in %)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Your rave flutterwave payment fees (in %)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase commerce payment Fees (in %)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Your coinbase commerce payment fees (in %)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie payment Fees (in %)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Your mollie payment fees (in %)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Payeer payment Fees (in %)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Your payeer payment fees (in %)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Bank transfert payment Fees (in %)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Your bank transfert payment fees (in %)"
+
+#: 
+msgid "Add new"
+msgstr "Add new"
+
+#: 
+msgid "Bank accounts"
+msgstr "Bank accounts"
+
+#: 
+msgid "Add new bank account"
+msgstr "Add new bank account"
+
+#: 
+msgid "Bank account name"
+msgstr "Bank account name"
+
+#: 
+msgid "Your bank account name"
+msgstr "Your bank account name"
+
+#: 
+msgid "Bank account currency"
+msgstr "Bank account currency"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Bank account IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Bank account BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Your bank account BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Bank account address"
+
+#: 
+msgid "Your bank account address"
+msgstr "Your bank account address"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Bank account owner name"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Your bank account owner name"
+
+#: 
+msgid "* This is optional"
+msgstr "* This is optional"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Your bank account currency"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Your bank account IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Delete"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "You will receive a email confirmation"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Please follow this step for complete your withdrawal request."
+
+#: 
+msgid "You need to have at least"
+msgstr "You need to have at least"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "You don't have any filled balance available"
+
+#: 
+msgid "Total in "
+msgstr "Total in␣"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "You need to setup a widthdraw method"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Bank account BIC/SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Your bank account BIC/SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Day range\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Open day"
+
+#: 
+msgid "Volume 24H"
+msgstr "Direct Volume"
+
+#: 
+msgid "Direct Volume"
+msgstr "Direct Volume"
+
+#: 
+msgid "Load more data"
+msgstr "Load more data"
+
+#: 
+msgid "Qty"
+msgstr "Qty"
+
+#: 
+msgid "Gain"
+msgstr "Gain"
+
+#: 
+msgid "Price buy"
+msgstr "Price buy"
+
+#: 
+msgid "Disable chat"
+msgstr "Disable chat"
+
+#: 
+msgid "Total gain"
+msgstr "Total gain"
+
+#: 
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: 
+msgid "Unit price"
+msgstr "Unit price"
+
+#: 
+msgid "Investment"
+msgstr "Investment"
+
+#: 
+msgid "Quantity"
+msgstr "Quantity"
+
+#: 
+msgid "Commission"
+msgstr "Commission"
+
+#: 
+msgid "Confirm buying"
+msgstr "Confirm buying"
+
+#: 
+msgid "New user"
+msgstr "New user"
+
+#: 
+msgid "Order passed"
+msgstr "Order passed"
+
+#: 
+msgid "New subscription"
+msgstr "New subscription"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Show withdraw receiver infos."
+
+#: 
+msgid "Process"
+msgstr "Process"
+
+#: 
+msgid "Hide details"
+msgstr "Hide details"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Enable subscriptions"
+
+#: 
+msgid "Enable free trial"
+msgstr "Enable free trial"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Free trial duration (in day)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Free trial duration"
+
+#: 
+msgid "Premium features"
+msgstr "Premium features"
+
+#: 
+msgid "Free users features"
+msgstr "Free users features"
+
+#: 
+msgid "Add a new plan"
+msgstr "Add a new plan"
+
+#: 
+msgid "Name plan"
+msgstr "Name plan"
+
+#: 
+msgid "Price total"
+msgstr "Price total"
+
+#: 
+msgid "Duration in days"
+msgstr "Duration in days"
+
+#: 
+msgid "Duration"
+msgstr "Duration"
+
+#: 
+msgid "Add this plan"
+msgstr "Add this plan"
+
+#: 
+msgid "Plans available"
+msgstr "Plans available"
+
+#: 
+msgid "Price plan"
+msgstr "Price plan"
+
+#: 
+msgid "Duration in month"
+msgstr "Duration in month"
+
+#: 
+msgid "Price per month"
+msgstr "Price per month"
+
+#: 
+msgid "Account"
+msgstr "Account"
+
+#: 
+msgid "Exchanges"
+msgstr "Exchanges"
+
+#: 
+msgid "Total Free"
+msgstr "Total Free"
+
+#: 
+msgid "Total Used"
+msgstr "Total Used"
+
+#: 
+msgid "Order Ref."
+msgstr "Order Ref."
+
+#: 
+msgid "Ordered price"
+msgstr "Ordered price"
+
+#: 
+msgid "Current price"
+msgstr "Current price"
+
+#: 
+msgid "Evolution"
+msgstr "Evolution"
+
+#: 
+msgid "Enable identity system"
+msgstr "Enable identity system"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Block trading without identity verification"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Block deposit without identity verification"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Block withdraw without identity verification"
+
+#: 
+msgid "Approve"
+msgstr "Approve"
+
+#: 
+msgid "Identity ID"
+msgstr "Identity ID"
+
+#: 
+msgid "Identity step name"
+msgstr "Identity step name"
+
+#: 
+msgid "Identity step description"
+msgstr "Identity step description"
+
+#: 
+msgid "Identity order"
+msgstr "Identity order"
+
+#: 
+msgid "Down order"
+msgstr "Down order"
+
+#: 
+msgid "Up order"
+msgstr "Up order"
+
+#: 
+msgid "Add new identity step"
+msgstr "Add new identity step"
+
+#: 
+msgid "Your step name"
+msgstr "Your step name"
+
+#: 
+msgid "Your step description"
+msgstr "Your step description"
+
+#: 
+msgid "Identity step type"
+msgstr "Identity step type"
+
+#: 
+msgid "Upload new document"
+msgstr "Upload new document"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Choose in document type list"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Enable identity upload with webcam"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Webcam document ratio"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Ration (Width / Height)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Ratio (Width / Height)"
+
+#: 
+msgid "Document identity list"
+msgstr "Document identity list"
+
+#: 
+msgid "Add new identity document"
+msgstr "Add new identity document"
+
+#: 
+msgid "Your document name"
+msgstr "Your document name"
+
+#: 
+msgid "My Holding"
+msgstr "My Holding"
+
+#: 
+msgid "Holding"
+msgstr "Holding"
+
+#: 
+msgid "Market Value"
+msgstr "Market Value"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Profit / Loss"
+
+#: 
+msgid "Wallet"
+msgstr "Wallet"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Validate bank transfert"
+
+#: 
+msgid "Transfert received date"
+msgstr "Transfert received date"
+
+#: 
+msgid "Bank account received"
+msgstr "Bank account received"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Bank transfert reference"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Amount received in bank account"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Amount transfered to the user account"
+
+#: 
+msgid "User will receive"
+msgstr "User will receive"
+
+#: 
+msgid "Dark"
+msgstr "Dark"
+
+#: 
+msgid "White"
+msgstr "White"
+
+#: 
+msgid "Enable Donation"
+msgstr "Enable Donation"
+
+#: 
+msgid "Donation text"
+msgstr "Donation text"
+
+#: 
+msgid "Your donation text"
+msgstr "Your donation text"
+
+#: 
+msgid "Donation address list"
+msgstr "Donation address list"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Put 1 address per line"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Line format : BTC:ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Transactions history"
+
+#: 
+msgid "Description"
+msgstr "Description"
+
+#: 
+msgid "Reference ..."
+msgstr "Reference ..."
+
+#: 
+msgid "Reference"
+msgstr "Reference"
+
+#: 
+msgid "deposit"
+msgstr "deposit"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Dépot"
+
+#: 
+msgid "Unknown"
+msgstr "Unknown"
+
+#: 
+msgid "BUY order done"
+msgstr "BUY order done"
+
+#: 
+msgid "SELL order done"
+msgstr "SELL order done"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "SELL ORDER DONE"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "BUY ORDER DONE"
+
+#: 
+msgid "Add a new item"
+msgstr "Add a new item"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Your GDAX Key"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Your GDAX Pass"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Your GDAX Secret"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Your Bitmex ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Your Bitmex Secret"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Your OKCoin Key"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Your OKCoin Secret"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Your Luno Key ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Your Luno Secret"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Your Coinex Key"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Your Coinex Secret"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Your Btcmarket Key"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Your Btcmarket Secret"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Your Livecoin Key"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Your Livecoin Secret"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Your Quoinex Token ID"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Your Quoinex Secret"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Your Exmo Key"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Your Exmo Secret"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Your YoBit Key"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Your YoBit Secret"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Your Kucoin Key"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Your Kucoin Private"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Your CEX Key"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Your CEX Secret"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Your CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "My orders"
+
+#: 
+msgid "Size"
+msgstr "Size"
+
+#: 
+msgid "Limit price"
+msgstr "Limit price"
+
+#: 
+msgid "Place buy order"
+msgstr "Place buy order"
+
+#: 
+msgid "Place sell order"
+msgstr "Place sell order"
+
+#: 
+msgid "Method"
+msgstr "Method"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "You need to be logged at Coinex"
+
+#: 
+msgid "Enable live trading"
+msgstr "Enable live trading"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Login with Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "Week profit"
+
+#: 
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Enable leaderboard (native trading need to be enabled)"
+
+#: 
+msgid "Active"
+msgstr "Active"
+
+#: 
+msgid "Every"
+msgstr "Every"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Starting pair when new user signup"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Only 1 pair is allowed"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Starting watching list pair when new user signup"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 pair each for each line"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Format : MARKET:SYMBOL/CURRENCY"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "You need to be logged at Livecoin"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Login with Livecoin"
+
+#: 
+msgid "Email not valid"
+msgstr "Email not valid"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "You need to be logged at Yobit"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Login with Yobit"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Based on all wallet"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Your Poloniex Key"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Your Poloniex Secret"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Your trial version have expired !"
+
+#: 
+msgid "Become"
+msgstr "Become"
+
+#: 
+msgid "You will be charged"
+msgstr "You will be charged"
+
+#: 
+msgid "for"
+msgstr "for"
+
+#: 
+msgid "months"
+msgstr "months"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Your Kraken Key"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Your Kraken Private"
+
+#: 
+msgid "will be ready for you !"
+msgstr "will be ready for you !"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "You need to be logged at Binance"
+
+#: 
+msgid "Login with Binance"
+msgstr "Login with Binance"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "You need to be logged at Poloniex"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Login with Poloniex"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "You need to be logged at Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Login with Exmo"
+
+#: 
+msgid "View the article"
+msgstr "View the article"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Your Bittrex Key"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Your Bittrex Secret"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "You need to be logged at Kraken"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Login with Kraken"
+
+#: 
+msgid "Markets"
+msgstr "Markets"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Hide market (native trading need to be enabled)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Hide orders book"
+
+#: 
+msgid "Load orders book"
+msgstr "Load orders book"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Create an alert when ..."
+
+#: 
+msgid "Price is above"
+msgstr "Price is above"
+
+#: 
+msgid "Price is bellow"
+msgstr "Price is bellow"
+
+#: 
+msgid "Password not match"
+msgstr "Password not match"
+

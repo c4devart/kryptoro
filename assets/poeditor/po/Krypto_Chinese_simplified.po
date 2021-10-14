@@ -1,0 +1,2948 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: zh-CN\n"
+
+#: 
+msgid "Real account"
+msgstr "实质帐户"
+
+#: 
+msgid "Board"
+msgstr "图形\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "请开启横向模式"
+
+#: 
+msgid "chart"
+msgstr "图表"
+
+#: 
+msgid "charts or more"
+msgstr "更多图表内容"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "根据名字或符号查找"
+
+#: 
+msgid "real account"
+msgstr "实质帐户"
+
+#: 
+msgid "See all balances"
+msgstr "查看所有余额"
+
+#: 
+msgid "List accounts"
+msgstr "用户列表"
+
+#: 
+msgid "History"
+msgstr "历史"
+
+#: 
+msgid "Credit"
+msgstr "信用"
+
+#: 
+msgid "Widthdraw"
+msgstr "提取"
+
+#: 
+msgid "Order book"
+msgstr "定货簿"
+
+#: 
+msgid "Market"
+msgstr "市场"
+
+#: 
+msgid "Portfolio"
+msgstr "文件夹"
+
+#: 
+msgid "Leader board"
+msgstr "排行榜"
+
+#: 
+msgid "Calc."
+msgstr "计数机"
+
+#: 
+msgid "Watching"
+msgstr "观看"
+
+#: 
+msgid "News"
+msgstr "新消息"
+
+#: 
+msgid "Panel"
+msgstr "面板"
+
+#: 
+msgid "Manager"
+msgstr "经理人"
+
+#: 
+msgid "Admin"
+msgstr "管理员"
+
+#: 
+msgid "Converter"
+msgstr "转换器"
+
+#: 
+msgid "Social"
+msgstr "社交"
+
+#: 
+msgid "Calendar"
+msgstr "日程表"
+
+#: 
+msgid "Watchlist"
+msgstr "监督项目明细表"
+
+#: 
+msgid "Contact us"
+msgstr "联系我们"
+
+#: 
+msgid "January"
+msgstr "一月"
+
+#: 
+msgid "February"
+msgstr "二月"
+
+#: 
+msgid "March"
+msgstr "三月"
+
+#: 
+msgid "April"
+msgstr "四月"
+
+#: 
+msgid "May"
+msgstr "五月"
+
+#: 
+msgid "June"
+msgstr "六月"
+
+#: 
+msgid "July"
+msgstr "七月"
+
+#: 
+msgid "August"
+msgstr "八月"
+
+#: 
+msgid "September"
+msgstr "九月"
+
+#: 
+msgid "October"
+msgstr "十月"
+
+#: 
+msgid "November"
+msgstr "十一月"
+
+#: 
+msgid "December"
+msgstr "十二月"
+
+#: 
+msgid "Mon."
+msgstr "星期一"
+
+#: 
+msgid "Tue."
+msgstr "星期二"
+
+#: 
+msgid "Wed."
+msgstr "星期三"
+
+#: 
+msgid "Thu."
+msgstr "星期四"
+
+#: 
+msgid "Fri."
+msgstr "星期五"
+
+#: 
+msgid "Sat."
+msgstr "星期六"
+
+#: 
+msgid "Sun."
+msgstr "星期日"
+
+#: 
+msgid "Statistics"
+msgstr "统计表"
+
+#: 
+msgid "Bank transferts"
+msgstr "银行过户"
+
+#: 
+msgid "Payments"
+msgstr "支付"
+
+#: 
+msgid "Subscriptions"
+msgstr "订阅"
+
+#: 
+msgid "Identity"
+msgstr "身分"
+
+#: 
+msgid "Users"
+msgstr "使用者"
+
+#: 
+msgid "Orders"
+msgstr "定单"
+
+#: 
+msgid "Withdraw"
+msgstr "提取"
+
+#: 
+msgid "Currency"
+msgstr "货币"
+
+#: 
+msgid "Total trade"
+msgstr "交易总额"
+
+#: 
+msgid "Total deposit"
+msgstr "存款总额"
+
+#: 
+msgid "Total withdraw"
+msgstr "退出总额"
+
+#: 
+msgid "Fees"
+msgstr "费用"
+
+#: 
+msgid "Name"
+msgstr "姓名"
+
+#: 
+msgid "Email"
+msgstr "电子信箱"
+
+#: 
+msgid "Subscription"
+msgstr "订阅"
+
+#: 
+msgid "Signin method"
+msgstr "登录方法"
+
+#: 
+msgid "Last login"
+msgstr "上次登录时间"
+
+#: 
+msgid "Notifications enabled"
+msgstr "已启用通知"
+
+#: 
+msgid "Trial version"
+msgstr "试用版"
+
+#: 
+msgid "day"
+msgstr "天"
+
+#: 
+msgid "Edit"
+msgstr "编辑"
+
+#: 
+msgid "Inactive"
+msgstr "待用"
+
+#: 
+msgid "Enabled"
+msgstr "启用"
+
+#: 
+msgid "Ref"
+msgstr "参考资料"
+
+#: 
+msgid "User"
+msgstr "用户"
+
+#: 
+msgid "Order date"
+msgstr "订购日期"
+
+#: 
+msgid "Exchange"
+msgstr "交换"
+
+#: 
+msgid "Pair"
+msgstr "对"
+
+#: 
+msgid "Type"
+msgstr "类型"
+
+#: 
+msgid "Amount"
+msgstr "总计"
+
+#: 
+msgid "Received"
+msgstr "收到"
+
+#: 
+msgid "Total deducted"
+msgstr "总扣除额"
+
+#: 
+msgid "Total received"
+msgstr "收到的总数"
+
+#: 
+msgid "Buy"
+msgstr "购买"
+
+#: 
+msgid "Sell"
+msgstr "卖\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "硬币清单"
+
+#: 
+msgid "Market list"
+msgstr "市场清单"
+
+#: 
+msgid "Heatmap"
+msgstr "热图"
+
+#: 
+msgid "Price"
+msgstr "价钱"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "直接卷24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "总卷24H"
+
+#: 
+msgid "Market Cap"
+msgstr "市值"
+
+#: 
+msgid "Chg. 24H"
+msgstr "变动。 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h高/低"
+
+#: 
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: 
+msgid "General settings"
+msgstr "常规设置"
+
+#: 
+msgid "Coins"
+msgstr "硬币"
+
+#: 
+msgid "Currencies"
+msgstr "货币"
+
+#: 
+msgid "Mail settings"
+msgstr "邮件设置"
+
+#: 
+msgid "Payment"
+msgstr "付款"
+
+#: 
+msgid "News - Social"
+msgstr "新闻 - 社交"
+
+#: 
+msgid "Intro"
+msgstr "介绍"
+
+#: 
+msgid "Trading"
+msgstr "贸易"
+
+#: 
+msgid "Cron"
+msgstr "克龙"
+
+#: 
+msgid "Additional pages"
+msgstr "附加页面"
+
+#: 
+msgid "Today's visits"
+msgstr "今天的访问"
+
+#: 
+msgid "7 days visits"
+msgstr "7天访问"
+
+#: 
+msgid "Number of users"
+msgstr "用户数量"
+
+#: 
+msgid "Number of coins"
+msgstr "硬币数量"
+
+#: 
+msgid "Last users"
+msgstr "最后用户"
+
+#: 
+msgid "This website uses cookies"
+msgstr "本网站使用cookies"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "我们的网站使用cookie来检查我们网站上的网站流量和用户活动，以获得增强的有效用户体验，营销和提供社交媒体功能。"
+
+#: 
+msgid "Accept"
+msgstr "接受"
+
+#: 
+msgid "Your e-mail address"
+msgstr "您的电子邮件地址"
+
+#: 
+msgid "Your password"
+msgstr "你的密码"
+
+#: 
+msgid "Forgot password ?"
+msgstr "忘记密码 ？"
+
+#: 
+msgid "Login"
+msgstr "登录"
+
+#: 
+msgid "or"
+msgstr "要么"
+
+#: 
+msgid "Create a new account"
+msgstr "创建一个新账户"
+
+#: 
+msgid "practice account"
+msgstr "练习帐户"
+
+#: 
+msgid "Symbol"
+msgstr "符号"
+
+#: 
+msgid "Last"
+msgstr "持续"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng（％）"
+
+#: 
+msgid "Profile"
+msgstr "轮廓"
+
+#: 
+msgid "Notification"
+msgstr "通知"
+
+#: 
+msgid "Security"
+msgstr "安全"
+
+#: 
+msgid "Logout"
+msgstr "登出"
+
+#: 
+msgid "Your name"
+msgstr "你的名字"
+
+#: 
+msgid "Language"
+msgstr "语言"
+
+#: 
+msgid "Type chart"
+msgstr "键入图表"
+
+#: 
+msgid "Change your password"
+msgstr "更改您的密码"
+
+#: 
+msgid "Repeat your password"
+msgstr "重复你的密码"
+
+#: 
+msgid "Back"
+msgstr "背部"
+
+#: 
+msgid "Validate"
+msgstr "验证"
+
+#: 
+msgid "Title"
+msgstr "标题"
+
+#: 
+msgid "Your website title"
+msgstr "您的网站标题"
+
+#: 
+msgid "App description"
+msgstr "应用说明"
+
+#: 
+msgid "Referal link"
+msgstr "推荐链接"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "你的推荐链接（例如：Changelly）"
+
+#: 
+msgid "Maintenance mode"
+msgstr "维护模式"
+
+#: 
+msgid "Number format"
+msgstr "数字格式"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "将图表切换到交易视图图表"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "启用自动语言"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "启用POEditor语言"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API密钥"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "您的POEditor API密钥"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor项目选择器"
+
+#: 
+msgid "Allow signup"
+msgstr "允许注册"
+
+#: 
+msgid "User need verify account"
+msgstr "用户需要验证帐户"
+
+#: 
+msgid "Need captcha signup"
+msgstr "需要验证码注册"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha网站密钥"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "您的Google Recaptcha网站密钥"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha密钥"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "您的Google Recaptcha密钥"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin与谷歌"
+
+#: 
+msgid "Google App ID"
+msgstr "Google App ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "您的Google App ID"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google App Secret"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "您的Google App秘密"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin与Facebook"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "您的Facebook App ID"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "你的Facebook App秘密"
+
+#: 
+msgid "Google Analytics"
+msgstr "谷歌分析"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "启用Google广告"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google广告客户"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "您的Google广告客户"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google广告位"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "您的Google广告位"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "启用Cookie弹出窗口"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Cookie弹出标题"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "你的Cookie弹出标题"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Cookie弹出文本"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "你的Cookie弹出文字"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "黑名单国家"
+
+#: 
+msgid "Save"
+msgstr "保存"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "允许用户切换图表类型"
+
+#: 
+msgid "Done !"
+msgstr "做完了！"
+
+#: 
+msgid "quantity"
+msgstr "数量"
+
+#: 
+msgid "Enable native trading"
+msgstr "启用原生交易"
+
+#: 
+msgid "Balance configuration"
+msgstr "平衡配置"
+
+#: 
+msgid "Show balance estimation"
+msgstr "显示余额估算"
+
+#: 
+msgid "User user currency select"
+msgstr "用户用户货币选择"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "显示余额估算"
+
+#: 
+msgid "Referal system configuration"
+msgstr "推荐系统配置"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "启用referal（需要启用本机交易）"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referal comission（$，固定金额）"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referal comission（$，固定金额）ex：当referal注册并存入真实现金时，推荐赢5 $（值= 5）"
+
+#: 
+msgid "Deposit configuration"
+msgstr "存款配置"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "存款费用（％）"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "存款最低金额（以美元计）"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "存款最高金额（以美元计）"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "存款货币允许"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "存款钱包接收（如果钱包真实货币不可用）"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "提取配置"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "提取最低金额（以美元计）"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "提款处理时间（天）"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "提款处理时间（天数）=例如：3"
+
+#: 
+msgid "Trading configuration"
+msgstr "交易配置"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "交易费用（％）"
+
+#: 
+msgid "Order reference pattern"
+msgstr "订单参考模式"
+
+#: 
+msgid "Real account configuration"
+msgstr "真实账户配置"
+
+#: 
+msgid "Enable real account"
+msgstr "启用真实账户"
+
+#: 
+msgid "Practice account configuration"
+msgstr "练习帐户配置"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "最高免费押金（美元）"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "最高免费存款（以美元计算）：10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "免费存款钱包"
+
+#: 
+msgid "Ref."
+msgstr "参考。"
+
+#: 
+msgid "Submited date"
+msgstr "提交日期"
+
+#: 
+msgid "Status"
+msgstr "状态"
+
+#: 
+msgid "Document name"
+msgstr "文件名称"
+
+#: 
+msgid "Documents"
+msgstr "文件"
+
+#: 
+msgid "Not processed"
+msgstr "没有处理"
+
+#: 
+msgid "Processed"
+msgstr "处理"
+
+#: 
+msgid "Payment success"
+msgstr "付款成功"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "付款参考模式"
+
+#: 
+msgid "Enable SMTP"
+msgstr "启用S​​MTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP服务器"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "您的SMTP主机服务器"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP端口"
+
+#: 
+msgid "Your SMTP port"
+msgstr "您的SMTP端口"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP安全"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP用户"
+
+#: 
+msgid "Your SMTP user"
+msgstr "您的SMTP用户"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP密码"
+
+#: 
+msgid "Your SMTP password"
+msgstr "您的SMTP密码"
+
+#: 
+msgid "Email sender name"
+msgstr "电邮发件人姓名"
+
+#: 
+msgid "Support mail"
+msgstr "支持邮件"
+
+#: 
+msgid "Support Phone"
+msgstr "支持电话"
+
+#: 
+msgid "Support phone"
+msgstr "支持电话"
+
+#: 
+msgid "Support Address"
+msgstr "支持地址"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO邮件"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO电话"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO电话"
+
+#: 
+msgid "Send welcome mail"
+msgstr "发送欢迎邮件"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "欢迎邮件主题"
+
+#: 
+msgid "Calendar credentials"
+msgstr "日历凭据"
+
+#: 
+msgid "Enable calendar"
+msgstr "启用日历"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "日历客户端ID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "您的日历客户端ID"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "日历客户端密钥"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "仅显示与已启用硬币相关的事件"
+
+#: 
+msgid "News feed"
+msgstr "新闻提要"
+
+#: 
+msgid "Add news feed"
+msgstr "添加新闻Feed"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "您的RSS Feed链接"
+
+#: 
+msgid "Add"
+msgstr "加"
+
+#: 
+msgid "Name feed"
+msgstr "名称Feed"
+
+#: 
+msgid "Url"
+msgstr "网址"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter帐户"
+
+#: 
+msgid "Add twitter account"
+msgstr "添加Twitter帐户"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitter名称"
+
+#: 
+msgid "without"
+msgstr "无"
+
+#: 
+msgid "Social name"
+msgstr "社会名称"
+
+#: 
+msgid "Created date"
+msgstr "创建日期"
+
+#: 
+msgid "Amount paid"
+msgstr "支付的金额"
+
+#: 
+msgid "Wallet received"
+msgstr "钱包收到了"
+
+#: 
+msgid "Amount received"
+msgstr "收到的金额"
+
+#: 
+msgid "Payment gateway"
+msgstr "支付网关"
+
+#: 
+msgid "Proof"
+msgstr "证明"
+
+#: 
+msgid "Modify balance"
+msgstr "修改余额"
+
+#: 
+msgid "Select balance"
+msgstr "选择余额"
+
+#: 
+msgid "Modification type"
+msgstr "修改类型"
+
+#: 
+msgid "Modification value"
+msgstr "修改价值"
+
+#: 
+msgid "Add modification"
+msgstr "添加修改"
+
+#: 
+msgid "Card"
+msgstr "卡"
+
+#: 
+msgid "Balances"
+msgstr "余额"
+
+#: 
+msgid "Remove"
+msgstr "去掉"
+
+#: 
+msgid "Last location"
+msgstr "最后的位置"
+
+#: 
+msgid "Currency use"
+msgstr "货币使用"
+
+#: 
+msgid "Signup with"
+msgstr "注册"
+
+#: 
+msgid "Identity verification"
+msgstr "身份验证"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2步验证"
+
+#: 
+msgid "User status"
+msgstr "用户状态"
+
+#: 
+msgid "Login history"
+msgstr "登录历史记录"
+
+#: 
+msgid "More details"
+msgstr "更多细节"
+
+#: 
+msgid "Deposit history"
+msgstr "存款历史"
+
+#: 
+msgid "Total"
+msgstr "总"
+
+#: 
+msgid "Value in BTC"
+msgstr "BTC的价值"
+
+#: 
+msgid "Value in USD"
+msgstr "美元价值"
+
+#: 
+msgid "Withdraw method"
+msgstr "提款方法"
+
+#: 
+msgid "Date"
+msgstr "日期"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "问一个宽抽牌"
+
+#: 
+msgid "WITHDRAW"
+msgstr "收回"
+
+#: 
+msgid "paypal"
+msgstr "贝宝"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "选择收款人帐户"
+
+#: 
+msgid "Cancel"
+msgstr "取消"
+
+#: 
+msgid "Next"
+msgstr "下一个"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "通知的配置完成。"
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "你的PushBullet访问令牌"
+
+#: 
+msgid "Remove token"
+msgstr "删除令牌"
+
+#: 
+msgid "You are premium !"
+msgstr "你很优惠！"
+
+#: 
+msgid "left"
+msgstr "剩下"
+
+#: 
+msgid "Main settings"
+msgstr "主要设置"
+
+#: 
+msgid "Period"
+msgstr "期"
+
+#: 
+msgid "Colour"
+msgstr "颜色"
+
+#: 
+msgid "Thickness"
+msgstr "厚度"
+
+#: 
+msgid "Reset"
+msgstr "重启"
+
+#: 
+msgid "Apply"
+msgstr "应用"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "加入您的Google身份验证码"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "输入您的Google身份验证器代码"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "价值低于0.001 BTC的余额"
+
+#: 
+msgid "Hide small balance"
+msgstr "隐藏小平衡"
+
+#: 
+msgid "Estimate value"
+msgstr "估计价值"
+
+#: 
+msgid "Value in"
+msgstr "价值"
+
+#: 
+msgid "Deposit"
+msgstr "存款"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google Authentification已启用！"
+
+#: 
+msgid "Set as done"
+msgstr "设置完成"
+
+#: 
+msgid "Close"
+msgstr "关"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google身份验证器代码无效"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "您将通过电子邮件收到宽幅确认"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "参考，用户ID，类型，货币"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Widthdraw过滤器"
+
+#: 
+msgid "Default"
+msgstr "默认"
+
+#: 
+msgid "Not confirmed"
+msgstr "还没有确定"
+
+#: 
+msgid "Done"
+msgstr "完成"
+
+#: 
+msgid "Payment filter"
+msgstr "付款过滤器"
+
+#: 
+msgid "Need to be approved"
+msgstr "需要获得批准"
+
+#: 
+msgid "Paid"
+msgstr "付费"
+
+#: 
+msgid "Not paid"
+msgstr "未支付"
+
+#: 
+msgid "All payments"
+msgstr "所有付款"
+
+#: 
+msgid "Ask a proof"
+msgstr "问一个证明"
+
+#: 
+msgid "Bank ref."
+msgstr "银行参考"
+
+#: 
+msgid "Proof received"
+msgstr "收到证明"
+
+#: 
+msgid "In pending"
+msgstr "待定"
+
+#: 
+msgid "All widthdraw"
+msgstr "所有宽抽牌"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "提取参考模式"
+
+#: 
+msgid "Withdraw filter"
+msgstr "提取过滤器"
+
+#: 
+msgid "Withdraw infos"
+msgstr "提取信息"
+
+#: 
+msgid "year"
+msgstr "年"
+
+#: 
+msgid "month"
+msgstr "月"
+
+#: 
+msgid "week"
+msgstr "周"
+
+#: 
+msgid "hour"
+msgstr "小时"
+
+#: 
+msgid "minute"
+msgstr "分钟"
+
+#: 
+msgid "second"
+msgstr "第二"
+
+#: 
+msgid "ago"
+msgstr "前"
+
+#: 
+msgid "Bank transfert"
+msgstr "银行转账"
+
+#: 
+msgid "Deposit amount"
+msgstr "存款金额"
+
+#: 
+msgid "Fill up"
+msgstr "填上"
+
+#: 
+msgid "It's free"
+msgstr "免费"
+
+#: 
+msgid "You will receive"
+msgstr "您将收到"
+
+#: 
+msgid "Add real funds"
+msgstr "添加真实资金"
+
+#: 
+msgid "Minimal deposit"
+msgstr "最低存款额"
+
+#: 
+msgid "Enable credit card"
+msgstr "启用信用卡"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe私钥"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "您的Stripe API密钥"
+
+#: 
+msgid "Enable Paypal"
+msgstr "启用Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "启用Paypal Live模式"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal客户端ID"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "您的PayPal客户端ID"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal客户端秘密"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "您的PayPal客户端秘密"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "启用Blockonomics"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomics密钥"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "你的区块经济学秘密密钥"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "启用Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo秘密密钥"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "你的秘密钥匙"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo服务密钥"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "您的fortumo服务密钥"
+
+#: 
+msgid "Enable Coingate"
+msgstr "启用Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "启用CoinGate实时模式"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "你的CoinGate Auth Token"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate收到货币"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "启用Coinpayments"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "共付公钥"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "您的Coinpayments公钥"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Coinpayments私钥"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "您的共同支付私钥"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Coinpayments Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "您的Coinpayments Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Coinpayments IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "你的Coinpayments IPN秘密"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "启用Rave Flutterwave付款"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "沙盒模式Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave公钥"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "你的Rave Flutterwave公钥"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave密钥"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "你的Rave Flutterwave密钥"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave付款标题"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "您的Rave Flutterwave付款标题"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave付款前缀"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "您的Rave Flutterwave付款前缀（例如：KRYP）"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "启用Coinbase Commerce付款"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase商业API密钥"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "您的Coinbase商务API密钥"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase商业支付标题"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "您的Coinbase商业付款标题"
+
+#: 
+msgid "Enable Mollie"
+msgstr "启用Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "你的Mollie钥匙"
+
+#: 
+msgid "Enable Payeer"
+msgstr "启用Payeer"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Payeer商店ID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "您的Payeer商店ID"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer API密钥"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "您的Payeer API密钥"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "启用银行转帐"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "银行同时转账最多"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "启用了银行转账证明"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "银行转账最高证明"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "你的双子座钥匙"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "你的双子座秘密"
+
+#: 
+msgid "Select your platform"
+msgstr "选择您的平台"
+
+#: 
+msgid "Sandbox"
+msgstr "砂箱"
+
+#: 
+msgid "Live"
+msgstr "生活"
+
+#: 
+msgid "Cron time"
+msgstr "克朗时间"
+
+#: 
+msgid "Last update"
+msgstr "最后更新"
+
+#: 
+msgid "Sync delay"
+msgstr "同步延迟"
+
+#: 
+msgid "Add additional page"
+msgstr "添加其他页面"
+
+#: 
+msgid "Page name"
+msgstr "页面名称"
+
+#: 
+msgid "Page URL"
+msgstr "页面URL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "页面图标（例如：lnr-home）"
+
+#: 
+msgid "Or page icon svg"
+msgstr "或页面图标svg"
+
+#: 
+msgid "Icon"
+msgstr "图标"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG图片"
+
+#: 
+msgid "Enable"
+msgstr "启用"
+
+#: 
+msgid "Disable"
+msgstr "禁用"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "创建新的银行转账"
+
+#: 
+msgid "Pending"
+msgstr "有待"
+
+#: 
+msgid "Details"
+msgstr "细节"
+
+#: 
+msgid "Verified"
+msgstr "验证"
+
+#: 
+msgid "Canceled"
+msgstr "取消"
+
+#: 
+msgid "Declined"
+msgstr "下降"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "你的Hitbtc密钥"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "你的Hitbtc秘密"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "你的比特银行密钥"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "你的比特银行秘密"
+
+#: 
+msgid "User level"
+msgstr "用户级别"
+
+#: 
+msgid "Expire in"
+msgstr "过期"
+
+#: 
+msgid "Back to login"
+msgstr "回到登入"
+
+#: 
+msgid "Let's go !"
+msgstr "我们走吧 ！"
+
+#: 
+msgid "Welcome"
+msgstr "欢迎"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "让我们一起配置您的仪表板。"
+
+#: 
+msgid "Select your language"
+msgstr "选择你的语言"
+
+#: 
+msgid "Select your currency"
+msgstr "选择您的货币"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "选择你喜欢的加密"
+
+#: 
+msgid "left need to be selected"
+msgstr "左边需要选择"
+
+#: 
+msgid "Configuration complete !"
+msgstr "配置完成！"
+
+#: 
+msgid "will now refresh"
+msgstr "现在将刷新"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "启用Perfect Money付款"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "完美的货币收款人帐户"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "您的完美货币收款人帐户"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "移动，浏览器，Windows通知"
+
+#: 
+msgid "Create price alert"
+msgstr "创建价格提醒"
+
+#: 
+msgid "I need help !"
+msgstr "我需要帮助 ！"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "在手机上下载PushBullet应用程序（适用于Android和iOS）"
+
+#: 
+msgid "Create an account on it"
+msgstr "在上面创建一个帐户"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "在此处与您的新帐户关联"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "继续<b>设置</ b>> <b>帐户</ b>并创建<b>访问令牌</ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "复制密钥并将其粘贴到填充上，然后单击“保存”。"
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "将发送通知以检查连接是否成功。"
+
+#: 
+msgid "Premium wait you !"
+msgstr "高级等你！"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "超过2000种加密货币"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "当指标增长或下降时收到警报"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "对手机和平板电脑有所回应"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "新闻和社交帖子在同一个地方"
+
+#: 
+msgid "Support"
+msgstr "支持"
+
+#: 
+msgid "Phone"
+msgstr "电话"
+
+#: 
+msgid "Address"
+msgstr "ADRESS"
+
+#: 
+msgid "Contact DPO"
+msgstr "联系DPO"
+
+#: 
+msgid "Your Binance Key"
+msgstr "您的平衡键"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "你的Binance秘密"
+
+#: 
+msgid "Cardholder name"
+msgstr "持卡人姓名"
+
+#: 
+msgid "Card number"
+msgstr "卡号"
+
+#: 
+msgid "Expiration"
+msgstr "呼气"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "没有命令显示"
+
+#: 
+msgid "Premium"
+msgstr "额外费用"
+
+#: 
+msgid "Verify your identiy"
+msgstr "验证您的身份"
+
+#: 
+msgid "Estimate balance"
+msgstr "估计平衡"
+
+#: 
+msgid "5m"
+msgstr "5米"
+
+#: 
+msgid "1m"
+msgstr "1米"
+
+#: 
+msgid "2w"
+msgstr "2瓦特"
+
+#: 
+msgid "7d"
+msgstr "7D"
+
+#: 
+msgid "1d"
+msgstr "1D"
+
+#: 
+msgid "12h"
+msgstr "12小时"
+
+#: 
+msgid "2h"
+msgstr "2H"
+
+#: 
+msgid "1h"
+msgstr "1H"
+
+#: 
+msgid "30min"
+msgstr "30分钟"
+
+#: 
+msgid "Candlestick"
+msgstr "檠"
+
+#: 
+msgid "Line"
+msgstr "线"
+
+#: 
+msgid "Indicators"
+msgstr "指标"
+
+#: 
+msgid "Export"
+msgstr "出口"
+
+#: 
+msgid "Alert"
+msgstr "警报"
+
+#: 
+msgid "Drawing"
+msgstr "画画"
+
+#: 
+msgid "Trend Line"
+msgstr "趋势线"
+
+#: 
+msgid "Text"
+msgstr "文本"
+
+#: 
+msgid "Create a new alert"
+msgstr "创建新警报"
+
+#: 
+msgid "% Fees"
+msgstr "％ 费用"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "加密货币撤销协议"
+
+#: 
+msgid "Decline"
+msgstr "下降"
+
+#: 
+msgid "Agree"
+msgstr "同意"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "加密货币存款协议"
+
+#: 
+msgid "Enable news popup"
+msgstr "启用新闻弹出窗口"
+
+#: 
+msgid "News popup title"
+msgstr "新闻弹出标题"
+
+#: 
+msgid "Your news popup title"
+msgstr "你的新闻弹出标题"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "新闻弹出视频（不显示视频空白）"
+
+#: 
+msgid "News popup description"
+msgstr "新闻弹出说明"
+
+#: 
+msgid "Advert users"
+msgstr "广告用户"
+
+#: 
+msgid "Enable intro"
+msgstr "启用介绍"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "提取费用（％）"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "提款时银行转账提示不是加密货币"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "加密货币允许银行转账撤回"
+
+#: 
+msgid "Estimate balance in"
+msgstr "估计平衡"
+
+#: 
+msgid "Edit profile"
+msgstr "编辑个人资料"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "银行转账存款协议"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "区块经济学支付费用（％）"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "您的区块经济学支付费用（％）"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumo支付费用（％）"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "您的fortumo支付费用（％）"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate付款费用（％）"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "您的同事支付费用（％）"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "公司支付费用（％）"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "您的币付款费用（％）"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave支付费用（％）"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "你狂热的扑克支付费用（％）"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase商业支付费用（％）"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "您的coinbase商业支付费用（％）"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie支付费用（％）"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "您的mollie支付费用（％）"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Payeer支付费用（％）"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "您的收款人付款费用（％）"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "银行转账付款费​​用（％）"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "您的银行转帐付款费用（％）"
+
+#: 
+msgid "Add new"
+msgstr "添新"
+
+#: 
+msgid "Bank accounts"
+msgstr "银行账户"
+
+#: 
+msgid "Add new bank account"
+msgstr "添加新的银行帐户"
+
+#: 
+msgid "Bank account name"
+msgstr "银行帐户名称"
+
+#: 
+msgid "Your bank account name"
+msgstr "您的银行帐户名称"
+
+#: 
+msgid "Bank account currency"
+msgstr "银行账户货币"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "银行账户IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "银行账户BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "您的银行帐户BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "银行帐户地址"
+
+#: 
+msgid "Your bank account address"
+msgstr "您的银行帐户地址"
+
+#: 
+msgid "Bank account owner name"
+msgstr "银行帐户所有者名称"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "您的银行帐户所有者名称"
+
+#: 
+msgid "* This is optional"
+msgstr "*这是可选的"
+
+#: 
+msgid "Your bank account currency"
+msgstr "您的银行帐户货币"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "您的银行帐户IBAN"
+
+#: 
+msgid "Delete"
+msgstr "删除"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "您可以选择“页面图标”和“页面图标svg”（页面图标优先） - 列出此处可用的图标"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "您将收到一封确认电子邮件"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "请按照此步骤完成提款请求。"
+
+#: 
+msgid "You need to have at least"
+msgstr "你至少需要"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "您没有任何已填充的余额"
+
+#: 
+msgid "Total in "
+msgstr "总计in␣"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "您需要设置一个widthdraw方法"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "银行账户BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "您的银行帐户BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "日间范围\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "开放日"
+
+#: 
+msgid "Volume 24H"
+msgstr "直接卷"
+
+#: 
+msgid "Direct Volume"
+msgstr "直接卷"
+
+#: 
+msgid "Load more data"
+msgstr "加载更多数据"
+
+#: 
+msgid "Qty"
+msgstr "数量"
+
+#: 
+msgid "Gain"
+msgstr "获得"
+
+#: 
+msgid "Price buy"
+msgstr "价格买"
+
+#: 
+msgid "Disable chat"
+msgstr "禁用聊天"
+
+#: 
+msgid "Total gain"
+msgstr "总收益"
+
+#: 
+msgid "Confirmation"
+msgstr "确认"
+
+#: 
+msgid "Unit price"
+msgstr "单价"
+
+#: 
+msgid "Investment"
+msgstr "投资"
+
+#: 
+msgid "Quantity"
+msgstr "数量"
+
+#: 
+msgid "Commission"
+msgstr "佣金"
+
+#: 
+msgid "Confirm buying"
+msgstr "确认购买"
+
+#: 
+msgid "New user"
+msgstr "新用户"
+
+#: 
+msgid "Order passed"
+msgstr "订单通过"
+
+#: 
+msgid "New subscription"
+msgstr "新订阅"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "显示撤回接收者信息。"
+
+#: 
+msgid "Process"
+msgstr "处理"
+
+#: 
+msgid "Hide details"
+msgstr "隐藏细节"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "启用订阅"
+
+#: 
+msgid "Enable free trial"
+msgstr "启用免费试用"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "免费试用期（当天）"
+
+#: 
+msgid "Free trial duration"
+msgstr "免费试用期"
+
+#: 
+msgid "Premium features"
+msgstr "高级功能"
+
+#: 
+msgid "Free users features"
+msgstr "免费用户功能"
+
+#: 
+msgid "Add a new plan"
+msgstr "添加新计划"
+
+#: 
+msgid "Name plan"
+msgstr "名称计划"
+
+#: 
+msgid "Price total"
+msgstr "价格总计"
+
+#: 
+msgid "Duration in days"
+msgstr "持续时间（天）"
+
+#: 
+msgid "Duration"
+msgstr "持续时间"
+
+#: 
+msgid "Add this plan"
+msgstr "添加此计划"
+
+#: 
+msgid "Plans available"
+msgstr "计划可用"
+
+#: 
+msgid "Price plan"
+msgstr "价格计划"
+
+#: 
+msgid "Duration in month"
+msgstr "月份持续时间"
+
+#: 
+msgid "Price per month"
+msgstr "每月价格"
+
+#: 
+msgid "Account"
+msgstr "帐户"
+
+#: 
+msgid "Exchanges"
+msgstr "交易所"
+
+#: 
+msgid "Total Free"
+msgstr "总免费"
+
+#: 
+msgid "Total Used"
+msgstr "总使用量"
+
+#: 
+msgid "Order Ref."
+msgstr "订单参考"
+
+#: 
+msgid "Ordered price"
+msgstr "订购价格"
+
+#: 
+msgid "Current price"
+msgstr "时价"
+
+#: 
+msgid "Evolution"
+msgstr "演化"
+
+#: 
+msgid "Enable identity system"
+msgstr "启用身份系统"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "阻止交易而无需身份验证"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "在没有身份验证的情"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "阻止撤销，无需身份验证"
+
+#: 
+msgid "Approve"
+msgstr "批准"
+
+#: 
+msgid "Identity ID"
+msgstr "身份证"
+
+#: 
+msgid "Identity step name"
+msgstr "身份步骤名称"
+
+#: 
+msgid "Identity step description"
+msgstr "身份步骤描述"
+
+#: 
+msgid "Identity order"
+msgstr "身份订单"
+
+#: 
+msgid "Down order"
+msgstr "下订单"
+
+#: 
+msgid "Up order"
+msgstr "订单"
+
+#: 
+msgid "Add new identity step"
+msgstr "添加新的身份步骤"
+
+#: 
+msgid "Your step name"
+msgstr "你的步骤名称"
+
+#: 
+msgid "Your step description"
+msgstr "你的步骤描述"
+
+#: 
+msgid "Identity step type"
+msgstr "身份步骤类型"
+
+#: 
+msgid "Upload new document"
+msgstr "上传新文件"
+
+#: 
+msgid "Choose in document type list"
+msgstr "选择文档类型列表"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "使用网络摄像头启用身份上传"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "网络摄像头文件比率"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "定量（宽度/高度）"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "比率（宽度/高度）"
+
+#: 
+msgid "Document identity list"
+msgstr "文件身份清单"
+
+#: 
+msgid "Add new identity document"
+msgstr "添加新的身份证件"
+
+#: 
+msgid "Your document name"
+msgstr "您的文档名称"
+
+#: 
+msgid "My Holding"
+msgstr "我抱着"
+
+#: 
+msgid "Holding"
+msgstr "保持"
+
+#: 
+msgid "Market Value"
+msgstr "市场价值"
+
+#: 
+msgid "Profit / Loss"
+msgstr "利润损失"
+
+#: 
+msgid "Wallet"
+msgstr "钱包"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "验证银行转账"
+
+#: 
+msgid "Transfert received date"
+msgstr "Transfert收到日期"
+
+#: 
+msgid "Bank account received"
+msgstr "收到银行账户"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "银行转账参考"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "银行帐户中收到的金额"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "金额转移到用户帐户"
+
+#: 
+msgid "User will receive"
+msgstr "用户将收到"
+
+#: 
+msgid "Dark"
+msgstr "黑暗"
+
+#: 
+msgid "White"
+msgstr "白色"
+
+#: 
+msgid "Enable Donation"
+msgstr "启用捐款"
+
+#: 
+msgid "Donation text"
+msgstr "捐赠文本"
+
+#: 
+msgid "Your donation text"
+msgstr "你的捐款文本"
+
+#: 
+msgid "Donation address list"
+msgstr "捐赠地址清单"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "每行放1个地址"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "行格式：BTC：ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "在我们的面前微笑并通过捐赠来支持我们:)"
+
+#: 
+msgid "Transactions history"
+msgstr "交易历史"
+
+#: 
+msgid "Description"
+msgstr "描述"
+
+#: 
+msgid "Reference ..."
+msgstr "参考......"
+
+#: 
+msgid "Reference"
+msgstr "参考"
+
+#: 
+msgid "deposit"
+msgstr "存款"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "仓库"
+
+#: 
+msgid "Unknown"
+msgstr "未知"
+
+#: 
+msgid "BUY order done"
+msgstr "买单已完成"
+
+#: 
+msgid "SELL order done"
+msgstr "卖完订单"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "卖出订单"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "购买订单"
+
+#: 
+msgid "Add a new item"
+msgstr "添加新项目"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "你的GDAX密钥"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "你的GDAX通行证"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "你的GDAX秘密"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "你的Bitmex ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "你的Bitmex秘密"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "你的OKCoin密钥"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "你的OKCoin秘密"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "你的Luno Key ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "你的Luno秘密"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "你的Coinex钥匙"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "你的Coinex秘密"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "你的Btcmarket钥匙"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "你的Btcmarket秘密"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "你的Livecoin钥匙"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "你的Livecoin秘密"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "您的Quoinex令牌ID"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "你的Quoinex秘密"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "你的Exmo Key"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "你的Exmo Secret"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "你的YoBit密钥"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "你的YoBit秘密"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "你的Kucoin钥匙"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "你的Kucoin私人"
+
+#: 
+msgid "Your CEX Key"
+msgstr "你的CEX密钥"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "你的CEX秘密"
+
+#: 
+msgid "Your CEX UID"
+msgstr "你的CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "我的订单"
+
+#: 
+msgid "Size"
+msgstr "尺寸"
+
+#: 
+msgid "Limit price"
+msgstr "限价"
+
+#: 
+msgid "Place buy order"
+msgstr "下订单"
+
+#: 
+msgid "Place sell order"
+msgstr "下订单"
+
+#: 
+msgid "Method"
+msgstr "方法"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "您需要在Coinex登录"
+
+#: 
+msgid "Enable live trading"
+msgstr "启用实时交易"
+
+#: 
+msgid "Login with Coinex"
+msgstr "登录Coinex"
+
+#: 
+msgid "Week profit"
+msgstr "周利润"
+
+#: 
+msgid "Leaderboard"
+msgstr "排行榜"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "启用排行榜（需要启用本机交易）"
+
+#: 
+msgid "Active"
+msgstr "活性"
+
+#: 
+msgid "Every"
+msgstr "一切"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "新用户注册时启动对"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "只允许1对"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "新用户注册时开始观看列表对"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "每行1对"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "格式：市场：符号/货币"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "你需要在Livecoin登录"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "使用Livecoin登录"
+
+#: 
+msgid "Email not valid"
+msgstr "电子邮件无效"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "您需要在Yobit登录"
+
+#: 
+msgid "Login with Yobit"
+msgstr "用Yobit登录"
+
+#: 
+msgid "Based on all wallet"
+msgstr "基于所有钱包"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "你的Poloniex钥匙"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "你的Poloniex秘密"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "您的试用版已过期！"
+
+#: 
+msgid "Become"
+msgstr "成为"
+
+#: 
+msgid "You will be charged"
+msgstr "您将被收取费用"
+
+#: 
+msgid "for"
+msgstr "对于"
+
+#: 
+msgid "months"
+msgstr "个月"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "你的海妖钥匙"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "你的海妖私人"
+
+#: 
+msgid "will be ready for you !"
+msgstr "会为你准备好的！"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "您需要在Binance登录"
+
+#: 
+msgid "Login with Binance"
+msgstr "用Binance登录"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "你需要在Poloniex登录"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "用Poloniex登录"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "您需要在Exmo登录"
+
+#: 
+msgid "Login with Exmo"
+msgstr "使用Exmo登录"
+
+#: 
+msgid "View the article"
+msgstr "查看文章"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "你的Bittrex密钥"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "你的Bittrex秘密"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "你需要在Kraken登录"
+
+#: 
+msgid "Login with Kraken"
+msgstr "登录Kraken"
+
+#: 
+msgid "Markets"
+msgstr "市场"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "隐藏市场（需要启用原生交易）"
+
+#: 
+msgid "Hide orders book"
+msgstr "隐藏订单簿"
+
+#: 
+msgid "Load orders book"
+msgstr "加载订单簿"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "在......时创建提醒"
+
+#: 
+msgid "Price is above"
+msgstr "价格高于"
+
+#: 
+msgid "Price is bellow"
+msgstr "价格低于"
+
+#: 
+msgid "Password not match"
+msgstr "密码不匹配"
+

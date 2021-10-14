@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: et\n"
+
+#: 
+msgid "Real account"
+msgstr "Reaalne konto"
+
+#: 
+msgid "Board"
+msgstr "Graafik\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "Palun pöörake"
+
+#: 
+msgid "chart"
+msgstr "diagramm\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "graafikud või rohkem"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "Otsi nime või sümboli järgi"
+
+#: 
+msgid "real account"
+msgstr "reaalne konto\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "Vaadake kõiki tasakaalu"
+
+#: 
+msgid "List accounts"
+msgstr "Nimekirja kontod\n"
+""
+
+#: 
+msgid "History"
+msgstr "Ajalugu"
+
+#: 
+msgid "Credit"
+msgstr "Krediit"
+
+#: 
+msgid "Widthdraw"
+msgstr "Laiuslõik"
+
+#: 
+msgid "Order book"
+msgstr "Telli raamatut"
+
+#: 
+msgid "Market"
+msgstr "Turg"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfell"
+
+#: 
+msgid "Leader board"
+msgstr "Leaderi pardal"
+
+#: 
+msgid "Calc."
+msgstr "Calc"
+
+#: 
+msgid "Watching"
+msgstr "Vaadates"
+
+#: 
+msgid "News"
+msgstr "Uudised"
+
+#: 
+msgid "Panel"
+msgstr "Paneel"
+
+#: 
+msgid "Manager"
+msgstr "Haldur"
+
+#: 
+msgid "Admin"
+msgstr "Administraator"
+
+#: 
+msgid "Converter"
+msgstr "Konverter"
+
+#: 
+msgid "Social"
+msgstr "Sotsiaalne"
+
+#: 
+msgid "Calendar"
+msgstr "Kalender"
+
+#: 
+msgid "Watchlist"
+msgstr "Vaata nimekirja"
+
+#: 
+msgid "Contact us"
+msgstr "Võta meiega ühendust"
+
+#: 
+msgid "January"
+msgstr "Jaanuar"
+
+#: 
+msgid "February"
+msgstr "Veebruar"
+
+#: 
+msgid "March"
+msgstr "Märts"
+
+#: 
+msgid "April"
+msgstr "Aprill"
+
+#: 
+msgid "May"
+msgstr "Mai"
+
+#: 
+msgid "June"
+msgstr "Juuni"
+
+#: 
+msgid "July"
+msgstr "Juuli"
+
+#: 
+msgid "August"
+msgstr "august"
+
+#: 
+msgid "September"
+msgstr "September"
+
+#: 
+msgid "October"
+msgstr "Oktoober"
+
+#: 
+msgid "November"
+msgstr "November"
+
+#: 
+msgid "December"
+msgstr "Detsember"
+
+#: 
+msgid "Mon."
+msgstr "Ee"
+
+#: 
+msgid "Tue."
+msgstr "Tue"
+
+#: 
+msgid "Wed."
+msgstr "Kolmapäev"
+
+#: 
+msgid "Thu."
+msgstr "Hn"
+
+#: 
+msgid "Fri."
+msgstr "Reede"
+
+#: 
+msgid "Sat."
+msgstr "Laupäev"
+
+#: 
+msgid "Sun."
+msgstr "Päike"
+
+#: 
+msgid "Statistics"
+msgstr "Statistika"
+
+#: 
+msgid "Bank transferts"
+msgstr "Pangaülekanded"
+
+#: 
+msgid "Payments"
+msgstr "Maksed"
+
+#: 
+msgid "Subscriptions"
+msgstr "Tellimused"
+
+#: 
+msgid "Identity"
+msgstr "Isikutunnistus"
+
+#: 
+msgid "Users"
+msgstr "Kasutajad"
+
+#: 
+msgid "Orders"
+msgstr "Tellimused"
+
+#: 
+msgid "Withdraw"
+msgstr "Tagasi võtma"
+
+#: 
+msgid "Currency"
+msgstr "Valuuta"
+
+#: 
+msgid "Total trade"
+msgstr "Üldkaubandus"
+
+#: 
+msgid "Total deposit"
+msgstr "Kokku hoius"
+
+#: 
+msgid "Total withdraw"
+msgstr "Kokku väljavõtmine"
+
+#: 
+msgid "Fees"
+msgstr "Tasud"
+
+#: 
+msgid "Name"
+msgstr "Nimi"
+
+#: 
+msgid "Email"
+msgstr "E-post"
+
+#: 
+msgid "Subscription"
+msgstr "Tellimine"
+
+#: 
+msgid "Signin method"
+msgstr "Signin-meetod"
+
+#: 
+msgid "Last login"
+msgstr "Viimane sisselogimine"
+
+#: 
+msgid "Notifications enabled"
+msgstr "Teated on lubatud"
+
+#: 
+msgid "Trial version"
+msgstr "Prooviversioon"
+
+#: 
+msgid "day"
+msgstr "päev"
+
+#: 
+msgid "Edit"
+msgstr "Muuda"
+
+#: 
+msgid "Inactive"
+msgstr "Mitteaktiivne"
+
+#: 
+msgid "Enabled"
+msgstr "Lubatud"
+
+#: 
+msgid "Ref"
+msgstr "Viide"
+
+#: 
+msgid "User"
+msgstr "Kasutaja"
+
+#: 
+msgid "Order date"
+msgstr "Tellimuse kuupäev"
+
+#: 
+msgid "Exchange"
+msgstr "Vahetus"
+
+#: 
+msgid "Pair"
+msgstr "Paari"
+
+#: 
+msgid "Type"
+msgstr "Tüüp"
+
+#: 
+msgid "Amount"
+msgstr "Summa"
+
+#: 
+msgid "Received"
+msgstr "Vastu võetud"
+
+#: 
+msgid "Total deducted"
+msgstr "Kokku maha arvata"
+
+#: 
+msgid "Total received"
+msgstr "Kokku saadud"
+
+#: 
+msgid "Buy"
+msgstr "Osta"
+
+#: 
+msgid "Sell"
+msgstr "Müüa\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "Müntide nimekiri"
+
+#: 
+msgid "Market list"
+msgstr "Turu nimekiri"
+
+#: 
+msgid "Heatmap"
+msgstr "Soojuskaart"
+
+#: 
+msgid "Price"
+msgstr "Hind"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Otsene köide 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "Kogumaht 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "Turupiirkond"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h kõrge / madal"
+
+#: 
+msgid "Dashboard"
+msgstr "Armatuurlaud"
+
+#: 
+msgid "General settings"
+msgstr "Üldised seaded"
+
+#: 
+msgid "Coins"
+msgstr "Mündid"
+
+#: 
+msgid "Currencies"
+msgstr "Valuuta"
+
+#: 
+msgid "Mail settings"
+msgstr "Posti seaded"
+
+#: 
+msgid "Payment"
+msgstr "Makse"
+
+#: 
+msgid "News - Social"
+msgstr "Uudised - Sotsiaalne"
+
+#: 
+msgid "Intro"
+msgstr "Sissejuhatus"
+
+#: 
+msgid "Trading"
+msgstr "Kauplemine"
+
+#: 
+msgid "Cron"
+msgstr "Cron"
+
+#: 
+msgid "Additional pages"
+msgstr "Lisalehed"
+
+#: 
+msgid "Today's visits"
+msgstr "Tänased visiidid"
+
+#: 
+msgid "7 days visits"
+msgstr "7 päeva külastused"
+
+#: 
+msgid "Number of users"
+msgstr "Kasutajate arv"
+
+#: 
+msgid "Number of coins"
+msgstr "Müntide arv"
+
+#: 
+msgid "Last users"
+msgstr "Viimased kasutajad"
+
+#: 
+msgid "This website uses cookies"
+msgstr "See veebisait kasutab küpsiseid"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "Meie veebisait kasutab küpsiseid veebisaidi liikluse ja kasutaja tegevuse uurimiseks meie saidil, täiustatud ja tõhusa kasutajakogemuse, turunduse ja sotsiaalmeedia funktsionaalsuse pakkumiseks."
+
+#: 
+msgid "Accept"
+msgstr "Nõustun"
+
+#: 
+msgid "Your e-mail address"
+msgstr "Sinu emaili aadress"
+
+#: 
+msgid "Your password"
+msgstr "Teie parool"
+
+#: 
+msgid "Forgot password ?"
+msgstr "Unustasid parooli ?"
+
+#: 
+msgid "Login"
+msgstr "Logi sisse"
+
+#: 
+msgid "or"
+msgstr "või"
+
+#: 
+msgid "Create a new account"
+msgstr "Loo uus konto"
+
+#: 
+msgid "practice account"
+msgstr "praktika konto"
+
+#: 
+msgid "Symbol"
+msgstr "Sümbol"
+
+#: 
+msgid "Last"
+msgstr "Viimane"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng (%)"
+
+#: 
+msgid "Profile"
+msgstr "Profiil"
+
+#: 
+msgid "Notification"
+msgstr "Teade"
+
+#: 
+msgid "Security"
+msgstr "Turvalisus"
+
+#: 
+msgid "Logout"
+msgstr "Logi välja"
+
+#: 
+msgid "Your name"
+msgstr "Sinu nimi"
+
+#: 
+msgid "Language"
+msgstr "Keel"
+
+#: 
+msgid "Type chart"
+msgstr "Tippige diagramm"
+
+#: 
+msgid "Change your password"
+msgstr "Muuda oma parooli"
+
+#: 
+msgid "Repeat your password"
+msgstr "Korrake oma parooli"
+
+#: 
+msgid "Back"
+msgstr "tagasi"
+
+#: 
+msgid "Validate"
+msgstr "Kinnita"
+
+#: 
+msgid "Title"
+msgstr "Pealkiri"
+
+#: 
+msgid "Your website title"
+msgstr "Teie veebisaidi pealkiri"
+
+#: 
+msgid "App description"
+msgstr "Rakenduse kirjeldus"
+
+#: 
+msgid "Referal link"
+msgstr "Referaallink"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "Teie viiteline link (nt: Changelly)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "Hooldusrežiim"
+
+#: 
+msgid "Number format"
+msgstr "Numbrivorming"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "Lülitage graafikuid diagrammide kauplemise vaatamiseks"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Luba autolanguage"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "Luba POEditori keel"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor API-klahv"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "Teie POEditori API-võti"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditori projektivalija"
+
+#: 
+msgid "Allow signup"
+msgstr "Luba registreerumine"
+
+#: 
+msgid "User need verify account"
+msgstr "Kasutaja vajab konto kinnitamist"
+
+#: 
+msgid "Need captcha signup"
+msgstr "Vajad captcha registreerumist"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptcha saidi võti"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "Teie Google Recaptcha saidi võti"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptcha salajane võti"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "Teie Google Recaptcha salajane võti"
+
+#: 
+msgid "Sigin with google"
+msgstr "Sigin koos google"
+
+#: 
+msgid "Google App ID"
+msgstr "Google'i rakenduse ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "Teie Google'i rakenduse ID"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google'i rakenduste saladus"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "Google'i rakenduse saladus"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "Sigin Facebookiga"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebooki rakenduse ID"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "Teie Facebooki rakenduse ID"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebooki rakenduse saladus"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "Teie Facebooki rakenduse saladus"
+
+#: 
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Luba Google'i reklaam"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google Ad Client"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "Teie Google'i reklaamiklient"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google'i reklaamipäev"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "Teie Google'i reklaamipesa"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Luba küpsise hüpikaken"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Küpsiseakna popup pealkiri"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Teie küpsise hüpiktekst"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Küpsis popup tekst"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "Teie küpsise hüpiktekst"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "Musta nimekirja kantud riigid"
+
+#: 
+msgid "Save"
+msgstr "Salvesta"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "Luba kasutajal lülitada diagrammi tüüp"
+
+#: 
+msgid "Done !"
+msgstr "Valmis!"
+
+#: 
+msgid "quantity"
+msgstr "kogus"
+
+#: 
+msgid "Enable native trading"
+msgstr "Luba omamaine kauplemine"
+
+#: 
+msgid "Balance configuration"
+msgstr "Tasakaalu konfiguratsioon"
+
+#: 
+msgid "Show balance estimation"
+msgstr "Näita tasakaalu hinnangut"
+
+#: 
+msgid "User user currency select"
+msgstr "Kasutaja kasutaja valuuta vali"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "Näita bilansi hinnangut sisse"
+
+#: 
+msgid "Referal system configuration"
+msgstr "Referentssüsteemi konfiguratsioon"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "Reaalaja lubamine (emakeelne kauplemine peab olema lubatud)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "Referentskomisjon ($, kindel summa)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "Referentskomisjon ($, fikseeritud summa) ex: Kui saate registreeruda ja sisestada reaalseid sularaha, viida võit 5 $ (väärtus = 5)"
+
+#: 
+msgid "Deposit configuration"
+msgstr "Hoiuse konfiguratsioon"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "Hoiuste tasud (%)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "Hoiuse miinimum (dollarites)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "Maksimaalne sissemakse (dollarites)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "Hoiusevaluutad on lubatud"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "Hoiuste rahakott saab (kui rahakoti reaalvaluuta pole saadaval)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "Tühista konfiguratsioon"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "Minimaalse väljavõtmise (dollarites)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "Tühista töötlemise aeg (päevades)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "Tühista töötlemise aeg (päevades) = ex: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "Kauplemise konfiguratsioon"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "Kauplemismaksud (% -des)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "Tellimuse võrdlusmustrid"
+
+#: 
+msgid "Real account configuration"
+msgstr "Tegelik konto konfiguratsioon"
+
+#: 
+msgid "Enable real account"
+msgstr "Luba reaalne konto"
+
+#: 
+msgid "Practice account configuration"
+msgstr "Harjutama konto konfiguratsiooni"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "Maksimaalne tasuta tagatisraha (dollarites)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "Maksimaalne tasuta tagatisraha (dollarites) ex: 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "Tasuta tagatisraha saab"
+
+#: 
+msgid "Ref."
+msgstr "Viide"
+
+#: 
+msgid "Submited date"
+msgstr "Allkirjastatud kuupäev"
+
+#: 
+msgid "Status"
+msgstr "Olek"
+
+#: 
+msgid "Document name"
+msgstr "Dokumendi nimi"
+
+#: 
+msgid "Documents"
+msgstr "Dokumendid"
+
+#: 
+msgid "Not processed"
+msgstr "Ei töödeldud"
+
+#: 
+msgid "Processed"
+msgstr "Töödeldud"
+
+#: 
+msgid "Payment success"
+msgstr "Makse edu"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "Maksete võrdlusmustrid"
+
+#: 
+msgid "Enable SMTP"
+msgstr "Luba SMTP"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTP server"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "Teie SMTP-serveri server"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTP-port"
+
+#: 
+msgid "Your SMTP port"
+msgstr "Teie SMTP-port"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTP turvalisus"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTP kasutaja"
+
+#: 
+msgid "Your SMTP user"
+msgstr "Teie SMTP kasutaja"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTP parool"
+
+#: 
+msgid "Your SMTP password"
+msgstr "Teie SMTP-parool"
+
+#: 
+msgid "Email sender name"
+msgstr "Saatja saatja nimi"
+
+#: 
+msgid "Support mail"
+msgstr "Postita toetus"
+
+#: 
+msgid "Support Phone"
+msgstr "Toetage telefoni"
+
+#: 
+msgid "Support phone"
+msgstr "Toetage telefoni"
+
+#: 
+msgid "Support Address"
+msgstr "Tugiteenuse aadress"
+
+#: 
+msgid "DPO mail"
+msgstr "DPO-post"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO-telefon"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO-telefon"
+
+#: 
+msgid "Send welcome mail"
+msgstr "Saada tervitusposti"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "Tere tulemast kirja teema"
+
+#: 
+msgid "Calendar credentials"
+msgstr "Kalendri mandaadid"
+
+#: 
+msgid "Enable calendar"
+msgstr "Kalendri lubamine"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "Kalendri kliendi ID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "Teie kalendri kliendi ID"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "Kalendri kliendi saladus"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "Lubatud müntidega seotud sündmusi näidatakse ainult"
+
+#: 
+msgid "News feed"
+msgstr "Uudistevoog"
+
+#: 
+msgid "Add news feed"
+msgstr "Lisage uudistevoog"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "Sinu RSS-voo link"
+
+#: 
+msgid "Add"
+msgstr "Lisama"
+
+#: 
+msgid "Name feed"
+msgstr "Nimevoog"
+
+#: 
+msgid "Url"
+msgstr "Url"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitter kontod"
+
+#: 
+msgid "Add twitter account"
+msgstr "Lisa twitter konto"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitteri nimi"
+
+#: 
+msgid "without"
+msgstr "ilma"
+
+#: 
+msgid "Social name"
+msgstr "Sotsiaalne nimi"
+
+#: 
+msgid "Created date"
+msgstr "Loodud kuupäev"
+
+#: 
+msgid "Amount paid"
+msgstr "Makstud summa"
+
+#: 
+msgid "Wallet received"
+msgstr "Rahakott sai kätte"
+
+#: 
+msgid "Amount received"
+msgstr "Saadetud summa"
+
+#: 
+msgid "Payment gateway"
+msgstr "Maksevõimsus"
+
+#: 
+msgid "Proof"
+msgstr "Tõestus"
+
+#: 
+msgid "Modify balance"
+msgstr "Muutke tasakaalu"
+
+#: 
+msgid "Select balance"
+msgstr "Valige tasakaalu"
+
+#: 
+msgid "Modification type"
+msgstr "Muutmisviis"
+
+#: 
+msgid "Modification value"
+msgstr "Muutmisväärtus"
+
+#: 
+msgid "Add modification"
+msgstr "Lisage muudatused"
+
+#: 
+msgid "Card"
+msgstr "Kaart"
+
+#: 
+msgid "Balances"
+msgstr "Saldod"
+
+#: 
+msgid "Remove"
+msgstr "Eemalda"
+
+#: 
+msgid "Last location"
+msgstr "Viimane asukoht"
+
+#: 
+msgid "Currency use"
+msgstr "Valuuta kasutamine"
+
+#: 
+msgid "Signup with"
+msgstr "Registreeruge koos"
+
+#: 
+msgid "Identity verification"
+msgstr "Isikut tõendamine"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 sammu autentimine"
+
+#: 
+msgid "User status"
+msgstr "Kasutaja olek"
+
+#: 
+msgid "Login history"
+msgstr "Logi ajalugu"
+
+#: 
+msgid "More details"
+msgstr "Rohkem detaile"
+
+#: 
+msgid "Deposit history"
+msgstr "Hoiuste ajalugu"
+
+#: 
+msgid "Total"
+msgstr "Kokku"
+
+#: 
+msgid "Value in BTC"
+msgstr "Väärtus BTC-s"
+
+#: 
+msgid "Value in USD"
+msgstr "Väärtus USA dollarites"
+
+#: 
+msgid "Withdraw method"
+msgstr "Tühista meetod"
+
+#: 
+msgid "Date"
+msgstr "Kuupäev"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "Küsi laiust"
+
+#: 
+msgid "WITHDRAW"
+msgstr "Tühjendage"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "banktransfert"
+
+#: 
+msgid "Choose receiver account"
+msgstr "Valige vastuvõtja konto"
+
+#: 
+msgid "Cancel"
+msgstr "Loobu"
+
+#: 
+msgid "Next"
+msgstr "Järgmine"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "Teate konfiguratsioon on valmis."
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "Teie PushBullet'i juurdepääsukoopia"
+
+#: 
+msgid "Remove token"
+msgstr "Eemalda token"
+
+#: 
+msgid "You are premium !"
+msgstr "Sa oled lisatasu!"
+
+#: 
+msgid "left"
+msgstr "lahkus"
+
+#: 
+msgid "Main settings"
+msgstr "Peamised seaded"
+
+#: 
+msgid "Period"
+msgstr "Periood"
+
+#: 
+msgid "Colour"
+msgstr "Värv"
+
+#: 
+msgid "Thickness"
+msgstr "Paksus"
+
+#: 
+msgid "Reset"
+msgstr "Lähtesta"
+
+#: 
+msgid "Apply"
+msgstr "Rakenda"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Andke oma Google Authenticator koodi"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Sisestage oma Google Authenticator koodi"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "Saldod, mille väärtus on alla 0,001 BTC"
+
+#: 
+msgid "Hide small balance"
+msgstr "Peida väike tasakaal"
+
+#: 
+msgid "Estimate value"
+msgstr "Hinnanguline väärtus"
+
+#: 
+msgid "Value in"
+msgstr "Väärtus on"
+
+#: 
+msgid "Deposit"
+msgstr "Hoius"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google'i autentimine on lubatud!"
+
+#: 
+msgid "Set as done"
+msgstr "Määra valmis"
+
+#: 
+msgid "Close"
+msgstr "Sulge"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google Authenticatori kood on vale"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "Te saate kirja teel laienduse kinnituse"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "Ref, Kasutaja ID, Tüüp, Valuuta"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Laiuslõike filter"
+
+#: 
+msgid "Default"
+msgstr "Vaikimisi"
+
+#: 
+msgid "Not confirmed"
+msgstr "Kinnitamata"
+
+#: 
+msgid "Done"
+msgstr "Valmis"
+
+#: 
+msgid "Payment filter"
+msgstr "Maksefilter"
+
+#: 
+msgid "Need to be approved"
+msgstr "Vajadus heaks kiita"
+
+#: 
+msgid "Paid"
+msgstr "Tasuline"
+
+#: 
+msgid "Not paid"
+msgstr "Maksmata"
+
+#: 
+msgid "All payments"
+msgstr "Kõik maksed"
+
+#: 
+msgid "Ask a proof"
+msgstr "Küsige tõendit"
+
+#: 
+msgid "Bank ref."
+msgstr "Panga viide"
+
+#: 
+msgid "Proof received"
+msgstr "Tõend sai"
+
+#: 
+msgid "In pending"
+msgstr "Ootel"
+
+#: 
+msgid "All widthdraw"
+msgstr "Kogu laius"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "Tõmmake võrdlusmustri välja"
+
+#: 
+msgid "Withdraw filter"
+msgstr "Võtke filtrit tagasi"
+
+#: 
+msgid "Withdraw infos"
+msgstr "Tühista infos"
+
+#: 
+msgid "year"
+msgstr "aastas"
+
+#: 
+msgid "month"
+msgstr "kuus"
+
+#: 
+msgid "week"
+msgstr "nädal"
+
+#: 
+msgid "hour"
+msgstr "tunnis"
+
+#: 
+msgid "minute"
+msgstr "minut"
+
+#: 
+msgid "second"
+msgstr "teine"
+
+#: 
+msgid "ago"
+msgstr "tagasi"
+
+#: 
+msgid "Bank transfert"
+msgstr "Pangaülekanne"
+
+#: 
+msgid "Deposit amount"
+msgstr "Hoiusumma"
+
+#: 
+msgid "Fill up"
+msgstr "Täitma"
+
+#: 
+msgid "It's free"
+msgstr "See on tasuta"
+
+#: 
+msgid "You will receive"
+msgstr "Sa saad"
+
+#: 
+msgid "Add real funds"
+msgstr "Lisa reaalseid vahendeid"
+
+#: 
+msgid "Minimal deposit"
+msgstr "Minimaalne tagatisraha"
+
+#: 
+msgid "Enable credit card"
+msgstr "Luba krediitkaart"
+
+#: 
+msgid "Stipe private key"
+msgstr "Stipe privaatvõti"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "Teie Stripe API-võti"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Luba Paypal"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Luba Paypal Live'i režiim"
+
+#: 
+msgid "Paypal client ID"
+msgstr "Paypal kliendi ID"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "Teie paypal kliendi ID"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypal Client Secret"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "Sinu paypal kliendi saladus"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "Blockonomicsi lubamine"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomics salajane võti"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "Teie blokonomika salajane võti"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Luba Fortumo"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "Fortumo salajane võti"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "Sinu fortumo salajane võti"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumo teenindusvõti"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "Sinu varajase teeninduse võti"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Luba Coingate"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "Luba CoinGate'i reaalajas režiim"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate Auth Token"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "Teie CoinGate Auth Token"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "CoinGate saate valuuta"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Luba Coinpayments"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Mündipreemia avalik võti"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "Teie Coinpaymentsi avalik võti"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "Coinpayments Private Key"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "Teie Coinpaymentsi privaatvõti"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "Mündi maksed Marchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "Teie Coinpayments Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Mündipakkumised IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "Teie Coinpayments IPN Secret"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Luba Rave Flutterwave'i makse"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "Liivakasti režiim Rave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "Rave Flutterwave avalik võti"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "Teie Rave Flutterwave avalik võti"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "Rave Flutterwave salajane võti"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "Sinu Rave Flutterwave salajane võti"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave maksete pealkiri"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "Teie Rave Flutterwave makse pealkiri"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave makse prefiks"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "Teie Rave Flutterwave makse prefiks (nt: KRYP)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Luba Coinbase kaubanduse makse"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "Coinbase kaubanduse API-võti"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "Teie Coinbase kaubanduse API-võti"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "Coinbase kaubanduse makse pealkiri"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "Teie Coinbase kaubanduse makse pealkiri"
+
+#: 
+msgid "Enable Mollie"
+msgstr "Luba Mollie"
+
+#: 
+msgid "Mollie Key"
+msgstr "Mollie Key"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "Teie Mollie võti"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Luba maksja"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "Maksja poe ID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "Teie maksejõu parooli ID"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Maksja API-võti"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "Teie Maksja API-võti"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "Luba pangaülekanne"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "Pangaülekanne maksimaalselt samal ajal"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "Pangaülekande tõend lubatud"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "Pangaülekanne maksimaalset tõendit"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "Teie Gemini võti"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "Sinu Gemini saladus"
+
+#: 
+msgid "Select your platform"
+msgstr "Valige oma platvorm"
+
+#: 
+msgid "Sandbox"
+msgstr "Liivakasti"
+
+#: 
+msgid "Live"
+msgstr "Elada"
+
+#: 
+msgid "Cron time"
+msgstr "Cron Time"
+
+#: 
+msgid "Last update"
+msgstr "Viimane uuendus"
+
+#: 
+msgid "Sync delay"
+msgstr "Sünkroonimise viivitus"
+
+#: 
+msgid "Add additional page"
+msgstr "Lisage täiendavat lehte"
+
+#: 
+msgid "Page name"
+msgstr "Lehe nimi"
+
+#: 
+msgid "Page URL"
+msgstr "Lehekülje URL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "Lehekülje ikoon (nt: lnr-home)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "Või lehe ikoon svg"
+
+#: 
+msgid "Icon"
+msgstr "Ikoon"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG pilt"
+
+#: 
+msgid "Enable"
+msgstr "Luba"
+
+#: 
+msgid "Disable"
+msgstr "Keela"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "Loo uus pangaülekanne"
+
+#: 
+msgid "Pending"
+msgstr "Ootel"
+
+#: 
+msgid "Details"
+msgstr "Andmed"
+
+#: 
+msgid "Verified"
+msgstr "Kinnitatud"
+
+#: 
+msgid "Canceled"
+msgstr "Tühistatud"
+
+#: 
+msgid "Declined"
+msgstr "Keeldutud"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "Teie Hitbtc võti"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "Sinu Hitbtc saladus"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "Teie Bitbanki võti"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "Sinu Bitbanki saladus"
+
+#: 
+msgid "User level"
+msgstr "Kasutaja tase"
+
+#: 
+msgid "Expire in"
+msgstr "Aegub"
+
+#: 
+msgid "Back to login"
+msgstr "Tagasi sisselogimiseks"
+
+#: 
+msgid "Let's go !"
+msgstr "Lähme !"
+
+#: 
+msgid "Welcome"
+msgstr "Tere tulemast"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "Koostame oma juhtpaneeli."
+
+#: 
+msgid "Select your language"
+msgstr "Valige oma keel"
+
+#: 
+msgid "Select your currency"
+msgstr "Valige oma valuuta"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "Valige oma lemmikute krüpto"
+
+#: 
+msgid "left need to be selected"
+msgstr "vasakule tuleb valida"
+
+#: 
+msgid "Configuration complete !"
+msgstr "Konfiguratsioon on valmis!"
+
+#: 
+msgid "will now refresh"
+msgstr "nüüd värskendatakse"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "Luba Perfect Money'i makse"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "Täiuslik raha saaja konto"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "Teie täiuslik raha saaja konto"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "Mobiil, brauser, akende märguanded"
+
+#: 
+msgid "Create price alert"
+msgstr "Loo hinna hoiatus"
+
+#: 
+msgid "I need help !"
+msgstr "Ma vajan abi !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "Laadige PushBullet rakendus alla oma telefonile (saadaval Android-i ja iOS-i jaoks)"
+
+#: 
+msgid "Create an account on it"
+msgstr "Loo sellele kontole konto"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "Ühendage oma uue kontoga siin"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "Avage <b> Seaded </ b>> <b> Konto </ b> ja looge <b> juurdepääsuloend </ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "Kopeerige võti ja kleepige see täidiseks ja klikkige salvestamiseks."
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "Saate teada saada, kas seos on edukas."
+
+#: 
+msgid "Premium wait you !"
+msgstr "Premium oota!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "Rohkem kui 2000 krüptovaluutat"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "Olge tähelepanelik, kui indikaator kasvab või langeb"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "Mobiilis ja tahvelarvutis vastamine"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "Uudised ja sotsiaalsed postitused ühes kohas"
+
+#: 
+msgid "Support"
+msgstr "Toetus"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Address"
+msgstr "Aadress"
+
+#: 
+msgid "Contact DPO"
+msgstr "Võta ühendust DPO-ga"
+
+#: 
+msgid "Your Binance Key"
+msgstr "Teie Binance Key"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "Teie Binance saladus"
+
+#: 
+msgid "Cardholder name"
+msgstr "Kaardi valdaja nimi"
+
+#: 
+msgid "Card number"
+msgstr "Kaardi number"
+
+#: 
+msgid "Expiration"
+msgstr "Aegumine"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "krüptokursused"
+
+#: 
+msgid "No order to show"
+msgstr "Ei ole vaja näidata"
+
+#: 
+msgid "Premium"
+msgstr "Premium"
+
+#: 
+msgid "Verify your identiy"
+msgstr "Kinnitage oma identiteet"
+
+#: 
+msgid "Estimate balance"
+msgstr "Hinnake tasakaalu"
+
+#: 
+msgid "5m"
+msgstr "5 m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2t"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12 tundi"
+
+#: 
+msgid "2h"
+msgstr "2 tundi"
+
+#: 
+msgid "1h"
+msgstr "1 h"
+
+#: 
+msgid "30min"
+msgstr "30 min"
+
+#: 
+msgid "Candlestick"
+msgstr "Küünlajalg"
+
+#: 
+msgid "Line"
+msgstr "Rida"
+
+#: 
+msgid "Indicators"
+msgstr "Näitajad"
+
+#: 
+msgid "Export"
+msgstr "Eksport"
+
+#: 
+msgid "Alert"
+msgstr "Hoiatus"
+
+#: 
+msgid "Drawing"
+msgstr "Joonistamine"
+
+#: 
+msgid "Trend Line"
+msgstr "Trend Line"
+
+#: 
+msgid "Text"
+msgstr "Tekst"
+
+#: 
+msgid "Create a new alert"
+msgstr "Loo uus hoiatus"
+
+#: 
+msgid "% Fees"
+msgstr "% Tasud"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Krüptokuulendus tühistab lepingu"
+
+#: 
+msgid "Decline"
+msgstr "Langema"
+
+#: 
+msgid "Agree"
+msgstr "Nõus"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Krüptokuuluvedude hoiuse leping"
+
+#: 
+msgid "Enable news popup"
+msgstr "Luba uudiste hüpikaken"
+
+#: 
+msgid "News popup title"
+msgstr "Uudiste popup pealkiri"
+
+#: 
+msgid "Your news popup title"
+msgstr "Sinu uudiste popup pealkiri"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "Uudiste hüpikaknad (pisut tühjaks, et video ei näita)"
+
+#: 
+msgid "News popup description"
+msgstr "Uudiste hüpikakirjeldus"
+
+#: 
+msgid "Advert users"
+msgstr "Kasutajate reklaamimine"
+
+#: 
+msgid "Enable intro"
+msgstr "Luba sissejuhatus"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "Tühistamiskulud (protsentides)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "Pangaülekande hoiatus, kui valuuta väljavõtmine ei ole krüptovaluuta"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "Krüptokursid, mis on lubatud pangaülekandeks, tühistatakse"
+
+#: 
+msgid "Estimate balance in"
+msgstr "Hinnake tasakaalu"
+
+#: 
+msgid "Edit profile"
+msgstr "Muuda profiili"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "Pangaülekande hoiuste leping"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomics makse Tasud (%)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "Teie blockonomika makse tasud (%)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumo makse Tasud (%)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "Teie lahkumishüvitis (%)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "CoinGate tasu (%)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "Teie sularahatasud (protsentides)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "Müntide väljamakse Tasud (%)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "Teie müntide väljamakse tasud (%)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave tasu (%)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "Teie rave flutterwave tasu (%)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "Coinbase kaubanduse tasu (%)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "Teie münditasakauplemise tasu (%)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "Mollie makse Tasud (%)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "Teie mollie tasu (protsentides)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "Maksja tasu (%)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "Teie maksja tasud (%)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "Pangaülekande makse Tasud (%)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "Teie pangaülekande tasu (protsentides)"
+
+#: 
+msgid "Add new"
+msgstr "Lisa uus"
+
+#: 
+msgid "Bank accounts"
+msgstr "pangakontod"
+
+#: 
+msgid "Add new bank account"
+msgstr "Lisa uus pangakonto"
+
+#: 
+msgid "Bank account name"
+msgstr "Pangakonto nimi"
+
+#: 
+msgid "Your bank account name"
+msgstr "Teie pangakonto nimi"
+
+#: 
+msgid "Bank account currency"
+msgstr "Pangakonto valuuta"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "Pangakonto IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "Pangakonto BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "Teie pangakonto BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "Pangakonto aadress"
+
+#: 
+msgid "Your bank account address"
+msgstr "Teie pangakonto aadress"
+
+#: 
+msgid "Bank account owner name"
+msgstr "Pangakonto omaniku nimi"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "Teie pangakonto omaniku nimi"
+
+#: 
+msgid "* This is optional"
+msgstr "* See on vabatahtlik"
+
+#: 
+msgid "Your bank account currency"
+msgstr "Teie pangakonto valuuta"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "Teie pangakonto IBAN"
+
+#: 
+msgid "Delete"
+msgstr "Kustuta"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "Võite valida \"Lehe ikoon\" ja \"Lehe ikoon svg\" (lehe ikoon on prioriteet) - Nimekirja ikoonid on siin saadaval"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "Te saate e-kirja kinnituse"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "Palun järgige seda sammu oma tagasivõtmistaotluse lõpetamiseks."
+
+#: 
+msgid "You need to have at least"
+msgstr "Peab olema vähemalt"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "Teil pole täisväärtust saadaval"
+
+#: 
+msgid "Total in "
+msgstr "Kokku kokku"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "Peate seadistama laienduse meetodi"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "Pangakonto BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "Teie pangakonto BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "Päeva vahemik\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "Avatud päev"
+
+#: 
+msgid "Volume 24H"
+msgstr "Otsene maht"
+
+#: 
+msgid "Direct Volume"
+msgstr "Otsene maht"
+
+#: 
+msgid "Load more data"
+msgstr "Laadige rohkem andmeid"
+
+#: 
+msgid "Qty"
+msgstr "Kogus"
+
+#: 
+msgid "Gain"
+msgstr "Kasu"
+
+#: 
+msgid "Price buy"
+msgstr "Hind osta"
+
+#: 
+msgid "Disable chat"
+msgstr "Vestluse keelamine"
+
+#: 
+msgid "Total gain"
+msgstr "Kogutulu"
+
+#: 
+msgid "Confirmation"
+msgstr "Kinnitamine"
+
+#: 
+msgid "Unit price"
+msgstr "Ühikuhind"
+
+#: 
+msgid "Investment"
+msgstr "Investeeringud"
+
+#: 
+msgid "Quantity"
+msgstr "Kogus"
+
+#: 
+msgid "Commission"
+msgstr "Komisjon"
+
+#: 
+msgid "Confirm buying"
+msgstr "Kinnitage ostmine"
+
+#: 
+msgid "New user"
+msgstr "Uus kasutaja"
+
+#: 
+msgid "Order passed"
+msgstr "Tellimus möödus"
+
+#: 
+msgid "New subscription"
+msgstr "Uus tellimus"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "Kuva vastuvõtja informatsiooni kuvamine"
+
+#: 
+msgid "Process"
+msgstr "Protsess"
+
+#: 
+msgid "Hide details"
+msgstr "Detaile varjama"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "Lubage tellimusi"
+
+#: 
+msgid "Enable free trial"
+msgstr "Luba tasuta prooviversioon"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "Tasuta prooviperioodi kestus (päeval)"
+
+#: 
+msgid "Free trial duration"
+msgstr "Tasuta prooviperioodi kestus"
+
+#: 
+msgid "Premium features"
+msgstr "Premium funktsioonid"
+
+#: 
+msgid "Free users features"
+msgstr "Tasuta kasutaja funktsioonid"
+
+#: 
+msgid "Add a new plan"
+msgstr "Lisage uus plaan"
+
+#: 
+msgid "Name plan"
+msgstr "Nimeplaan"
+
+#: 
+msgid "Price total"
+msgstr "Hind kokku"
+
+#: 
+msgid "Duration in days"
+msgstr "Kestus päevades"
+
+#: 
+msgid "Duration"
+msgstr "Kestus"
+
+#: 
+msgid "Add this plan"
+msgstr "Lisa see plaan"
+
+#: 
+msgid "Plans available"
+msgstr "Plaanid saadaval"
+
+#: 
+msgid "Price plan"
+msgstr "Hinnakava"
+
+#: 
+msgid "Duration in month"
+msgstr "Kestus kuus"
+
+#: 
+msgid "Price per month"
+msgstr "Hind kuus"
+
+#: 
+msgid "Account"
+msgstr "Konto"
+
+#: 
+msgid "Exchanges"
+msgstr "Vahetused"
+
+#: 
+msgid "Total Free"
+msgstr "Kokku tasuta"
+
+#: 
+msgid "Total Used"
+msgstr "Kokku kasutatud"
+
+#: 
+msgid "Order Ref."
+msgstr "Telli viide"
+
+#: 
+msgid "Ordered price"
+msgstr "Tellitud hind"
+
+#: 
+msgid "Current price"
+msgstr "Praegune hind"
+
+#: 
+msgid "Evolution"
+msgstr "Evolutsioon"
+
+#: 
+msgid "Enable identity system"
+msgstr "Identiteedisüsteemi lubamine"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "Blokeeri kauplemine ilma isikutuvastuseta"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "Blokeeri tagatisraha ilma isikutuvastuseta"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "Blokeeri isikutuvastuse kinnitamata"
+
+#: 
+msgid "Approve"
+msgstr "Kinnitage"
+
+#: 
+msgid "Identity ID"
+msgstr "Isikutunnistus"
+
+#: 
+msgid "Identity step name"
+msgstr "Identimise sammu nimi"
+
+#: 
+msgid "Identity step description"
+msgstr "Identimise sammu kirjeldus"
+
+#: 
+msgid "Identity order"
+msgstr "Isikutoristus"
+
+#: 
+msgid "Down order"
+msgstr "Alla järjekord"
+
+#: 
+msgid "Up order"
+msgstr "Üleslaadimine"
+
+#: 
+msgid "Add new identity step"
+msgstr "Lisage uus identiteediettevõte"
+
+#: 
+msgid "Your step name"
+msgstr "Sinu sammu nimi"
+
+#: 
+msgid "Your step description"
+msgstr "Teie sammude kirjeldus"
+
+#: 
+msgid "Identity step type"
+msgstr "Identiteedi tüüp"
+
+#: 
+msgid "Upload new document"
+msgstr "Uue dokumendi üleslaadimine"
+
+#: 
+msgid "Choose in document type list"
+msgstr "Valige dokumendi tüübi loendis"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "Veebikaameraga isikliku üleslaadimise lubamine"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Veebikaamera dokumendi suhe"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "Ratsioon (laius / kõrgus)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "Suhe (laius / kõrgus)"
+
+#: 
+msgid "Document identity list"
+msgstr "Dokumendi identiteedi loend"
+
+#: 
+msgid "Add new identity document"
+msgstr "Lisage uus isikut tõendav dokument"
+
+#: 
+msgid "Your document name"
+msgstr "Teie dokumendi nimi"
+
+#: 
+msgid "My Holding"
+msgstr "Minu hoidmine"
+
+#: 
+msgid "Holding"
+msgstr "Hoidmine"
+
+#: 
+msgid "Market Value"
+msgstr "Turuväärtus"
+
+#: 
+msgid "Profit / Loss"
+msgstr "Kasumi kaotus"
+
+#: 
+msgid "Wallet"
+msgstr "Rahakott"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "Pangaülekande kinnitamine"
+
+#: 
+msgid "Transfert received date"
+msgstr "Saate ülekande kuupäeva"
+
+#: 
+msgid "Bank account received"
+msgstr "Pangakonto on laekunud"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "Pangaülekande viide"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "Pangakontol olev summa"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "Kasutajakontole üle kantud summa"
+
+#: 
+msgid "User will receive"
+msgstr "Kasutaja saab"
+
+#: 
+msgid "Dark"
+msgstr "Tume"
+
+#: 
+msgid "White"
+msgstr "Valge"
+
+#: 
+msgid "Enable Donation"
+msgstr "Annetuse lubamine"
+
+#: 
+msgid "Donation text"
+msgstr "Annetuse tekst"
+
+#: 
+msgid "Your donation text"
+msgstr "Sinu annetuse tekst"
+
+#: 
+msgid "Donation address list"
+msgstr "Annetuse aadresside nimekiri"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "Pane 1 aadress rea kohta"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "Rea formaat: BTC: ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "PUT SMILE meie silmis ja toetada USA DONATING :)"
+
+#: 
+msgid "Transactions history"
+msgstr "Tehingute ajalugu"
+
+#: 
+msgid "Description"
+msgstr "Kirjeldus"
+
+#: 
+msgid "Reference ..."
+msgstr "Viide ..."
+
+#: 
+msgid "Reference"
+msgstr "Viide"
+
+#: 
+msgid "deposit"
+msgstr "tagatisraha"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "Dépot"
+
+#: 
+msgid "Unknown"
+msgstr "Teadmata"
+
+#: 
+msgid "BUY order done"
+msgstr "OSTA tellimus tehtud"
+
+#: 
+msgid "SELL order done"
+msgstr "Telli müüa"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "MÜÜD MAKSIMATA ORDER"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "OSTA JÄRGMISE ORDER"
+
+#: 
+msgid "Add a new item"
+msgstr "Lisage uus üksus"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "Teie GDAX-võti"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "Teie GDAX Pass"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "Teie GDAX saladus"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "Teie Bitmexi ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "Sinu Bitmexi saladus"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "Teie OKCoin võti"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "Sinu OKCoin saladus"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "Teie Luno võti ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "Sinu Luno saladus"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "Teie Coinex võti"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "Teie Coinexi saladus"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "Teie Btcmarketi võti"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "Teie Btcmarketi saladus"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "Teie Livecoin võti"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "Sinu Livecoin saladus"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "Teie Quoinexi tunnus ID"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "Sinu Quoinexi saladus"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "Teie Exmo-võti"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "Sinu Exmo saladus"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "Sinu YoBit-võti"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "Sinu YoBit saladus"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "Sinu Kucoin võti"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "Teie Kucoin Private"
+
+#: 
+msgid "Your CEX Key"
+msgstr "Teie CEX-võti"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "Teie CEX saladus"
+
+#: 
+msgid "Your CEX UID"
+msgstr "Teie CEX UID"
+
+#: 
+msgid "My orders"
+msgstr "Minu tellimused"
+
+#: 
+msgid "Size"
+msgstr "Suurus"
+
+#: 
+msgid "Limit price"
+msgstr "Piirhind"
+
+#: 
+msgid "Place buy order"
+msgstr "Osta tellimus"
+
+#: 
+msgid "Place sell order"
+msgstr "Asetage müügitellimus"
+
+#: 
+msgid "Method"
+msgstr "Meetod"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "Sa pead sisse logima Coinexi"
+
+#: 
+msgid "Enable live trading"
+msgstr "Luba aktiivne kauplemine"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Logi sisse Coinexiga"
+
+#: 
+msgid "Week profit"
+msgstr "Nädala kasum"
+
+#: 
+msgid "Leaderboard"
+msgstr "Leaderboard"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "Juhtpaneeli lubamine (emakeelne kauplemine peab olema lubatud)"
+
+#: 
+msgid "Active"
+msgstr "Aktiivne"
+
+#: 
+msgid "Every"
+msgstr "Igaüks"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "Paari käivitamine uue kasutaja registreerimisel"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "Lubatud on ainult 1 paar"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "Uue kasutaja registreerumise vaatamine loendi paari vaatamine"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1 paar iga rea ​​kohta"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "Formaat: TURG: SYMBOL / VALUUTA"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "Sa pead olema sisse logitud Livecoin'i"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Logi sisse Livecoiniga"
+
+#: 
+msgid "Email not valid"
+msgstr "E-post pole kehtiv"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "Sa pead sisse logima Yobit'is"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Logi sisse Yobitiga"
+
+#: 
+msgid "Based on all wallet"
+msgstr "Põhineb kogu rahakotil"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "Teie Poloniex võti"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "Teie Poloniexi saladus"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "Teie prooviversioon on aegunud!"
+
+#: 
+msgid "Become"
+msgstr "Hakka"
+
+#: 
+msgid "You will be charged"
+msgstr "Teilt võetakse tasu"
+
+#: 
+msgid "for"
+msgstr "eest"
+
+#: 
+msgid "months"
+msgstr "kuud"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "Teie Kraken võti"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "Teie Kraken Private"
+
+#: 
+msgid "will be ready for you !"
+msgstr "on valmis sinu jaoks!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Sa pead sisse logima Binance'is"
+
+#: 
+msgid "Login with Binance"
+msgstr "Logi sisse binantsiga"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Peate olema sisse logitud Poloniexi"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Logi sisse Poloniexiga"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "Sa pead sisse logima Exmo"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Logi sisse Exmo-ga"
+
+#: 
+msgid "View the article"
+msgstr "Vaadake artiklit"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "Teie Bittrex-võti"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "Sinu Bittrex Secret"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "Peate olema sisse logitud Krakenisse"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Logi sisse Krakeniga"
+
+#: 
+msgid "Markets"
+msgstr "Turud"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "Peida turg (kohalik kauplemine peab olema lubatud)"
+
+#: 
+msgid "Hide orders book"
+msgstr "Peida tellimuste broneerimine"
+
+#: 
+msgid "Load orders book"
+msgstr "Laadige tellimuste broneerimine"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "Loo märguanne, kui ..."
+
+#: 
+msgid "Price is above"
+msgstr "Hind on kõrgem"
+
+#: 
+msgid "Price is bellow"
+msgstr "Hind on alla"
+
+#: 
+msgid "Password not match"
+msgstr "Parool ei sobi"
+

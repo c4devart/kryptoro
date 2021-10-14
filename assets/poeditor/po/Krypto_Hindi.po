@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: hi\n"
+
+#: 
+msgid "Real account"
+msgstr "असली खाता"
+
+#: 
+msgid "Board"
+msgstr "ग्राफ़\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "कृपया मुड़े"
+
+#: 
+msgid "chart"
+msgstr "चार्ट\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "चार्ट या अधिक"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "नाम या प्रतीक से खोजें"
+
+#: 
+msgid "real account"
+msgstr "वास्तविक खाता\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "सभी शेष देखें"
+
+#: 
+msgid "List accounts"
+msgstr "खातों की सूची\n"
+""
+
+#: 
+msgid "History"
+msgstr "इतिहास"
+
+#: 
+msgid "Credit"
+msgstr "श्रेय"
+
+#: 
+msgid "Widthdraw"
+msgstr "Widthdraw"
+
+#: 
+msgid "Order book"
+msgstr "माँग पुस्तिका"
+
+#: 
+msgid "Market"
+msgstr "बाजार"
+
+#: 
+msgid "Portfolio"
+msgstr "पोर्टफोलियो"
+
+#: 
+msgid "Leader board"
+msgstr "नेता बोर्ड"
+
+#: 
+msgid "Calc."
+msgstr "कैल्क।"
+
+#: 
+msgid "Watching"
+msgstr "देख रहे"
+
+#: 
+msgid "News"
+msgstr "समाचार"
+
+#: 
+msgid "Panel"
+msgstr "पैनल"
+
+#: 
+msgid "Manager"
+msgstr "मैनेजर"
+
+#: 
+msgid "Admin"
+msgstr "व्यवस्थापक"
+
+#: 
+msgid "Converter"
+msgstr "कनवर्टर"
+
+#: 
+msgid "Social"
+msgstr "सामाजिक"
+
+#: 
+msgid "Calendar"
+msgstr "कैलेंडर"
+
+#: 
+msgid "Watchlist"
+msgstr "ध्यानसूची"
+
+#: 
+msgid "Contact us"
+msgstr "हमसे संपर्क करें"
+
+#: 
+msgid "January"
+msgstr "जनवरी"
+
+#: 
+msgid "February"
+msgstr "फरवरी"
+
+#: 
+msgid "March"
+msgstr "मार्च"
+
+#: 
+msgid "April"
+msgstr "अप्रैल"
+
+#: 
+msgid "May"
+msgstr "मई"
+
+#: 
+msgid "June"
+msgstr "जून"
+
+#: 
+msgid "July"
+msgstr "जुलाई"
+
+#: 
+msgid "August"
+msgstr "अगस्त"
+
+#: 
+msgid "September"
+msgstr "सितंबर"
+
+#: 
+msgid "October"
+msgstr "अक्टूबर"
+
+#: 
+msgid "November"
+msgstr "नवंबर"
+
+#: 
+msgid "December"
+msgstr "दिसंबर"
+
+#: 
+msgid "Mon."
+msgstr "सोम"
+
+#: 
+msgid "Tue."
+msgstr "मंगल"
+
+#: 
+msgid "Wed."
+msgstr "बुध"
+
+#: 
+msgid "Thu."
+msgstr "बृहस्पति"
+
+#: 
+msgid "Fri."
+msgstr "शुक्र"
+
+#: 
+msgid "Sat."
+msgstr "बैठ गया।"
+
+#: 
+msgid "Sun."
+msgstr "रवि।"
+
+#: 
+msgid "Statistics"
+msgstr "आंकड़े"
+
+#: 
+msgid "Bank transferts"
+msgstr "बैंक हस्तांतरण"
+
+#: 
+msgid "Payments"
+msgstr "भुगतान"
+
+#: 
+msgid "Subscriptions"
+msgstr "सदस्यता"
+
+#: 
+msgid "Identity"
+msgstr "पहचान"
+
+#: 
+msgid "Users"
+msgstr "उपयोगकर्ता"
+
+#: 
+msgid "Orders"
+msgstr "आदेश"
+
+#: 
+msgid "Withdraw"
+msgstr "निकालना"
+
+#: 
+msgid "Currency"
+msgstr "मुद्रा"
+
+#: 
+msgid "Total trade"
+msgstr "कुल व्यापार"
+
+#: 
+msgid "Total deposit"
+msgstr "कुल जमा"
+
+#: 
+msgid "Total withdraw"
+msgstr "कुल निकासी"
+
+#: 
+msgid "Fees"
+msgstr "फीस"
+
+#: 
+msgid "Name"
+msgstr "नाम"
+
+#: 
+msgid "Email"
+msgstr "ईमेल"
+
+#: 
+msgid "Subscription"
+msgstr "अंशदान"
+
+#: 
+msgid "Signin method"
+msgstr "साइनइन विधि"
+
+#: 
+msgid "Last login"
+msgstr "अंतिम लॉगइन"
+
+#: 
+msgid "Notifications enabled"
+msgstr "अधिसूचना सक्षम"
+
+#: 
+msgid "Trial version"
+msgstr "परीक्षण संस्करण"
+
+#: 
+msgid "day"
+msgstr "दिन"
+
+#: 
+msgid "Edit"
+msgstr "संपादित करें"
+
+#: 
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+#: 
+msgid "Enabled"
+msgstr "सक्रिय"
+
+#: 
+msgid "Ref"
+msgstr "रेफरी"
+
+#: 
+msgid "User"
+msgstr "उपयोगकर्ता"
+
+#: 
+msgid "Order date"
+msgstr "आदेश की तारीख"
+
+#: 
+msgid "Exchange"
+msgstr "अदला बदली"
+
+#: 
+msgid "Pair"
+msgstr "जोड़ा"
+
+#: 
+msgid "Type"
+msgstr "प्रकार"
+
+#: 
+msgid "Amount"
+msgstr "रकम"
+
+#: 
+msgid "Received"
+msgstr "प्राप्त किया"
+
+#: 
+msgid "Total deducted"
+msgstr "कुल कटौती"
+
+#: 
+msgid "Total received"
+msgstr "कुल प्राप्त"
+
+#: 
+msgid "Buy"
+msgstr "खरीदें"
+
+#: 
+msgid "Sell"
+msgstr "बेचना\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "सिक्का सूची"
+
+#: 
+msgid "Market list"
+msgstr "बाजार सूची"
+
+#: 
+msgid "Heatmap"
+msgstr "गर्मी के नक्शे"
+
+#: 
+msgid "Price"
+msgstr "मूल्य"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "प्रत्यक्ष वॉल्यूम 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "कुल वॉल्यूम 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "बाज़ार आकार"
+
+#: 
+msgid "Chg. 24H"
+msgstr "बदलाव। 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24h उच्च / निम्न"
+
+#: 
+msgid "Dashboard"
+msgstr "डैशबोर्ड"
+
+#: 
+msgid "General settings"
+msgstr "सामान्य सेटिंग्स"
+
+#: 
+msgid "Coins"
+msgstr "सिक्के"
+
+#: 
+msgid "Currencies"
+msgstr "मुद्राओं"
+
+#: 
+msgid "Mail settings"
+msgstr "मेल सेटिंग्स"
+
+#: 
+msgid "Payment"
+msgstr "भुगतान"
+
+#: 
+msgid "News - Social"
+msgstr "समाचार - सामाजिक"
+
+#: 
+msgid "Intro"
+msgstr "पहचान"
+
+#: 
+msgid "Trading"
+msgstr "व्यापार"
+
+#: 
+msgid "Cron"
+msgstr "क्रॉन"
+
+#: 
+msgid "Additional pages"
+msgstr "अतिरिक्त पृष्ठ"
+
+#: 
+msgid "Today's visits"
+msgstr "आज की यात्राओं"
+
+#: 
+msgid "7 days visits"
+msgstr "7 दिन का दौरा"
+
+#: 
+msgid "Number of users"
+msgstr "उपयोगकर्ताओं की संख्या"
+
+#: 
+msgid "Number of coins"
+msgstr "सिक्कों की संख्या"
+
+#: 
+msgid "Last users"
+msgstr "अंतिम उपयोगकर्ता"
+
+#: 
+msgid "This website uses cookies"
+msgstr "यह वेबसाइट कुकीज़ का उपयोग करती है"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "हमारी वेबसाइट साइट पर यातायात और उपयोगकर्ता गतिविधि की जांच करने के लिए कुकीज़ का उपयोग करती है, हमारी साइट पर, उन्नत और प्रभावी उपयोगकर्ता अनुभव, विपणन और सोशल मीडिया कार्यक्षमता प्रदान करने के लिए।"
+
+#: 
+msgid "Accept"
+msgstr "स्वीकार करना"
+
+#: 
+msgid "Your e-mail address"
+msgstr "आपका ईमेल पता"
+
+#: 
+msgid "Your password"
+msgstr "आपका पासवर्ड"
+
+#: 
+msgid "Forgot password ?"
+msgstr "पासवर्ड भूल गए ?"
+
+#: 
+msgid "Login"
+msgstr "लॉग इन करें"
+
+#: 
+msgid "or"
+msgstr "या"
+
+#: 
+msgid "Create a new account"
+msgstr "एक नया खाता बनाएं"
+
+#: 
+msgid "practice account"
+msgstr "अभ्यास खाते"
+
+#: 
+msgid "Symbol"
+msgstr "प्रतीक"
+
+#: 
+msgid "Last"
+msgstr "अंतिम"
+
+#: 
+msgid "Chng (%)"
+msgstr "चिंग (%)"
+
+#: 
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+#: 
+msgid "Notification"
+msgstr "अधिसूचना"
+
+#: 
+msgid "Security"
+msgstr "सुरक्षा"
+
+#: 
+msgid "Logout"
+msgstr "लोग आउट"
+
+#: 
+msgid "Your name"
+msgstr "आपका नाम"
+
+#: 
+msgid "Language"
+msgstr "भाषा"
+
+#: 
+msgid "Type chart"
+msgstr "चार्ट टाइप करें"
+
+#: 
+msgid "Change your password"
+msgstr "अपना पासवर्ड बदलें"
+
+#: 
+msgid "Repeat your password"
+msgstr "अपना पासवर्ड दोहराएं"
+
+#: 
+msgid "Back"
+msgstr "वापस"
+
+#: 
+msgid "Validate"
+msgstr "मान्य करें"
+
+#: 
+msgid "Title"
+msgstr "शीर्षक"
+
+#: 
+msgid "Your website title"
+msgstr "आपकी वेबसाइट का शीर्षक"
+
+#: 
+msgid "App description"
+msgstr "ऐप विवरण"
+
+#: 
+msgid "Referal link"
+msgstr "रेफरल लिंक"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "आपका रेफरल लिंक (उदा: परिवर्तनीय)"
+
+#: 
+msgid "Maintenance mode"
+msgstr "रखरखाव मोड"
+
+#: 
+msgid "Number format"
+msgstr "संख्या स्वरूप"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "चार्ट को ट्रेडिंगव्यू चार्ट पर स्विच करें"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "Autolanguage सक्षम करें"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "POEditor भाषा सक्षम करें"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor एपीआई कुंजी"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "आपकी पीओएडिटर एपीआई कुंजी"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditor परियोजना चयनकर्ता"
+
+#: 
+msgid "Allow signup"
+msgstr "साइनअप की अनुमति दें"
+
+#: 
+msgid "User need verify account"
+msgstr "उपयोगकर्ता को खाता सत्यापित करने की आवश्यकता है"
+
+#: 
+msgid "Need captcha signup"
+msgstr "कैप्चा साइनअप की आवश्यकता है"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google रिकैप्चा साइट कुंजी"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "आपकी Google रिकैप्चा साइट कुंजी"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google रिकैप्चा गुप्त कुंजी"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "आपकी Google रिकैप्चा गुप्त कुंजी"
+
+#: 
+msgid "Sigin with google"
+msgstr "गूगल के साथ सिगिन"
+
+#: 
+msgid "Google App ID"
+msgstr "Google ऐप आईडी"
+
+#: 
+msgid "Your Google App ID"
+msgstr "आपका Google ऐप आईडी"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google ऐप सीक्रेट"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "आपका Google ऐप सीक्रेट"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "फेसबुक के साथ सिगिन"
+
+#: 
+msgid "Facebook App ID"
+msgstr "फेसबुक ऐप आईडी"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "आपका फेसबुक ऐप आईडी"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "फेसबुक ऐप सीक्रेट"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "आपका फेसबुक ऐप सीक्रेट"
+
+#: 
+msgid "Google Analytics"
+msgstr "गूगल विश्लेषिकी"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Google विज्ञापन सक्षम करें"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google विज्ञापन क्लाइंट"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "आपका Google विज्ञापन क्लाइंट"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google विज्ञापन स्लॉट"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "आपका Google विज्ञापन स्लॉट"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "कुकी पॉपअप सक्षम करें"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "कुकी पॉपअप शीर्षक"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "आपका कुकी पॉपअप शीर्षक"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "कुकी पॉपअप पाठ"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "आपका कुकी पॉपअप टेक्स्ट"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "ब्लैकलिस्टेड देशों"
+
+#: 
+msgid "Save"
+msgstr "बचाना"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "उपयोगकर्ता को चार्ट प्रकार स्विच करने दें"
+
+#: 
+msgid "Done !"
+msgstr "किया हुआ !"
+
+#: 
+msgid "quantity"
+msgstr "मात्रा"
+
+#: 
+msgid "Enable native trading"
+msgstr "देशी व्यापार सक्षम करें"
+
+#: 
+msgid "Balance configuration"
+msgstr "संतुलन विन्यास"
+
+#: 
+msgid "Show balance estimation"
+msgstr "संतुलन अनुमान दिखाएं"
+
+#: 
+msgid "User user currency select"
+msgstr "उपयोगकर्ता उपयोगकर्ता मुद्रा का चयन करें"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "संतुलन अनुमान दिखाएं"
+
+#: 
+msgid "Referal system configuration"
+msgstr "रेफरल सिस्टम कॉन्फ़िगरेशन"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "रेफरल सक्षम करें (मूल व्यापार सक्षम होना आवश्यक है)"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "रेफरल कमिशन ($, निश्चित राशि में)"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "रेफरल कमिशन ($, निश्चित राशि में) पूर्व: जब एक रिफाइन साइनअप और वास्तविक नकदी जमा, संदर्भ 5 $ (मूल्य = 5) जीत"
+
+#: 
+msgid "Deposit configuration"
+msgstr "जमा विन्यास"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "जमा शुल्क (% में)"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "जमा न्यूनतम ($ में)"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "जमा अधिकतम ($ में)"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "जमा मुद्राओं की अनुमति है"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "जमा वॉलेट प्राप्त होता है (यदि वॉलेट वास्तविक मुद्रा उपलब्ध नहीं है)"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "विन्यास वापस लेना"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "न्यूनतम निकालें ($ में)"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "प्रसंस्करण समय वापस लेना (दिनों में)"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "प्रसंस्करण समय वापस लेना (दिनों में) = पूर्व: 3"
+
+#: 
+msgid "Trading configuration"
+msgstr "व्यापार विन्यास"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "ट्रेडिंग फीस (% में)"
+
+#: 
+msgid "Order reference pattern"
+msgstr "आदेश संदर्भ पैटर्न"
+
+#: 
+msgid "Real account configuration"
+msgstr "वास्तविक खाता विन्यास"
+
+#: 
+msgid "Enable real account"
+msgstr "वास्तविक खाता सक्षम करें"
+
+#: 
+msgid "Practice account configuration"
+msgstr "खाता कॉन्फ़िगरेशन का अभ्यास करें"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "अधिकतम मुफ्त जमा ($ में)"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "अधिकतम मुफ्त जमा ($ में) पूर्व: 10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "नि: शुल्क जमा वॉलेट प्राप्त होता है"
+
+#: 
+msgid "Ref."
+msgstr "रेफरी।"
+
+#: 
+msgid "Submited date"
+msgstr "सबमिट की गई तारीख"
+
+#: 
+msgid "Status"
+msgstr "स्थिति"
+
+#: 
+msgid "Document name"
+msgstr "दस्तावेज़ का नाम"
+
+#: 
+msgid "Documents"
+msgstr "दस्तावेज़"
+
+#: 
+msgid "Not processed"
+msgstr "संसाधित नहीं"
+
+#: 
+msgid "Processed"
+msgstr "प्रसंस्कृत"
+
+#: 
+msgid "Payment success"
+msgstr "भुगतान की सफलता"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "भुगतान संदर्भ पैटर्न"
+
+#: 
+msgid "Enable SMTP"
+msgstr "एसएमटीपी सक्षम करें"
+
+#: 
+msgid "SMTP Server"
+msgstr "एसएमटीपी सर्वर"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "आपका एसएमटीपी होस्ट सर्वर"
+
+#: 
+msgid "SMTP Port"
+msgstr "एसएमटीपी पोर्ट"
+
+#: 
+msgid "Your SMTP port"
+msgstr "आपका एसएमटीपी पोर्ट"
+
+#: 
+msgid "SMTP Security"
+msgstr "एसएमटीपी सुरक्षा"
+
+#: 
+msgid "SMTP User"
+msgstr "एसएमटीपी उपयोगकर्ता"
+
+#: 
+msgid "Your SMTP user"
+msgstr "आपका एसएमटीपी उपयोगकर्ता"
+
+#: 
+msgid "SMTP Password"
+msgstr "एसएमटीपी पासवर्ड"
+
+#: 
+msgid "Your SMTP password"
+msgstr "आपका एसएमटीपी पासवर्ड"
+
+#: 
+msgid "Email sender name"
+msgstr "ईमेल प्रेषक का नाम"
+
+#: 
+msgid "Support mail"
+msgstr "समर्थन मेल"
+
+#: 
+msgid "Support Phone"
+msgstr "समर्थन फोन"
+
+#: 
+msgid "Support phone"
+msgstr "समर्थन फोन"
+
+#: 
+msgid "Support Address"
+msgstr "समर्थन पता"
+
+#: 
+msgid "DPO mail"
+msgstr "डीपीओ मेल"
+
+#: 
+msgid "DPO Phone"
+msgstr "डीपीओ फोन"
+
+#: 
+msgid "DPO phone"
+msgstr "डीपीओ फोन"
+
+#: 
+msgid "Send welcome mail"
+msgstr "स्वागत मेल भेजें"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "आपका स्वागत है मेल विषय"
+
+#: 
+msgid "Calendar credentials"
+msgstr "कैलेंडर प्रमाण पत्र"
+
+#: 
+msgid "Enable calendar"
+msgstr "कैलेंडर सक्षम करें"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "कैलेंडर क्लाइंट आईडी"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "आपका कैलेंडर क्लाइंट आईडी"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "कैलेंडर क्लाइंट सीक्रेट"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "सक्षम सिक्कों के संबंध में केवल ईवेंट दिखाएं"
+
+#: 
+msgid "News feed"
+msgstr "समाचार फ़ीड"
+
+#: 
+msgid "Add news feed"
+msgstr "समाचार फ़ीड जोड़ें"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "आपका आरएसएस फ़ीड लिंक"
+
+#: 
+msgid "Add"
+msgstr "जोड़ना"
+
+#: 
+msgid "Name feed"
+msgstr "नाम फ़ीड"
+
+#: 
+msgid "Url"
+msgstr "यूआरएल"
+
+#: 
+msgid "Twitter accounts"
+msgstr "ट्विटर खाते"
+
+#: 
+msgid "Add twitter account"
+msgstr "ट्विटर खाता जोड़ें"
+
+#: 
+msgid "Twitter name"
+msgstr "ट्विटर नाम"
+
+#: 
+msgid "without"
+msgstr "के बग़ैर"
+
+#: 
+msgid "Social name"
+msgstr "सामाजिक नाम"
+
+#: 
+msgid "Created date"
+msgstr "रचना तिथि"
+
+#: 
+msgid "Amount paid"
+msgstr "राशि का भुगतान"
+
+#: 
+msgid "Wallet received"
+msgstr "वॉलेट प्राप्त हुआ"
+
+#: 
+msgid "Amount received"
+msgstr "रकम प्राप्त"
+
+#: 
+msgid "Payment gateway"
+msgstr "अदायगी रास्ता"
+
+#: 
+msgid "Proof"
+msgstr "प्रमाण"
+
+#: 
+msgid "Modify balance"
+msgstr "संतुलन को संशोधित करें"
+
+#: 
+msgid "Select balance"
+msgstr "संतुलन का चयन करें"
+
+#: 
+msgid "Modification type"
+msgstr "संशोधन प्रकार"
+
+#: 
+msgid "Modification value"
+msgstr "संशोधन मूल्य"
+
+#: 
+msgid "Add modification"
+msgstr "संशोधन जोड़ें"
+
+#: 
+msgid "Card"
+msgstr "कार्ड"
+
+#: 
+msgid "Balances"
+msgstr "शेष"
+
+#: 
+msgid "Remove"
+msgstr "हटाना"
+
+#: 
+msgid "Last location"
+msgstr "पिछला स्थान"
+
+#: 
+msgid "Currency use"
+msgstr "मुद्रा उपयोग"
+
+#: 
+msgid "Signup with"
+msgstr "इसके साथ साइन अप करें"
+
+#: 
+msgid "Identity verification"
+msgstr "पहचान की जाँच"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2 चरण प्रमाणीकरण"
+
+#: 
+msgid "User status"
+msgstr "उपयोगकर्ता की स्थिति"
+
+#: 
+msgid "Login history"
+msgstr "लॉगिन इतिहास"
+
+#: 
+msgid "More details"
+msgstr "अधिक जानकारी"
+
+#: 
+msgid "Deposit history"
+msgstr "जमा इतिहास"
+
+#: 
+msgid "Total"
+msgstr "कुल"
+
+#: 
+msgid "Value in BTC"
+msgstr "बीटीसी में मूल्य"
+
+#: 
+msgid "Value in USD"
+msgstr "अमरीकी डालर में मूल्य"
+
+#: 
+msgid "Withdraw method"
+msgstr "विधि वापस लेना"
+
+#: 
+msgid "Date"
+msgstr "तारीख"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "एक चौड़ाई पूछो"
+
+#: 
+msgid "WITHDRAW"
+msgstr "हटें"
+
+#: 
+msgid "paypal"
+msgstr "paypal"
+
+#: 
+msgid "banktransfert"
+msgstr "बैंक हस्तांतरण"
+
+#: 
+msgid "Choose receiver account"
+msgstr "रिसीवर खाता चुनें"
+
+#: 
+msgid "Cancel"
+msgstr "रद्द करना"
+
+#: 
+msgid "Next"
+msgstr "आगामी"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "अधिसूचना की विन्यास पूर्ण"
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "आपका पुशबलेट एक्सेस टोकन"
+
+#: 
+msgid "Remove token"
+msgstr "टोकन निकालें"
+
+#: 
+msgid "You are premium !"
+msgstr "आप प्रीमियम हैं!"
+
+#: 
+msgid "left"
+msgstr "बाएं"
+
+#: 
+msgid "Main settings"
+msgstr "मुख्य सेटिंग्स"
+
+#: 
+msgid "Period"
+msgstr "अवधि"
+
+#: 
+msgid "Colour"
+msgstr "रंग"
+
+#: 
+msgid "Thickness"
+msgstr "मोटाई"
+
+#: 
+msgid "Reset"
+msgstr "रीसेट"
+
+#: 
+msgid "Apply"
+msgstr "लागू करें"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "अपने Google प्रमाणक कोड दर्ज करें"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "अपना Google प्रमाणक कोड दर्ज करें"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "0.001 बीटीसी से कम मूल्य वाले शेष"
+
+#: 
+msgid "Hide small balance"
+msgstr "छोटी शेष राशि छुपाएं"
+
+#: 
+msgid "Estimate value"
+msgstr "अनुमानित मूल्य"
+
+#: 
+msgid "Value in"
+msgstr "मूल्य में"
+
+#: 
+msgid "Deposit"
+msgstr "जमा"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google प्रमाणीकरण सक्षम है!"
+
+#: 
+msgid "Set as done"
+msgstr "के रूप में सेट करें"
+
+#: 
+msgid "Close"
+msgstr "बंद करे"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google प्रमाणक कोड अमान्य है"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "आपको ईमेल द्वारा चौड़ाई की पुष्टि प्राप्त होगी"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "रेफरी, यूजर आईडी, टाइप, मुद्रा"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "Widthdraw फ़िल्टर"
+
+#: 
+msgid "Default"
+msgstr "चूक"
+
+#: 
+msgid "Not confirmed"
+msgstr "इस बात की पुष्टि नहीं"
+
+#: 
+msgid "Done"
+msgstr "किया हुआ"
+
+#: 
+msgid "Payment filter"
+msgstr "भुगतान फ़िल्टर"
+
+#: 
+msgid "Need to be approved"
+msgstr "अनुमोदित होने की आवश्यकता है"
+
+#: 
+msgid "Paid"
+msgstr "भुगतान किया है"
+
+#: 
+msgid "Not paid"
+msgstr "नहीं चुकाया"
+
+#: 
+msgid "All payments"
+msgstr "सभी भुगतान"
+
+#: 
+msgid "Ask a proof"
+msgstr "एक सबूत पूछो"
+
+#: 
+msgid "Bank ref."
+msgstr "बैंक रेफरी"
+
+#: 
+msgid "Proof received"
+msgstr "सबूत प्राप्त हुआ"
+
+#: 
+msgid "In pending"
+msgstr "लंबित"
+
+#: 
+msgid "All widthdraw"
+msgstr "सभी चौड़ाई"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "संदर्भ पैटर्न वापस ले लें"
+
+#: 
+msgid "Withdraw filter"
+msgstr "फ़िल्टर वापस लेना"
+
+#: 
+msgid "Withdraw infos"
+msgstr "इंफोस वापस ले लें"
+
+#: 
+msgid "year"
+msgstr "साल"
+
+#: 
+msgid "month"
+msgstr "महीना"
+
+#: 
+msgid "week"
+msgstr "सप्ताह"
+
+#: 
+msgid "hour"
+msgstr "घंटा"
+
+#: 
+msgid "minute"
+msgstr "मिनट"
+
+#: 
+msgid "second"
+msgstr "दूसरा"
+
+#: 
+msgid "ago"
+msgstr "पूर्व"
+
+#: 
+msgid "Bank transfert"
+msgstr "बैंक हस्तांतरण"
+
+#: 
+msgid "Deposit amount"
+msgstr "जमा राशि"
+
+#: 
+msgid "Fill up"
+msgstr "भरें"
+
+#: 
+msgid "It's free"
+msgstr "यह निःशुल्क है"
+
+#: 
+msgid "You will receive"
+msgstr "आप पाएंगे"
+
+#: 
+msgid "Add real funds"
+msgstr "असली धन जोड़ें"
+
+#: 
+msgid "Minimal deposit"
+msgstr "न्यूनतम जमा"
+
+#: 
+msgid "Enable credit card"
+msgstr "क्रेडिट कार्ड सक्षम करें"
+
+#: 
+msgid "Stipe private key"
+msgstr "निजी कुंजी पट्टी"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "आपकी पट्टी एपीआई कुंजी"
+
+#: 
+msgid "Enable Paypal"
+msgstr "पेपैल सक्षम करें"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "पेपैल लाइव मोड सक्षम करें"
+
+#: 
+msgid "Paypal client ID"
+msgstr "पेपैल ग्राहक आईडी"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "आपका पेपैल क्लाइंट आईडी"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "पेपैल क्लाइंट सीक्रेट"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "आपका पेपैल क्लाइंट गुप्त"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "ब्लॉकोनॉमिक्स सक्षम करें"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "ब्लॉकोनोमिक्स गुप्त कुंजी"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "आपका ब्लॉकोनॉमिक्स गुप्त कुंजी"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "फोर्टुमो सक्षम करें"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "फोर्टुमो गुप्त कुंजी"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "आपका भाग्य गुप्त कुंजी"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "फोर्टुमो सेवा कुंजी"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "आपकी किस्मत सेवा कुंजी"
+
+#: 
+msgid "Enable Coingate"
+msgstr "कोइंगेट सक्षम करें"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "सिक्का गेट लाइव मोड सक्षम करें"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "सिक्कागेट ऑथ टोकन"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "आपका सिक्का गेट टूथ"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "सिक्कागेट मुद्रा प्राप्त करें"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "सिक्का भुगतान सक्षम करें"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "सिक्का भुगतान सार्वजनिक कुंजी"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "आपके सिक्का भुगतान सार्वजनिक कुंजी"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "सिक्का भुगतान निजी कुंजी"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "आपके सिक्का भुगतान निजी कुंजी"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "सिक्का भुगतान मार्चैंड आईडी"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "आपके सिक्का भुगतान मार्च और आईडी"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "सिक्का भुगतान आईपीएन गुप्त"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "आपके सिक्का भुगतान आईपीएन गुप्त"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "Rave Flutterwave भुगतान सक्षम करें"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "सैंडबॉक्स मोड रव Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "राव Flutterwave सार्वजनिक कुंजी"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "आपकी रव Flutterwave सार्वजनिक कुंजी"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "राव Flutterwave गुप्त कुंजी"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "आपकी रव Flutterwave गुप्त कुंजी"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "रव Flutterwave भुगतान शीर्षक"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "आपका रेव Flutterwave भुगतान शीर्षक"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "रव Flutterwave भुगतान उपसर्ग"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "आपका राव फ़्लटरवेव भुगतान उपसर्ग (उदा: केआरईपी)"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "सिक्काबेस वाणिज्य भुगतान सक्षम करें"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "सिक्काबेस वाणिज्य एपीआई कुंजी"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "आपका सिक्काबेस वाणिज्य API कुंजी"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "सिक्काबेस वाणिज्य भुगतान शीर्षक"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "आपका सिक्काबेस वाणिज्य भुगतान शीर्षक"
+
+#: 
+msgid "Enable Mollie"
+msgstr "मोली सक्षम करें"
+
+#: 
+msgid "Mollie Key"
+msgstr "मोली कुंजी"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "आपकी मौली कुंजी"
+
+#: 
+msgid "Enable Payeer"
+msgstr "पेयर सक्षम करें"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "पेयर शॉप आईडी"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "आपका पेयर शॉप आईडी"
+
+#: 
+msgid "Payeer API Key"
+msgstr "पेयर एपीआई कुंजी"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "आपकी पेयर एपीआई कुंजी"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "बैंक ट्रांसफर्ट सक्षम करें"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "बैंक एक ही समय में अधिकतम स्थानांतरित करता है"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "बैंक ट्रांसफर्ट सबूत सक्षम"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "बैंक अधिकतम सबूत ट्रांसफर करें"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "आपकी मिथुन कुंजी"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "आपका मिथुन गुप्त"
+
+#: 
+msgid "Select your platform"
+msgstr "अपना मंच चुनें"
+
+#: 
+msgid "Sandbox"
+msgstr "सैंडबॉक्स"
+
+#: 
+msgid "Live"
+msgstr "जीना"
+
+#: 
+msgid "Cron time"
+msgstr "क्रोन समय"
+
+#: 
+msgid "Last update"
+msgstr "आखिरी अपडेट"
+
+#: 
+msgid "Sync delay"
+msgstr "सिंक विलंब"
+
+#: 
+msgid "Add additional page"
+msgstr "अतिरिक्त पेज जोड़ें"
+
+#: 
+msgid "Page name"
+msgstr "पन्ने का नाम"
+
+#: 
+msgid "Page URL"
+msgstr "पेज का पता"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "पेज आइकन (उदा: एलएनआर-होम)"
+
+#: 
+msgid "Or page icon svg"
+msgstr "या पृष्ठ आइकन svg"
+
+#: 
+msgid "Icon"
+msgstr "चिह्न"
+
+#: 
+msgid "SVG Picture"
+msgstr "एसवीजी पिक्चर"
+
+#: 
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: 
+msgid "Disable"
+msgstr "अक्षम"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "नया बैंक ट्रांसफर्ट बनाएं"
+
+#: 
+msgid "Pending"
+msgstr "अपूर्ण"
+
+#: 
+msgid "Details"
+msgstr "विवरण"
+
+#: 
+msgid "Verified"
+msgstr "सत्यापित"
+
+#: 
+msgid "Canceled"
+msgstr "रद्द"
+
+#: 
+msgid "Declined"
+msgstr "इंकार कर दिया"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "आपकी हिटबैक कुंजी"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "आपका हिटबैक सीक्रेट"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "आपकी बिटबैंक कुंजी"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "आपका बिटबैंक गुप्त"
+
+#: 
+msgid "User level"
+msgstr "उपयोगकर्ता स्तर"
+
+#: 
+msgid "Expire in"
+msgstr "में समाप्त"
+
+#: 
+msgid "Back to login"
+msgstr "लॉगिन पर वापस जाएं"
+
+#: 
+msgid "Let's go !"
+msgstr "चलिए चलते हैं !"
+
+#: 
+msgid "Welcome"
+msgstr "स्वागत हे"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "आइए आपके डैशबोर्ड को एक साथ कॉन्फ़िगर करें।"
+
+#: 
+msgid "Select your language"
+msgstr "अपनी भाषा का चयन करें"
+
+#: 
+msgid "Select your currency"
+msgstr "अपनी मुद्रा का चयन करें"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "अपने पसंदीदा क्रिप्टो का चयन करें"
+
+#: 
+msgid "left need to be selected"
+msgstr "बाएं चुनने की जरूरत है"
+
+#: 
+msgid "Configuration complete !"
+msgstr "कॉन्फ़िगरेशन पूर्ण!"
+
+#: 
+msgid "will now refresh"
+msgstr "अब ताज़ा हो जाएगा"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "परफेक्ट मनी भुगतान सक्षम करें"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "बिल्कुल सही पैसा प्राप्तकर्ता खाता"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "आपका बिल्कुल सही पैसा प्राप्तकर्ता खाता"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "मोबाइल, ब्राउज़र, विंडोज अधिसूचनाएं"
+
+#: 
+msgid "Create price alert"
+msgstr "मूल्य अलर्ट बनाएं"
+
+#: 
+msgid "I need help !"
+msgstr "मुझे मदद की ज़रूरत है !"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "अपने फोन पर पुशबलेट ऐप डाउनलोड करें (एंड्रॉइड और आईओएस के लिए उपलब्ध)"
+
+#: 
+msgid "Create an account on it"
+msgstr "इस पर एक खाता बनाएँ"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "यहां अपने नए खाते से जुड़ें"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "<B> सेटिंग्स </ b>> <b> खाता </ b> पर जाएं और <b> एक्सेस टोकन </ b> बनाएं"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "कुंजी कॉपी करें और इसे भरने पर पेस्ट करें और सहेजें पर क्लिक करें।"
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "यह जांचने के लिए एक अधिसूचना भेजी जाएगी कि क्या कनेक्शन सफल है या नहीं।"
+
+#: 
+msgid "Premium wait you !"
+msgstr "प्रीमियम आप इंतजार कर रहे हैं!"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "2000 से अधिक क्रिप्टो मुद्राएं"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "जब संकेतक बढ़ता या गिरता है तो सतर्क रहें"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "मोबाइल और टैबलेट पर उत्तरदायी"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "एक ही स्थान पर समाचार और सामाजिक पोस्ट"
+
+#: 
+msgid "Support"
+msgstr "समर्थन"
+
+#: 
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: 
+msgid "Address"
+msgstr "पता"
+
+#: 
+msgid "Contact DPO"
+msgstr "डीपीओ से संपर्क करें"
+
+#: 
+msgid "Your Binance Key"
+msgstr "आपका बिनेंस कुंजी"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "आपका बिनेंस सीक्रेट"
+
+#: 
+msgid "Cardholder name"
+msgstr "कार्डधारक का नाम"
+
+#: 
+msgid "Card number"
+msgstr "कार्ड नंबर"
+
+#: 
+msgid "Expiration"
+msgstr "समय सीमा समाप्ति"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "cryptocurrencies"
+
+#: 
+msgid "No order to show"
+msgstr "दिखाने के लिए कोई आदेश नहीं है"
+
+#: 
+msgid "Premium"
+msgstr "प्रीमियम"
+
+#: 
+msgid "Verify your identiy"
+msgstr "अपनी पहचान सत्यापित करें"
+
+#: 
+msgid "Estimate balance"
+msgstr "संतुलन का अनुमान लगाएं"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2 माह"
+
+#: 
+msgid "7d"
+msgstr "7 दिन"
+
+#: 
+msgid "1d"
+msgstr "1 दिन"
+
+#: 
+msgid "12h"
+msgstr "12h"
+
+#: 
+msgid "2h"
+msgstr "2 एच"
+
+#: 
+msgid "1h"
+msgstr "1 घंटे"
+
+#: 
+msgid "30min"
+msgstr "30 मिनट"
+
+#: 
+msgid "Candlestick"
+msgstr "मोमबत्ती"
+
+#: 
+msgid "Line"
+msgstr "लाइन"
+
+#: 
+msgid "Indicators"
+msgstr "संकेतक"
+
+#: 
+msgid "Export"
+msgstr "निर्यात"
+
+#: 
+msgid "Alert"
+msgstr "चेतावनी"
+
+#: 
+msgid "Drawing"
+msgstr "चि त्र का री"
+
+#: 
+msgid "Trend Line"
+msgstr "प्रवृत्ति रेखा"
+
+#: 
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: 
+msgid "Create a new alert"
+msgstr "एक नई चेतावनी बनाएँ"
+
+#: 
+msgid "% Fees"
+msgstr "% शुल्क"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "क्रिप्टोक्रुरेंसी समझौते को वापस ले लें"
+
+#: 
+msgid "Decline"
+msgstr "पतन"
+
+#: 
+msgid "Agree"
+msgstr "इस बात से सहमत"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "Cryptocurrency जमा समझौते"
+
+#: 
+msgid "Enable news popup"
+msgstr "समाचार पॉपअप सक्षम करें"
+
+#: 
+msgid "News popup title"
+msgstr "समाचार पॉपअप शीर्षक"
+
+#: 
+msgid "Your news popup title"
+msgstr "आपका समाचार पॉपअप शीर्षक"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "समाचार पॉपअप वीडियो (वीडियो दिखाने के लिए खाली रखें)"
+
+#: 
+msgid "News popup description"
+msgstr "समाचार पॉपअप विवरण"
+
+#: 
+msgid "Advert users"
+msgstr "उपयोगकर्ताओं को विज्ञापन दें"
+
+#: 
+msgid "Enable intro"
+msgstr "परिचय सक्षम करें"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "शुल्क वापस लेना (% में)"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "मुद्रा वापस लेने पर बैंक ट्रांसफर अलर्ट क्रिप्टो-मुद्रा नहीं है"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "क्रिप्टोकुरेंट्स बैंक ट्रांसफर के लिए अनुमति दी गई"
+
+#: 
+msgid "Estimate balance in"
+msgstr "संतुलन का अनुमान लगाएं"
+
+#: 
+msgid "Edit profile"
+msgstr "प्रोफाइल एडिट करें"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "बैंक ट्रांसफर डिपॉजिट समझौते"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "ब्लॉकोनॉमिक्स भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "आपकी ब्लॉकोनॉमिक्स भुगतान शुल्क (% में)"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "फोर्टमू भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "आपकी किस्मत भुगतान शुल्क (% में)"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "सिक्का भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "आपकी सहकारी भुगतान शुल्क (% में)"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "सिक्का भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "आपकी सहारा भुगतान शुल्क (% में)"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "Rave Flutterwave भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "आपकी रैव flutterwave भुगतान शुल्क (% में)"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "सिक्काबेस वाणिज्य भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "आपका सिक्का वाणिज्य भुगतान शुल्क (% में)"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "मौली भुगतान शुल्क (% में)"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "आपकी मौली भुगतान शुल्क (% में)"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "भुगतानकर्ता शुल्क शुल्क (% में)"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "आपकी भुगतानकर्ता भुगतान शुल्क (% में)"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "बैंक भुगतान शुल्क ट्रांसफर (% में)"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "आपका बैंक भुगतान शुल्क ट्रांसफर करता है (% में)"
+
+#: 
+msgid "Add new"
+msgstr "नया जोड़ें"
+
+#: 
+msgid "Bank accounts"
+msgstr "बैंक खाते"
+
+#: 
+msgid "Add new bank account"
+msgstr "नया बैंक खाता जोड़ें"
+
+#: 
+msgid "Bank account name"
+msgstr "बैंक खाता नाम"
+
+#: 
+msgid "Your bank account name"
+msgstr "आपका बैंक खाता नाम"
+
+#: 
+msgid "Bank account currency"
+msgstr "बैंक खाते की मुद्रा"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "बैंक खाता आईबीएएन"
+
+#: 
+msgid "Bank account BIC"
+msgstr "बैंक खाता बीआईसी"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "आपका बैंक खाता बीआईसी"
+
+#: 
+msgid "Bank account address"
+msgstr "बैंक खाता पता"
+
+#: 
+msgid "Your bank account address"
+msgstr "आपका बैंक खाता पता"
+
+#: 
+msgid "Bank account owner name"
+msgstr "बैंक खाता मालिक का नाम"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "आपका बैंक खाता स्वामी का नाम"
+
+#: 
+msgid "* This is optional"
+msgstr "* यह वैकल्पिक है"
+
+#: 
+msgid "Your bank account currency"
+msgstr "आपका बैंक खाता मुद्रा"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "आपका बैंक खाता आईबीएएन"
+
+#: 
+msgid "Delete"
+msgstr "हटाना"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "आप 'पेज आइकन' और 'पेज आइकन एसवीजी' के बीच बीच चुन सकते हैं (पेज आइकन प्राथमिकता है) - यहां उपलब्ध सूची आइकन"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "आपको एक ईमेल पुष्टिकरण प्राप्त होगा"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "कृपया अपना निकासी अनुरोध पूरा करने के लिए इस चरण का पालन करें।"
+
+#: 
+msgid "You need to have at least"
+msgstr "आपको कम से कम होना चाहिए"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "आपके पास कोई भरी शेष राशि उपलब्ध नहीं है"
+
+#: 
+msgid "Total in "
+msgstr "कुल in␣"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "आपको चौड़ाई वाली विधि सेट अप करने की आवश्यकता है"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "बैंक खाता बीआईसी / स्विफ्ट"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "आपका बैंक खाता बीआईसी / स्विफ्ट"
+
+#: 
+msgid "Day range"
+msgstr "दिन सीमा\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "खुला दिन"
+
+#: 
+msgid "Volume 24H"
+msgstr "प्रत्यक्ष वॉल्यूम"
+
+#: 
+msgid "Direct Volume"
+msgstr "प्रत्यक्ष वॉल्यूम"
+
+#: 
+msgid "Load more data"
+msgstr "अधिक डेटा लोड करें"
+
+#: 
+msgid "Qty"
+msgstr "मात्रा"
+
+#: 
+msgid "Gain"
+msgstr "लाभ"
+
+#: 
+msgid "Price buy"
+msgstr "मूल्य खरीदते हैं"
+
+#: 
+msgid "Disable chat"
+msgstr "चैट अक्षम करें"
+
+#: 
+msgid "Total gain"
+msgstr "कुल लाभ"
+
+#: 
+msgid "Confirmation"
+msgstr "पुष्टीकरण"
+
+#: 
+msgid "Unit price"
+msgstr "यूनिट मूल्य"
+
+#: 
+msgid "Investment"
+msgstr "निवेश"
+
+#: 
+msgid "Quantity"
+msgstr "मात्रा"
+
+#: 
+msgid "Commission"
+msgstr "आयोग"
+
+#: 
+msgid "Confirm buying"
+msgstr "खरीद की पुष्टि करें"
+
+#: 
+msgid "New user"
+msgstr "नया उपयोगकर्ता"
+
+#: 
+msgid "Order passed"
+msgstr "आदेश पारित किया गया"
+
+#: 
+msgid "New subscription"
+msgstr "नई सदस्यता"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "निकासी रिसीवर इंफोस दिखाएं।"
+
+#: 
+msgid "Process"
+msgstr "प्रक्रिया"
+
+#: 
+msgid "Hide details"
+msgstr "जानकारी छिपाएँ"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "सदस्यता सक्षम करें"
+
+#: 
+msgid "Enable free trial"
+msgstr "नि: शुल्क परीक्षण सक्षम करें"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "नि: शुल्क परीक्षण अवधि (दिन में)"
+
+#: 
+msgid "Free trial duration"
+msgstr "नि: शुल्क परीक्षण अवधि"
+
+#: 
+msgid "Premium features"
+msgstr "प्रीमियम विशेषताएं"
+
+#: 
+msgid "Free users features"
+msgstr "मुफ्त उपयोगकर्ता सुविधाओं"
+
+#: 
+msgid "Add a new plan"
+msgstr "एक नई योजना जोड़ें"
+
+#: 
+msgid "Name plan"
+msgstr "नाम योजना"
+
+#: 
+msgid "Price total"
+msgstr "मूल्य कुल"
+
+#: 
+msgid "Duration in days"
+msgstr "दिनों में अवधि"
+
+#: 
+msgid "Duration"
+msgstr "अवधि"
+
+#: 
+msgid "Add this plan"
+msgstr "इस योजना को जोड़ें"
+
+#: 
+msgid "Plans available"
+msgstr "योजना उपलब्ध है"
+
+#: 
+msgid "Price plan"
+msgstr "मूल्य योजना"
+
+#: 
+msgid "Duration in month"
+msgstr "महीने में अवधि"
+
+#: 
+msgid "Price per month"
+msgstr "मूल्य प्रति माह"
+
+#: 
+msgid "Account"
+msgstr "लेखा"
+
+#: 
+msgid "Exchanges"
+msgstr "एक्सचेंजों"
+
+#: 
+msgid "Total Free"
+msgstr "कुल मुफ़्त"
+
+#: 
+msgid "Total Used"
+msgstr "कुल प्रयुक्त"
+
+#: 
+msgid "Order Ref."
+msgstr "ऑर्डर रेफरी"
+
+#: 
+msgid "Ordered price"
+msgstr "आदेश दिया गया मूल्य"
+
+#: 
+msgid "Current price"
+msgstr "मौजूदा कीमत"
+
+#: 
+msgid "Evolution"
+msgstr "क्रमागत उन्नति"
+
+#: 
+msgid "Enable identity system"
+msgstr "पहचान प्रणाली सक्षम करें"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "पहचान सत्यापन के बिना व्यापार ब्लॉक"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "पहचान सत्यापन के बिना ब्लॉक जमा करें"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "पहचान सत्यापन के बिना वापस लेना ब्लॉक करें"
+
+#: 
+msgid "Approve"
+msgstr "मंजूर"
+
+#: 
+msgid "Identity ID"
+msgstr "पहचान आईडी"
+
+#: 
+msgid "Identity step name"
+msgstr "पहचान चरण का नाम"
+
+#: 
+msgid "Identity step description"
+msgstr "पहचान चरण विवरण"
+
+#: 
+msgid "Identity order"
+msgstr "पहचान आदेश"
+
+#: 
+msgid "Down order"
+msgstr "नीचे आदेश"
+
+#: 
+msgid "Up order"
+msgstr "ऊपर आदेश"
+
+#: 
+msgid "Add new identity step"
+msgstr "नया पहचान चरण जोड़ें"
+
+#: 
+msgid "Your step name"
+msgstr "आपका कदम नाम"
+
+#: 
+msgid "Your step description"
+msgstr "आपका कदम विवरण"
+
+#: 
+msgid "Identity step type"
+msgstr "पहचान चरण प्रकार"
+
+#: 
+msgid "Upload new document"
+msgstr "नया दस्तावेज़ अपलोड करें"
+
+#: 
+msgid "Choose in document type list"
+msgstr "दस्तावेज़ प्रकार सूची में चुनें"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "वेबकैम के साथ पहचान अपलोड सक्षम करें"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "वेबकैम दस्तावेज़ अनुपात"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "राशन (चौड़ाई / ऊंचाई)"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "अनुपात (चौड़ाई / ऊंचाई)"
+
+#: 
+msgid "Document identity list"
+msgstr "दस्तावेज़ पहचान सूची"
+
+#: 
+msgid "Add new identity document"
+msgstr "नया पहचान दस्तावेज़ जोड़ें"
+
+#: 
+msgid "Your document name"
+msgstr "आपका दस्तावेज़ नाम"
+
+#: 
+msgid "My Holding"
+msgstr "मेरा होल्डिंग"
+
+#: 
+msgid "Holding"
+msgstr "होल्डिंग"
+
+#: 
+msgid "Market Value"
+msgstr "बाजारी मूल्य"
+
+#: 
+msgid "Profit / Loss"
+msgstr "लाभ हानि"
+
+#: 
+msgid "Wallet"
+msgstr "बटुआ"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "बैंक ट्रांसफर मान्य करें"
+
+#: 
+msgid "Transfert received date"
+msgstr "ट्रांसफर्ट प्राप्त तिथि"
+
+#: 
+msgid "Bank account received"
+msgstr "बैंक खाता प्राप्त हुआ"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "बैंक ट्रांसफर संदर्भ"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "बैंक खाते में प्राप्त राशि"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "उपयोगकर्ता खाते में स्थानांतरित की गई राशि"
+
+#: 
+msgid "User will receive"
+msgstr "उपयोगकर्ता प्राप्त होगा"
+
+#: 
+msgid "Dark"
+msgstr "अंधेरा"
+
+#: 
+msgid "White"
+msgstr "सफेद"
+
+#: 
+msgid "Enable Donation"
+msgstr "दान सक्षम करें"
+
+#: 
+msgid "Donation text"
+msgstr "दान पाठ"
+
+#: 
+msgid "Your donation text"
+msgstr "आपका दान पाठ"
+
+#: 
+msgid "Donation address list"
+msgstr "दान पता सूची"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "प्रति पंक्ति 1 पता रखें"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "रेखा प्रारूप: बीटीसी: पता"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "हमारे चेहरे पर एक मुस्कुराओ और दान करने के द्वारा हमें समर्थन :)"
+
+#: 
+msgid "Transactions history"
+msgstr "लेनदेन इतिहास"
+
+#: 
+msgid "Description"
+msgstr "विवरण"
+
+#: 
+msgid "Reference ..."
+msgstr "संदर्भ ..."
+
+#: 
+msgid "Reference"
+msgstr "संदर्भ"
+
+#: 
+msgid "deposit"
+msgstr "जमा"
+
+#: 
+msgid "widthdraw"
+msgstr "widthdraw"
+
+#: 
+msgid "Dépot"
+msgstr "डिपो"
+
+#: 
+msgid "Unknown"
+msgstr "अनजान"
+
+#: 
+msgid "BUY order done"
+msgstr "आदेश पूरा करें"
+
+#: 
+msgid "SELL order done"
+msgstr "आदेश आदेश दिया"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "आदेश दिया गया"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "आदेश प्राप्त करें"
+
+#: 
+msgid "Add a new item"
+msgstr "एक नया आइटम जोड़ें"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "आपका जीडीएक्स कुंजी"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "आपका जीडीएक्स पास"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "आपका जीडीएक्स सीक्रेट"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "आपका बिटमैक्स आईडी"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "आपका बिटकमेक्स गुप्त"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "आपका OKCoin कुंजी"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "आपका OKCoin गुप्त"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "आपकी लूनो कुंजी आईडी"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "आपका लूनो सीक्रेट"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "आपकी कोनेक्स कुंजी"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "आपका कोनेक्स गुप्त"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "आपकी बीटीमार्कमार्क कुंजी"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "आपका बीटीकेमार्केट सीक्रेट"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "आपकी लाइवकोइन कुंजी"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "आपका लाइवकोइन सीक्रेट"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "आपका क्वाइनिक्स टोकन आईडी"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "आपका Quoinex गुप्त"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "आपका एक्समो कुंजी"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "आपका एक्समो गुप्त"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "आपकी योबिट कुंजी"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "आपका योबिट सीक्रेट"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "आपकी कुकोइन कुंजी"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "आपका कुकोइन प्राइवेट"
+
+#: 
+msgid "Your CEX Key"
+msgstr "आपका सीईएक्स कुंजी"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "आपका सीईएक्स गुप्त"
+
+#: 
+msgid "Your CEX UID"
+msgstr "आपका सीईएक्स यूआईडी"
+
+#: 
+msgid "My orders"
+msgstr "मेरे आदेश"
+
+#: 
+msgid "Size"
+msgstr "आकार"
+
+#: 
+msgid "Limit price"
+msgstr "सीमा मूल्य"
+
+#: 
+msgid "Place buy order"
+msgstr "जगह खरीद आदेश"
+
+#: 
+msgid "Place sell order"
+msgstr "ऑर्डर बेचें ऑर्डर करें"
+
+#: 
+msgid "Method"
+msgstr "तरीका"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "आपको कोनेक्स में लॉग इन करने की आवश्यकता है"
+
+#: 
+msgid "Enable live trading"
+msgstr "लाइव ट्रेडिंग सक्षम करें"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Coinex के साथ लॉगिन करें"
+
+#: 
+msgid "Week profit"
+msgstr "सप्ताह का लाभ"
+
+#: 
+msgid "Leaderboard"
+msgstr "लीडरबोर्ड"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "लीडरबोर्ड सक्षम करें (मूल व्यापार सक्षम होना आवश्यक है)"
+
+#: 
+msgid "Active"
+msgstr "सक्रिय"
+
+#: 
+msgid "Every"
+msgstr "प्रत्येक"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "नया उपयोगकर्ता साइनअप करते समय जोड़ी शुरू करना"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "केवल 1 जोड़ी की अनुमति है"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "नया उपयोगकर्ता साइनअप करते समय सूची जोड़ी देखना शुरू कर रहा है"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "प्रत्येक पंक्ति के लिए प्रत्येक 1 जोड़ी"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "प्रारूप: बाजार: SYMBOL / CURRENCY"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "आपको Livecoin पर लॉग इन करने की आवश्यकता है"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Livecoin के साथ लॉगिन करें"
+
+#: 
+msgid "Email not valid"
+msgstr "ईमेल मान्य नहीं है"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "आपको योबिट में लॉग इन होना चाहिए"
+
+#: 
+msgid "Login with Yobit"
+msgstr "योबिट के साथ लॉगिन करें"
+
+#: 
+msgid "Based on all wallet"
+msgstr "सभी वॉलेट के आधार पर"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "आपकी पोलोनिक्स कुंजी"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "आपका पोलोनिक्स गुप्त"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "आपका परीक्षण संस्करण समाप्त हो गया है!"
+
+#: 
+msgid "Become"
+msgstr "बनना"
+
+#: 
+msgid "You will be charged"
+msgstr "आपके ऊपर आरोप लगाया जाएगा"
+
+#: 
+msgid "for"
+msgstr "के लिये"
+
+#: 
+msgid "months"
+msgstr "महीने"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "आपका क्राकेन कुंजी"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "आपका क्राकेन प्राइवेट"
+
+#: 
+msgid "will be ready for you !"
+msgstr "तुम्हारे लिए तैयार हो जाएगा!"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "आपको बिनेंस में लॉग इन करने की आवश्यकता है"
+
+#: 
+msgid "Login with Binance"
+msgstr "बिनेंस के साथ लॉगिन करें"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "आपको Poloniex पर लॉग इन करने की आवश्यकता है"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Poloniex के साथ लॉगिन करें"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "आपको एक्समो में लॉग इन करने की आवश्यकता है"
+
+#: 
+msgid "Login with Exmo"
+msgstr "एक्समो के साथ लॉगिन करें"
+
+#: 
+msgid "View the article"
+msgstr "लेख देखें"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "आपकी बिट्ट्रेक्स कुंजी"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "आपका बिट्ट्रेक्स गुप्त"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "आपको क्राकेन में लॉग इन होना चाहिए"
+
+#: 
+msgid "Login with Kraken"
+msgstr "Kraken के साथ लॉगिन करें"
+
+#: 
+msgid "Markets"
+msgstr "बाजार"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "बाजार छुपाएं (मूल व्यापार सक्षम होना आवश्यक है)"
+
+#: 
+msgid "Hide orders book"
+msgstr "ऑर्डर बुक छुपाएं"
+
+#: 
+msgid "Load orders book"
+msgstr "ऑर्डर बुक बुक करें"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "अलर्ट बनाएं जब ..."
+
+#: 
+msgid "Price is above"
+msgstr "कीमत ऊपर है"
+
+#: 
+msgid "Price is bellow"
+msgstr "कीमत बेलो है"
+
+#: 
+msgid "Password not match"
+msgstr "पासवर्ड मेल नहीं खाता"
+

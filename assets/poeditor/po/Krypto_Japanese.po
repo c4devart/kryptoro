@@ -1,0 +1,2951 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Krypto\n"
+"Language: ja\n"
+
+#: 
+msgid "Real account"
+msgstr "リアルアカウント"
+
+#: 
+msgid "Board"
+msgstr "グラフ\n"
+""
+
+#: 
+msgid "Please turn your device in landscape mode."
+msgstr "向きを変えてください"
+
+#: 
+msgid "chart"
+msgstr "チャート\n"
+""
+
+#: 
+msgid "charts or more"
+msgstr "チャートやその他"
+
+#: 
+msgid "Search by name or symbol"
+msgstr "名前または記号で検索"
+
+#: 
+msgid "real account"
+msgstr "実際のアカウント\n"
+""
+
+#: 
+msgid "See all balances"
+msgstr "すべての残高を表示"
+
+#: 
+msgid "List accounts"
+msgstr "アカウントを一覧表示する\n"
+""
+
+#: 
+msgid "History"
+msgstr "歴史"
+
+#: 
+msgid "Credit"
+msgstr "クレジット"
+
+#: 
+msgid "Widthdraw"
+msgstr "ワイドドロー"
+
+#: 
+msgid "Order book"
+msgstr "注文書"
+
+#: 
+msgid "Market"
+msgstr "市場"
+
+#: 
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: 
+msgid "Leader board"
+msgstr "リーダーボード"
+
+#: 
+msgid "Calc."
+msgstr "Calc。"
+
+#: 
+msgid "Watching"
+msgstr "見ている"
+
+#: 
+msgid "News"
+msgstr "ニュース"
+
+#: 
+msgid "Panel"
+msgstr "パネル"
+
+#: 
+msgid "Manager"
+msgstr "マネージャー"
+
+#: 
+msgid "Admin"
+msgstr "管理者"
+
+#: 
+msgid "Converter"
+msgstr "コンバータ"
+
+#: 
+msgid "Social"
+msgstr "ソーシャル"
+
+#: 
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: 
+msgid "Watchlist"
+msgstr "ウォッチリスト"
+
+#: 
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: 
+msgid "January"
+msgstr "1月"
+
+#: 
+msgid "February"
+msgstr "2月"
+
+#: 
+msgid "March"
+msgstr "行進"
+
+#: 
+msgid "April"
+msgstr "4月"
+
+#: 
+msgid "May"
+msgstr "5月"
+
+#: 
+msgid "June"
+msgstr "六月"
+
+#: 
+msgid "July"
+msgstr "7月"
+
+#: 
+msgid "August"
+msgstr "8月"
+
+#: 
+msgid "September"
+msgstr "9月"
+
+#: 
+msgid "October"
+msgstr "10月"
+
+#: 
+msgid "November"
+msgstr "11月"
+
+#: 
+msgid "December"
+msgstr "12月"
+
+#: 
+msgid "Mon."
+msgstr "月"
+
+#: 
+msgid "Tue."
+msgstr "火。"
+
+#: 
+msgid "Wed."
+msgstr "結婚した。"
+
+#: 
+msgid "Thu."
+msgstr "木"
+
+#: 
+msgid "Fri."
+msgstr "金"
+
+#: 
+msgid "Sat."
+msgstr "土"
+
+#: 
+msgid "Sun."
+msgstr "太陽。"
+
+#: 
+msgid "Statistics"
+msgstr "統計"
+
+#: 
+msgid "Bank transferts"
+msgstr "銀行振込"
+
+#: 
+msgid "Payments"
+msgstr "支払い"
+
+#: 
+msgid "Subscriptions"
+msgstr "定期購読"
+
+#: 
+msgid "Identity"
+msgstr "身元"
+
+#: 
+msgid "Users"
+msgstr "ユーザー"
+
+#: 
+msgid "Orders"
+msgstr "注文"
+
+#: 
+msgid "Withdraw"
+msgstr "撤退"
+
+#: 
+msgid "Currency"
+msgstr "通貨"
+
+#: 
+msgid "Total trade"
+msgstr "トータルトレード"
+
+#: 
+msgid "Total deposit"
+msgstr "総入金額"
+
+#: 
+msgid "Total withdraw"
+msgstr "総引き出し額"
+
+#: 
+msgid "Fees"
+msgstr "料金"
+
+#: 
+msgid "Name"
+msgstr "名"
+
+#: 
+msgid "Email"
+msgstr "Eメール"
+
+#: 
+msgid "Subscription"
+msgstr "購読"
+
+#: 
+msgid "Signin method"
+msgstr "サイン法"
+
+#: 
+msgid "Last login"
+msgstr "前回のログイン"
+
+#: 
+msgid "Notifications enabled"
+msgstr "通知を有効にしました"
+
+#: 
+msgid "Trial version"
+msgstr "体験版"
+
+#: 
+msgid "day"
+msgstr "日"
+
+#: 
+msgid "Edit"
+msgstr "編集"
+
+#: 
+msgid "Inactive"
+msgstr "非アクティブ"
+
+#: 
+msgid "Enabled"
+msgstr "有効"
+
+#: 
+msgid "Ref"
+msgstr "Ref"
+
+#: 
+msgid "User"
+msgstr "ユーザー"
+
+#: 
+msgid "Order date"
+msgstr "注文日"
+
+#: 
+msgid "Exchange"
+msgstr "交換"
+
+#: 
+msgid "Pair"
+msgstr "ペア"
+
+#: 
+msgid "Type"
+msgstr "タイプ"
+
+#: 
+msgid "Amount"
+msgstr "量"
+
+#: 
+msgid "Received"
+msgstr "受け取った"
+
+#: 
+msgid "Total deducted"
+msgstr "総控除額"
+
+#: 
+msgid "Total received"
+msgstr "受信総数"
+
+#: 
+msgid "Buy"
+msgstr "購入"
+
+#: 
+msgid "Sell"
+msgstr "売る\n"
+""
+
+#: 
+msgid "Coin list"
+msgstr "コインリスト"
+
+#: 
+msgid "Market list"
+msgstr "マーケットリスト"
+
+#: 
+msgid "Heatmap"
+msgstr "ヒートマップ"
+
+#: 
+msgid "Price"
+msgstr "価格"
+
+#: 
+msgid "Direct Vol. 24H"
+msgstr "Direct Vol。 24H"
+
+#: 
+msgid "Total Vol. 24H"
+msgstr "合計Vol。 24H"
+
+#: 
+msgid "Market Cap"
+msgstr "時価総額"
+
+#: 
+msgid "Chg. 24H"
+msgstr "Chg。 24H"
+
+#: 
+msgid "24h High/Low"
+msgstr "24時間高/低"
+
+#: 
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: 
+msgid "General settings"
+msgstr "一般設定"
+
+#: 
+msgid "Coins"
+msgstr "コイン"
+
+#: 
+msgid "Currencies"
+msgstr "通貨"
+
+#: 
+msgid "Mail settings"
+msgstr "メール設定"
+
+#: 
+msgid "Payment"
+msgstr "支払い"
+
+#: 
+msgid "News - Social"
+msgstr "ニュース - ソーシャル"
+
+#: 
+msgid "Intro"
+msgstr "イントロ"
+
+#: 
+msgid "Trading"
+msgstr "トレーディング"
+
+#: 
+msgid "Cron"
+msgstr "クロン"
+
+#: 
+msgid "Additional pages"
+msgstr "追加のページ"
+
+#: 
+msgid "Today's visits"
+msgstr "今日の訪問"
+
+#: 
+msgid "7 days visits"
+msgstr "7日間の訪問"
+
+#: 
+msgid "Number of users"
+msgstr "ユーザー数"
+
+#: 
+msgid "Number of coins"
+msgstr "コインの枚数"
+
+#: 
+msgid "Last users"
+msgstr "最後のユーザー"
+
+#: 
+msgid "This website uses cookies"
+msgstr "このウェブサイトはクッキー"
+
+#: 
+msgid "Our website uses cookies to examine site traffic and user activity while on our site, for enhanced and effective user experience, marketing, and to provide social media functionality."
+msgstr "当社のウェブサイトでは、クッキーを使用してサイトのトラフィックやユーザーの活動状況を調査し、効果的なユーザーエクスペリエンス、マーケティング、ソーシャルメディア機能を提供しています。"
+
+#: 
+msgid "Accept"
+msgstr "同意する"
+
+#: 
+msgid "Your e-mail address"
+msgstr "メールアドレス"
+
+#: 
+msgid "Your password"
+msgstr "あなたのパスワード"
+
+#: 
+msgid "Forgot password ?"
+msgstr "パスワードをお忘れですか ？"
+
+#: 
+msgid "Login"
+msgstr "ログイン"
+
+#: 
+msgid "or"
+msgstr "または"
+
+#: 
+msgid "Create a new account"
+msgstr "新しいアカウントを作成する"
+
+#: 
+msgid "practice account"
+msgstr "練習勘定"
+
+#: 
+msgid "Symbol"
+msgstr "シンボル"
+
+#: 
+msgid "Last"
+msgstr "最終"
+
+#: 
+msgid "Chng (%)"
+msgstr "Chng（％）"
+
+#: 
+msgid "Profile"
+msgstr "プロフィール"
+
+#: 
+msgid "Notification"
+msgstr "お知らせ"
+
+#: 
+msgid "Security"
+msgstr "セキュリティ"
+
+#: 
+msgid "Logout"
+msgstr "ログアウト"
+
+#: 
+msgid "Your name"
+msgstr "あなたの名前"
+
+#: 
+msgid "Language"
+msgstr "言語"
+
+#: 
+msgid "Type chart"
+msgstr "タイプチャート"
+
+#: 
+msgid "Change your password"
+msgstr "パスワードを変更してください"
+
+#: 
+msgid "Repeat your password"
+msgstr "パスワードを繰り返します"
+
+#: 
+msgid "Back"
+msgstr "バック"
+
+#: 
+msgid "Validate"
+msgstr "検証"
+
+#: 
+msgid "Title"
+msgstr "タイトル"
+
+#: 
+msgid "Your website title"
+msgstr "あなたのウェブサイトのタイトル"
+
+#: 
+msgid "App description"
+msgstr "アプリケーションの説明"
+
+#: 
+msgid "Referal link"
+msgstr "参照リンク"
+
+#: 
+msgid "Your referal link (ex : Changelly)"
+msgstr "参照リンク（例：Changelly）"
+
+#: 
+msgid "Maintenance mode"
+msgstr "メンテナンスモード"
+
+#: 
+msgid "Number format"
+msgstr "数値形式"
+
+#: 
+msgid "Switch charts to tradingview charts"
+msgstr "チャートをトレードビューチャートに切り替える"
+
+#: 
+msgid "Enable autolanguage"
+msgstr "自動言語を有効にする"
+
+#: 
+msgid "Enable POEditor Language"
+msgstr "POEditor言語を有効にする"
+
+#: 
+msgid "POEditor API Key"
+msgstr "POEditor APIキー"
+
+#: 
+msgid "Your POEditor API Key"
+msgstr "POEditor APIキー"
+
+#: 
+msgid "POEditor Project Selector"
+msgstr "POEditorプロジェクトセレクタ"
+
+#: 
+msgid "Allow signup"
+msgstr "申し込みを許可する"
+
+#: 
+msgid "User need verify account"
+msgstr "ユーザーはアカウントを確認する必要があります"
+
+#: 
+msgid "Need captcha signup"
+msgstr "captchaのサインアップが必要"
+
+#: 
+msgid "Google Recaptcha Site Key"
+msgstr "Google Recaptchaサイトキー"
+
+#: 
+msgid "Your Google Recaptcha Site Key"
+msgstr "あなたのGoogle Recaptchaサイトキー"
+
+#: 
+msgid "Google Recaptcha Secret Key"
+msgstr "Google Recaptchaシークレットキー"
+
+#: 
+msgid "Your Google Recaptcha Secret Key"
+msgstr "あなたのGoogle Recaptchaシークレットキー"
+
+#: 
+msgid "Sigin with google"
+msgstr "GoogleとSigin"
+
+#: 
+msgid "Google App ID"
+msgstr "Google App ID"
+
+#: 
+msgid "Your Google App ID"
+msgstr "あなたのGoogle App ID"
+
+#: 
+msgid "Google App Secret"
+msgstr "Google App Secret"
+
+#: 
+msgid "Your Google App Secret"
+msgstr "あなたのGoogle Appの秘密"
+
+#: 
+msgid "Sigin with Facebook"
+msgstr "FacebookとSigin"
+
+#: 
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: 
+msgid "Your Facebook App ID"
+msgstr "あなたのFacebook App ID"
+
+#: 
+msgid "Facebook App Secret"
+msgstr "Facebook App Secret"
+
+#: 
+msgid "Your Facebook App Secret"
+msgstr "あなたのFacebook App Secret"
+
+#: 
+msgid "Google Analytics"
+msgstr "グーグルアナリティクス"
+
+#: 
+msgid "Enable Google Ad"
+msgstr "Google Adを有効にする"
+
+#: 
+msgid "Google Ad Client"
+msgstr "Google広告クライアント"
+
+#: 
+msgid "Your Google Ad Client"
+msgstr "あなたのGoogle広告クライアント"
+
+#: 
+msgid "Google Ad Slot"
+msgstr "Google広告スロット"
+
+#: 
+msgid "Your Google Ad slot"
+msgstr "あなたのGoogle広告スロット"
+
+#: 
+msgid "Enable Cookie popup"
+msgstr "Cookieポップアップを有効にする"
+
+#: 
+msgid "Cookie Popup title"
+msgstr "Cookieポップアップのタイトル"
+
+#: 
+msgid "Your Cookie popup title"
+msgstr "Cookieのポップアップタイトル"
+
+#: 
+msgid "Cookie Popup text"
+msgstr "Cookieポップアップテキスト"
+
+#: 
+msgid "Your Cookie popup text"
+msgstr "あなたのCookieポップアップテキスト"
+
+#: 
+msgid "Blacklisted countries"
+msgstr "ブラックリストの国"
+
+#: 
+msgid "Save"
+msgstr "セーブ"
+
+#: 
+msgid "Allow user to switch chart type"
+msgstr "ユーザーがグラフの種類を切り替えることを許可する"
+
+#: 
+msgid "Done !"
+msgstr "完了！"
+
+#: 
+msgid "quantity"
+msgstr "量"
+
+#: 
+msgid "Enable native trading"
+msgstr "ネイティブ取引を有効にする"
+
+#: 
+msgid "Balance configuration"
+msgstr "バランス設定"
+
+#: 
+msgid "Show balance estimation"
+msgstr "バランス推定を表示する"
+
+#: 
+msgid "User user currency select"
+msgstr "ユーザーのユーザー通貨の選択"
+
+#: 
+msgid "Show balance estimation in"
+msgstr "の残高見積りを"
+
+#: 
+msgid "Referal system configuration"
+msgstr "参照システム構成"
+
+#: 
+msgid "Enable referal (native trading need to be enabled)"
+msgstr "参照を有効にする（ネイティブ取引を有効にする必要がある）"
+
+#: 
+msgid "Referal comission (in $, fixed amount)"
+msgstr "参照コミッション（$、固定金額）"
+
+#: 
+msgid "Referal comission (in $, fixed amount) ex : When a referal signup & deposit real cash, the refer win 5 $ (value = 5)"
+msgstr "参照元コミッション（$、固定金額）例：紹介申し込みと実際の現金を入金すると、5 $（値= 5）"
+
+#: 
+msgid "Deposit configuration"
+msgstr "入金設定"
+
+#: 
+msgid "Deposit fees (in %)"
+msgstr "預金手数料（％）"
+
+#: 
+msgid "Deposit minimum (in $)"
+msgstr "入金最低額（$）"
+
+#: 
+msgid "Deposit maximum (in $)"
+msgstr "最大入金金額（$）"
+
+#: 
+msgid "Deposit currencies allowed"
+msgstr "許可された預金通貨"
+
+#: 
+msgid "Deposit wallet receive (if wallet real currency not available)"
+msgstr "デポジットウォレットの受信（ウォレットの実際の通貨が利用できない場合）"
+
+#: 
+msgid "Withdraw configuration"
+msgstr "設定を取り消す"
+
+#: 
+msgid "Withdraw minimum (in $)"
+msgstr "最小引き出し額（$）"
+
+#: 
+msgid "Withdraw processing time (in days)"
+msgstr "撤回処理時間（日）"
+
+#: 
+msgid "Withdraw processing time (in days) = ex : 3"
+msgstr "撤退処理時間（日）=例：3"
+
+#: 
+msgid "Trading configuration"
+msgstr "取引設定"
+
+#: 
+msgid "Trading fees (in %)"
+msgstr "取引手数料（％）"
+
+#: 
+msgid "Order reference pattern"
+msgstr "注文参照パターン"
+
+#: 
+msgid "Real account configuration"
+msgstr "実際のアカウント設定"
+
+#: 
+msgid "Enable real account"
+msgstr "実アカウントを有効にする"
+
+#: 
+msgid "Practice account configuration"
+msgstr "アカウント設定の練習"
+
+#: 
+msgid "Maximum free deposit (in $)"
+msgstr "最大フリーデポジット（$）"
+
+#: 
+msgid "Maximum free deposit (in $) ex : 10000"
+msgstr "最大フリーデポジット（$内）：10000"
+
+#: 
+msgid "Free deposit wallet receive"
+msgstr "無料入金ウォレットを受け取る"
+
+#: 
+msgid "Ref."
+msgstr "Ref。"
+
+#: 
+msgid "Submited date"
+msgstr "提出された日付"
+
+#: 
+msgid "Status"
+msgstr "状態"
+
+#: 
+msgid "Document name"
+msgstr "ドキュメント名"
+
+#: 
+msgid "Documents"
+msgstr "ドキュメント"
+
+#: 
+msgid "Not processed"
+msgstr "処理されていません"
+
+#: 
+msgid "Processed"
+msgstr "処理された"
+
+#: 
+msgid "Payment success"
+msgstr "支払い成功"
+
+#: 
+msgid "Payment reference pattern"
+msgstr "支払基準パターン"
+
+#: 
+msgid "Enable SMTP"
+msgstr "SMTPを有効にする"
+
+#: 
+msgid "SMTP Server"
+msgstr "SMTPサーバー"
+
+#: 
+msgid "Your SMTP host server"
+msgstr "あなたのSMTPホストサーバー"
+
+#: 
+msgid "SMTP Port"
+msgstr "SMTPポート"
+
+#: 
+msgid "Your SMTP port"
+msgstr "あなたのSMTPポート"
+
+#: 
+msgid "SMTP Security"
+msgstr "SMTPセキュリティ"
+
+#: 
+msgid "SMTP User"
+msgstr "SMTPユーザー"
+
+#: 
+msgid "Your SMTP user"
+msgstr "あなたのSMTPユーザー"
+
+#: 
+msgid "SMTP Password"
+msgstr "SMTPパスワード"
+
+#: 
+msgid "Your SMTP password"
+msgstr "あなたのSMTPパスワード"
+
+#: 
+msgid "Email sender name"
+msgstr "メール送信者名"
+
+#: 
+msgid "Support mail"
+msgstr "サポートメール"
+
+#: 
+msgid "Support Phone"
+msgstr "サポート電話番号"
+
+#: 
+msgid "Support phone"
+msgstr "サポート電話"
+
+#: 
+msgid "Support Address"
+msgstr "サポートアドレス"
+
+#: 
+msgid "DPO mail"
+msgstr "DPOメール"
+
+#: 
+msgid "DPO Phone"
+msgstr "DPO電話"
+
+#: 
+msgid "DPO phone"
+msgstr "DPO電話"
+
+#: 
+msgid "Send welcome mail"
+msgstr "ウェルカムメールを送信する"
+
+#: 
+msgid "Welcome mail subject"
+msgstr "ウェルカムメールの件名"
+
+#: 
+msgid "Calendar credentials"
+msgstr "カレンダー資格情報"
+
+#: 
+msgid "Enable calendar"
+msgstr "カレンダーの有効化"
+
+#: 
+msgid "Calendar Client ID"
+msgstr "カレンダークライアントID"
+
+#: 
+msgid "Your Calendar Client ID"
+msgstr "カレンダークライアントID"
+
+#: 
+msgid "Calendar Client Secret"
+msgstr "カレンダークライアントの秘密"
+
+#: 
+msgid "Only show events in relation to enabled coins"
+msgstr "有効なコインに関連したイベントのみを表示する"
+
+#: 
+msgid "News feed"
+msgstr "ニュースフィード"
+
+#: 
+msgid "Add news feed"
+msgstr "ニュースフィードを追加"
+
+#: 
+msgid "Your RSS Feed link"
+msgstr "RSSフィードのリンク"
+
+#: 
+msgid "Add"
+msgstr "追加"
+
+#: 
+msgid "Name feed"
+msgstr "名前フィード"
+
+#: 
+msgid "Url"
+msgstr "URL"
+
+#: 
+msgid "Twitter accounts"
+msgstr "Twitterアカウント"
+
+#: 
+msgid "Add twitter account"
+msgstr "ツイッターアカウントを追加"
+
+#: 
+msgid "Twitter name"
+msgstr "Twitterの名前"
+
+#: 
+msgid "without"
+msgstr "なし"
+
+#: 
+msgid "Social name"
+msgstr "社会的な名前"
+
+#: 
+msgid "Created date"
+msgstr "作成日"
+
+#: 
+msgid "Amount paid"
+msgstr "払込金額"
+
+#: 
+msgid "Wallet received"
+msgstr "ウォレットを受け取った"
+
+#: 
+msgid "Amount received"
+msgstr "いただいた分量"
+
+#: 
+msgid "Payment gateway"
+msgstr "支払いゲートウェイ"
+
+#: 
+msgid "Proof"
+msgstr "証明"
+
+#: 
+msgid "Modify balance"
+msgstr "残高の変更"
+
+#: 
+msgid "Select balance"
+msgstr "バランスを選択"
+
+#: 
+msgid "Modification type"
+msgstr "変更タイプ"
+
+#: 
+msgid "Modification value"
+msgstr "変更値"
+
+#: 
+msgid "Add modification"
+msgstr "修正を加える"
+
+#: 
+msgid "Card"
+msgstr "カード"
+
+#: 
+msgid "Balances"
+msgstr "残高"
+
+#: 
+msgid "Remove"
+msgstr "削除する"
+
+#: 
+msgid "Last location"
+msgstr "最後の場所"
+
+#: 
+msgid "Currency use"
+msgstr "通貨の使用"
+
+#: 
+msgid "Signup with"
+msgstr "に登録する"
+
+#: 
+msgid "Identity verification"
+msgstr "身元確認"
+
+#: 
+msgid "2 Step Authentification"
+msgstr "2ステップ認証"
+
+#: 
+msgid "User status"
+msgstr "ユーザーステータス"
+
+#: 
+msgid "Login history"
+msgstr "ログイン履歴"
+
+#: 
+msgid "More details"
+msgstr "詳細"
+
+#: 
+msgid "Deposit history"
+msgstr "入金履歴"
+
+#: 
+msgid "Total"
+msgstr "合計"
+
+#: 
+msgid "Value in BTC"
+msgstr "BTCの値"
+
+#: 
+msgid "Value in USD"
+msgstr "値は米ドル"
+
+#: 
+msgid "Withdraw method"
+msgstr "引退方法"
+
+#: 
+msgid "Date"
+msgstr "日付"
+
+#: 
+msgid "Ask a widthdraw"
+msgstr "ワイドドローに尋ねる"
+
+#: 
+msgid "WITHDRAW"
+msgstr "脱退"
+
+#: 
+msgid "paypal"
+msgstr "ペイパル"
+
+#: 
+msgid "banktransfert"
+msgstr "銀行振込"
+
+#: 
+msgid "Choose receiver account"
+msgstr "受信者アカウントを選択"
+
+#: 
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: 
+msgid "Next"
+msgstr "次"
+
+#: 
+msgid "Notification's configuration complete."
+msgstr "通知の設定が完了しました。"
+
+#: 
+msgid "Your PushBullet Access Token"
+msgstr "あなたのPushBulletアクセストークン"
+
+#: 
+msgid "Remove token"
+msgstr "トークンを削除"
+
+#: 
+msgid "You are premium !"
+msgstr "あなたはプレミアムです！"
+
+#: 
+msgid "left"
+msgstr "左"
+
+#: 
+msgid "Main settings"
+msgstr "主な設定"
+
+#: 
+msgid "Period"
+msgstr "期間"
+
+#: 
+msgid "Colour"
+msgstr "色"
+
+#: 
+msgid "Thickness"
+msgstr "厚さ"
+
+#: 
+msgid "Reset"
+msgstr "リセット"
+
+#: 
+msgid "Apply"
+msgstr "適用"
+
+#: 
+msgid "Entrer your Google Authenticator Code"
+msgstr "Google認証システムコードを入力してください"
+
+#: 
+msgid "Enter your Google Authenticator Code"
+msgstr "Google認証システムコードを入力してください"
+
+#: 
+msgid "Balances valued less than 0.001 BTC"
+msgstr "0.001未満の残高残高"
+
+#: 
+msgid "Hide small balance"
+msgstr "小さな残高を隠す"
+
+#: 
+msgid "Estimate value"
+msgstr "見積もり値"
+
+#: 
+msgid "Value in"
+msgstr "値"
+
+#: 
+msgid "Deposit"
+msgstr "保証金"
+
+#: 
+msgid "Google Authentification is enable !"
+msgstr "Google認証が有効になっています。"
+
+#: 
+msgid "Set as done"
+msgstr "完了として設定"
+
+#: 
+msgid "Close"
+msgstr "閉じる"
+
+#: 
+msgid "Google Authenticator code is invalid"
+msgstr "Google認証システムコードが無効です"
+
+#: 
+msgid "You will receive a widthdraw confirmation by email"
+msgstr "メールで幅広い確認を受け取ります"
+
+#: 
+msgid "Ref, User ID, Type, Currency"
+msgstr "参照番号、ユーザーID、種類、通貨"
+
+#: 
+msgid "Widthdraw filter"
+msgstr "ワイドドローフィルター"
+
+#: 
+msgid "Default"
+msgstr "デフォルト"
+
+#: 
+msgid "Not confirmed"
+msgstr "確認されていません"
+
+#: 
+msgid "Done"
+msgstr "完了"
+
+#: 
+msgid "Payment filter"
+msgstr "支払いフィルタ"
+
+#: 
+msgid "Need to be approved"
+msgstr "承認が必要"
+
+#: 
+msgid "Paid"
+msgstr "有料"
+
+#: 
+msgid "Not paid"
+msgstr "支払われない"
+
+#: 
+msgid "All payments"
+msgstr "すべての支払い"
+
+#: 
+msgid "Ask a proof"
+msgstr "証明を求める"
+
+#: 
+msgid "Bank ref."
+msgstr "銀行参照。"
+
+#: 
+msgid "Proof received"
+msgstr "証明書を受け取った"
+
+#: 
+msgid "In pending"
+msgstr "保留中"
+
+#: 
+msgid "All widthdraw"
+msgstr "すべてのwidthdraw"
+
+#: 
+msgid "Withdraw reference pattern"
+msgstr "参照パターンを撤回する"
+
+#: 
+msgid "Withdraw filter"
+msgstr "フィルタを撤回する"
+
+#: 
+msgid "Withdraw infos"
+msgstr "情報を撤回する"
+
+#: 
+msgid "year"
+msgstr "年"
+
+#: 
+msgid "month"
+msgstr "月"
+
+#: 
+msgid "week"
+msgstr "週間"
+
+#: 
+msgid "hour"
+msgstr "時間"
+
+#: 
+msgid "minute"
+msgstr "分"
+
+#: 
+msgid "second"
+msgstr "二番目"
+
+#: 
+msgid "ago"
+msgstr "前"
+
+#: 
+msgid "Bank transfert"
+msgstr "銀行振込"
+
+#: 
+msgid "Deposit amount"
+msgstr "入金額"
+
+#: 
+msgid "Fill up"
+msgstr "補充する"
+
+#: 
+msgid "It's free"
+msgstr "それは無料です"
+
+#: 
+msgid "You will receive"
+msgstr "あなたは"
+
+#: 
+msgid "Add real funds"
+msgstr "実際の資金を追加"
+
+#: 
+msgid "Minimal deposit"
+msgstr "最小入金額"
+
+#: 
+msgid "Enable credit card"
+msgstr "クレジットカードを有効にする"
+
+#: 
+msgid "Stipe private key"
+msgstr "スティーブプライベートキー"
+
+#: 
+msgid "Your Stripe API Key"
+msgstr "あなたのストライプAPIキー"
+
+#: 
+msgid "Enable Paypal"
+msgstr "Paypalを有効にする"
+
+#: 
+msgid "Enable Paypal Live mode"
+msgstr "Paypal Liveモードを有効にする"
+
+#: 
+msgid "Paypal client ID"
+msgstr "PaypalクライアントID"
+
+#: 
+msgid "Your paypal client ID"
+msgstr "あなたのpaypalクライアントID"
+
+#: 
+msgid "Paypal Client Secret"
+msgstr "Paypalのクライアントの秘密"
+
+#: 
+msgid "Your paypal client Secret"
+msgstr "あなたのpaypalクライアントの秘密"
+
+#: 
+msgid "Enable Blockonomics"
+msgstr "ブロックノノミクスを有効にする"
+
+#: 
+msgid "Blockonomics Secret key"
+msgstr "Blockonomics秘密鍵"
+
+#: 
+msgid "Your blockonomics secret key"
+msgstr "あなたのblockonomics秘密鍵"
+
+#: 
+msgid "Enable Fortumo"
+msgstr "Fortumoを有効にする"
+
+#: 
+msgid "Fortumo Secret key"
+msgstr "フォルモモ秘密鍵"
+
+#: 
+msgid "Your fortumo secret key"
+msgstr "あなたのfortumo秘密鍵"
+
+#: 
+msgid "Fortumo Service key"
+msgstr "Fortumoサービスキー"
+
+#: 
+msgid "Your fortumo service key"
+msgstr "あなたのfortumoサービスキー"
+
+#: 
+msgid "Enable Coingate"
+msgstr "Coingateを有効にする"
+
+#: 
+msgid "Enable CoinGate live mode"
+msgstr "CoinGateライブモードを有効にする"
+
+#: 
+msgid "CoinGate Auth Token"
+msgstr "CoinGate認証トークン"
+
+#: 
+msgid "Your CoinGate Auth Token"
+msgstr "あなたのCoinGate認証トークン"
+
+#: 
+msgid "CoinGate Receive Currency"
+msgstr "コインゲート通貨を受け取る"
+
+#: 
+msgid "Enable Coinpayments"
+msgstr "Coinpaymentsを有効にする"
+
+#: 
+msgid "Coinpayments Public Key"
+msgstr "Coinpayments公開鍵"
+
+#: 
+msgid "Your Coinpayments Public Key"
+msgstr "あなたのCoinpayments公開鍵"
+
+#: 
+msgid "Coinpayments Private Key"
+msgstr "コインペイメントプライベートキー"
+
+#: 
+msgid "Your Coinpayments Private Key"
+msgstr "あなたのCoinpayments秘密鍵"
+
+#: 
+msgid "Coinpayments Marchand ID"
+msgstr "コインペイメントのMarchand ID"
+
+#: 
+msgid "Your Coinpayments Marchand ID"
+msgstr "あなたのCoinpayments Marchand ID"
+
+#: 
+msgid "Coinpayments IPN Secret"
+msgstr "Coinpayments IPN Secret"
+
+#: 
+msgid "Your Coinpayments IPN Secret"
+msgstr "あなたのCoinpayments IPN秘密"
+
+#: 
+msgid "Enable Rave Flutterwave payment"
+msgstr "レイブフラッタウェーブの支払いを有効にする"
+
+#: 
+msgid "Sandbox mode Rave Flutterwave"
+msgstr "サンドボックスモードRave Flutterwave"
+
+#: 
+msgid "Rave Flutterwave Public Key"
+msgstr "レイヴ・フラッターウェーブ公開鍵"
+
+#: 
+msgid "Your Rave Flutterwave Public Key"
+msgstr "あなたのRave Flutterwave公開鍵"
+
+#: 
+msgid "Rave Flutterwave Secret Key"
+msgstr "レイブフラッターウェーブ秘密鍵"
+
+#: 
+msgid "Your Rave Flutterwave Secret Key"
+msgstr "あなたのレイブフラッターウェーブ秘密鍵"
+
+#: 
+msgid "Rave Flutterwave Payment Title"
+msgstr "Rave Flutterwave支払いタイトル"
+
+#: 
+msgid "Your Rave Flutterwave Payment title"
+msgstr "レイヴ・フラッタウェーブのお支払いのタイトル"
+
+#: 
+msgid "Rave Flutterwave Payment Prefix"
+msgstr "Rave Flutterwave支払いプレフィックス"
+
+#: 
+msgid "Your Rave Flutterwave Payment prefix (ex : KRYP)"
+msgstr "あなたのレイヴフラッターウェーブ支払いプレフィックス（例：KRYP）"
+
+#: 
+msgid "Enable Coinbase Commerce payment"
+msgstr "Coinbase Commerceの支払いを有効にする"
+
+#: 
+msgid "Coinbase commerce API Key"
+msgstr "コインベースコマースAPIキー"
+
+#: 
+msgid "Your Coinbase commerce API Key"
+msgstr "あなたのCoinbaseコマースAPIキー"
+
+#: 
+msgid "Coinbase commerce Payment Title"
+msgstr "コインベースのコマース支払いタイトル"
+
+#: 
+msgid "Your Coinbase commerce Payment title"
+msgstr "あなたのCoinbase commerce Paymentタイトル"
+
+#: 
+msgid "Enable Mollie"
+msgstr "モリーを有効にする"
+
+#: 
+msgid "Mollie Key"
+msgstr "モリーキー"
+
+#: 
+msgid "Your Mollie Key"
+msgstr "あなたのモリーキー"
+
+#: 
+msgid "Enable Payeer"
+msgstr "Payeerを有効にする"
+
+#: 
+msgid "Payeer Shop ID"
+msgstr "ペイエアショップID"
+
+#: 
+msgid "Your Payeer Shop ID"
+msgstr "あなたの売り手のショップID"
+
+#: 
+msgid "Payeer API Key"
+msgstr "Payeer APIキー"
+
+#: 
+msgid "Your Payeer API Key"
+msgstr "あなたのPayeer APIキー"
+
+#: 
+msgid "Enable Bank transfert"
+msgstr "銀行振込を有効にする"
+
+#: 
+msgid "Bank transfert maximum at the same time"
+msgstr "同時に銀行振込上限額"
+
+#: 
+msgid "Bank transfert proof enabled"
+msgstr "銀行振込証明が有効になっています"
+
+#: 
+msgid "Bank transfert maximum proof"
+msgstr "銀行振込上限保証"
+
+#: 
+msgid "Your Gemini Key"
+msgstr "あなたのジェミニキー"
+
+#: 
+msgid "Your Gemini Secret"
+msgstr "あなたのジェミニ秘密"
+
+#: 
+msgid "Select your platform"
+msgstr "あなたのプラットフォームを選択してください"
+
+#: 
+msgid "Sandbox"
+msgstr "サンドボックス"
+
+#: 
+msgid "Live"
+msgstr "ライブ"
+
+#: 
+msgid "Cron time"
+msgstr "クロンタイム"
+
+#: 
+msgid "Last update"
+msgstr "最後の更新"
+
+#: 
+msgid "Sync delay"
+msgstr "同期遅延"
+
+#: 
+msgid "Add additional page"
+msgstr "追加ページを追加"
+
+#: 
+msgid "Page name"
+msgstr "ページ名"
+
+#: 
+msgid "Page URL"
+msgstr "ページのURL"
+
+#: 
+msgid "Page icon (ex : lnr-home)"
+msgstr "ページアイコン（例：lnr-home）"
+
+#: 
+msgid "Or page icon svg"
+msgstr "またはページアイコンsvg"
+
+#: 
+msgid "Icon"
+msgstr "アイコン"
+
+#: 
+msgid "SVG Picture"
+msgstr "SVG画像"
+
+#: 
+msgid "Enable"
+msgstr "有効にする"
+
+#: 
+msgid "Disable"
+msgstr "無効にする"
+
+#: 
+msgid "Create new bank transfert"
+msgstr "新しい銀行振込を作成する"
+
+#: 
+msgid "Pending"
+msgstr "保留中"
+
+#: 
+msgid "Details"
+msgstr "詳細"
+
+#: 
+msgid "Verified"
+msgstr "検証済み"
+
+#: 
+msgid "Canceled"
+msgstr "キャンセル"
+
+#: 
+msgid "Declined"
+msgstr "辞退"
+
+#: 
+msgid "Your Hitbtc Key"
+msgstr "あなたのHitbtcキー"
+
+#: 
+msgid "Your Hitbtc Secret"
+msgstr "あなたのHitbtcの秘密"
+
+#: 
+msgid "Your Bitbank Key"
+msgstr "あなたのビットバンクキー"
+
+#: 
+msgid "Your Bitbank Secret"
+msgstr "あなたのBitbank Secret"
+
+#: 
+msgid "User level"
+msgstr "ユーザーレベル"
+
+#: 
+msgid "Expire in"
+msgstr "期限切れ"
+
+#: 
+msgid "Back to login"
+msgstr "ログインに戻る"
+
+#: 
+msgid "Let's go !"
+msgstr "行こう ！"
+
+#: 
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: 
+msgid "Let's configure together your Dashboard."
+msgstr "ダッシュボードを一緒に設定しましょう。"
+
+#: 
+msgid "Select your language"
+msgstr "あなたが使う言語を選んでください"
+
+#: 
+msgid "Select your currency"
+msgstr "あなたの通貨を選択"
+
+#: 
+msgid "Select your favorites crypto"
+msgstr "あなたのお気に入りの暗号を選択してください"
+
+#: 
+msgid "left need to be selected"
+msgstr "左を選択する必要があります"
+
+#: 
+msgid "Configuration complete !"
+msgstr "設定が完了しました！"
+
+#: 
+msgid "will now refresh"
+msgstr "今更新する"
+
+#: 
+msgid "Enable Perfect Money payment"
+msgstr "パーフェクトマネー支払いを有効にする"
+
+#: 
+msgid "Perfect Money Payee Account"
+msgstr "パーフェクトマネー受取人口座"
+
+#: 
+msgid "Your Perfect Money Payee Account"
+msgstr "あなたの完璧なお支払い受取人のアカウント"
+
+#: 
+msgid "Mobile, browser, windows notifications"
+msgstr "モバイル、ブラウザ、ウィンドウ通知"
+
+#: 
+msgid "Create price alert"
+msgstr "価格アラートを作成する"
+
+#: 
+msgid "I need help !"
+msgstr "私は助けが必要です ！"
+
+#: 
+msgid "Download PushBullet app on your phone (available for Android & iOS)"
+msgstr "携帯電話でPushBulletアプリをダウンロードする（AndroidおよびiOSで利用可能）"
+
+#: 
+msgid "Create an account on it"
+msgstr "アカウントを作成する"
+
+#: 
+msgid "Connect with your new account here"
+msgstr "ここにあなたの新しいアカウントで接続する"
+
+#: 
+msgid "Go on <b>Settings</b> > <b>Account</b> and create an <b>Access token</b>"
+msgstr "[<b>設定</ b>]> [<b>アカウント</ b>]に移動して<b>アクセストークン</ b>"
+
+#: 
+msgid "Copy the key and paste it on the fill and click on save."
+msgstr "キーをコピーして塗りつぶしに貼り付け、保存をクリックします。"
+
+#: 
+msgid "An notification will be sent to check if connexion is successful."
+msgstr "接続が成功したかどうかを確認する通知が送信されます。"
+
+#: 
+msgid "Premium wait you !"
+msgstr "プレミアムあなたを待つ！"
+
+#: 
+msgid "More than 2000 crypto currencies"
+msgstr "2000を超える暗号化通貨"
+
+#: 
+msgid "Be alerted when an indicator grows or falls"
+msgstr "インジケータが増減したときに警告する"
+
+#: 
+msgid "Responsive on mobile and tablet"
+msgstr "モバイルとタブレットに反応する"
+
+#: 
+msgid "News and social posts at the same place"
+msgstr "同じ場所のニュースとソーシャルポスト"
+
+#: 
+msgid "Support"
+msgstr "サポート"
+
+#: 
+msgid "Phone"
+msgstr "電話"
+
+#: 
+msgid "Address"
+msgstr "住所"
+
+#: 
+msgid "Contact DPO"
+msgstr "DPOにお問い合わせください"
+
+#: 
+msgid "Your Binance Key"
+msgstr "あなたのバイナンスキー"
+
+#: 
+msgid "Your Binance Secret"
+msgstr "あなたのバイナンスシークレット"
+
+#: 
+msgid "Cardholder name"
+msgstr "クレジットカード名義人氏名"
+
+#: 
+msgid "Card number"
+msgstr "カード番号"
+
+#: 
+msgid "Expiration"
+msgstr "有効期限"
+
+#: 
+msgid "CCV"
+msgstr "CCV"
+
+#: 
+msgid "cryptocurrencies"
+msgstr "クリプトクロス"
+
+#: 
+msgid "No order to show"
+msgstr "表示する順序がありません"
+
+#: 
+msgid "Premium"
+msgstr "プレミアム"
+
+#: 
+msgid "Verify your identiy"
+msgstr "あなたの身元を確認する"
+
+#: 
+msgid "Estimate balance"
+msgstr "バランスを見積もる"
+
+#: 
+msgid "5m"
+msgstr "5m"
+
+#: 
+msgid "1m"
+msgstr "1m"
+
+#: 
+msgid "2w"
+msgstr "2w"
+
+#: 
+msgid "7d"
+msgstr "7d"
+
+#: 
+msgid "1d"
+msgstr "1d"
+
+#: 
+msgid "12h"
+msgstr "12時間"
+
+#: 
+msgid "2h"
+msgstr "2時間"
+
+#: 
+msgid "1h"
+msgstr "1時間"
+
+#: 
+msgid "30min"
+msgstr "30分"
+
+#: 
+msgid "Candlestick"
+msgstr "燭台"
+
+#: 
+msgid "Line"
+msgstr "ライン"
+
+#: 
+msgid "Indicators"
+msgstr "指標"
+
+#: 
+msgid "Export"
+msgstr "輸出する"
+
+#: 
+msgid "Alert"
+msgstr "アラート"
+
+#: 
+msgid "Drawing"
+msgstr "お絵かき"
+
+#: 
+msgid "Trend Line"
+msgstr "トレンドライン"
+
+#: 
+msgid "Text"
+msgstr "テキスト"
+
+#: 
+msgid "Create a new alert"
+msgstr "新しいアラートを作成する"
+
+#: 
+msgid "% Fees"
+msgstr "％手数料"
+
+#: 
+msgid "Cryptocurrency withdraw agreement"
+msgstr "Cryptocurrencyは契約を撤回する"
+
+#: 
+msgid "Decline"
+msgstr "低下"
+
+#: 
+msgid "Agree"
+msgstr "同意する"
+
+#: 
+msgid "Cryptocurrency deposit agreement"
+msgstr "暗号化デポジット契約"
+
+#: 
+msgid "Enable news popup"
+msgstr "ニュースポップアップを有効にする"
+
+#: 
+msgid "News popup title"
+msgstr "ニュースポップアップタイトル"
+
+#: 
+msgid "Your news popup title"
+msgstr "あなたのニュースポップアップタイトル"
+
+#: 
+msgid "News popup video (put blank for not show video)"
+msgstr "ニュースポップアップビデオ（ビデオを表示しないために空白を入れてください）"
+
+#: 
+msgid "News popup description"
+msgstr "ニュースのポップアップの説明"
+
+#: 
+msgid "Advert users"
+msgstr "広告ユーザー"
+
+#: 
+msgid "Enable intro"
+msgstr "イントロを有効にする"
+
+#: 
+msgid "Withdraw fees (in %)"
+msgstr "引き出し手数料（％）"
+
+#: 
+msgid "Bank transfert alert when withdraw currency is not crypto-currency"
+msgstr "引き出し通貨が暗号通貨でない場合の銀行振込アラート"
+
+#: 
+msgid "Cryptocurrencies allowed for bank transfert withdraw"
+msgstr "銀行振込を撤回するために許可された暗号化通貨"
+
+#: 
+msgid "Estimate balance in"
+msgstr "残高を見積もる"
+
+#: 
+msgid "Edit profile"
+msgstr "プロファイル編集"
+
+#: 
+msgid "Bank transfert deposit agreement"
+msgstr "銀行振り込み預金契約"
+
+#: 
+msgid "Blockonomics payment Fees (in %)"
+msgstr "Blockonomics支払い料金（％）"
+
+#: 
+msgid "Your blockonomics payment fees (in %)"
+msgstr "あなたのblockonomics支払い手数料（％）"
+
+#: 
+msgid "Fortumo payment Fees (in %)"
+msgstr "Fortumoの支払い手数料（％）"
+
+#: 
+msgid "Your fortumo payment fees (in %)"
+msgstr "あなたのfortumo支払い手数料（％）"
+
+#: 
+msgid "CoinGate payment Fees (in %)"
+msgstr "コインゲートの支払い手数料（％）"
+
+#: 
+msgid "Your coingate payment fees (in %)"
+msgstr "あなたの代金支払い手数料（％）"
+
+#: 
+msgid "Coinpayments payment Fees (in %)"
+msgstr "コインペイメントの支払い手数料（％）"
+
+#: 
+msgid "Your coinpayment payment fees (in %)"
+msgstr "あなたのコインペイメント支払い手数料（％）"
+
+#: 
+msgid "Rave Flutterwave payment Fees (in %)"
+msgstr "レイブフラッターウェーブ支払い料金（％）"
+
+#: 
+msgid "Your rave flutterwave payment fees (in %)"
+msgstr "あなたのレイブフラッターウェーブ支払い手数料（％）"
+
+#: 
+msgid "Coinbase commerce payment Fees (in %)"
+msgstr "コインベース商取引の支払い手数料（％）"
+
+#: 
+msgid "Your coinbase commerce payment fees (in %)"
+msgstr "あなたのコインベース商取引の支払い手数料（％）"
+
+#: 
+msgid "Mollie payment Fees (in %)"
+msgstr "モリーの支払い手数料（％単位）"
+
+#: 
+msgid "Your mollie payment fees (in %)"
+msgstr "あなたのモルディの支払い手数料（％単位）"
+
+#: 
+msgid "Payeer payment Fees (in %)"
+msgstr "支払人の支払い手数料（％）"
+
+#: 
+msgid "Your payeer payment fees (in %)"
+msgstr "支払人の支払手数料（％単位）"
+
+#: 
+msgid "Bank transfert payment Fees (in %)"
+msgstr "銀行振込支払い手数料（％）"
+
+#: 
+msgid "Your bank transfert payment fees (in %)"
+msgstr "銀行振込による支払い手数料（％単位）"
+
+#: 
+msgid "Add new"
+msgstr "新しく追加する"
+
+#: 
+msgid "Bank accounts"
+msgstr "銀行口座"
+
+#: 
+msgid "Add new bank account"
+msgstr "新しい銀行口座を追加する"
+
+#: 
+msgid "Bank account name"
+msgstr "銀行口座名"
+
+#: 
+msgid "Your bank account name"
+msgstr "あなたの銀行口座名"
+
+#: 
+msgid "Bank account currency"
+msgstr "銀行口座の通貨"
+
+#: 
+msgid "Bank account IBAN"
+msgstr "銀行口座IBAN"
+
+#: 
+msgid "Bank account BIC"
+msgstr "銀行口座BIC"
+
+#: 
+msgid "Your bank account BIC"
+msgstr "あなたの銀行口座BIC"
+
+#: 
+msgid "Bank account address"
+msgstr "銀行口座の住所"
+
+#: 
+msgid "Your bank account address"
+msgstr "あなたの銀行口座の住所"
+
+#: 
+msgid "Bank account owner name"
+msgstr "銀行口座名義人名"
+
+#: 
+msgid "Your bank account owner name"
+msgstr "あなたの銀行口座の所有者名"
+
+#: 
+msgid "* This is optional"
+msgstr "*これはオプションです"
+
+#: 
+msgid "Your bank account currency"
+msgstr "あなたの銀行口座の通貨"
+
+#: 
+msgid "Your bank account IBAN"
+msgstr "あなたの銀行口座IBAN"
+
+#: 
+msgid "Delete"
+msgstr "削除"
+
+#: 
+msgid "You can choose beetween 'Page icon' and 'Page icon svg' (Page icon is priority) - List icons available here"
+msgstr "「ページアイコン」と「ページアイコンsvg」の間で選択できます（ページアイコンが優先されます） - リストアイコンはここにあります"
+
+#: 
+msgid "You will receive a email confirmation"
+msgstr "確認メールが届きます"
+
+#: 
+msgid "Please follow this step for complete your withdrawal request."
+msgstr "引き出し依頼を完了するには、このステップに従ってください。"
+
+#: 
+msgid "You need to have at least"
+msgstr "あなたは少なくとも必要があります"
+
+#: 
+msgid "You don't have any filled balance available"
+msgstr "使用可能な残高がありません"
+
+#: 
+msgid "Total in "
+msgstr "トータルイン"
+
+#: 
+msgid "You need to setup a widthdraw method"
+msgstr "widthdrawメソッドを設定する必要があります"
+
+#: 
+msgid "Bank account BIC/SWIFT"
+msgstr "銀行口座BIC / SWIFT"
+
+#: 
+msgid "Your bank account BIC/SWIFT"
+msgstr "あなたの銀行口座BIC / SWIFT"
+
+#: 
+msgid "Day range"
+msgstr "日の範囲\n"
+""
+
+#: 
+msgid "Open day"
+msgstr "オープンデー"
+
+#: 
+msgid "Volume 24H"
+msgstr "ダイレクトボリューム"
+
+#: 
+msgid "Direct Volume"
+msgstr "ダイレクトボリューム"
+
+#: 
+msgid "Load more data"
+msgstr "より多くのデータを読み込む"
+
+#: 
+msgid "Qty"
+msgstr "数量"
+
+#: 
+msgid "Gain"
+msgstr "利得"
+
+#: 
+msgid "Price buy"
+msgstr "購入価格"
+
+#: 
+msgid "Disable chat"
+msgstr "チャットを無効にする"
+
+#: 
+msgid "Total gain"
+msgstr "総利益"
+
+#: 
+msgid "Confirmation"
+msgstr "確認"
+
+#: 
+msgid "Unit price"
+msgstr "単価"
+
+#: 
+msgid "Investment"
+msgstr "投資"
+
+#: 
+msgid "Quantity"
+msgstr "量"
+
+#: 
+msgid "Commission"
+msgstr "手数料"
+
+#: 
+msgid "Confirm buying"
+msgstr "購入を確認する"
+
+#: 
+msgid "New user"
+msgstr "新しいユーザー"
+
+#: 
+msgid "Order passed"
+msgstr "注文が合格した"
+
+#: 
+msgid "New subscription"
+msgstr "新規購読"
+
+#: 
+msgid "Show withdraw receiver infos."
+msgstr "ショー受信者の情報を表示します。"
+
+#: 
+msgid "Process"
+msgstr "プロセス"
+
+#: 
+msgid "Hide details"
+msgstr "詳細を隠す"
+
+#: 
+msgid "Enable subscriptions"
+msgstr "購読を有効にする"
+
+#: 
+msgid "Enable free trial"
+msgstr "無料試用を有効にする"
+
+#: 
+msgid "Free trial duration (in day)"
+msgstr "無料試用期間（日）"
+
+#: 
+msgid "Free trial duration"
+msgstr "無料試用期間"
+
+#: 
+msgid "Premium features"
+msgstr "プレミアム機能"
+
+#: 
+msgid "Free users features"
+msgstr "無料のユーザー機能"
+
+#: 
+msgid "Add a new plan"
+msgstr "新しい計画を追加する"
+
+#: 
+msgid "Name plan"
+msgstr "名前計画"
+
+#: 
+msgid "Price total"
+msgstr "合計金額"
+
+#: 
+msgid "Duration in days"
+msgstr "期間（日）"
+
+#: 
+msgid "Duration"
+msgstr "期間"
+
+#: 
+msgid "Add this plan"
+msgstr "このプランを追加"
+
+#: 
+msgid "Plans available"
+msgstr "利用可能な計画"
+
+#: 
+msgid "Price plan"
+msgstr "価格プラン"
+
+#: 
+msgid "Duration in month"
+msgstr "月の期間"
+
+#: 
+msgid "Price per month"
+msgstr "月額料金"
+
+#: 
+msgid "Account"
+msgstr "アカウント"
+
+#: 
+msgid "Exchanges"
+msgstr "交流"
+
+#: 
+msgid "Total Free"
+msgstr "合計無料"
+
+#: 
+msgid "Total Used"
+msgstr "合計中古"
+
+#: 
+msgid "Order Ref."
+msgstr "Order Ref。"
+
+#: 
+msgid "Ordered price"
+msgstr "注文価格"
+
+#: 
+msgid "Current price"
+msgstr "現在の価格"
+
+#: 
+msgid "Evolution"
+msgstr "進化"
+
+#: 
+msgid "Enable identity system"
+msgstr "IDシステムを有効にする"
+
+#: 
+msgid "Block trading without identity verification"
+msgstr "アイデンティティ検証なしで取引をブロックする"
+
+#: 
+msgid "Block deposit without identity verification"
+msgstr "アイデンティティ検証なしで入金をブロックする"
+
+#: 
+msgid "Block withdraw without identity verification"
+msgstr "アイデンティティ検証なしでブロックをブロックする"
+
+#: 
+msgid "Approve"
+msgstr "承認する"
+
+#: 
+msgid "Identity ID"
+msgstr "アイデンティティID"
+
+#: 
+msgid "Identity step name"
+msgstr "IDステップ名"
+
+#: 
+msgid "Identity step description"
+msgstr "識別ステップの説明"
+
+#: 
+msgid "Identity order"
+msgstr "同一性順序"
+
+#: 
+msgid "Down order"
+msgstr "降順"
+
+#: 
+msgid "Up order"
+msgstr "アップオーダー"
+
+#: 
+msgid "Add new identity step"
+msgstr "新しいアイデンティティステップを追加する"
+
+#: 
+msgid "Your step name"
+msgstr "あなたのステップ名"
+
+#: 
+msgid "Your step description"
+msgstr "ステップの説明"
+
+#: 
+msgid "Identity step type"
+msgstr "IDステップタイプ"
+
+#: 
+msgid "Upload new document"
+msgstr "新しい文書をアップロードする"
+
+#: 
+msgid "Choose in document type list"
+msgstr "ドキュメントタイプリストで選択"
+
+#: 
+msgid "Enable identity upload with webcam"
+msgstr "ウェブカメラでアイデンティティアップロードを有効にする"
+
+#: 
+msgid "Webcam document ratio"
+msgstr "Webcamドキュメント比率"
+
+#: 
+msgid "Ration (Width / Height)"
+msgstr "分量（幅/高さ）"
+
+#: 
+msgid "Ratio (Width / Height)"
+msgstr "比率（幅/高さ）"
+
+#: 
+msgid "Document identity list"
+msgstr "ドキュメントIDリスト"
+
+#: 
+msgid "Add new identity document"
+msgstr "新しいアイデンティティ文書を追加する"
+
+#: 
+msgid "Your document name"
+msgstr "あなたの文書名"
+
+#: 
+msgid "My Holding"
+msgstr "私の持ち株"
+
+#: 
+msgid "Holding"
+msgstr "ホールディング"
+
+#: 
+msgid "Market Value"
+msgstr "市場価値"
+
+#: 
+msgid "Profit / Loss"
+msgstr "利益損失"
+
+#: 
+msgid "Wallet"
+msgstr "財布"
+
+#: 
+msgid "Validate bank transfert"
+msgstr "銀行振込の確認"
+
+#: 
+msgid "Transfert received date"
+msgstr "受け取った日付を転送する"
+
+#: 
+msgid "Bank account received"
+msgstr "銀行口座を受け取った"
+
+#: 
+msgid "Bank transfert reference"
+msgstr "銀行振替基準"
+
+#: 
+msgid "Amount received in bank account"
+msgstr "銀行口座で受け取った金額"
+
+#: 
+msgid "Amount transfered to the user account"
+msgstr "ユーザーアカウントに転送された金額"
+
+#: 
+msgid "User will receive"
+msgstr "ユーザーは受け取る"
+
+#: 
+msgid "Dark"
+msgstr "ダーク"
+
+#: 
+msgid "White"
+msgstr "白"
+
+#: 
+msgid "Enable Donation"
+msgstr "寄付を有効にする"
+
+#: 
+msgid "Donation text"
+msgstr "寄付テキスト"
+
+#: 
+msgid "Your donation text"
+msgstr "寄付のテキスト"
+
+#: 
+msgid "Donation address list"
+msgstr "寄付アドレス一覧"
+
+#: 
+msgid "Put 1 address per line"
+msgstr "1行に1つのアドレスを入れる"
+
+#: 
+msgid "Line format : BTC:ADDRESS"
+msgstr "線形式：BTC：ADDRESS"
+
+#: 
+msgid "PUT A SMILE ON OUR FACES AND SUPPORT US BY DONATING :)"
+msgstr "私たちの顔にスミルを当て、拒否してアメリカをサポートしてください:)"
+
+#: 
+msgid "Transactions history"
+msgstr "取引履歴"
+
+#: 
+msgid "Description"
+msgstr "説明"
+
+#: 
+msgid "Reference ..."
+msgstr "参照 ..."
+
+#: 
+msgid "Reference"
+msgstr "参照"
+
+#: 
+msgid "deposit"
+msgstr "保証金"
+
+#: 
+msgid "widthdraw"
+msgstr "ワイドドロー"
+
+#: 
+msgid "Dépot"
+msgstr "デポ"
+
+#: 
+msgid "Unknown"
+msgstr "未知の"
+
+#: 
+msgid "BUY order done"
+msgstr "購入完了済み"
+
+#: 
+msgid "SELL order done"
+msgstr "売り注文完了"
+
+#: 
+msgid "SELL ORDER DONE"
+msgstr "売り注文完了"
+
+#: 
+msgid "BUY ORDER DONE"
+msgstr "完了注文を購入する"
+
+#: 
+msgid "Add a new item"
+msgstr "新しいアイテムを追加する"
+
+#: 
+msgid "Your GDAX Key"
+msgstr "あなたのGDAXキー"
+
+#: 
+msgid "Your GDAX Pass"
+msgstr "あなたのGDAXパス"
+
+#: 
+msgid "Your GDAX Secret"
+msgstr "あなたのGDAXの秘密"
+
+#: 
+msgid "Your Bitmex ID"
+msgstr "あなたのBitmex ID"
+
+#: 
+msgid "Your Bitmex Secret"
+msgstr "あなたのBitmex Secret"
+
+#: 
+msgid "Your OKCoin Key"
+msgstr "OKCoinキー"
+
+#: 
+msgid "Your OKCoin Secret"
+msgstr "あなたのOKCoinの秘密"
+
+#: 
+msgid "Your Luno Key ID"
+msgstr "あなたのLuno Key ID"
+
+#: 
+msgid "Your Luno Secret"
+msgstr "あなたのルーノの秘密"
+
+#: 
+msgid "Your Coinex Key"
+msgstr "あなたのCoinex Key"
+
+#: 
+msgid "Your Coinex Secret"
+msgstr "あなたのCoinex Secret"
+
+#: 
+msgid "Your Btcmarket Key"
+msgstr "あなたのBtcmarketキー"
+
+#: 
+msgid "Your Btcmarket Secret"
+msgstr "あなたのBtcmarketの秘密"
+
+#: 
+msgid "Your Livecoin Key"
+msgstr "あなたのLivecoinキー"
+
+#: 
+msgid "Your Livecoin Secret"
+msgstr "あなたのLivecoin Secret"
+
+#: 
+msgid "Your Quoinex Token ID"
+msgstr "あなたのQuoinexトークンID"
+
+#: 
+msgid "Your Quoinex Secret"
+msgstr "あなたのQuoinex Secret"
+
+#: 
+msgid "Your Exmo Key"
+msgstr "あなたのExmoキー"
+
+#: 
+msgid "Your Exmo Secret"
+msgstr "あなたのExmo Secret"
+
+#: 
+msgid "Your YoBit Key"
+msgstr "あなたのYoBitキー"
+
+#: 
+msgid "Your YoBit Secret"
+msgstr "あなたのYoBitの秘密"
+
+#: 
+msgid "Your Kucoin Key"
+msgstr "あなたのクコシンキー"
+
+#: 
+msgid "Your Kucoin Private"
+msgstr "あなたのクコシンプライベート"
+
+#: 
+msgid "Your CEX Key"
+msgstr "あなたのCEXキー"
+
+#: 
+msgid "Your CEX Secret"
+msgstr "あなたのCEXの秘密"
+
+#: 
+msgid "Your CEX UID"
+msgstr "あなたのCEX UID"
+
+#: 
+msgid "My orders"
+msgstr "私の注文"
+
+#: 
+msgid "Size"
+msgstr "サイズ"
+
+#: 
+msgid "Limit price"
+msgstr "限界価格"
+
+#: 
+msgid "Place buy order"
+msgstr "買い注文を出す"
+
+#: 
+msgid "Place sell order"
+msgstr "売り注文を出す"
+
+#: 
+msgid "Method"
+msgstr "方法"
+
+#: 
+msgid "You need to be logged at Coinex"
+msgstr "あなたはCoinexにログインする必要があります"
+
+#: 
+msgid "Enable live trading"
+msgstr "ライブ取引を有効にする"
+
+#: 
+msgid "Login with Coinex"
+msgstr "Coinexとのログイン"
+
+#: 
+msgid "Week profit"
+msgstr "週利益"
+
+#: 
+msgid "Leaderboard"
+msgstr "リーダーボード"
+
+#: 
+msgid "Enable leaderboard (native trading need to be enabled)"
+msgstr "リーダーボードを有効にする（ネイティブ取引を有効にする必要がある）"
+
+#: 
+msgid "Active"
+msgstr "アクティブ"
+
+#: 
+msgid "Every"
+msgstr "すべて"
+
+#: 
+msgid "Starting pair when new user signup"
+msgstr "新しいユーザー登録時のペアの開始"
+
+#: 
+msgid "Only 1 pair is allowed"
+msgstr "1ペアのみが許可されます"
+
+#: 
+msgid "Starting watching list pair when new user signup"
+msgstr "新規ユーザー登録時に視聴ペアを開始する"
+
+#: 
+msgid "1 pair each for each line"
+msgstr "1行ごとに1組"
+
+#: 
+msgid "Format : MARKET:SYMBOL/CURRENCY"
+msgstr "フォーマット：市場：シンボル/通貨"
+
+#: 
+msgid "You need to be logged at Livecoin"
+msgstr "あなたはLivecoinにログインする必要があります"
+
+#: 
+msgid "Login with Livecoin"
+msgstr "Livecoinでログイン"
+
+#: 
+msgid "Email not valid"
+msgstr "電子メールが有効でない"
+
+#: 
+msgid "You need to be logged at Yobit"
+msgstr "あなたはYobitにログインする必要があります"
+
+#: 
+msgid "Login with Yobit"
+msgstr "Yobitでログイン"
+
+#: 
+msgid "Based on all wallet"
+msgstr "すべてのウォレットに基づいて"
+
+#: 
+msgid "Your Poloniex Key"
+msgstr "あなたのPoloniexキー"
+
+#: 
+msgid "Your Poloniex Secret"
+msgstr "あなたのPoloniex Secret"
+
+#: 
+msgid "Your trial version have expired !"
+msgstr "試用版の有効期限が切れました。"
+
+#: 
+msgid "Become"
+msgstr "になる"
+
+#: 
+msgid "You will be charged"
+msgstr "あなたは請求さ​​れます"
+
+#: 
+msgid "for"
+msgstr "ために"
+
+#: 
+msgid "months"
+msgstr "数ヶ月"
+
+#: 
+msgid "Your Kraken Key"
+msgstr "あなたのクラケンキー"
+
+#: 
+msgid "Your Kraken Private"
+msgstr "あなたのクラケンプライベート"
+
+#: 
+msgid "will be ready for you !"
+msgstr "あなたのために準備ができています！"
+
+#: 
+msgid "You need to be logged at Binance"
+msgstr "Binanceにログインする必要があります"
+
+#: 
+msgid "Login with Binance"
+msgstr "Binanceでログイン"
+
+#: 
+msgid "You need to be logged at Poloniex"
+msgstr "Poloniexにログインする必要があります"
+
+#: 
+msgid "Login with Poloniex"
+msgstr "Poloniexでログイン"
+
+#: 
+msgid "You need to be logged at Exmo"
+msgstr "あなたはExmoにログオンする必要があります"
+
+#: 
+msgid "Login with Exmo"
+msgstr "Exmoでログイン"
+
+#: 
+msgid "View the article"
+msgstr "記事を見る"
+
+#: 
+msgid "Your Bittrex Key"
+msgstr "あなたのBittrexキー"
+
+#: 
+msgid "Your Bittrex Secret"
+msgstr "あなたのBittrexの秘密"
+
+#: 
+msgid "You need to be logged at Kraken"
+msgstr "あなたはKrakenにログインする必要があります"
+
+#: 
+msgid "Login with Kraken"
+msgstr "クラクンとのログイン"
+
+#: 
+msgid "Markets"
+msgstr "市場"
+
+#: 
+msgid "Hide market (native trading need to be enabled)"
+msgstr "市場を隠す（ネイティブ取引を有効にする必要がある）"
+
+#: 
+msgid "Hide orders book"
+msgstr "注文書を非表示にする"
+
+#: 
+msgid "Load orders book"
+msgstr "注文書を読み込む"
+
+#: 
+msgid "Create an alert when ..."
+msgstr "次の場合にアラートを作成する"
+
+#: 
+msgid "Price is above"
+msgstr "価格は上です"
+
+#: 
+msgid "Price is bellow"
+msgstr "価格は荒いです"
+
+#: 
+msgid "Password not match"
+msgstr "パスワードが一致しません"
+
