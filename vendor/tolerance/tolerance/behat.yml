@@ -1,0 +1,34 @@
+default:
+    autoload:
+        '': %paths.base%/features/symfony/bootstrap
+
+    suites:
+        default:
+            paths:    [ %paths.base%/features/symfony ]
+            contexts:
+                - FeatureContext:
+                    - "@kernel"
+                    - "@app.my_buffered_operation_runner"
+                - AopContext:
+                    - "@app.api.client"
+                - GuzzleContext:
+                    - "@app.guzzle.middleware.hookable_factory"
+                    - "@app.api.guzzle_client"
+                - MetricsContext:
+                    - "@tolerance.metrics.traced_publisher"
+                - TracerContext:
+                    - "@tolerance.tracer.in_memory"
+
+        php_http:
+            filters: { tags: "php_http"}
+            paths:    [ %paths.base%/features/symfony ]
+            contexts:
+                - PhpHttpContext
+
+    extensions:
+        Behat\Symfony2Extension:
+            kernel:
+                env: "test"
+                debug: "true"
+                path: "features/symfony/app/AppKernel.php"
+                bootstrap: "features/symfony/app/bootstrap.php"

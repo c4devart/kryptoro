@@ -1,0 +1,3 @@
+coverage_clover: data/tmp/coverage.xml
+coverage_clover: data/tmp/coverage.xml
+json_path: data/tmp/coveralls-upload.json

@@ -1,0 +1,14 @@
+{
+    "name": "bert-w/coinpayments-api",
+    "description": "A PHP implementation for the CoinPayments API",
+    "license": "MIT",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "BertW\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

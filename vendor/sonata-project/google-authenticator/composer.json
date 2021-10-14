@@ -1,0 +1,41 @@
+{
+    "name": "sonata-project/google-authenticator",
+    "description": "Library to integrate Google Authenticator into a PHP project",
+    "keywords": ["google authenticator"],
+    "homepage": "https://github.com/sonata-project/GoogleAuthenticator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Rabaix",
+            "email": "thomas.rabaix@gmail.com"
+        },
+        {
+            "name": "Christian Stocker",
+            "email": "me@chregu.tv"
+        },
+        {
+            "name": "Andre DeMarre",
+            "homepage": "http://www.devnetwork.net/viewtopic.php?f=50&t=94989"
+        }
+
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "require-dev": {
+        "symfony/phpunit-bridge": "~3.2",
+        "sllh/php-cs-fixer-styleci-bridge": "^2.1"
+    },
+    "autoload": {
+        "psr-4": { "Google\\Authenticator\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Google\\Authenticator\\Tests\\": "tests/" }
+     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.x-dev"
+        }
+    }
+}

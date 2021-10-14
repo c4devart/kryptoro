@@ -1,0 +1,25 @@
+{
+    "name": "milqmedia/poeditor-api-client",
+    "description": "Poeditor API Client",
+    "keywords": [
+        "Poeditor",
+        "API",
+        "API-Client"
+    ],
+    "homepage": "https://github.com/milqmedia/poeditor-php-client",
+    "repositories": [{
+        "type": "composer",
+        "url": "http://packages.zendframework.com/"
+    }, {
+        "packagist": false
+    }],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-http": "2.*"
+    },
+    "autoload": {
+	    "psr-0": {
+	        "Uj\\Poed": "src/"
+	    }
+	}
+}

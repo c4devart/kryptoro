@@ -1,0 +1,66 @@
+framework:
+    secret:                           "sroze.io"
+    router:
+        resource:                     "%kernel.root_dir%/config/routing.yml"
+        strict_requirements:          "%kernel.debug%"
+    trusted_proxies: ~
+    test: ~
+    assets: ~
+    session:
+        storage_id:                    "session.storage.mock_file"
+
+csa_guzzle:
+    clients:
+        3rd_party: ~
+
+services:
+    tolerance.metrics.traced_publisher:
+        class: "Tolerance\\Metrics\\Publisher\\TracedPublisher"
+        decorates: tolerance.metrics.publisher.default
+        arguments:
+            - "@tolerance.metrics.traced_publisher.inner"
+
+    tolerance.tracer.in_memory:
+        class: "Tolerance\\Tracer\\InMemoryTracer"
+
+    tolerance.tracer:
+        alias: tolerance.tracer.in_memory
+
+beberlei_metrics:
+    collectors:
+        'null':
+            type: 'null'
+
+tolerance:
+    operation_runners:
+        default:
+            retry:
+                runner:
+                    callback: ~
+
+                waiter:
+                    count_limited:
+                        count: 10
+                        waiter:
+                            exponential_back_off:
+                                exponent: 1
+                                waiter:
+                                    'null': ~
+
+    aop: ~
+
+    tracer:
+        zipkin:
+            http:
+                base_url: http://example.com
+
+    metrics:
+        publishers:
+            default:
+                type: beberlei
+                options:
+                    service: beberlei_metrics.collector.null
+
+        request:
+            namespace: my.namespace
+            publisher: tolerance.metrics.publisher.default

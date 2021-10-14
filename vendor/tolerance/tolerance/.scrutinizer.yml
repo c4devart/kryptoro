@@ -1,0 +1,14 @@
+before_commands:
+    - "composer install --prefer-source"
+
+filter:
+    excluded_paths:
+        - tests/
+        - vendor/
+        - spec/
+        - features/
+
+checks:
+    php:
+        code_rating: true
+        duplication: true

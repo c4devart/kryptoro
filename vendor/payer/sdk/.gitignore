@@ -1,0 +1,6 @@
+.idea
+data
+vendor
+composer.lock
+.cvsignore
+.DS_Store

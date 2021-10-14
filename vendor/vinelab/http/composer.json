@@ -1,0 +1,31 @@
+{
+	"name": "vinelab/http",
+	"description": "An http library developed for the laravel framework. aliases itself as HttpClient",
+	"license": "MIT",
+	"keywords": ["laravel", "http", "client", "json", "xml", "api", "curl"],
+	"authors": [
+		{
+			"name": "Abed Halawi",
+			"email": "abed.halawi@vinelab.com"
+		}
+	],
+
+	"require": {
+		"php": ">=5.6.4",
+		"illuminate/support": "*",
+		"tolerance/tolerance": "^0.4.0"
+	},
+
+	"require-dev": {
+		"phpunit/phpunit": "4.3.*",
+		"mockery/mockery": "0.9.*"
+	},
+
+	"autoload": {
+
+		"psr-0": {
+			"Vinelab\\Http": "src/"
+		}
+	},
+	"minimum-stability": "stable"
+}
