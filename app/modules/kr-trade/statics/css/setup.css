@@ -1,0 +1,119 @@
+/* Setup */
+section.kr-thirdparty-setup {
+  position: absolute;
+  top:0; left:0; right:0;
+  bottom: 0;
+  z-index: 999999;
+  display: flex; justify-content: center; align-items: center;
+  background: rgba(0,0,0,0.25);
+}
+
+section.kr-thirdparty-setup > section {
+  width: 500px;
+  height: 500px;
+  display        : flex;
+  border-radius  : 2px;
+  background     : #fff;
+  box-shadow     : 0px 1px 3px 0px #10141dc2;
+  flex-direction : column;
+  box-sizing: border-box;
+  padding: 6px 15px;
+  padding-bottom: 30px;
+  overflow-y: auto;
+  max-height: 90%;
+  max-width: 90%;
+}
+
+section.kr-thirdparty-setup > section > header {
+  display: flex; justify-content: center;align-items: center;
+  padding: 15px 0px;
+}
+
+section.kr-thirdparty-setup > section > header > img {
+  width: 210px;
+  max-width: 80%;
+}
+
+section.kr-thirdparty-setup > section > form {
+  display: flex; flex-direction: column;
+}
+
+section.kr-thirdparty-setup > section > form > section {
+  display: flex; align-items: flex-start;
+  min-height: 72px;
+}
+
+section.kr-thirdparty-setup > section > form > section > div {
+  flex-direction: column;
+  padding: 15px;
+  flex:1;
+}
+
+section.kr-thirdparty-setup > section > form > section > div > label {
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+section.kr-thirdparty-setup > section > form > section > div > input[type="text"] {
+  box-sizing         : border-box;
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  width              : 100%;
+  padding: 9px;
+  border-radius: 2px;
+  background: #ffffff;
+  outline            : none;
+  font-size          : 15px;
+  border: 1px solid #dedcdc;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+section.kr-thirdparty-setup > section > form > section > div > input[type="text"].error_field {
+  border-color:#c72f2f;
+  color:#b71616;
+}
+
+section.kr-thirdparty-setup > section > form > section > div > select {
+  width              : 100%;
+  padding: 9px;
+  border-radius: 2px;
+  background: #ffffff;
+  outline            : none;
+  border: 1px solid #dedcdc;
+  font-size: 13px;
+  box-sizing         : border-box;
+  margin-top: 8px;
+}
+
+section.kr-thirdparty-setup > section > form > div {
+  display: flex; justify-content: space-between;
+  align-items: center;
+  padding: 4px 15px 0px 15px;
+  min-height: 76px;
+}
+
+section.kr-user-thirdparty-setup {
+  display: flex; flex-direction: column;
+  align-items: center;
+  padding: 25px;
+}
+
+section.kr-user-thirdparty-setup > img {
+  width: 210px;
+  max-width: 80%;
+  margin-bottom: 35px;
+}
+
+/* Widthdraw setup */
+section.kr-widthdraw-setup > section {
+  height: auto;
+  width: 649px;
+  max-width: 100%;
+}
+
+section.kr-widthdraw-setup > section > header > img {
+  max-height: 100px;
+}

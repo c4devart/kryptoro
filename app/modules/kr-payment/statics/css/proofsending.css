@@ -1,0 +1,113 @@
+body.kr-proofsending > header {
+  display: flex;
+  padding: 20px 31px;
+  background: #e9ebec;
+  box-shadow: 0px 2px 5px #0000002e;
+}
+
+body.kr-proofsending > header > img {
+  max-width: 250px;
+  max-height: 40px;
+}
+
+
+body.kr-proofsending > div {
+  width: 1100px;
+  max-width: 90%;
+  margin: 0 auto;
+  margin-top: 25px;
+  display: flex; flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+}
+
+body.kr-proofsending > div > h3 {
+  font-size: 25px;
+}
+
+body.kr-proofsending > div > p {
+  font-size: 16px;
+  width: 1100px;
+  box-sizing: border-box;
+  background: #dedede;
+  text-align: center;
+  margin: 30px 0px;
+  margin-bottom: 0px;
+  padding: 20px;
+  border-radius: 2px;
+
+}
+
+body.kr-proofsending > section {
+  width: 1100px;
+  max-width: 90%;
+  margin: 0 auto;
+  margin-top: 25px;
+  background: #dedede;
+  height: 250px;
+  border-radius: 2px;
+  border: 2px dashed darkgrey;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+body.kr-proofsending > section:hover {
+  background: #d6d5d5;
+}
+
+body.kr-proofsending > section > svg {
+  width: 70px; height: 70px;
+  opacity: 0.5;
+  margin-bottom: 15px;
+}
+
+body.kr-proofsending > section > span {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+body.kr-proofsending > section.kr-proofsending-dz-progress-inc > svg,
+body.kr-proofsending > section.kr-proofsending-dz-progress-inc > span {
+  display: none;
+}
+
+body.kr-proofsending div.kr-proofsending-sended {
+  display: flex; flex-direction: column;
+  align-items: center;
+  margin-top: 25px;
+}
+
+body.kr-proofsending div.kr-proofsending-sended > svg {
+  margin-bottom: 35px;
+  width: 120px; height: 120px;
+  fill:#29c359;
+}
+
+body.kr-proofsending div.kr-proofsending-sended > span {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+body.kr-proofsending > section.kr-proofsending-dz-progress-inc:hover {
+  background: #dedede;
+  cursor: default;
+}
+
+body.kr-proofsending > section > div.kr-proofsending-dz-progress {
+  display: none;
+}
+
+body.kr-proofsending > section.kr-proofsending-dz-progress-inc > div.kr-proofsending-dz-progress {
+  width: 80%;
+  height: 3px;
+  background: #cccccc;
+  display: block;
+}
+
+body.kr-proofsending > section.kr-proofsending-dz-progress-inc > div.kr-proofsending-dz-progress > div {
+  height: 3px;
+  width: 0%;
+  background: #29c359;
+}

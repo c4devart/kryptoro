@@ -1,0 +1,730 @@
+section.kr-coin-inf {
+  display        : flex;
+  flex           : 1;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > header {
+  height     : 50px;
+  min-height : 50px;
+  color      : #fff;
+  background : #181f2c;
+}
+
+section.kr-coin-inf > header {
+  display     : flex;
+  align-items : center;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-name {
+  display       : flex;
+  padding-right : 35px;
+  align-items   : center;
+  padding-left: 14px;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-name > div.kr-cinf-pic {
+  display         : flex;
+  width           : 50px;
+  min-width       : 50px;
+  height          : 50px;
+  align-items     : center;
+  justify-content : center;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-name > div.kr-cinf-pic > img {
+  width     : 33px;
+  height    : 33px;
+  opacity   : 0.9;
+  filter    : invert(100%);
+  transform : scale(0.85);
+}
+
+section.kr-coin-inf > header > div.kr-cinf-name > div.kr-cinf-ndt {
+  display        : flex;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-name > div.kr-cinf-ndt > span:last-child {
+  color     : #a9a9a9;
+  font-size : 12px;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-item {
+  display         : flex;
+  height          : 50px;
+  padding         : 0px 20px;
+  color           : #e9e9e9;
+  border-left     : 1px solid #2f3440;
+  align-items     : center;
+  font-size       : 14px;
+  flex-direction  : column;
+  justify-content : center;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-item.kr-cinf-item-positiv {
+  background : -moz-linear-gradient(
+                 top,
+                 rgba(30,87,153,0) 0%,
+                 rgba(53,204,63,0.28) 100%
+               );
+  background : -webkit-linear-gradient(
+                 top,
+                 rgba(30,87,153,0) 0%,
+                 rgba(53,204,63,0.28) 100%
+               );
+  background : linear-gradient(
+                 to bottom,
+                 rgba(30,87,153,0) 0%,
+                 rgba(53,204,63,0.28) 100%
+               );
+  filter     : progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#4735cc3f',GradientType=0 );
+}
+
+section.kr-coin-inf > header > div.kr-cinf-item.kr-cinf-item-negativ {
+  background : -moz-linear-gradient(
+                 top,
+                 rgba(30,87,153,0) 0%,
+                 rgba(226,0,0,0.28) 100%
+               );
+  background : -webkit-linear-gradient(
+                 top,
+                 rgba(30,87,153,0) 0%,
+                 rgba(226,0,0,0.28) 100%
+               );
+  background : linear-gradient(
+                 to bottom,
+                 rgba(30,87,153,0) 0%,
+                 rgba(226,0,0,0.28) 100%
+               );
+  filter     : progid:DXImageTransform.Microsoft.gradient( startColorstr='#001e5799', endColorstr='#47e20000',GradientType=0 );
+}
+
+section.kr-coin-inf > header > div.kr-cinf-item > label {
+  margin-bottom  : 2px;
+  color          : #a9a9a9;
+  text-transform : uppercase;
+  font-size      : 10px;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-item i {
+  font-style : normal;
+}
+
+section.kr-coin-inf > header > div.kr-cinf-market {
+  display: flex; justify-content: flex-end; align-items: center;
+  padding-right: 15px;
+  flex:1;
+
+
+}
+
+section.kr-coin-inf > header > div.kr-cinf-market > img {
+  max-height: 25px;
+  filter:brightness(0) invert(1);
+  opacity: 0.7;
+}
+
+section.kr-coin-inf > section {
+  display     : flex;
+  align-items : stretch;
+  flex        : 1;
+}
+
+section.kr-coin-inf > section > div {
+  display        : flex;
+  position       : relative;
+  width          : 70%;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > div > div.kr-dash-pan-cry {
+  position : relative;
+  flex     : 1;
+}
+
+section.kr-coin-inf > section > div > div.kr-dash-pan-cry > div.kr-dash-pan-action,
+section.kr-coin-inf > section > div > div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-pa > li.kr-dash-close,
+section.kr-coin-inf > section > div > div.kr-dash-pan-cry > div.kr-dash-pan-lb > ul.kr-dash-pan-pa > li.kr-dash-tgglfullscreen,
+section.kr-coin-inf > section > div > div.kr-dash-pan-cry > div.kr-dash-pan-tb > div > div.kr-dash-pan-tb-nopt {
+  display : none;
+}
+
+section.kr-coin-inf > section > div > div.kr-dash-pan-cry > div.kr-dash-pan-graph {
+  width : 100%;
+}
+
+/* Open & filled order */
+
+section.kr-coin-inf > section > div > section.kr-cinf-order {
+  display     : flex;
+  height      : 170px;
+  min-height  : 170px;
+  align-items : stretch;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section {
+  display        : flex;
+  border-right   : 1px solid #3a4357;
+  flex           : 1;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > header {
+  padding        : 10px;
+  color          : #fff;
+  background     : #181f2c;
+  text-transform : uppercase;
+  font-size      : 14px;
+  font-weight    : bold;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > div {
+  display     : flex;
+  height      : 21px;
+  min-height  : 21px;
+  background  : #262e42;
+  align-items : center;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > div > div {
+  padding    : 4px 0px;
+  color      : #fff;
+  text-align : center;
+  font-size  : 11px;
+  flex       : 1;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > div > div:first-child {
+  border-left : 3px solid #transparent;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > div > div > i {
+  color      : #b7b2b2;
+  font-size  : 9px;
+  font-style : normal;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > ul {
+  display        : flex;
+  overflow-y     : auto;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > ul > li {
+  display       : flex;
+  height        : 26px;
+  min-height    : 26px;
+  color         : #fff;
+  border-bottom : 1px solid #272f40;
+  align-items   : stretch;
+  font-size     : 11px;
+  flex          : 1;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > ul > li > div {
+  display         : flex;
+  padding         : 6px 0px;
+  text-align      : center;
+  align-items     : center;
+  flex            : 1;
+  justify-content : center;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > ul > li > div.kr-cinf-order-t-buy {
+  border-left : 3px solid #29c359;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > ul > li > div.kr-cinf-order-t-sell {
+  border-left : 3px solid #e30f0f;
+}
+
+section.kr-coin-inf > section > div > section.kr-cinf-order > section > section {
+  display: flex; justify-content: center; align-items: center;
+  flex:1;
+  color:#fff;
+  font-weight: 500;
+}
+
+section.kr-coin-inf > section > section {
+  display        : flex;
+  box-sizing     : border-box;
+  width          : 15%;
+  border-left    : 1px solid #343c4e;
+  background     : #20283a;
+  align-items    : stretch;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > section > section {
+  display        : flex;
+  border-bottom  : 1px solid #343c4e;
+  flex           : 1;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > section > section:last-child {
+  border-bottom : none;
+}
+
+section.kr-coin-inf > section > section > section > header {
+  height         : 29px;
+  min-height     : 29px;
+  padding        : 4px 7px;
+  color          : #fff;
+  background     : #181f2c;
+  text-transform : uppercase;
+  font-size      : 13px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > ul {
+  overflow-y : auto;
+  flex       : 1;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > ul > li {
+  display     : flex;
+  position    : relative;
+  height      : 18px;
+  align-items : center;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > ul > li > div {
+  z-index    : 0;
+  position   : absolute;
+  top        : 0;
+  bottom     : 0;
+  left       : 0;
+  width      : 20%;
+  height     : 17px;
+  min-height : 15px;
+  background : #29c3598c;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > ul.kr-cinf-orderbook-bid > li > div {
+  background : #e30f0f8c;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > ul > li > span {
+  z-index    : 1;
+  color      : #f8f9f7;
+  text-align : center;
+  font-size  : 12px;
+  flex       : 1;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > section {
+  display         : flex;
+  height          : 34px;
+  min-height      : 34px;
+  background      : #181f2c;
+  align-items     : center;
+  justify-content : center;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > section > h3 {
+  margin      : 0;
+  padding     : 7px 0px;
+  color       : #fff;
+  font-size   : 16px;
+  font-weight : 400;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-orderbook > section > h3 > i {
+  font-style: normal;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange {
+  height: 56px;
+  max-height: 56px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange > div {
+  height: 56px;
+  min-height: 56px;
+  display: flex; justify-content: center; align-items: center;
+  padding: 10px 0px;
+  position: relative;
+  cursor: pointer;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange > div:hover {
+  background: rgba(0,0,0,0.05);
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange > div > img {
+  height: 100%;
+  filter:brightness(0) invert(1);
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange > div > div {
+  width: 18px; height: 18px;
+  display: flex; justify-content: center; align-items: center;
+  position: absolute;
+  right: 15px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange > div > div > svg {
+  fill:#f4f6f9;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange > ul {
+  display: none;
+  overflow-y: auto;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange.kr-cinf-changeexchange-tggled {
+  flex:1;
+  max-height: none;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange.kr-cinf-changeexchange-tggled > ul {
+  display: block;
+  border-top: 1px solid rgba(255,255,255,0.05);
+
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange.kr-cinf-changeexchange-tggled > ul > li {
+  display: flex; justify-content: center; padding: 10px 0px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  cursor: pointer;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange.kr-cinf-changeexchange-tggled > ul > li:hover {
+  background: rgba(0,0,0,0.05);
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-changeexchange.kr-cinf-changeexchange-tggled > ul > li > img {
+  width: 80px;
+  height: 100%;
+  filter: brightness(0) invert(1);
+}
+
+section.kr-coin-inf > footer {
+  position   : relative;
+  height     : 55px;
+  min-height : 55px;
+  background : #181f2c;
+}
+
+section.kr-coin-inf > footer > ul {
+  display     : flex;
+  position    : absolute;
+  width       : 100%;
+  max-width   : 100%;
+  height      : 55px;
+  min-height  : 55px;
+  overflow-x  : auto;
+  overflow-y  : hidden;
+  align-items : center;
+}
+
+section.kr-coin-inf > footer > ul > li {
+  display         : flex;
+  min-width       : 139px;
+  height          : 55px;
+  padding         : 0px 10px;
+  color           : #e9e9e9;
+  border-right    : 1px solid #1d2435;
+  align-items     : center;
+  font-size       : 14px;
+  flex            : 1;
+  flex-direction  : column;
+  justify-content : center;
+  cursor          : pointer;
+}
+
+section.kr-coin-inf > footer > ul > li:hover {
+  background : rgba(255,255,255,0.05);
+}
+
+section.kr-coin-inf > footer > ul > li > label {
+  color     : #a9a9a9;
+  font-size : 10px;
+}
+
+/* Buy / sell action */
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell {
+  position : relative;
+  flex     : 2;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell > section.kr-cinf-wallet-inactive {
+  display         : flex;
+  position        : absolute;
+  top             : 0;
+  right           : 0;
+  bottom          : 0;
+  left            : 0;
+  color           : #fff;
+  background      : rgba(0,0,0,0.15);
+  align-items     : center;
+  flex-direction  : column;
+  justify-content : center;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell > section.kr-cinf-wallet-inactive > span {
+  margin-bottom  : 10px;
+  color          : #f5f6f7;
+  text-transform : uppercase;
+  font-size      : 15px;
+  font-weight    : 700;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell > section.kr-cinf-wallet-inactive > label {
+  margin         : 10px 0px;
+  color          : #a9a9a9;
+  text-transform : uppercase;
+  font-size      : 14px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active {
+  display        : flex;
+  overflow-y     : auto;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form {
+  flex : 1;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action {
+  padding    : 8px;
+  background : #181f2c;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div {
+  display        : flex;
+  align-items    : stretch;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > nav > ul {
+  display     : flex;
+  padding     : 10px;
+  align-items : center;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > nav > ul > li {
+  padding-bottom : 7px;
+  color          : #fff;
+  color          : #3a4357;
+  border-bottom  : 2px solid #3a4357;
+  text-align     : center;
+  text-transform : uppercase;
+  font-size      : 14px;
+  font-weight    : bold;
+  flex           : 1;
+  cursor         : pointer;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > nav > ul > li.selected-act-bs-n {
+  color               : #fff !important;
+  border-bottom-color : #fff !important;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > nav > ul > li:hover {
+  color               : #545f79;
+  border-bottom-color : #545f79;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div {
+  flex : 1;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type {
+  display     : flex;
+  padding     : 8px;
+  align-items : center;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div {
+  display         : flex;
+  height          : 31px;
+  margin-right    : 4px;
+  margin-left     : 4px;
+  color           : #fff;
+  border-radius   : 2px;
+  background      : #343c4e;
+  text-transform  : uppercase;
+  align-items     : center;
+  font-size       : 14px;
+  font-weight     : 500;
+  flex            : 1;
+  justify-content : center;
+  cursor          : pointer;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div:first-child.kr-cinf-buysell-type-selected {
+  background : #29c359 !important;
+  color:#fff !important;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div:last-child.kr-cinf-buysell-type-selected {
+  background : #ef6c00 !important;
+  color:#fff !important;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div:hover {
+  background : #3a4357;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div:first-child {
+  margin-left : 0px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-type > div:last-child {
+  margin-right : 0px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input {
+  display        : flex;
+  padding        : 8px;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > span {
+  margin-bottom : 5px;
+  color         : #fff;
+  font-size     : 13px;
+  font-weight   : 500;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > div {
+  display       : flex;
+  padding-right : 10px;
+  border-radius : 2px;
+  background    : #343c4e;
+  align-items   : center;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > div > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  width              : 100%;
+  padding            : 11px;
+  color              : #fff;
+  border             : none;
+  background         : transparent;
+  outline            : none;
+  flex               : 1;
+  max-width: 100%;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > div > span {
+  color     : #fff;
+  font-size : 14px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > ul {
+  display         : flex;
+  margin-top      : 7px;
+  align-items     : center;
+  justify-content : space-between;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > ul > li {
+  padding       : 4px;
+  color         : #fff;
+  border-radius : 2px;
+  background    : #10141d;
+  font-size     : 10px;
+  cursor        : pointer;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-buysell-action-input > ul > li:hover {
+  background : #141923;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer {
+  display        : flex;
+  display        : flex;
+  padding        : 8px;
+  align-items    : stretch;
+  flex-direction : column;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > input[type="submit"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  height             : 44px;
+  padding            : 13px 5px;
+  color              : #fff;
+  border             : none;
+  border-radius      : 2px;
+  background         : #29c359;
+  outline            : none;
+  text-align         : center;
+  text-transform     : uppercase;
+  font-size          : 13px;
+  font-weight        : bold;
+  flex               : 1;
+  cursor             : pointer;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > input[type="submit"].kr-trade-btn-type-sell {
+  background : #ef6c00;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > input[type="submit"]:disabled {
+  color      : #252525 !important;
+  background : #777 !important;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul {
+  margin-bottom : 9px;
+  padding-top   : 12px;
+  border-top    : 2px solid #465067;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul > li {
+  display         : flex;
+  align-items     : center;
+  justify-content : space-between;
+  margin-bottom: 8px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul > li:last-child {
+  margin-bottom: 0px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul > li > span {
+  color       : #fff;
+  font-size   : 12px;
+  font-weight : 500;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > footer > ul > li > span > i {
+  color      : #999;
+  font-size  : 11px;
+  font-style : normal;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-trade-err {
+  display : none;
+  padding : 8px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-trade-err > div {
+  padding       : 8px;
+  color         : #fff;
+  border-radius : 2px;
+  background    : #e21a1a;
+  font-size     : 13px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-buysell.kr-cinf-buysell-active > form.kr-cinf-buysell-action > div > div.kr-cinf-trade-err.kr-cinf-trade-success > div {
+  background : #29c359;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-depthgraph {
+  max-height : 150px;
+}
+
+section.kr-coin-inf > section > section > section.kr-cinf-depthgraph > canvas {
+  width  : 100%;
+  height : 100%;
+}

@@ -1,0 +1,652 @@
+section.kr-newsside {
+  width: 260px;
+  min-width: 260px;
+  border-right: 2px solid #121721;
+  height: 100%;
+  display: flex; flex-direction: column;
+  display: none;
+}
+
+section.kr-newsside.kr-leftnav-resp {
+  display: flex;
+}
+
+section.kr-newsside > header {
+  display: flex; flex-direction: column;
+}
+
+section.kr-newsside > header > div {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 15px; padding-bottom: 5px;
+  font-size: 13px;
+  color:#f4f6f9;
+}
+
+section.kr-newsside > header > div > svg {
+  fill:#f4f6f9;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+section.kr-newsside > header > div > svg:hover {
+  opacity: 1;
+}
+
+section.kr-newsside > header > ul {
+  display: flex; align-items: center;
+}
+
+section.kr-newsside > header > ul > li {
+  display: flex; justify-content: center; align-items: center;
+  flex:1;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding: 12px 0px;
+  cursor: pointer;
+}
+
+section.kr-newsside > header > ul > li > svg {
+  width: 18px; height: 18px;
+  fill:#f4f6f9;
+  opacity: 0.7;
+  pointer-events: none;
+  overflow: auto;
+}
+
+section.kr-newsside > header > ul > li:hover {
+  border-bottom: 1px solid rgba(255,255,255,0.25);
+}
+
+section.kr-newsside > header > ul > li:hover > svg {
+  opacity: 0.9;
+}
+
+section.kr-newsside > header > ul > li.kr-newsinfos-selected {
+  border-bottom: 1px solid #ff7700 !important;
+}
+
+section.kr-newsside > header > ul > li.kr-newsinfos-selected > svg {
+  fill:#ff7700 !important;
+  opacity: 1 !important;
+}
+
+section.kr-newsside > section {
+  flex:1;
+  overflow-y: auto;
+  padding: 8px;
+}
+
+section.kr-newsside > section > article {
+  display: flex; flex-direction: column;
+  height: 100px;
+  width: 100%;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  padding: 7px;
+  justify-content: space-between;
+  position: relative;
+  color:#f4f6f9;
+  background-color: #0c121b;
+  cursor: pointer;
+}
+section.kr-newsside > section > article:hover > div {
+  opacity: 0.5;
+}
+
+section.kr-newsside > section > article > div {
+  position: absolute;
+  top:0; left:0; right:0; bottom: 0;
+  z-index: 1;
+  background-size: cover;
+  background-position: center center;
+  opacity: 0.3;
+  transition: opacity 0.2s linear;
+}
+
+section.kr-newsside > section > article > h3 {
+  font-size: 12px; font-weight: normal;
+  display: block;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 34px;
+  line-height: 17px;
+  margin: 0; padding: 0;
+  z-index: 5;
+  font-weight: bold;
+}
+
+section.kr-newsside > section > article > header {
+  display: flex; justify-content: space-between;
+  font-size: 9px;
+  text-transform: uppercase;
+  z-index: 5;
+}
+
+section.kr-newsside > section > article > header > span:first-child {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+section.kr-newsside > section > article > header > span:last-child {
+  width: 110px;
+  text-align: right;
+}
+
+section.kr-newsside > section > section.kr-social-post {
+  display: flex; flex-direction: column;
+  padding: 10px 0px;
+  color:#f4f6f9;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  cursor: default;
+}
+
+section.kr-newsside > section > section.kr-social-post * {
+  transition: opacity 0.1s linear;
+}
+
+section.kr-newsside > section > section.kr-social-post:hover  * {
+  opacity: 1 !important;
+}
+
+section.kr-newsside > section > section.kr-social-post > header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+section.kr-newsside > section > section.kr-social-post > header > div {
+  display: flex; align-items: center;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+section.kr-newsside > section > section.kr-social-post > header > div > div {
+  width: 25px; height: 25px;
+  min-width: 25px; min-height: 25px;
+  max-height: 25px; max-width: 25px;
+  border-radius: 35px;
+  background: #ff7700;
+  margin-right: 5px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  background-size: cover;
+  background-position: center center;
+}
+
+section.kr-newsside > section > section.kr-social-post > header > div > span {
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  font-size: 10px;
+}
+
+section.kr-newsside > section > section.kr-social-post > header > span {
+  font-size: 10px;
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+
+section.kr-newsside > section > section.kr-social-post > p {
+  margin: 0; padding: 0;
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+section.kr-newsside > section > section.kr-social-post > p a {
+  color:#ff7700;
+  opacity: 0.85;
+}
+
+/* Calendar event */
+section.kr-newsside > section > section.kr-calendar-item {
+  display: flex; flex-direction: column;
+  cursor: pointer;
+}
+
+section.kr-newsside > section > section.kr-calendar-item:hover {
+  background: #adadad12;
+}
+
+section.kr-newsside > section > section.kr-calendar-item.kr-calendar-item-opened,
+section.kr-newsside > section > section.kr-calendar-item.kr-calendar-item-opened:hover {
+  background: #656c7d38 !important;
+}
+
+section.kr-newsside > section > section.kr-calendar-item:last-child {
+  margin-bottom: 15px;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos {
+  display: flex; justify-content: space-between;
+  align-items: center;
+  color:#f4f6f9;
+  padding: 10px 8px;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos > div.kr-calendar-infos {
+  display: flex; align-items: center;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos > div.kr-calendar-infos > img {
+  width: 33px; height: 33px;
+  min-width: 33px; min-height: 33px;
+  transform: scale(0.7);
+  filter: brightness(100) invert(100);
+  max-height: 33px; max-width: 33px;
+  margin-right: 8px;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos > div.kr-calendar-infos > div.kr-calendar-title {
+  display: flex; flex-direction: column;
+  align-items: flex-start;
+
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos > div.kr-calendar-infos > div.kr-calendar-title > span:first-child {
+  font-size: 13px;
+  word-wrap: break-word;
+  opacity: 0.9;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-evinfos > div.kr-calendar-date {
+  font-size: 13px;
+  opacity: 1;
+  min-width: 57px;
+  text-align: right;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-percentage {
+  width: 100%;
+  height: 2px;
+  background: rgba(255,255,255,0.08);
+  position: relative;
+}
+
+section.kr-newsside > section > section.kr-calendar-item > div.kr-calendar-percentage > div {
+  height: 2px;
+  background: #29c368;
+}
+
+section.kr-newsside > section > h4.kr-calendar-spacetitle {
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding: 8px;
+  padding-bottom: 5px;
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color:#f4f6f9;
+  display: flex; justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+
+section.kr-newsside > section > h4.kr-calendar-spacetitle:first-child {
+  margin-top: 0px;
+}
+
+/* Detailed news post */
+section.kr-news-detailed {
+  position: absolute;
+  top:0px; right:0; bottom: 0;
+  width: 680px;
+  max-width: 85%;
+  background: #fafafa;
+  z-index: 99999999;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-shadow: -5px 0px 20px #000000bd;
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  animation-duration: 0.3s;
+  padding: 0;
+  height: 100%;
+}
+
+section.kr-news-detailed > div.kr-news-loading {
+  position: absolute;
+  top:0; left:0; right:0; bottom: 0;
+  display: flex; justify-content: center; align-items: center;
+}
+
+section.kr-news-detailed > header {
+  width: 100%;
+  min-width: 100%;
+  height: 240px;
+  min-height: 240px;
+  background-position: center center;
+  background-size: cover;
+  box-shadow: 0px 2px 2px 0px #00000026;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos {
+  padding: 30px;
+  display: flex; justify-content: space-between;
+  min-height: 38px;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > div {
+  display: flex; align-items: center;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > div > div.kr-news-detailed-infos-data {
+  display: flex; flex-direction: column;
+  align-items: flex-start;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > div > div.kr-news-detailed-infos-data > label {
+  font-weight: 700; font-size: 18px;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > div > div.kr-news-detailed-infos-data > span {
+  font-size: 13px;
+  color:#797979;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > ul {
+  display: flex; align-items: center;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > ul > li {
+  background: red; color:#fff;
+  font-size: 11px;
+  font-weight: bold;
+  margin-left: 10px;
+  text-transform: uppercase;
+  border-radius: 20px;
+  padding: 5px 9px;
+}
+
+section.kr-news-detailed > section.kr-news-detailed-infos > ul > li.kr-news-tags-0 { background: #f1f1fd; color:#7868ff; }
+section.kr-news-detailed > section.kr-news-detailed-infos > ul > li.kr-news-tags-1 { background: #e8f6ff; color:#01a8f9; }
+section.kr-news-detailed > section.kr-news-detailed-infos > ul > li.kr-news-tags-2 { background: #ffe8e8; color:#f90101; }
+section.kr-news-detailed > section.kr-news-detailed-infos > ul > li.kr-news-tags-3 { background: #e8ffed; color:#6cff68; }
+section.kr-news-detailed > section.kr-news-detailed-infos > ul > li.kr-news-tags-4 { background: #fff8e8; color:#ffc168; }
+
+section.kr-news-detailed > h1 {
+  margin: 0; padding: 0px 30px;
+  color:#4a4a4a; font-size: 28px; margin-bottom: 18px;
+}
+
+section.kr-news-detailed > div.kr-news-content {
+  margin: 0; padding: 0px 30px 30px 30px;
+  color:#4b4b4b; font-weight: 100;
+}
+
+section.kr-news-detailed > div.kr-news-content blockquote {
+  border-left: 2px solid #89898a;
+  margin: 0; padding: 0px 41px;
+}
+
+section.kr-news-detailed > div.kr-news-content a {
+  color:#ff7700;
+}
+
+section.kr-news-detailed > footer {
+  display: flex; justify-content: center;
+  padding: 20px 0px;
+  min-height: 40px;
+}
+
+/* Social new */
+section.kr-social-f {
+  display: flex;
+  align-items: stretch;
+  height: 100%;
+  flex:1;
+}
+
+section.kr-social-f > section.kr-news-wall {
+  display: flex;
+  align-items: stretch;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+section.kr-social-f > section.kr-news-wall > section {
+  display: flex; flex-direction: column;
+}
+
+section.kr-social-f > section.kr-news-wall > section > div {
+  width: 180px;
+  flex:1;
+  background: #000;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  position: relative;
+  cursor: pointer;
+}
+
+section.kr-social-f > section.kr-news-wall > section > div:hover > div {
+  opacity: 1;
+}
+
+section.kr-social-f > section.kr-news-wall > section > div > div {
+  position: absolute;
+  top:0; left:0; right:0; bottom: 0;
+  display: flex; justify-content: center; align-items: center;
+  opacity: 0.9;
+  background-size: cover;
+  background-position: center center;
+  padding: 15px;
+}
+
+section.kr-social-f > section.kr-news-wall > section > div > div > h1 {
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  color:#fff;
+  text-shadow: 1px 1px 2px #000;
+}
+
+section.kr-social-f > section.kr-news-wall > section:first-child > div:nth-child(2) {
+  flex:2;
+}
+
+section.kr-social-f > section.kr-news-wall > section:last-child > div:nth-child(1) {
+  flex:2;
+}
+
+/* Calendar event item */
+section.kr-calendareventitem {
+  width: 420px;
+  min-width: 420px;
+  border-right: 2px solid #121721;
+  height: 100%;
+  display: flex; flex-direction: column;
+  overflow-y: auto;
+  display: none;
+}
+
+section.kr-calendareventitem > header {
+  display: flex; flex-direction: column;
+  min-height: 71px;
+}
+
+section.kr-calendareventitem > header > div {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 15px; padding-bottom: 5px;
+  font-size: 13px;
+  color:#f4f6f9;
+}
+
+section.kr-calendareventitem > header > div > span {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+section.kr-calendareventitem > header > span {
+  margin: 15px;
+  margin-top: 3px;
+  font-size: 13px;
+  color:#f4f6f9;
+  opacity: 0.7;
+  font-weight: 100;
+}
+
+section.kr-calendareventitem > header > div > svg {
+  fill:#f4f6f9;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+section.kr-calendareventitem > header > div > svg:hover {
+  opacity: 1;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos {
+  display: flex; justify-content: space-between;
+  align-items: center;
+  background: rgba(53, 60, 79, 0.48);
+  padding: 20px 15px;
+  color:#fff;
+  min-height: 79px;
+  box-sizing: border-box;
+
+}
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > div {
+  display: flex; align-items: center;
+
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > div > img {
+  width: 33px; height: 33px;
+  margin-right: 10px;
+  filter:brightness(1) invert(1);
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > div > div {
+  display: flex; flex-direction: column;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > div > div > span {
+
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > div > div > span:last-child {
+  font-size: 13px;
+  opacity: 0.7;
+  margin-top: 5px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > ul {
+  display: flex; align-items: center;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > ul > li {
+  display: flex; flex-direction: column;
+  align-items: flex-end;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > ul > li > span:first-child {
+  text-transform: uppercase;
+  font-size: 12px;
+  opacity: 0.7;
+
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > ul > li > span:last-child {
+  margin-top: 5px;
+  font-size: 14px;
+  color:#29c359;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-coininfos > ul > li.kr-calendareventitem-coinsinfo-negativ > span:last-child {
+  color:rgb(227, 15, 15);
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content {
+  padding: 15px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote {
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote > div.kr-calendareventitem-content-vote-i {
+  display: flex; justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  color:#fff;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote > div.kr-calendareventitem-content-vote-i > i {
+  margin: 0px 10px;
+  color:#898c95;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote > div.kr-calendareventitem-content-vote-i > span:last-child {
+  color:#33ce5a;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote > div.kr-calendareventitem-content-vote-pb {
+  width: 100%;
+  border-radius: 20px;
+  height: 4px;
+  background: #363c4e;
+  margin-top: 18px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-vote > div.kr-calendareventitem-content-vote-pb > div {
+  width: 50%;
+  height: 4px;
+  border-radius: 20px;
+  background: #33ce5a;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > a {
+  width: 100%;
+  text-transform: uppercase;
+  height: 31px;
+  font-weight: 500;
+
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > a > span {
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > p {
+  text-align: justify;
+  color:#f4f6f9;
+  opacity: 1;
+  font-weight: 100;
+  font-size: 15px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > img {
+  max-width: 100%;
+  box-shadow: 0px 2px 3px 0px #0000003b;
+}
+
+
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-source {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 15px 0px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-source > span {
+  width: 100%;
+  text-align: center;
+  color:#8f939d;
+  font-size: 12px;
+}
+
+section.kr-calendareventitem > section.kr-calendareventitem-content > div.kr-calendareventitem-content-source > span > a {
+  color:#ff7700;
+  text-decoration: none;
+}

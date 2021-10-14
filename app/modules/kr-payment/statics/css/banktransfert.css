@@ -1,0 +1,405 @@
+body.kr-nbankwire {
+  padding-bottom: 35px;
+}
+
+body.kr-nbankwire > header {
+  display: flex;
+  padding: 20px 31px;
+  background: #e9ebec;
+  box-shadow: 0px 2px 5px #0000002e;
+}
+
+body.kr-nbankwire > header > img {
+  max-width: 250px;
+  max-height: 40px;
+}
+
+body.kr-nbankwire > section {
+  width: 1100px;
+  max-width: 90%;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+
+body.kr-nbankwire > section > table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+body.kr-nbankwire > section > table > thead th {
+  text-align: left;
+  padding: 15px;
+  font-size: 18px;
+}
+
+body.kr-nbankwire > section > table > tbody > tr {
+  background: #e9ebec;
+  border-radius: 2px;
+  font-size: 16px;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td {
+  padding: 15px;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td.btn-action-transfert {
+  width: 0%;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td > div {
+  display: flex; align-items: center;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td > div > div.kr-banktransfert-st {
+  width: 8px; height: 8px;
+  border-radius: 25px;
+  background: red;
+  margin-right: 10px;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td > div > div.kr-banktransfert-st.kr-banktransfert-st-0 { background: #f33d3d; }
+body.kr-nbankwire > section > table > tbody > tr > td > div > div.kr-banktransfert-st.kr-banktransfert-st-1 { background: #f37000; }
+body.kr-nbankwire > section > table > tbody > tr > td > div > div.kr-banktransfert-st.kr-banktransfert-st-2 { background: #26bf14; }
+body.kr-nbankwire > section > table > tbody > tr > td > div > div.kr-banktransfert-st.kr-banktransfert-st-3 { background: #8e948e; color:#f4f6f9; }
+
+body.kr-nbankwire i.kr-transfert-tag {
+  font-style: normal;
+  background: red;
+  border-radius: 2px;
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 4px 8px;
+}
+
+body.kr-nbankwire i.kr-transfert-tag.kr-transfert-tag-0 { background: #f33d3d; color:#fff; }
+body.kr-nbankwire i.kr-transfert-tag.kr-transfert-tag-1 { background: #f37000; color:#fff; }
+body.kr-nbankwire i.kr-transfert-tag.kr-transfert-tag-2 { background: #26bf14; color:#fff; }
+body.kr-nbankwire i.kr-transfert-tag.kr-transfert-tag-3 { background: #8e948e; }
+
+body.kr-nbankwire > section > table > tbody > tr > td > ul {
+  display: flex; flex-direction: column;
+  align-items: flex-end;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td > ul > li {
+  margin-bottom: 5px;
+}
+
+body.kr-nbankwire > section > table > tbody > tr > td > ul > li:last-child {
+  margin-bottom: 0px;
+}
+
+body.kr-nbankwire > div.kr-transfert-newbanktransfert {
+  width: 1100px;
+  max-width: 90%;
+  background: #e8e8e8;
+  padding: 30px 0px;
+  margin: 0 auto;
+  margin-top: 25px;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+}
+
+body.kr-nbankwire > div.kr-transfert-newbanktransfert > h2 {
+  text-transform: uppercase;
+  font-size: 20px;
+
+  margin: 0;
+}
+
+body.kr-nbankwire > div.kr-transfert-newbanktransfert > h3 {
+  background: #ffffff;
+  padding: 4px 8px;
+  border-radius: 2px;
+  box-shadow: 0px 2px 5px 0px #00000029;
+}
+
+body.kr-nbankwire > div.kr-transfert-newbanktransfert > span {
+  font-weight: bold;
+  text-decoration: underline;
+  color:#e21e1e;
+}
+
+
+body.kr-nbankwire > div.kr-transfert-newbanktransfert section {
+  display: flex; align-items: stretch;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+body.kr-nbankwire > div.kr-transfert-newbanktransfert section > div {
+  margin: 0px 10px 0px 10px;
+  background: #d8d8d8;
+  padding: 15px;
+  border-radius: 2px;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-infos {
+  display: flex; flex-direction: column;
+  width: 1100px;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 30px 0px;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-infos > li {
+  background: #e8e8e8;
+  display: flex; justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #d6d4d4;
+  border-top: 1px solid #fff;
+  color:#35373a;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-infos > li:first-child { border-top: none; }
+body.kr-nbankwire ul.kr-banktransfert-infos > li:last-child { border-bottom: none; }
+
+body.kr-nbankwire ul.kr-banktransfert-infos > li > span {
+  font-weight: bold;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-infos > li > div > span.kr-transfert-tag {
+  font-style: normal;
+  background: red;
+  border-radius: 2px;
+  font-size: 13px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 4px 8px;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-infos > li > div > span.kr-transfert-tag.kr-transfert-tag-0 { background: #f33d3d; color:#f4f6f9; }
+body.kr-nbankwire ul.kr-banktransfert-infos > li > div > span.kr-transfert-tag.kr-transfert-tag-1 { background: #f37000; color:#f4f6f9; }
+body.kr-nbankwire ul.kr-banktransfert-infos > li > div > span.kr-transfert-tag.kr-transfert-tag-2 { background: #26bf14; color:#f4f6f9; }
+body.kr-nbankwire ul.kr-banktransfert-infos > li > div > span.kr-transfert-tag.kr-transfert-tag-3 { background: #8e948e; color:#f4f6f9; }
+
+body.kr-nbankwire section.kr-bantransfert-choosbank {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 10px;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a {
+  background: #d8d8d8;
+  padding: 15px;
+  box-sizing: border-box;
+  border-top: 2px solid #e86b12;
+  cursor: pointer;
+  color:#252525;
+  text-decoration: none;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a.kr-baccacc-selected:hover {
+  background: #d8d8d8;
+  border-top: 2px solid #e86b12;
+  color:#252525;
+  cursor: default;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a:hover {
+  background: #29c359;
+  border-top-color: #29c359;
+  color:#f4f6f9;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > header > span {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > header > div {
+  background: #353535;
+  color:#fff;
+  border-radius: 2px;
+  font-weight: bold;
+  padding: 4px;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > ul {
+  display: flex; flex-direction: column;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > ul > li {
+  margin-bottom: 10px;
+  display: flex; flex-direction: column;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > ul > li > label {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 4px;
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+body.kr-nbankwire section.kr-bantransfert-choosbank > a > ul > li > span {
+  font-size: 17px;
+  font-weight: 100;
+}
+
+body.kr-nbankwire h2.kr-bantransfert-choosbank-title {
+  margin: 0 auto;
+  width: 1100px;
+  max-width: 90%;
+  margin-top: 30px;
+}
+
+body.kr-nbankwire div.kr-bantransfert-choosbank-immsg {
+  margin: 0 auto;
+  width: 1100px;
+  max-width: 90%;
+  background: #f33d3d;
+  margin-top: 15px;
+  text-align: center;
+  padding: 15px;
+  box-sizing: border-box;
+  color:#f4f6f9;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof {
+  margin: 0 auto;
+  width: 1100px;
+  max-width: 90%;
+  margin-top: 15px;
+  display: flex; flex-direction: column;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof > li {
+  display: flex; justify-content: space-between;
+  align-items: center;
+  background: #e9ebec;
+  padding: 18px;
+  margin-bottom: 10px;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof > li:last-child {
+  margin-bottom: 0px;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof > li > div {
+  flex:1;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof > li > div > div {
+  display: flex; justify-content: center;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof > li > div:last-child {
+  flex:0;
+}
+
+body.kr-nbankwire ul.kr-banktransfert-proof > li > div:first-child {
+  font-weight: bold;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz {
+  width: 1100px;
+  max-width: 90%;
+  margin: 0 auto;
+  background: #e9ebec;
+  display: flex; flex-direction: column;
+  justify-content: center; align-items: center;
+  padding: 40px;
+  box-sizing: border-box;
+  border: 2px dashed #b3b1b1;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz:hover {
+  background: #d6d9da;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz > svg {
+  width: 50px; height: 50px;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz > span {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz > div {
+  width: 80%;
+  border-radius: 2px;
+  height: 4px;
+  background: #c6cacc;
+  display: none;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz > div > div {
+  height: 4px;
+  border-radius: 2px;
+  width: 0%;
+  background: #29c359;
+  transition: all 0.2s linear;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz.kr-banktransfert-add-proof-dz-pg > svg,
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz.kr-banktransfert-add-proof-dz-pg > span {
+  display: none;
+}
+
+body.kr-nbankwire section.kr-banktransfert-add-proof-dz.kr-banktransfert-add-proof-dz-pg > div {
+  display: block;
+}
+
+body.kr-nbankwire div.dz-preview {
+  display: none !important;
+}
+
+body.kr-nbankwire div.kr-transfert-actionlist {
+  display: flex; justify-content: flex-end;
+  margin: 0 auto;
+  width: 1100px;
+  max-width: 90%;
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+
+/* Contract agreement */
+body.kr-nbankwire-contract {
+  background: #f4f6f9;
+  padding: 15px;
+}
+
+body.kr-nbankwire-contract > header {
+  display: flex; justify-content: center;
+  align-items: center;
+  padding: 15px 0px;
+  margin-bottom: 40px;
+}
+
+body.kr-nbankwire-contract > header > img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+body.kr-nbankwire-contract > h2 {
+  margin: 0; padding: 0;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 15px;
+  padding-bottom: 3px;
+  color:#252525;
+}
+
+body.kr-nbankwire-contract >  div {
+  text-align: justify;
+  text-transform: uppercase;
+}
+
+body.kr-nbankwire-contract > footer {
+  display: flex; align-items: flex-end;
+  justify-content: space-between;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 15px;
+  margin-top: 15px;
+}

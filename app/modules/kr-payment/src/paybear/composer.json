@@ -1,0 +1,23 @@
+{
+  "name": "paybear/paybear-php",
+  "type": "library",
+  "description": "PayBear PHP Library",
+  "version": "1.0.0",
+  "homepage": "https://www.paybear.io",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "PayBear",
+      "homepage": "https://github.com/Paybear"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "PayBear\\": "lib/"
+    }
+  }
+}

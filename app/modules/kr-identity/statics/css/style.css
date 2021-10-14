@@ -1,0 +1,300 @@
+section.identity_wizard {
+  position: absolute;
+  top:0; left:0;
+  bottom: 0; right:0;
+  background: rgba(0,0,0,0.25);
+  z-index: 999999999;
+  display: flex; justify-content: center; align-items: center;
+}
+
+section.identity_wizard > section {
+  width: 549px;
+  height: 557px;
+  background: #1c2030;
+  display: flex; flex-direction: column;
+}
+
+section.identity_wizard > section > header {
+  background: #262c3b;
+  color:#f4f6f9;
+  font-weight: 500;
+  font-size: 14px;
+  display: flex; align-items: center;
+  justify-content: space-between;
+  padding: 13px;
+  min-height: 49px;
+  box-sizing: border-box;
+}
+
+section.identity_wizard > section > header > div {
+  width: 23px; height: 23px;
+  display: flex; justify-content: center; align-items: center;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+section.identity_wizard > section > header > div:hover {
+  background: rgba(255,255,255,0.05);
+}
+
+section.identity_wizard > section > header > div > svg {
+  fill:#fff;
+  width: 17px; height: 17px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content {
+  flex:1;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-step0 {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-step0 > h2 {
+  margin: 0; padding: 0;
+  color:#f4f6f9;
+  text-transform: uppercase;
+  font-size: 19px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-step0 > svg {
+  width: 150px;
+  fill:#fff;
+  opacity: 0.5;
+  margin: 15px 0px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-step0 > p {
+  text-align: center;
+  color:#fff;
+  opacity: 0.3;
+  font-size: 11px;
+  padding: 0px 15px;
+  margin-top: 28px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs {
+  display: flex; flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > h3 {
+  margin: 0; padding: 0;
+  color:#f4f6f9;
+  text-transform: uppercase;
+  font-size: 19px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > p {
+  color:#fff;
+  opacity: 0.5;
+  font-size: 15px;
+  text-align: center;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > form {
+  width: 100%;
+  background: rgba(255,255,255,0.02);
+  border: 2px dashed #f4f6f95d;
+  cursor: pointer;
+  display: flex; align-items: center;
+  justify-content: center;
+  align-items: center;
+  color:#f4f6f9;
+  min-height: 73px;
+  padding: 0px 21px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > form > svg {
+  width: 40px; min-width: 40px;
+  fill:#f4f6f9;
+  opacity: 0.5;
+  margin-right: 10px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > form > span {
+  text-align: center;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > svg {
+  width: 107px; height: 107px;
+  margin: 25px 0px;
+  fill:#2bab3f;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > input[type="button"] {
+  margin-top: 15px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > form:hover {
+  background: rgba(255,255,255,0.04);
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple {
+  display: flex; align-items: stretch;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera > div > canvas {
+  display: none;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera > div {
+  position: relative;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera > div > section.kr-identity-document-camera-gabarit {
+  position: absolute;
+  width: 80%;
+  height: 60%;
+  left: 0;
+  right: 0;
+  top:0; bottom: 0;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px dashed #29c359;
+  display: flex; align-items: center; justify-content: center;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera > div > section.kr-identity-document-camera-gabarit > span {
+  font-size: 59px;
+  color:#f4f6f9;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+  font-weight: bold;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera > section {
+  margin-left: 8px;width: 100%;
+  display: flex; flex-direction: column;
+  align-items: stretch;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > section.kr-identity-document-multiple > div.kr-identity-document-camera > section > button {
+  margin-bottom: 8px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs .dz-default,
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs .dz-preview {
+  display: none;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > div.identity-uploadprogress {
+  width: 80%;
+  height: 3px;
+  background: #262c3c;
+  margin-top: 50px;
+  display: none;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > div.identity-uploadprogress > div {
+  width: 0%;
+  height: 3px;
+  background: #b35100;
+  transition: all 0.2s cubic-bezier(0.42, 0, 0.48, 1.04);
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > ul {
+  display: flex; flex-direction: column;
+  width: 100%;
+  margin-top: 25px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > ul > li {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  background: #262c3b;
+  font-size: 18px;
+  color:#f4f5f6;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > ul > li:hover {
+  background: #2f3544;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > ul > li > div {
+  width: 12px; height: 12px;
+  border-radius: 8px;
+  background: #1f9243;
+  margin-right: 15px;
+}
+
+/* Account view */
+.kr-account.kr-identity-acc > div {
+  position: relative;
+}
+
+.kr-account.kr-identity-acc > div > div {
+  width: 15px; height: 15px;
+  display: flex; justify-content: center; align-items: center;
+  background: #dc2406;
+  border-radius: 15px;
+  position: absolute;
+  bottom: -1px; right: -1px;
+}
+
+.kr-account.kr-identity-acc > div > div > svg {
+  width: 10px; height: 10px;
+  fill:#fff;
+}
+
+.kr-account.kr-identity-acc.kr-identity-in-verification > div > div {
+  background: #066fdc;
+}
+
+.kr-account.kr-identity-acc.kr-identity-verified > div > div {
+  background: #2bab3f;
+}
+
+body > header > div > div > div.kr-heeader-btn {
+  margin-right: 15px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > form {
+  width: 100%;
+  margin-top: 20px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > form > div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > form > div > label {
+  margin-bottom: 5px;
+  color:#f4f6f9;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > form > div > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: none;
+  border: 1px solid rgba(255,255,255,0.05);
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 2px;
+  color:#f4f6f9;
+}
+
+section.identity_wizard > section > section.identity_wizard_content.identity_wizard_content-stepvs > form > footer {
+  display: flex; justify-content: flex-end;
+}

@@ -1,0 +1,429 @@
+div.kr-overley.kr-ov-charges > section {
+  border-radius : 1px;
+  background    : #f5f7f9;
+}
+
+div.kr-overley.kr-ov-charges > section > header {
+  display         : flex;
+  color           : #252525;
+  border-radius   : 1px 1px 0px 0px;
+  background      : #f5f5f5;
+  font-size       : 20px;
+  font-weight     : 700;
+  justify-content : space-between;
+}
+
+div.kr-overley.kr-ov-charges > section > header > span {
+  color       : #252525;
+  font-size   : 20px;
+  font-weight : 700;
+}
+
+div.kr-overley.kr-ov-charges > section > header > div {
+  display         : flex;
+  width           : 28px;
+  height          : 28px;
+  align-content   : center;
+  justify-content : center;
+  cursor          : pointer;
+}
+
+div.kr-overley.kr-ov-charges > section > header > div > svg {
+  width  : 22px;
+  height : 22px;
+}
+
+div.kr-overley.kr-ov-charges > section > header > img {
+  max-width : 209px;
+}
+
+div.kr-overley.kr-ov-charges > section > h2 {
+  margin         : 0;
+  padding        : 23px 0px;
+  padding-bottom : 0px;
+  text-align     : center;
+  font-weight    : normal;
+}
+
+div.kr-overley.kr-ov-charges > section > h2 > b {
+  color           : #ef6c00;
+  text-decoration : underline;
+}
+
+div.kr-overley.kr-ov-charges > section > ul {
+  display     : flex;
+  padding     : 23px;
+  align-items : center;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li {
+  display        : flex;
+  margin-right   : 4px;
+  margin-left    : 4px;
+  align-items    : stretch;
+  flex           : 1;
+  flex-direction : column;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li:first-child {
+  margin-left : 0px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li:last-child {
+  margin-right : 0px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li.kr-ov-charges-nr {
+  padding-top : 22px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > header {
+  padding        : 3px 0px;
+  color          : #fff;
+  background     : #ef6c00;
+  text-align     : center;
+  text-transform : uppercase;
+  font-size      : 12px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div {
+  display        : flex;
+  padding        : 10px;
+  border         : 1px solid #e5e5e5;
+  align-items    : center;
+  flex-direction : column;
+  cursor         : pointer;
+  box-shadow: 0px 5px 10px #00000017;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div:hover {
+  background : #f0f0f0;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div > span {
+  margin-bottom  : 8px;
+  color          : #252525;
+  text-transform : uppercase;
+  font-size      : 15px;
+  font-weight    : 700;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div > div {
+  display     : flex;
+  align-items : center;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div > div > span {
+  font-size : 26px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div > div > label {
+  margin-left : 15px;
+  color       : #ef6c00;
+  font-size   : 24px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul > li > div > label {
+  margin-top : 12px;
+  color      : #8c8a8a;
+  text-align : center;
+  font-size  : 12px;
+}
+
+div.kr-overley.kr-ov-charges > section > section {
+  display     : flex;
+  padding     : 23px;
+  padding-top : 0px;
+  align-items : flex-end;
+}
+
+div.kr-overley.kr-ov-charges > section > section > div {
+  flex : 1;
+}
+
+div.kr-overley.kr-ov-charges > section > section > div {
+  display         : flex;
+  align-items     : flex-end;
+  flex-direction  : column;
+  justify-content : flex-end;
+}
+
+div.kr-overley.kr-ov-charges > section > section > ul > li {
+  display       : flex;
+  margin-bottom : 13px;
+  align-items   : flex-start;
+}
+
+div.kr-overley.kr-ov-charges > section > section > ul > li:last-child {
+  margin-bottom : 0px;
+}
+
+div.kr-overley.kr-ov-charges > section > section > ul > li > svg {
+  width        : 16px;
+  min-width    : 16px;
+  height       : 16px;
+  min-height   : 16px;
+  margin-right : 8px;
+  fill         : #ef6c00;
+}
+
+div.kr-overley.kr-ov-charges > section > section > ul > li > span > b {
+  color       : #ef6c00;
+  font-weight : normal;
+}
+
+div.kr-overley.kr-ov-charges > section > section > div > span {
+  margin-top : 10px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul.kr-ovrley-payment > li {
+  display         : flex;
+  height          : 85px;
+  border          : 1px solid #e5e5e5;
+  align-items     : center;
+  flex-direction  : row;
+  justify-content : center;
+  cursor          : pointer;
+}
+
+div.kr-overley.kr-ov-charges > section > ul.kr-ovrley-payment > li > a {
+  display         : flex;
+  height          : 85px;
+  text-decoration : none;
+  align-items     : center;
+  flex            : 1;
+  justify-content : center;
+}
+
+div.kr-overley.kr-ov-charges > section > ul.kr-ovrley-payment > li:hover {
+  background : #f0f0f0;
+}
+
+div.kr-overley.kr-ov-charges > section > ul.kr-ovrley-payment > li > a > svg {
+  width     : auto;
+  max-width : 90%;
+  height    : 43px;
+}
+
+div.kr-overley.kr-ov-charges > section > ul.kr-ovrley-payment > li > a > img {
+  max-width: 90%;
+  max-height: 75%;
+}
+
+/* Credit card */
+
+form.kr-charges-creditcard {
+  display        : flex;
+  padding-top    : 23px;
+  flex-direction : column;
+}
+
+form.kr-charges-creditcard > div {
+  display        : flex;
+  width          : 100%;
+  margin-bottom  : 15px;
+  align-items    : center;
+  flex-direction : row;
+}
+
+form.kr-charges-creditcard > div:last-child {
+  margin-bottom : 0px;
+}
+
+/* Payment */
+
+form.kr-charges-creditcard > div > div {
+  display        : flex;
+  width          : 100%;
+  margin-right   : 11px;
+  margin-left    : 11px;
+  flex           : 1;
+  flex-direction : column;
+}
+
+form.kr-charges-creditcard > header {
+  padding-bottom : 25px;
+}
+
+form.kr-charges-creditcard > header > svg {
+  max-width : 100%;
+}
+
+form.kr-charges-creditcard > div > div.kr-charges-ccv {
+  max-width : 80px;
+}
+
+form.kr-charges-creditcard > div > div:last-child {
+  margin-right : 0px;
+}
+
+form.kr-charges-creditcard > div > div:first-child {
+  margin-left : 0px;
+}
+
+form.kr-charges-creditcard > div > div > label {
+  margin-bottom : 7px;
+  color         : #747474;
+  font-size     : 15px;
+}
+
+form.kr-charges-creditcard > div > div > div {
+  display : flex;
+}
+
+form.kr-charges-creditcard > div > div > div > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  width              : 100%;
+  padding            : 10px 12px;
+  border             : 1px solid #e1e3e6;
+  border-radius      : 2px;
+  outline            : none;
+  font-size          : 15px;
+  box-sizing: border-box;
+}
+
+form.kr-charges-creditcard > div > div > div > input[type="text"].kr-payment-cardnumber {
+  background-repeat   : no-repeat;
+  background-position : 96% center;
+  background-size     : auto 38px;
+}
+
+form.kr-charges-creditcard > div > div > div > input[type="text"].kr-inp-valid,
+form.kr-charges-creditcard > div > div > div select.kr-inp-valid {
+  border-color : #29c368 !important;
+}
+
+form.kr-charges-creditcard > div > div > div > input[type="text"].kr-inp-notvalid,
+form.kr-charges-creditcard > div > div > div select.kr-inp-notvalid {
+  border-color : #dd1717 !important;
+}
+
+form.kr-charges-creditcard > div > div > div > * {
+  margin-right : 4px;
+  margin-left  : 4px;
+}
+
+form.kr-charges-creditcard > div > div > div > *:first-child {
+  margin-left : 0px;
+}
+
+form.kr-charges-creditcard > div > div > div > *:last-child {
+  margin-right : 0px;
+}
+
+form.kr-charges-creditcard > div > div > div > select {
+  width         : 100%;
+  padding       : 10px 12px;
+  border        : 1px solid #e1e3e6;
+  border-radius : 2px;
+  outline       : none;
+  font-size     : 15px;
+}
+
+form.kr-charges-creditcard section.kr-payment-act {
+  display         : flex;
+  margin-bottom   : 0px;
+  padding-top     : 15px;
+  align-items     : center;
+  justify-content : space-between;
+}
+
+form.kr-charges-creditcard section.kr-payment-act > div {
+  display     : flex;
+  align-items : center;
+}
+
+form.kr-charges-creditcard section.kr-payment-act > div > a {
+  display     : flex;
+  align-items : center;
+  cursor      : pointer;
+}
+
+form.kr-charges-creditcard section.kr-payment-act > div > a > svg {
+  width        : 15px;
+  height       : 15px;
+  margin-right : 8px;
+}
+
+form.kr-charges-creditcard > footer {
+  display         : flex;
+  margin-bottom   : -11px;
+  padding-top     : 30px !important;
+  padding-bottom  : 0px;
+  justify-content : center !important;
+}
+
+/* Payment result */
+
+section.kr_payment_result > header {
+  display         : flex;
+  height          : 76px;
+  min-height      : 76px;
+  background      : #f5f7f9 !important;
+  align-items     : center;
+  justify-content : center;
+}
+
+section.kr_payment_result > header > svg {
+  max-width : 212px;
+  height    : 80px;
+}
+
+section.kr_payment_result > h3 {
+  margin  : 0;
+  padding : 0px 20px;
+  color   : #29c368;
+}
+
+section.kr_payment_result > img {
+  width         : 80px;
+  margin        : 0 auto;
+  margin-bottom : 26px;
+  opacity       : 0.8;
+}
+
+section.kr_payment_result.kr_payment_result_fail > h3 {
+  color : #dd1717;
+}
+
+section.kr_payment_result > div.kr_payment_result_support {
+  display         : none;
+  min-height      : 115px;
+  align-items     : center;
+  flex-direction  : column;
+  justify-content : center;
+}
+
+section.kr_payment_result.kr_payment_result_fail > div.kr_payment_result_support {
+  display : flex;
+}
+
+section.kr_payment_result > div.kr_payment_result_txt {
+  padding    : 20px;
+  text-align : center;
+}
+
+section.kr_payment_result.kr_payment_result_fail > div.kr_payment_result_txt {
+  display : none;
+}
+
+section.kr_payment_result > div.kr_payment_result_support > label {
+  margin-bottom  : 5px;
+  color          : #555;
+  text-transform : uppercase;
+  font-size      : 14px;
+}
+
+section.kr_payment_result > div.kr_payment_result_support > span {
+  color       : #ff7700;
+  font-size   : 18px;
+  font-weight : bold;
+}
+
+section.kr_payment_result > footer {
+  display         : flex;
+  padding         : 20px;
+  justify-content : space-between;
+}

@@ -1,0 +1,594 @@
+nav.kr-manager-nav {
+  width : 100%;
+}
+
+nav.kr-manager-nav > ul {
+  display    : flex;
+  background : #fff;
+}
+
+nav.kr-manager-nav > ul > li {
+  padding        : 10px 10px 8px 10px;
+  color          : #3f4858;
+  border-bottom  : 2px solid #fff;
+  text-align     : center;
+  text-transform : uppercase;
+  font-size      : 14px;
+  font-weight    : bold;
+  cursor         : pointer;
+  border-right: 1px solid #e6e6e6;
+}
+
+nav.kr-manager-nav > ul > li:hover {
+  border-bottom-color : #f4f4f4;
+  background          : #f4f4f4;
+}
+
+nav.kr-manager-nav > ul > li.kr-manager-nav-selected {
+  color               : #181f2c;
+  border-bottom-color : #ff7700;
+}
+
+nav.kr-manager-nav > ul > li > span {
+  background: #da4830;
+  border-radius: 3px;
+  color:#f4f6f9;
+  font-size: 11px;
+  padding: 2px 4px;
+  margin-left: 10px;
+  margin-top: -1px;
+}
+
+.kr-manager {
+  width          : 100%;
+  height         : 100%;
+  padding-bottom : 15px;
+  overflow-y     : auto;
+}
+
+/* Bank transfert wizard */
+section.bank_transfert_wizard {
+  position: absolute;
+  top:0; left:0;
+  bottom: 0; right:0;
+  background: rgba(0,0,0,0.25);
+  z-index: 999999999;
+  display: flex; justify-content: center; align-items: center;
+}
+
+section.bank_transfert_wizard > section {
+  width: 549px;
+  background: #1c2030;
+  display: flex; flex-direction: column;
+}
+
+section.bank_transfert_wizard > section > header {
+  background: #262c3b;
+  color:#f4f6f9;
+  font-weight: 500;
+  font-size: 14px;
+  display: flex; align-items: center;
+  justify-content: space-between;
+  padding: 13px;
+  min-height: 49px;
+  box-sizing: border-box;
+}
+
+section.bank_transfert_wizard > section > header > div {
+  width: 23px; height: 23px;
+  display: flex; justify-content: center; align-items: center;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+section.bank_transfert_wizard > section > header > div:hover {
+  background: rgba(255,255,255,0.05);
+}
+
+section.bank_transfert_wizard > section > header > div > svg {
+  fill:#fff;
+  width: 17px; height: 17px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard {
+  display: flex; flex-direction: column;
+  flex:1;
+  align-items: stretch;
+  padding: 15px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line {
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  margin-bottom: 15px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line.content_bank_transfert_wizard_line-ol {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line input[type="text"],
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line input[type="date"],
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line input[type="datetime-local"],
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line select {
+  font-family: Trebuchet MS,Tahoma,Arial,sans-serif;
+  border: 1px solid #343d52;
+  padding: 11px;
+  border-radius: 2px;
+  background: #262c3b;
+  color: #f4f6f9;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > div.content_bank_transfert_wizard_line_mlc {
+  display: flex; align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > label {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: bold;
+  color:#f4f6f9;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > div.content_bank_transfert_wizard_line_mlc > div {
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  flex:1;
+  margin-left: 5px; margin-right: 5px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > div.content_bank_transfert_wizard_line_mlc > div span {
+  color:#f4f6f9;
+  opacity: 0.5;
+  margin-bottom: 3px;
+  font-size: 12px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > div.content_bank_transfert_wizard_line_mlc > div:first-child {
+  margin-left: 0px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > div.content_bank_transfert_wizard_line_mlc > div:last-child {
+  margin-right: 0px;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > div.content_bank_transfert_wizard_line > span {
+  margin-bottom: 7px;
+  color:#f4f5f9;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+section.bank_transfert_wizard > section > form.content_bank_transfert_wizard > footer {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-top: 15px;
+}
+
+/* Stats page */
+section.kr-manager-stats {
+  padding: 15px;
+}
+section.kr-manager-stats > header {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-bottom: 15px;
+}
+
+section.kr-manager-stats > header > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: #fff;
+  border: none;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 2px;
+}
+
+section.kr-manager-stats > header > span {
+  color:#f4f6f9;
+  font-size: 20px;
+}
+
+section.kr-manager-stats > section.kr-manager-stats-graph {
+  width: 100%;
+  margin: 0 auto;
+  background: #fff;
+  height: 400px;
+
+}
+
+section.kr-manager-stats > ul {
+  display: flex; align-items: stretch;
+  width: 100%;
+  margin-top: 15px;
+}
+
+section.kr-manager-stats > ul > li {
+  display: flex; flex-direction: column;
+  flex:1;
+  background: #fff;
+  align-items: center;
+  padding: 14px;
+  margin: 0px 7px;
+}
+
+section.kr-manager-stats > ul > li:first-child { margin-left: 0px; }
+section.kr-manager-stats > ul > li:last-child { margin-right: 0px; }
+
+section.kr-manager-stats > ul > li > label {
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+section.kr-manager-stats > ul > li > span {
+  font-size: 21px;
+}
+
+div.kr-stats-margin-content {
+  padding: 15px;
+}
+
+.kr-manager-switch-opt {
+  display: flex; align-items: center; justify-content: flex-end;
+  padding: 15px;
+  padding-bottom: 0px;
+  box-sizing: border-box;
+  color:#fff;
+}
+
+.kr-manager-switch-opt > select {
+  margin-left: 20px;
+  font-size: 16px;
+  border-radius: 2px;
+  border: none;
+  padding: 5px;
+}
+
+.kr-manager-switch-opt > span {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+div.kr-manager-filter > div.kr-manager-switch-opt {
+  padding: 0;
+}
+
+/* Tablem margin */
+
+table.kr-stats-margin {
+  box-sizing      : border-box;
+  width           : 100%;
+  max-width       : 100%;
+  border-collapse : collapse;
+  background      : #fff;
+  box-shadow      : 0px 2px 5px 0px #00000073;
+}
+
+table.kr-stats-margin > * {
+  box-sizing : border-box;
+}
+
+table.kr-stats-margin > thead {
+  background  : #e9ecf2;
+  font-weight : 500;
+}
+
+table.kr-stats-margin > thead > tr > td {
+  padding : 10px;
+}
+
+table.kr-stats-margin > tbody > tr {
+  border-bottom : 1px solid #f2f2f2;
+}
+
+table.kr-stats-margin > tbody > tr > td {
+  padding : 9px 10px;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-v {
+  display     : flex;
+  align-items : center;
+  font-weight : 300;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-v > div {
+  width               : 30px;
+  height              : 30px;
+  margin-right        : 8px;
+  border-radius       : 30px;
+  background          : #ef6c00;
+  background-position : center center;
+  background-size     : cover;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-v > span {
+  display     : flex;
+  align-items : center;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-v > span > i {
+  width         : 8px;
+  height        : 8px;
+  margin-left   : 8px;
+  border-radius : 8px;
+  background    : #e30f0f;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-v > span > i.kr-admin-user-i-active {
+  background : #29c359;
+}
+
+table.kr-stats-margin > tbody > tr > td svg {
+  width        : 15px;
+  height       : 15px;
+  margin-right : 5px;
+  fill         : #1f50b5;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-oauth {
+  display     : flex;
+  align-items : center;
+}
+
+table.kr-stats-margin > tbody > tr > td > div.kr-admin-user-oauth > svg {
+  width        : 20px;
+  height       : 20px;
+  margin-right : 5px;
+}
+
+section.kr-manager-user-profile {
+  padding: 15px;
+}
+
+section.kr-manager-user-profile > nav > ul {
+  display: flex;
+  align-items: stretch;
+}
+
+section.kr-manager-user-profile > nav > ul > li {
+  padding: 10px 12px;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  color:#fff;
+  cursor: pointer;
+}
+
+section.kr-manager-user-profile > nav > ul > li:hover {
+  background: rgba(255, 255, 255, 0.09);
+}
+
+section.kr-manager-user-profile > nav > ul > li.kr-manager-user-profile-tabs {
+  background: rgba(255, 255, 255, 0.15);
+  border-bottom: none;
+}
+
+section.kr-manager-user-profile > section {
+
+
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi {
+  display: flex; align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid #c1bfbf;
+  background: #f4f6f9;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div:first-child {
+  width: 90px; height: 90px;
+  background: #ff7700;
+  border-radius: 150px;
+  margin-right: 15px;
+  background-size: cover;
+  background-position: center center;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div:nth-child(2) {
+  display: flex; flex-direction: column;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div:nth-child(2) > h3 {
+  margin: 0; padding: 0;
+  margin-bottom: 5px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div:nth-child(2) > div {
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div:nth-child(2) > div > div {
+  width: 13px; height: 13px;
+  background: #fe8114;
+  border-radius: 20px;
+  margin-right: 5px;
+  background-size: cover;
+  background-position: center center;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div:nth-child(2) > div > span {
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn {
+  display: flex; align-items: center; justify-content: flex-end;
+  flex:1;
+  padding-right: 15px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn > ul.kr-manager-user-profile-estimatebalance {
+  display: flex; align-items: center;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn > ul.kr-manager-user-profile-estimatebalance > li {
+  display: flex; flex-direction: column;
+  align-items: center;
+  margin-left: 40px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn > ul.kr-manager-user-profile-estimatebalance > li > span {
+  text-transform: uppercase;
+  font-weight: bold;
+  color:#252525;
+  font-size: 14px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn > ul.kr-manager-user-profile-estimatebalance > li > span > i {
+  color:#ff7700;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn > ul.kr-manager-user-profile-estimatebalance > li > label {
+  font-size: 27px;
+  font-weight: bold;
+  margin-top: 5px;
+  color:#29c359;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-mi > div.kr-manager-user-profile-mi-btn > ul.kr-manager-user-profile-actionlist {
+  margin-left: 35px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos {
+  display: flex; align-items: flex-start;
+  background: #f4f6f9;
+  padding: 15px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos > ul {
+  flex:1;
+  margin-right: 7px; margin-left: 7px;
+  display: flex; flex-direction: column;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos > ul:first-child { margin-left: 0px; }
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos > ul:last-child { margin-right: 0px; }
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos > ul > li {
+  display: flex; align-items: center;
+  border-bottom: 1px solid #E0E0E0;
+  padding: 10px 0px;
+  font-size: 15px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos > ul > li > div:first-child {
+  width: 15%;
+  min-width: 190px;
+  font-weight: bold;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-tabinfos > ul > li:last-child {
+  border-bottom: none;
+  padding-bottom: 0px;
+}
+
+section.kr-manager-user-profile > section span.kr-manager-user-profile-tabinfos-tag-0,
+section.kr-manager-user-profile > section span.kr-manager-user-profile-tabinfos-tag-1 {
+  background: #cccccc;
+  padding: 3px 5px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+section.kr-manager-user-profile > section span.kr-manager-user-profile-tabinfos-tag-0 {
+  background: #ef3131;
+  color:#f4f6f9;
+}
+
+section.kr-manager-user-profile > section span.kr-manager-user-profile-tabinfos-tag-1 {
+  background: #39d95f;
+  color:#f4f6f9;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-nlc {
+  display: flex; align-items: flex-start;
+  margin-top: 15px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-nlc > section {
+  flex:1;
+  margin-left: 7px; margin-right: 7px;
+  background: #f4f6f9;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-nlc > section:last-child { margin-right: 0px; }
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-nlc > section:first-child { margin-left: 0px; }
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-nlc > section > header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 15px;
+}
+
+section.kr-manager-user-profile > section > section.kr-manager-user-profile-nlc > section > header > h4 {
+  margin: 0; padding: 0;
+  text-transform: uppercase;
+}
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table {
+  box-sizing      : border-box;
+  width           : 100%;
+  max-width       : 100%;
+  border-collapse : collapse;
+  background      : #fff;
+  box-shadow      : 0px 2px 5px 0px #00000073;
+}
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table * {
+  box-sizing : border-box;
+}
+
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table tbody > tr {
+  border-bottom : 1px solid #f2f2f2;
+}
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table tbody > tr > td {
+  padding : 9px 15px;
+  font-size: 12px;
+}
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table tbody > tr > td > div {
+  display: flex; align-items: center;
+}
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table tbody > tr > td > div.kr-manager-user-profile-login-dt-loc {
+  display: flex; align-items: center;
+}
+
+section.kr-manager-user-profile > section table.kr-manager-user-profile-table tbody > tr > td > div.kr-manager-user-profile-login-dt-loc > div {
+  width: 15px; height: 15px;
+  border-radius: 15px;
+  margin-right: 8px;
+  background: #ff7700;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* Manager filter */
+section.kr-manager > div.kr-manager-filter {
+  display: flex; justify-content: space-between;
+  padding: 15px;
+  padding-bottom: 0px;
+}
+
+section.kr-manager > div.kr-manager-filter input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: #fff;
+  border: none;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 2px;
+}

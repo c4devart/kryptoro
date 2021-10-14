@@ -1,0 +1,1838 @@
+div.kr-trade {
+  flex:1; display: flex; flex-direction: column;
+}
+div.kr-trade > header {
+  display: flex; justify-content: space-between;
+  align-items: center;
+  text-transform: uppercase;
+  background: #181f2c;
+  box-shadow: 0px 2px 12px 0px rgba(0, 0, 0, 0.24);
+  display: flex; align-items: center;
+  justify-content: space-between;
+  padding-right: 5px;
+}
+
+div.kr-trade > header > div {
+  width: 16px;
+  height: 16px;
+  display: flex; justify-content: center; align-items: center;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+div.kr-trade > header > div:hover {
+  background: rgba(0,0,0,0.1);
+}
+
+div.kr-trade > header > div > svg {
+  fill:#fff;
+  height: 15px;
+}
+
+div.kr-trade > header > span { color:#fff; padding: 10px; font-size: 15px; }
+
+ul.kr-trade-lst {
+  padding: 5px;
+  flex:1; overflow: hidden;
+}
+
+ul.kr-trade-lst > li {
+  display: flex; justify-content: space-between;
+  color:#fff;
+  font-size: 10px;
+  padding: 5px; text-transform: uppercase;
+}
+
+ul.kr-trade-lst > li > div.kr-trade-lst-symbol {
+  display: flex;
+}
+
+
+ul.kr-trade-lst > li > div:nth-child(2),
+ul.kr-trade-lst > li > div:nth-child(3){
+  flex:1; text-align: center;
+}
+
+ul.kr-trade-lst > li > div:last-child {
+  flex: 1; text-align: right !important;
+}
+
+ul.kr-trade-lst > li > div.kr-trade-lst-symbol > svg {
+  transform: scale(0.2);
+}
+
+ul.kr-trade-lst > li > div > span.kr-trade-lst-sell {
+  color:#dd175a;
+}
+
+ul.kr-trade-lst > li > div > span.kr-trade-lst-buy {
+  color:#29c368;
+}
+
+div.kr-trade > div.kr-trade-balance {
+  min-height: 5px;
+  width: 100%;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+div.kr-trade > div.kr-trade-balance > div {
+  flex:1;
+  height: 5px;
+  transition: all 0.1s linear;
+}
+
+div.kr-trade > div.kr-trade-balance > div:nth-child(1){ background: #29c359; }
+div.kr-trade > div.kr-trade-balance > div:nth-child(2){ background: #e30f0f; }
+
+div.kr-trade.kr-trade-hide {
+  max-height: 42px;
+  height: 42px;
+}
+
+div.kr-trade.kr-trade-hide > div.kr-trade-balance {
+  display: none;
+}
+
+div.kr-trade.kr-trade-hide > ul {
+  display: none;
+}
+
+/* Header balance */
+body > header > div > div > div.kr-wallet-top {
+  display: flex; flex-direction: column;
+  justify-content: center;
+  height: 70px;
+  position: relative;
+  margin-left: 11px;
+}
+
+body > header > div > div > div.kr-wallet-top > div {
+  display: flex; align-items: center;
+  cursor: pointer;
+  color:#29c368;
+}
+
+body > header > div > div > div.kr-wallet-top > div.kr-wallet-top-practice {
+  color:#ff7700;
+}
+
+body > header > div > div > div.kr-wallet-top > div.kr-wallet-top-real {
+  color:#29c359;
+}
+
+body > header > div > div > div.kr-wallet-top > div:hover {
+  opacity: 0.9;
+}
+
+body > header > div > div > div.kr-wallet-top > div > div {
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+body > header > div > div > div.kr-wallet-top > div > div > span:first-child {
+  font-size: 12px;
+}
+
+body > header > div > div > div.kr-wallet-top > div > div > span.kr-wallet-top-ammount {
+  font-size: 23px;
+}
+
+body > header > div > div > div.kr-wallet-top > div > div > label {
+  font-size: 9px;
+  opacity: 0.4;
+  margin-top: 2px;
+}
+
+body > header > div > div > div.kr-wallet-top > div > svg {
+  width: 16px; height: 16px;
+  fill:#29c368;
+}
+
+body > header > div > div > div.kr-wallet-top > div.kr-wallet-top-practice > svg {
+  fill:#ff7700;
+}
+
+body > header > div > div > div.kr-wallet-top > section {
+  position: absolute;
+  top:70px;
+  right: -125px;
+  width: 678px;
+  height: 188px;
+  background: #181f2c;
+  border-top: 1px solid #262c3b;
+  z-index: 999999999;
+  display: flex; align-items: stretch;
+  display: none;
+  box-shadow: 0px 0px 5px 0px #0000001a;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum {
+  width: 211px;
+  background: #262c3b;
+  padding: 23px;
+  color:#f4f6f9;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div > h3 {
+  margin: 0; padding: 0;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > ul {
+  display: flex; flex-direction: column;
+  font-size: 13px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > ul > li {
+  display: flex; align-items: flex-end;
+  margin-bottom: 8px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > ul > li > span.kr-wallet-top-negativ {
+  color:#e30f0f !important;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > ul > li > span.kr-wallet-top-positiv {
+  color:#29c359 !important;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > ul > li > div {
+  height: 1px; flex:1;
+  background: rgba(255, 255, 255, 0.05);
+  margin: 0px 14px;
+  margin-bottom: 5px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change {
+  flex:1;
+  display: flex; flex-direction: column;
+  padding: 23px;
+  color:#f4f6f9;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > h3 {
+  display: flex; align-items: center; justify-content: space-between;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul {
+  margin: 0; padding: 0;
+  width: 100%;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 0px;
+  padding-right: 10px;
+  display: flex; align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  cursor: pointer;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li:hover {
+  background: rgba(255,255,255,0.04);
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li:last-child {
+  border-bottom: none;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > div {
+  display: flex; align-items: center;
+  color:#ff7700;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > div > svg {
+  width: 33px; height: 33px;
+  transform: scale(0.5);
+  fill:#ff7700;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > div > div {
+  display: flex; flex-direction: column;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > div > div > span {
+  margin-bottom: 3px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > div > div > label.kr-wallet-change-estimated {
+  font-size: 10px;
+  margin-top: 2px;
+  opacity: 0.4;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li.kr-wallet-top-change-real svg {
+  fill:#26a054;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li.kr-wallet-top-change-real > div {
+  color:#26a054;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > section {
+  display: flex; align-items: center;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-change > ul > li > section > a {
+  margin-left: 10px;
+}
+
+/* Deposit popup */
+section.kr-balance-credit {
+  position: absolute;
+  top:0; left:0;
+  bottom: 0; right:0;
+  background: rgba(0,0,0,0.25);
+  z-index: 999999999;
+  display: flex; justify-content: center; align-items: center;
+}
+
+section.kr-balance-credit > section {
+  width: 775px;
+  height: 487px;
+  background: #1c2030;
+  display: flex; flex-direction: column;
+}
+
+section.kr-balance-credit > section > header {
+  background: #262c3b;
+  color:#f4f6f9;
+  font-weight: 500;
+  font-size: 14px;
+  display: flex; align-items: center;
+  justify-content: space-between;
+  padding: 13px;
+  min-height: 49px;
+  box-sizing: border-box;
+}
+
+section.kr-balance-credit > section > header > div {
+  width: 23px; height: 23px;
+  display: flex; justify-content: center; align-items: center;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+section.kr-balance-credit > section > header > div:hover {
+  background: rgba(255,255,255,0.05);
+}
+
+section.kr-balance-credit > section > header > div > svg {
+  fill:#fff;
+  width: 17px; height: 17px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance {
+  display: flex; align-items: stretch;
+  flex:1;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section {
+  flex:1;
+  display: flex; flex-direction: column;
+  align-items: center;
+  color:#f4f6f9;
+  padding: 0px 25px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > h3 {
+  margin: 0; padding: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > span.kr-balance-credit-b-ammc {
+  font-size: 28px;
+  color:#26a054;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section.kr-balance-credit-choose-practice > span.kr-balance-credit-b-ammc {
+  color:#ff7700;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > div.btn {
+  display: flex; flex-direction: column;
+  padding: 10px 12px;
+  width: 100%;
+  box-sizing: border-box;
+  height: 61px;
+  margin-top: 25px;
+}
+
+
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > div.btn > span:first-child {
+  font-weight: bold;
+  font-size:19px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > div.btn > span:last-child {
+  font-size: 12px;
+  margin-top: 5px;
+  opacity: 0.5;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > label {
+  margin-top: 13px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  opacity: 0.85;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > div.btn.kr-balance-credit-dibl {
+  opacity: 0.5;
+  background: #363c4f !important;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > div.btn.kr-balance-credit-dibl > * {
+  opacity: 0.2 !important;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-cblance > section > img {
+  width: 65px; height: 65px;
+  margin: 30px 0px;
+  filter: brightness(100%) invert(100%);
+  opacity: 0.3;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont {
+  /* padding: 15px; */
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section {
+  flex:1;
+  padding: 25px;
+  overflow-y: auto;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > h3 {
+  margin: 0; padding: 0;
+  text-transform: uppercase;
+  font-size: 15px;
+  color:#f4f6f9;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding-bottom: 5px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-balance-range {
+  position: relative;
+  height: 80px;
+  margin: 15px 0px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-balance-range * {
+  box-sizing: content-box;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-feescalc {
+  display: flex; justify-content: center; align-items: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-feescalc > div {
+  display: flex; justify-content: center; align-items: center;
+  padding: 8px 15px;
+  background: rgba(255,255,255,0.2);
+  border-radius: 2px;
+  flex-direction: column;
+  margin: 0px 10px;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-feescalc > div > label {
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 2px;
+  opacity: 0.7;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-feescalc > div[kr-credit-calcfees="total"] {
+  background: #29c359;
+}
+
+section.kr-balance-credit > section .irs-line,
+section.kr-balance-credit > section .irs-grid-pol {
+  opacity: 0.25;
+}
+
+section.kr-balance-credit > section .irs-min, section.kr-balance-credit > section .irs-max {
+  background: transparent; padding: 0;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul {
+  display: flex; align-items: flex-start;
+  margin-top: 60px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li {
+  flex:1;
+  margin: 0px 4px;
+  display: flex; flex-direction: column;
+  align-items: stretch;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li > a:hover {
+  background: rgba(255, 255, 255, 0.9);
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li:last-child { margin-right: 0px; }
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li:first-child { margin-left: 0px; }
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li > a {
+  height: 60px;
+  display: flex; justify-content: center; align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+  background: rgba(255, 255, 255, 0.83);
+  cursor: pointer;
+  border-radius: 2px;
+
+  text-align: center;
+  display: flex; align-items: center;
+  justify-content: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li > label {
+  text-align: center;
+  margin-top: 0px;
+  color:#f4f6f9;
+  font-size: 12px;
+  text-transform: uppercase;
+  background: #2e3546;
+  border-radius: 2px;
+  padding: 3px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li > a > img,
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul > li > a > svg {
+  max-width: 90%;
+  max-height: 90%;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont {
+  display: flex;
+  flex:1;
+}
+
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav {
+  background: #262c3b47;
+  width: 205px;
+  overflow-y: auto;
+  min-width: 205px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li {
+  display: flex; flex-direction: column;
+  padding: 15px;
+  border-bottom: 1px solid #262c3b;
+  color:#f4f6f9;
+  cursor: pointer;
+  border-left: 2px solid transparent;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li.svg-icon-deposit-balance {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li.svg-icon-deposit-balance > svg {
+  width: 15px; height: 15px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li.kr-balance-widthdraw-selected {
+  border-left: 2px solid #29c359;
+  background: rgba(255,255,255,0.01);
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li:hover {
+  background: rgba(255,255,255,0.01);
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li > label {
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > nav > ul > li > span {
+  font-size: 12px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  height: 100%;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-qrcode {
+  width: 180px; height: 180px;
+  min-height: 180px;
+  display: flex; justify-content: center; align-items: center;
+  background: #fff;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-qrcode > img {
+  width: 100%;
+  user-select: none;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-addrinp {
+  display: flex; align-items: center;
+  height: 40px;
+  background: #303646;
+  width: 80%;
+  border-radius: 2px;
+  margin-top: 25px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-addrinp > input[type="text"] {
+  flex:1;
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: none;
+  padding: 0px 10px;
+  height: 40px;
+  font-size: 17px;
+  border: none;
+  color:#f4f6f9;
+  outline: none;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-addrinp > div {
+  width: 40px; height: 40px;
+  min-width: 40px;
+  display: flex; justify-content: center; align-items: center;
+  cursor: pointer;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-addrinp > div:hover {
+  background: rgba(255,255,255,0.05);
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > div.kr-credit-cryptocc-addrinp > div > svg {
+  height: 19px; width: 19px;
+  fill:#f4f6f9;
+  opacity: 0.5;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > h2 {
+  text-align: center;
+  margin: 0; padding: 0;
+  margin-bottom: 35px;
+  color:#f4f6f9;
+  font-weight: 300;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-credit-cryptocc > h2 > span {
+  background: #29c359;
+  border-radius: 2px;
+  padding: 3px 7px;
+  margin-right: 5px;
+}
+
+/* section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section.kr-balance-credit-btc {
+  flex:1;
+
+  display: flex; flex-direction: column;
+  align-items: center;
+} */
+
+
+
+/* section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section.kr-balance-credit-btc > img {
+  width: 80%;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section.kr-balance-credit-btc > h3 {
+  padding: 0px 10px;
+  text-align: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section.kr-balance-credit-btc > input[type="text"] {
+  margin-top: 10px;
+  padding: 5px;
+  font-size: 14px;
+} */
+
+section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section {
+  width: 339px;
+  height: 488px;
+}
+
+section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form {
+  padding: 15px;
+}
+
+section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form.kr-charges-creditcard section.kr-payment-act > div > a {
+  color:#f4f6f9;
+}
+
+section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form.kr-charges-creditcard section.kr-payment-act > div > a > svg {
+  fill:#f4f6f9;
+}
+
+
+section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form.kr-charges-creditcard > div > div > div > input[type="text"] {
+  background: transparent;
+  border:1px solid #e1e3e633;
+  color:#f4f6f9;
+}
+
+section[kr-balance-credit-view="depositCreditCard"].kr-balance-credit > section > section > form.kr-charges-creditcard > div > div > label {
+  color:#f4f6f9;
+}
+
+/* Not filled balance */
+section.kr-balance-credit > section > section.kr-balance-withdraw-empty {
+  display: flex; flex-direction: column;
+  justify-content: center; align-items: center;
+  flex:1;
+}
+
+section.kr-balance-credit > section > section.kr-balance-withdraw-empty > svg {
+  margin-bottom: 27px;
+  width: 100px;
+  fill:#ffffff80;
+}
+
+section.kr-balance-credit > section > section.kr-balance-withdraw-empty > span {
+  color:#f4f6f9;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-size: 17px;
+}
+
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw {
+  display: flex;
+  align-items: stretch;
+  flex:1;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > nav {
+  background: #262c3b47;
+  width: 205px;
+  overflow-y: auto;
+  min-width: 205px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > nav > ul > li {
+  display: flex; flex-direction: column;
+  padding: 10px 15px;
+  border-bottom: 1px solid #262c3b;
+  color:#f4f6f9;
+  cursor: pointer;
+  border-left: 2px solid transparent;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > nav > ul > li.kr-balance-widthdraw-selected {
+  border-left: 2px solid #29c359;
+  background: rgba(255,255,255,0.01);
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > nav > ul > li:hover {
+  background: rgba(255,255,255,0.01);
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > nav > ul > li > label {
+  margin-bottom: 3px;
+  font-weight: bold;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > nav > ul > li > span {
+  font-size: 12px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form {
+  display: flex; flex-direction: column;
+  align-items: stretch !important;
+  justify-content: flex-start !important;
+  flex:1;
+  padding: 17px;
+  width: auto !important;
+  margin: 0 !important;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > h2 {
+  text-align: center;
+  margin: 0; padding: 0;
+  margin-bottom: 25px;
+  color:#f4f6f9;
+  font-weight: 300;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > h2 > span {
+  background: #29c359;
+  border-radius: 2px;
+  padding: 3px 7px;
+  margin-right: 5px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul {
+  display: flex; justify-content: center;
+  align-items: stretch;
+  margin-top: 25px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li {
+  display: flex; justify-content: center; align-items: center;
+  padding: 8px 15px;
+  background: rgba(255,255,255,0.2);
+  border-radius: 2px;
+  flex-direction: column;
+  margin: 0px 10px;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li:last-child,
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li.kr-balance-range-preview-total {
+  background: #29c359;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li.kr-balance-range-preview-convert {
+  background: #494d596b;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div.kr-balance-range-content,
+div.kr-balance-range-content-deposit {
+  display: flex; align-items: center;
+  flex-direction: row;
+}
+
+div.kr-balance-range-content-deposit {
+  margin: 24px 0px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div.kr-balance-range-content > input[type="text"],
+div.kr-balance-range-content-deposit > input[type="text"] {
+  width: 52px;
+  margin-right: 20px;
+}
+
+div.kr-balance-range-content-deposit > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: none;
+  border: 1px solid rgba(255,255,255,0.05);
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 2px;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div.kr-balance-range-content > div,
+div.kr-balance-range-content-deposit > div {
+  flex:1;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li > label {
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 2px;
+  opacity: 0.7;
+  text-align: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc {
+  display: flex; flex-direction: column;
+  margin-top: 35px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc > span,
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-gauth > span {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc > select,
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-gauth > input[type="text"] {
+  background: #32394a;
+  border: 1px solid #ffffff1a;
+  color:#f4f6f9;
+  font-size: 16px;
+  padding: 7px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  outline: none;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > ul > li > span {
+  font-size: 13px;
+  text-align: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > footer {
+  display: flex; justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 25px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > footer > section.kr-widthdraw-gauth {
+  display: flex;
+  flex-direction: column;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > footer > section.kr-widthdraw-gauth > span {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color:#f4f6f9;
+  font-size: 12px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > footer > section.kr-widthdraw-gauth > input[type="text"] {
+  background: #32394a;
+  border: 1px solid #ffffff1a;
+  color:#f4f6f9;
+  font-size: 16px;
+  padding: 7px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  outline: none;
+}
+
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc-msg {
+  display: flex; flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc-msg > svg {
+  margin-bottom: 27px;
+  width: 100px;
+  fill:#ffffff80;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > section.kr-widthdraw-chooseacc-msg > span {
+  color:#f4f6f9;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-size: 17px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-available {
+  display: flex; flex-direction: column;
+  align-items: center;
+  padding: 5px 0px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-available > label {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 12px;
+  color:#f4f6f9;
+  opacity: 0.7;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-available > span {
+  color:#29c359;
+  font-size: 32px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-range {
+  width: 100%;
+  padding: 25px;
+  box-sizing: border-box;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form {
+  display: flex; align-items: flex-end;
+  justify-content: space-around;
+  width: 100%;
+  margin: 25px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div {
+  display: flex;
+  flex-direction: column;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div > span {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > form > div > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: none;
+  border: 1px solid rgba(255,255,255,0.05);
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 2px;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-minm {
+  display: flex; justify-content: center; align-items: center;
+  margin-top: 28px;
+  color:#f4f6f9;
+  width: 90%;
+  background: rgba(255,255,255,0.05);
+  padding: 15px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-minm > span {
+  text-align: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-widthdraw > div.kr-balance-widthdraw-minm > span > i {
+  color:#29c359;
+  font-weight: 500;
+}
+
+/* Withdraw agreement */
+section.kr-balance-credit > section > section.kr-balance-approvecontract {
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  padding: 15px;
+  flex:1;
+}
+
+section.kr-balance-credit > section > section.kr-balance-approvecontract > h2 {
+  margin: 0; padding: 0;
+  color:#f4f6f9bf;
+  border-bottom: 1px solid #ffffff0d;
+  font-size: 20px;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-approvecontract > div {
+  text-align: justify;
+  color:#f4f6f9bf;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-approvecontract > footer {
+  display: flex; align-items: flex-end; justify-content: space-between;
+  flex:1;
+
+}
+
+section.kr-balance-credit > section > section.kr-balance-checkemail {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  flex:1;
+  padding: 15px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-checkemail > svg {
+  width: 120px;
+  height: 120px;
+  max-width: 90%;
+  fill:#ffffff45;
+  margin-bottom: 25px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-checkemail > h2 {
+  text-transform: uppercase;
+  color:#ff7700;
+  font-size: 21px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-checkemail > span {
+  text-transform: uppercase;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-empty {
+  flex:1;
+  display: flex; align-items: center; justify-content: center;
+  flex-direction: column;
+  color:#f4f6f9;
+  opacity: 0.7;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo {
+  overflow-y: auto;
+  padding: 15px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div {
+  width: 100%;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  padding: 10px 0px;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:first-child {
+  width: 80px;
+  max-width: 80px;
+  opacity: 0.7;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:nth-child(2){
+  min-width: 150px; width: 150px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:nth-child(3){
+  flex:1;
+  white-space: nowrap;overflow: hidden;text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:last-child {
+  display: flex; justify-content: flex-end;
+  min-width: 120px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:last-child > span {
+  background: #ff7700;
+  padding: 1px 4px 2px 4px;
+  border-radius: 2px;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo > div > div:last-child > span.kr-balance-trhistory-histo-dep {
+  background: #29c359;
+}
+
+/* Leader board */
+section.kr-rankingside {
+  width: 260px;
+  min-width: 260px;
+  border-right: 2px solid #121721;
+  height: 100%;
+  display: flex; flex-direction: column;
+  display: none;
+}
+
+section.kr-rankingside.kr-rankingside-show {
+  display: flex;
+}
+
+section.kr-rankingside > header {
+  display: flex; flex-direction: column;
+}
+
+section.kr-rankingside > header > div {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 15px; padding-bottom: 5px;
+  font-size: 13px;
+  color:#f4f6f9;
+}
+
+section.kr-rankingside > header > div > svg {
+  fill:#f4f6f9;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+section.kr-rankingside > header > div > svg:hover {
+  opacity: 1;
+}
+
+section.kr-rankingside > section.kr-rankingside-mine {
+  padding: 10px;
+  padding-top: 28px;
+}
+
+section.kr-rankingside > section.kr-rankingside-mine > div {
+  background: #ffffff1a;
+  display: flex; flex-direction: column;
+  align-items: center;
+  padding-bottom: 8px;
+  text-transform: uppercase;
+  color:#f4f6f9;
+}
+section.kr-rankingside > section.kr-rankingside-mine > div > div {
+  width: 45px; height: 45px;
+  min-height: 45px;
+  min-width: 45px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 40px;
+  margin-top:-22px;
+  margin-bottom: 8px;
+  border: 3px solid #1d2435;
+  box-sizing: border-box;
+  background-size: 45px 45px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+section.kr-rankingside > section.kr-rankingside-mine > div > label {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+section.kr-rankingside > section.kr-rankingside-mine > div > span {
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 3px;
+}
+section.kr-rankingside > section.kr-rankingside-mine > div > span > i {
+  color:#29c359;
+}
+
+section.kr-rankingside > ul {
+  overflow-y: auto;
+  padding: 4px;
+}
+
+section.kr-rankingside > ul > li {
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  display: flex; align-items: center;
+  font-weight: 100;
+  font-size: 13px;
+  color:#fff;
+}
+
+section.kr-rankingside > ul > li > div.kr-rankingside-infs {
+  flex:1;
+  display: flex; align-items: center;
+  max-width: 120px;
+  width: 120px;
+  padding: 9px 0px;
+}
+
+section.kr-rankingside > ul > li > div.kr-rankingside-infs > div {
+  width: 15px; height: 15px;
+  min-width: 15px; min-height: 15px;
+  border-radius: 15px;
+  background: rgba(255,255,255,0.08);
+  margin-right: 7px;
+  background-size: 15px 15px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+section.kr-rankingside > ul > li > div.kr-rankingside-infs > span {
+  white-space: nowrap;overflow: hidden;text-overflow: ellipsis;
+}
+
+section.kr-rankingside > ul > li > div.kr-rankingside-urnk {
+  min-width: 30px;
+  display: flex; align-items: center; justify-content: flex-end;
+  padding-right: 8px;
+  color:#ff7700;
+}
+
+section.kr-rankingside > ul > li > div.kr-rankingside-tbnf {
+  display: flex;
+  align-items: center; justify-content: flex-end;
+  margin-left: 8px;
+  flex:1;
+  font-weight: 500;
+  color:#29c359;
+  padding-right: 4px;
+}
+
+/* Orderbook side */
+section.kr-orderbookside {
+  width: 260px;
+  min-width: 260px;
+  border-right: 2px solid #121721;
+  height: 100%;
+  display: flex; flex-direction: column;
+  display: none;
+}
+
+section.kr-orderbookside.kr-orderbookside-show {
+  display: flex;
+}
+
+section.kr-orderbookside > header {
+  display: flex; flex-direction: column;
+  min-height: 35px;
+  box-sizing: border-box;
+}
+
+section.kr-orderbookside > header > div {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 15px; padding-bottom: 5px;
+  font-size: 13px;
+  color:#f4f6f9;
+}
+
+section.kr-orderbookside > header > div > svg {
+  fill:#f4f6f9;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+section.kr-orderbookside > header > div > svg:hover {
+  opacity: 1;
+}
+
+section.kr-orderbookside > section {
+  text-align: center;
+  padding: 25px 0px 0px 0px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  color:#f4f6f9;
+}
+
+section.kr-orderbookside > div.kr-orderbookside-resum {
+  display: flex; flex-direction: column;
+}
+
+section.kr-orderbookside > div.kr-orderbookside-resum > div {
+  display: flex; justify-content: space-between;
+  align-items: flex-start;
+  padding: 15px;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color:#f4f6f9;
+  font-size: 13px;
+}
+
+section.kr-orderbookside > div.kr-orderbookside-resum > div > div:last-child {
+  display: flex; flex-direction: column;
+  align-items: flex-end;
+}
+
+section.kr-orderbookside > div.kr-orderbookside-resum > div > div.positiv-profit {
+  color:#29c359;
+}
+
+section.kr-orderbookside > div.kr-orderbookside-resum > div > div.negativ-profit {
+  color:rgb(227, 15, 15);
+}
+
+section.kr-orderbookside > div.kr-orderbookside-resum > div > div:first-child {
+
+}
+
+section.kr-orderbookside > ul {
+  margin-top: 15px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  overflow-y: auto;
+}
+
+section.kr-orderbookside > ul > li {
+  display: flex; align-items: center;
+  justify-content: space-between;
+  color:#f4f6f9;
+  font-weight: 100;
+  font-size: 14px;
+  padding: 12px 15px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  cursor: pointer;
+}
+
+section.kr-orderbookside > ul > li:hover {
+  background: #353c4f7d;
+}
+
+section.kr-orderbookside > ul > li > div {
+  display: flex; flex-direction: column;
+}
+
+section.kr-orderbookside > ul > li > div:last-child {
+  align-items: flex-end;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+section.kr-orderbookside > ul > li > div.negativ-profit {
+  color:rgb(227, 15, 15);
+}
+
+section.kr-orderbookside > ul > li > div.positiv-profit {
+  color:#29c359;
+}
+
+section.kr-orderbookside > ul > li > div > div {
+  display: flex; align-items: center;
+}
+
+section.kr-orderbookside > ul > li > div > div > img {
+  width: 33px; height: 33px;
+  transform: scale(0.45);
+  margin: -10px;
+  margin-right: -3px;
+  filter: brightness(1) invert(1);
+}
+
+section.kr-orderbookside > ul > li > div > div {
+  margin-bottom: 4px;
+}
+
+section.kr-orderbookside > ul > li > div:first-child > span {
+  opacity: 1;
+  font-size: 11px;
+}
+
+/* thirdParty bookorder */
+section.kr-orderbookside > ul.kr-bookorder-thirdparty > li {
+  padding: 10px 0px;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-thirdparty > li.kr-bookorder-side-buy > div:first-child {
+  border-left: 2px solid #29c359;
+  padding-left: 6px;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-thirdparty > li.kr-bookorder-side-sell > div:first-child {
+  border-left: 2px solid #e30f0f;
+  padding-left: 6px;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-thirdparty > li > div:last-child {
+  align-items: flex-end;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-thirdparty > li > div:last-child > span:first-child {
+  text-transform: uppercase;
+  font-size: 10px;
+  margin-bottom: 3px;
+  opacity: 0.7;
+
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li {
+  display: flex; align-items: center;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:last-child {
+  display: flex; flex-direction: column;
+  align-items: flex-end;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:last-child > span:first-child {
+  margin-bottom: 3px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:last-child > span:last-child {
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:first-child > span:first-child {
+  font-size: 13px;
+  margin-bottom: 3px;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:first-child > span:last-child {
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:nth-child(2) > span:last-child {
+  font-size: 11px;
+  opacity: 0.6;
+}
+
+section.kr-orderbookside > ul.kr-bookorder-native > li > div:nth-child(2) > div > span {
+  font-size: 13px;
+}
+
+/* Orderbook informations */
+/* Orderbook side */
+section.kr-orderinfoside {
+  width: 350px;
+  min-width: 260px;
+  border-right: 2px solid #121721;
+  height: 100%;
+  display: flex; flex-direction: column;
+  display: none;
+}
+
+section.kr-orderinfoside.kr-orderinfoside-show {
+  display: flex;
+}
+
+section.kr-orderinfoside > header {
+  display: flex; flex-direction: column;
+  min-height: 35px;
+  box-sizing: border-box;
+}
+
+section.kr-orderinfoside > header > div {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 15px; padding-bottom: 5px;
+  font-size: 13px;
+  color:#f4f6f9;
+}
+
+section.kr-orderinfoside > header > div > div {
+  display: flex; align-items: center;
+}
+
+section.kr-orderinfoside > header > div > div > img {
+  width: 33px; height: 33px;
+  transform: scale(0.6);
+  margin: -10px;
+  margin-right: 0px;
+  filter: brightness(1) invert(1);
+}
+
+section.kr-orderinfoside > header > div > svg {
+  fill:#f4f6f9;
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+section.kr-orderinfoside > header > div > svg:hover {
+  opacity: 1;
+}
+
+section.kr-orderinfoside > section > section.kr-orderinfoside-dt {
+  background: #171b29;
+  display: flex; flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  color:#f4f6f9;
+  margin-top: 10px;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-action {
+  display: flex; align-items: center;
+  justify-content: center;
+  padding: 15px 0px;
+}
+
+section.kr-orderinfoside > section > section.kr-orderinfoside-dt > div {
+  display: flex; align-items: center;
+}
+
+section.kr-orderinfoside > section > section.kr-orderinfoside-dt > span {
+  font-size: 16px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color:#f4f6f9ad;
+}
+
+section.kr-orderinfoside > section > section.kr-orderinfoside-dt > div > svg {
+  width: 15px; height: 15px;
+  margin-right: 9px;
+  fill:#f4f6f9;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout {
+  display: flex; align-items: center;
+  margin-top: 15px;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout > li {
+  list-style: none;
+  display: flex; flex-direction: column;
+  align-items: center;
+  flex:1;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout > li > span {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout > li:first-child > span {
+  color:#29c359;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout > li:last-child > span {
+  color:#e01616;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-cinout > li > label {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 13px;
+  color:#f4f6f9ad;
+  margin-top: 8px;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-minf {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border-top: 1px solid #353c4f;
+  margin-top: 15px;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-minf > li {
+  display: flex; align-items: center;
+  margin-bottom: 10px;
+  color:#f4f6f9c7;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-minf > li > div {
+  flex:1; height: 1px; background: #353c4f;
+  margin: 0px 10px;
+}
+
+section.kr-orderinfoside > section > ul.kr-orderinfoside-minf > li > span:last-child {
+  font-weight: bold;
+}
+
+/* Thirdparty top wallet */
+body > header > div > div > div.kr-wallet-top > div.kr-wallet-top-thirdparty {
+  color:#f4f6f9;
+}
+
+body > header > div > div > div.kr-wallet-top > div.kr-wallet-top-thirdparty > svg {
+  fill:#f4f6f9;
+}
+
+body > header > div > div > div.kr-wallet-top > section.kr-wallet-top-thirdparty {
+  height: auto;
+}
+
+body > header > div > div > div.kr-wallet-top > section {
+  height: auto;
+}
+
+body > header > div > div > div.kr-wallet-top > section.kr-wallet-top-thirdparty > div.kr-wallet-top-change > ul > li {
+  display: flex;
+  padding: 10px;
+}
+
+body > header > div > div > div.kr-wallet-top > section.kr-wallet-top-thirdparty > div.kr-wallet-top-change > ul > li > img {
+  height: 22px;
+  filter:brightness(0) invert(1);
+  max-width: 126px;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > div {
+  text-align: center;
+  width: 100%;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.7;
+  cursor: pointer;
+  transition: opacity 0.15s linear;
+}
+
+body > header > div > div > div.kr-wallet-top > section > div.kr-wallet-top-resum > div:hover {
+  opacity: 1;
+}
+
+/* Balance list */
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:first-child {
+  flex:1;
+  width: auto; max-width: 100%;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:nth-child(2),
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:nth-child(3){
+  width: auto; min-width: auto;
+  display: flex; flex-direction: column;
+  flex: initial;
+  margin-left: 20px;
+  width: 100px;
+  min-width: 100px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div > span {
+  background: transparent;
+  padding: 0; font-size: 13px; font-weight: 500;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div > label {
+  font-size: 9px;
+  opacity: 0.7;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:first-child {
+  opacity: 1;
+}
+
+section.kr-balance-credit > section > section.kr-balance-trhistory-histo.kr-balance-blist > div > div:first-child > span {
+  color:#f4f6f9;
+  opacity: 1;
+  font-size: 16px;
+}
+
+/* Balance details */
+section.kr-balance-view {
+  flex:1;
+  overflow-y: auto;
+}
+
+section.kr-balance-view > header {
+  display: flex; flex-direction: column;
+  padding: 15px;
+}
+
+section.kr-balance-view > header > h2 {
+  margin: 0; padding: 0;
+  font-weight: 100;
+  color:#f4f6f9;
+}
+
+section.kr-balance-view > header > div {
+  display: flex; justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 20px;
+}
+
+section.kr-balance-view > header > div > div {
+  display: flex; align-items: center;
+}
+
+section.kr-balance-view > header > div > div > input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  background: #2e3648;
+  padding: 10px;
+  font-size: 17px;
+  border: none;
+  border-radius: 2px;
+  font-size: 15px;
+  color:#f4f6f9;
+  outline: none;
+}
+
+section.kr-balance-view > header > div > div > div {
+  display: flex; align-items: center;
+  background: rgba(255,255,255,0.1);
+  height: 37px;
+  padding: 0px 10px;
+  margin-left: 15px;
+  color:#fff;
+  opacity: 0.5;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+section.kr-balance-view > header > div > div > div.kr-balances-view-tggsmall-active {
+  opacity: 1;
+}
+
+section.kr-balance-view > header > div > div > div > label { cursor: pointer; }
+
+section.kr-balance-view > header > div > div > div:hover {
+  opacity: 1;
+}
+
+section.kr-balance-view > header > div > span {
+  color:#f4f6f9e5;
+}
+
+section.kr-balance-view > header > div > span > b {
+  color:#f4f6f9;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l {
+  margin-top: 0px;
+  display: flex; flex-direction: column;
+  width: 100%;
+  align-items: stretch;
+
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li {
+  display: flex; flex-direction: row;
+  background: rgb(31, 35, 51);
+  height: auto;
+  padding: 15px;
+  box-shadow: 0px 2px 20px #0000000f;
+  margin: 0px;
+  margin-bottom: 8px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > div.kr-banktransfert-action {
+  display: flex; justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div {
+  flex:1;
+  color:#f4f6f9;
+  display: flex; align-items: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-mi > div {
+  width: 8px; height: 8px; border-radius: 5px;
+  background: red;
+  margin-right: 10px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-mi > div.kr-deposit-banktransfert-l-mi-0 {
+  background: #f4f6f93b;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-mi > label {
+  font-size: 14px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-mi > div.kr-deposit-banktransfert-l-mi-1 {
+  background: #26bf14;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-dt {
+  font-size: 12px;
+  display: flex; justify-content: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-st {
+  display: flex; justify-content: center; align-items: center;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-st > span {
+  background: #d41b1b;
+  border-radius: 2px;
+  font-size: 11px;
+  text-transform: uppercase;
+  padding: 3px 6px;
+}
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-st > span.kr-transfert-tag-0 { background: #f33d3d; color:#fff; }
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-st > span.kr-transfert-tag-1 { background: #f37000; color:#fff; }
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-st > span.kr-transfert-tag-2 { background: #26bf14; color:#fff; }
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-st > span.kr-transfert-tag-3 { background: #8e948e; }
+
+
+section.kr-balance-credit > section > section.kr-balance-credit-drel-cont > section > ul.kr-deposit-banktransfert-l > li > div.kr-deposit-banktransfert-l-dtl {
+  display: flex; justify-content: flex-end;
+  flex:0;
+  font-size: 13px;
+  text-decoration: underline;
+}

@@ -1,0 +1,511 @@
+nav.kr-admin-nav {
+  width : 100%;
+}
+
+nav.kr-admin-nav > ul {
+  display    : flex;
+  background : #fff;
+}
+
+nav.kr-admin-nav > ul > li {
+  padding        : 10px 10px 8px 10px;
+  color          : #3f4858;
+  border-bottom  : 2px solid #fff;
+  text-align     : center;
+  text-transform : uppercase;
+  font-size      : 14px;
+  font-weight    : bold;
+  cursor         : pointer;
+  border-right: 1px solid #e6e6e6;
+}
+
+nav.kr-admin-nav > ul > li:hover {
+  border-bottom-color : #f4f4f4;
+  background          : #f4f4f4;
+}
+
+nav.kr-admin-nav > ul > li.kr-admin-nav-selected {
+  color               : #181f2c;
+  border-bottom-color : #ff7700;
+}
+
+/* Global */
+
+.kr-admin {
+  width          : 100%;
+  height         : 100%;
+  padding-bottom : 15px;
+  overflow-y     : auto;
+}
+
+/* Section & line */
+
+.kr-admin-line {
+  display        : flex;
+  box-sizing     : border-box;
+  width          : 100%;
+  padding        : 15px;
+  padding-bottom : 0px;
+  align-items    : flex-start;
+}
+
+.kr-admin-line.kr-admin-line-cls {
+  align-items    : stretch;
+  flex-direction : column;
+}
+
+.kr-admin-line.kr-admin-line-cls > div {
+  margin        : 0;
+  border-bottom : 1px solid #e9e9e9;
+  box-shadow    : none;
+}
+
+.kr-admin-line.kr-admin-line-cls > div:last-child {
+  border-bottom : none;
+}
+
+.kr-admin-line > div {
+  box-sizing   : border-box;
+  margin-right : 7px;
+  margin-left  : 7px;
+  padding      : 20px;
+  background   : #fff;
+  box-shadow   : 0px 2px 5px 0px #00000073;
+  flex         : 1;
+}
+
+.kr-admin-line > div:last-child {
+  margin-right : 0px;
+}
+
+.kr-admin-line > div:first-child {
+  margin-left : 0px;
+}
+
+/* Stat block */
+
+.kr-admin-line > div.kr-admin-b-stats {
+  display         : flex;
+  min-height      : 150px;
+  flex-direction  : column;
+  justify-content : space-between;
+}
+
+.kr-admin-line > div.kr-admin-b-stats > div {
+  display         : flex;
+  font-size       : 27px;
+  justify-content : flex-end;
+}
+
+.kr-admin-line > div.kr-admin-b-stats > span {
+  color          : #252525;
+  text-transform : uppercase;
+  font-weight    : 700;
+}
+
+/* Field */
+
+.kr-admin-line > div.kr-admin-field {
+  display     : flex;
+  align-items : flex-start;
+}
+
+.kr-admin-line > div.kr-admin-field > div:first-child {
+  width       : 250px;
+  min-width   : 250px;
+  font-weight : 700;
+}
+
+.kr-admin-line > div.kr-admin-field > div:last-child {
+  flex : 1;
+}
+
+.kr-admin-line > div.kr-admin-field > div.kr-admin-field-ws {
+  display        : flex;
+  align-items    : flex-end;
+  flex-direction : column;
+}
+
+.kr-admin-line > div.kr-admin-field > div.kr-admin-field-ws > input[type="submit"] {
+  margin-top : 10px;
+}
+
+.kr-admin-line > div.kr-admin-field > div > input[type="text"],
+.kr-admin-line > div.kr-admin-field > div > div > input[type="text"],
+.kr-admin-line > div.kr-admin-field > div > textarea,
+.kr-admin-table .kr-admn-inptx {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  width              : 100%;
+  padding            : 10px 12px;
+  border             : 1px solid #e1e3e6;
+  border-radius      : 2px;
+  font-family        : 'Roboto',
+                       sans-serif;
+  font-size          : 15px;
+  resize             : none;
+}
+
+.kr-admin-line > div.kr-admin-field > div > div {
+  display: flex; align-items: center;
+}
+
+.kr-admin select {
+  padding            : 10px 12px;
+  border             : 1px solid #e1e3e6;
+  border-radius      : 2px;
+  font-family        : 'Roboto',
+                       sans-serif;
+  font-size          : 15px;
+}
+
+.kr-admin-line > div.kr-admin-field > div > span {
+  color     : #777;
+  font-size : 13px;
+}
+
+.kr-admin-line > div.kr-admin-field > div > textarea {
+  height : 100px;
+}
+
+.kr-admin-line > div.kr-admin-field > div > div.ckbx-style-14 {
+  width : 103px;
+}
+
+.kr-admin-line > div.kr-admin-field > div > ul {
+  display: flex; flex-wrap:wrap;
+}
+
+.kr-admin-line > div.kr-admin-field > div > ul > li {
+  flex: 1;
+  display: flex; flex-direction: column;
+  align-items: flex-start;
+  min-width: 180px;
+  margin-bottom: 10px;
+}
+
+.kr-admin-line > div.kr-admin-field > div > ul > li > span {
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-transform: capitalize;
+}
+
+/* Box field */
+.kr-admin-line > div.kr-admin-boxthird {
+  display: grid;
+  grid-column-gap: 18px;
+  grid-template-columns: auto auto auto auto auto;
+  flex:none;
+}
+
+
+.kr-admin-line > div.kr-admin-boxthird > div {
+  background: #fff;
+  box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.17);
+  height: 100px;
+  margin-bottom: 18px;
+  display: flex; justify-content: center; align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  cursor: pointer;
+  position: relative;
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div > div {
+  display: none;
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div.kr-account-config-exchange-enable > div {
+  position: absolute;
+  width: 17px; height: 17px;
+  display: flex; justify-content: center; align-items: center;
+  right:5px ;
+  top:5px;
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div > div > svg {
+  fill:#23c53c;
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div.kr-account-config-exchange-enable {
+  box-shadow: 0px 2px 6px 0px rgba(34, 150, 52, 0.4);
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div:hover {
+  box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div.kr-account-config-exchange-enable:hover {
+  box-shadow: 0px 2px 6px 0px rgba(34, 150, 52, 0.5);
+}
+
+.kr-admin-line > div.kr-admin-boxthird > div > img {
+  max-width: 85%;
+  max-height: 90%;
+}
+
+/* Title */
+
+.kr-admin > h3 {
+  margin         : 15px;
+  margin-bottom  : 0px;
+  padding-bottom : 5px;
+  color          : #fff;
+  border-bottom  : 1px solid #374154;
+  font-size      : 21px;
+}
+
+/* Table */
+
+.kr-admin div.kr-admin-table {
+  box-sizing : border-box;
+  width      : 100%;
+  padding    : 15px;
+}
+
+.kr-admin div.kr-admin-table > table,
+table.kr-admin-table-view {
+  box-sizing      : border-box;
+  width           : 100%;
+  max-width       : 100%;
+  border-collapse : collapse;
+  background      : #fff;
+  box-shadow      : 0px 2px 5px 0px #00000073;
+}
+
+.kr-admin div.kr-admin-table > table > *,
+table.kr-admin-table-view > * {
+  box-sizing : border-box;
+}
+
+.kr-admin div.kr-admin-table > table > thead,
+table.kr-admin-table-view > thead {
+  background  : #e9ecf2;
+  font-weight : 500;
+}
+
+.kr-admin div.kr-admin-table > table > thead > tr > td,
+table.kr-admin-table-view > thead > tr > td {
+  padding : 10px;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr,
+table.kr-admin-table-view > tbody > tr {
+  border-bottom : 1px solid #f2f2f2;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr[onclick]:hover ,
+table.kr-admin-table-view > tbody > tr[onclick]:hover {
+  background: #f7f7f9;
+  cursor: pointer;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td,
+table.kr-admin-table-view > tbody > tr > td {
+  padding : 9px 10px;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-v,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-v {
+  display     : flex;
+  align-items : center;
+  font-weight : 300;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-v > div,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-v > div {
+  width               : 30px;
+  height              : 30px;
+  margin-right        : 8px;
+  border-radius       : 30px;
+  background          : #ef6c00;
+  background-position : center center;
+  background-size     : cover;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-v > span,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-v > span {
+  display     : flex;
+  align-items : center;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-v > span > i,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-v > span > i {
+  width         : 8px;
+  height        : 8px;
+  margin-left   : 8px;
+  border-radius : 8px;
+  background    : #e30f0f;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-v > span > i.kr-admin-user-i-active,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-v > span > i.kr-admin-user-i-active {
+  background : #29c359;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td svg,
+table.kr-admin-table-view > tbody > tr > td svg {
+  width        : 15px;
+  height       : 15px;
+  margin-right : 5px;
+  fill         : #1f50b5;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-oauth,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-oauth {
+  display     : flex;
+  align-items : center;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-user-oauth > svg,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-user-oauth > svg {
+  width        : 20px;
+  height       : 20px;
+  margin-right : 5px;
+}
+
+/* Coin table */
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-coin-nsa,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-coin-nsa {
+  display     : flex;
+  align-items : center;
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > div.kr-admin-coin-nsa > img,
+table.kr-admin-table-view > tbody > tr > td > div.kr-admin-coin-nsa > img {
+  width        : 33px;
+  height       : 33px;
+  margin-right : 5px;
+  transform    : scale(0.8);
+}
+
+.kr-admin div.kr-admin-table > table > tbody > tr > td > form,
+table.kr-admin-table-view > tbody > tr > td > form {
+  display : block;
+  padding : 0;
+}
+
+/* Tag */
+
+span.kr-admin-lst-tag {
+  padding       : 3px 5px;
+  color         : #fff;
+  border-radius : 2px;
+  background    : #29c368;
+  font-size     : 12px;
+}
+
+span.kr-admin-lst-tag > svg {
+  margin-right  : 1px !important;
+  margin-bottom : -3px;
+  fill          : #fff !important;
+}
+
+span.kr-admin-lst-tag.kr-admin-lst-tag-red {
+  background : #dd175a;
+}
+
+span.kr-admin-lst-tag.kr-admin-lst-tag-orange {
+  background : #ef6c00;
+}
+
+span.kr-admin-lst-tag.kr-admin-lst-tag-grey {
+  background : #9e9e9e;
+}
+
+/* Action */
+
+div.kr-admin-action {
+  display         : flex;
+  padding         : 15px 15px 0px 15px;
+  justify-content : flex-end;
+}
+
+/* Pagination */
+
+ul.kr-admin-pagination {
+  display     : flex;
+  box-sizing  : border-box;
+  width       : 100%;
+  padding     : 15px;
+  padding-top : 0px;
+  align-items : center;
+}
+
+ul.kr-admin-pagination > li {
+  display         : flex;
+  padding         : 8px 5px;
+  background      : #fff;
+  align-items     : center;
+  flex            : 1;
+  justify-content : center;
+  cursor          : pointer;
+}
+
+ul.kr-admin-pagination > li:hover {
+  background : #f8f8f8;
+}
+
+ul.kr-admin-pagination > li.kr-admin-pagination-selected {
+  background : #f5f5f5;
+}
+
+/* Currencies block */
+
+.kr-admin-line > div.kr-admin-b-currency {
+  display     : flex;
+  padding     : 0;
+  align-items : stretch;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-symbol {
+  display         : flex;
+  width           : 27%;
+  align-items     : center;
+  font-size       : 35px;
+  justify-content : center;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt {
+  display         : flex;
+  height          : 125px;
+  padding         : 15px 0px;
+  flex            : 1;
+  flex-direction  : column;
+  justify-content : space-between;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt > div.kr-admin-b-currency-stb {
+  display        : flex;
+  align-items    : flex-start;
+  flex-direction : column;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt > div.kr-admin-b-currency-stb > label {
+  margin-bottom : 5px;
+  font-size     : 20px;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt > div.kr-admin-b-currency-stb > label > span {
+  color     : #555;
+  font-size : 15px;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt > div.kr-admin-b-currency-nuse {
+  display        : flex;
+  padding        : 0px 15px;
+  align-items    : flex-end;
+  flex-direction : column;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt > div.kr-admin-b-currency-nuse > label {
+  text-transform : uppercase;
+  font-size      : 13px;
+  font-weight    : 500;
+}
+
+div.kr-admin-b-currency > div.kr-admin-b-currency-dtxt > div.kr-admin-b-currency-nuse > span {
+  font-size : 25px;
+}

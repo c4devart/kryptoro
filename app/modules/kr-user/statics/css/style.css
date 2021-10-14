@@ -1,0 +1,982 @@
+section.kr-user {
+  z-index            : 9999999999999;
+  display            : flex;
+  position           : absolute;
+  top                : 0px;
+  right              : 0;
+  bottom             : 0;
+  width              : 780px;
+  height             : 100%;
+  padding            : 0;
+  overflow-x         : hidden;
+  overflow-y         : auto;
+  background         : #fafafa;
+  box-shadow         : -5px 0px 20px #000000bd;
+  align-items        : stretch;
+  flex-direction     : column;
+  animation-duration : 0.3s;
+  max-width: 90%;
+}
+
+/* Loading */
+
+div.kr-user-global-loading {
+  display         : flex;
+  position        : absolute;
+  top             : 0;
+  right           : 0;
+  bottom          : 0;
+  left            : 0;
+  align-items     : center;
+  justify-content : center;
+}
+
+/* Content */
+
+section.kr-user > header {
+  display     : flex;
+  position    : relative;
+  height      : 150px;
+  min-height  : 150px;
+  overflow    : hidden;
+  background  : #252525;
+  align-items : center;
+}
+
+section.kr-user > header > section {
+  position            : absolute;
+  top                 : -10px;
+  right               : -10px;
+  bottom              : -10px;
+  left                : -10px;
+  opacity             : 0.7;
+  background-position : center center;
+  background-size     : cover;
+  filter              : blur(5px);
+}
+
+section.kr-user > header > div.kr-user-md {
+  z-index     : 1;
+  display     : flex;
+  position    : relative;
+  margin-left : 25px;
+  align-items : center;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-pic {
+  display             : flex;
+  position            : relative;
+  width               : 100px;
+  min-width           : 100px;
+  height              : 100px;
+  min-height          : 100px;
+  overflow            : hidden;
+  border-radius       : 100px;
+  background          : #fe8114;
+  background-position : center center;
+  background-size     : cover;
+  box-shadow          : 0px 2px 2px 0px #0000007a;
+  align-items         : center;
+  justify-content     : center;
+  cursor              : pointer;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-pic > * {
+  user-select: none;
+  pointer-events: none;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-pic > div.kr-user-pic-loading {
+  position   : absolute;
+  left       : 0;
+  width      : 0%;
+  height     : 100px;
+  background : #fff;
+  transition : width 0.15s linear;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-pic.kr-user-pic-exist > svg {
+  display        : none;
+  pointer-events : none;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-pic.kr-user-pic-exist:hover > svg {
+  display : block;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-pic > svg {
+  width  : 30px;
+  height : 30px;
+  fill   : #fff;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-infos {
+  display         : flex;
+  margin-left     : 25px;
+  color           : #fff;
+  text-shadow     : 1px 1px 2px #0000007a;
+  flex-direction  : column;
+  justify-content : flex-start;
+}
+
+section.kr-user > header > div.kr-user-md > div.kr-user-infos > h3 {
+  margin    : 0;
+  padding   : 0;
+  font-size : 25px;
+}
+
+/* User navigation */
+
+section.kr-user > ul.kr-user-nav {
+  display     : flex;
+  min-height  : 39px;
+  background  : #fff;
+  box-shadow  : 0px 2px 2px 0px #00000024;
+  align-items : stretch;
+}
+
+section.kr-user > ul.kr-user-nav > li {
+  padding        : 10px 18px 8px 18px;
+  color          : #3f4858;
+  border-bottom  : 2px solid #fff;
+  text-transform : uppercase;
+  font-size      : 15px;
+  font-weight    : bold;
+  cursor         : pointer;
+  display: flex;
+  justify-content: center; align-items: center;
+}
+
+section.kr-user > ul.kr-user-nav > li:hover {
+  border-bottom-color : #f4f4f4;
+  background          : #f4f4f4;
+}
+
+section.kr-user > ul.kr-user-nav > li.kr-user-nav-selected {
+  color               : #181f2c;
+  border-bottom-color : #ff7700;
+}
+
+section.kr-user > ul.kr-user-nav > li[kr-user-v="logout"] {
+  color               : #ad0d14;
+  border-bottom-color : #f4f4f4;
+  background          : #f4f4f4;
+}
+
+/* User content */
+
+section.kr-user > section.kr-user-content {
+  padding : 25px;
+  flex    : 1;
+}
+
+section.kr-user > section.kr-user-content div.kr-user-f-l {
+  display       : flex;
+  margin-bottom : 15px;
+  align-items   : center;
+}
+
+section.kr-user > section.kr-user-content div.kr-user-f-l > div {
+  display        : flex;
+  margin-right   : 12px;
+  margin-left    : 12px;
+  flex           : 1;
+  flex-direction : column;
+}
+
+section.kr-user > section.kr-user-content div.kr-user-f-l > div:first-child {
+  margin-left : 0px;
+}
+
+section.kr-user > section.kr-user-content div.kr-user-f-l > div:last-child {
+  margin-right : 0px;
+}
+
+section.kr-user > section.kr-user-content div.kr-user-f-l > div > label {
+  margin-bottom  : 8px;
+  text-transform : uppercase;
+  font-weight    : 500;
+}
+
+/* Notification */
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup {
+  display       : flex;
+  min-height    : 318px;
+  margin-bottom : 30px;
+  align-items   : stretch;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div {
+  display         : flex;
+  flex            : 1;
+  flex-direction  : column;
+  justify-content : center;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-instruction > h2,
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div > h2 {
+  margin         : 0;
+  padding        : 0;
+  padding-bottom : 5px;
+  color          : #ff7700;
+  border-bottom  : 1px solid #eee;
+  font-size      : 18px;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-instruction > ul,
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div > ul {
+  padding : 20px;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-instruction > ul > li,
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div > ul > li {
+  margin-bottom : 14px;
+  font-size     : 16px;
+  font-weight   : bold;
+  list-style    : square;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div > form {
+  display        : flex;
+  align-items    : flex-end;
+  flex-direction : column;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div > form > input[type="text"] {
+  box-sizing    : border-box;
+  width         : 100%;
+  margin-bottom : 10px;
+}
+
+section.kr-user > section.kr-user-content > div.kr-user-notif-setup > div.kr-user-notif-setuppicture {
+  background-repeat   : no-repeat;
+  background-position : center center;
+  background-size     : auto 100%;
+}
+
+/* Input */
+
+section.kr-user input[type="datetime-local"],
+section.kr-user input[type="password"],
+section.kr-user input[type="text"] {
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  padding            : 10px 12px;
+  border             : 1px solid #e1e3e6;
+  border-radius      : 2px;
+  font-family        : 'Roboto',
+                       sans-serif;
+  font-size          : 15px;
+}
+
+/* Footer */
+
+section.kr-user > section.kr-user-content footer {
+  display         : flex;
+  padding-top     : 15px;
+  border-top      : 1px solid #ebebeb;
+  justify-content : space-between;
+}
+
+section.kr-user > section.kr-user-content footer > a {
+  display         : flex;
+  color           : #7a7d84;
+  text-decoration : none;
+  align-items     : center;
+  cursor          : pointer;
+}
+
+section.kr-user > section.kr-user-content footer > a > svg {
+  width        : 15px;
+  height       : 15px;
+  margin-right : 8px;
+  fill         : #7a7d84;
+}
+
+section.kr-user > section.kr-user-content footer > a:hover {
+  color : #686c74;
+}
+
+section.kr-user > section.kr-user-content footer > a:hover > svg {
+  fill : #686c74;
+}
+
+/* Subscription */
+
+section.kr-user > section.kr-user-content > div.kr-subs-user > div {
+  display     : flex;
+  align-items : flex-end;
+}
+
+section.kr-user > section.kr-user-content > div.kr-subs-user > div > ul {
+  display        : flex;
+  flex           : 1;
+  flex-direction : column;
+}
+
+section.kr-user > section.kr-user-content > div.kr-subs-user > div > ul > li {
+  display       : flex;
+  margin-bottom : 13px;
+  align-items   : flex-start;
+}
+
+section.kr-user > section.kr-user-content > div.kr-subs-user > div > ul > li > svg {
+  width        : 16px;
+  min-width    : 16px;
+  height       : 16px;
+  min-height   : 16px;
+  margin-right : 8px;
+  fill         : #ef6c00;
+}
+
+section.kr-user > section.kr-user-content > div.kr-subs-user > div > ul > li > span > b {
+  color       : #ef6c00;
+  font-weight : normal;
+}
+
+section.kr-user > section.kr-user-content > section.kr-premium-details {
+  display     : flex;
+  padding     : 6px 11px;
+  border      : 1px solid #dedede;
+  background  : #f0f0f0;
+  align-items : center;
+}
+
+section.kr-user > section.kr-user-content > section.kr-premium-details > div.kr-premium-details-icn {
+  display         : flex;
+  width           : 30px;
+  height          : 30px;
+  margin-right    : 8px;
+  align-items     : center;
+  justify-content : center;
+}
+
+section.kr-user > section.kr-user-content > section.kr-premium-details > div.kr-premium-details-icn > svg {
+  width  : 30px;
+  height : 30px;
+}
+
+section.kr-user > section.kr-user-content > section.kr-premium-details > div.kr-premium-details-dl {
+  display        : flex;
+  flex-direction : column;
+}
+
+section.kr-user > section.kr-user-content > section.kr-premium-details > div.kr-premium-details-dl > h5 {
+  margin         : 0;
+  padding        : 0;
+  color          : #ef6c00;
+  text-transform : uppercase;
+  font-size      : 15px;
+  font-weight    : 700;
+}
+
+section.kr-user > section.kr-user-content > section.kr-premium-details > div.kr-premium-details-dl > span {
+  text-transform : uppercase;
+  font-size      : 14px;
+}
+
+section.kr-user > section.kr-user-content > h3 {
+  margin        : 17px 0px;
+  padding       : 0px 0px 5px 0px;
+  border-bottom : 1px solid #e0e0e0;
+  font-weight   : 500;
+}
+
+/* Welcome overlay */
+div.kr-wlcm-overlay {
+  position: absolute;
+  left:0; top:0; right:0;
+  bottom: 0;
+  display: flex; justify-content: center; align-items: center;
+  z-index         : 999999999999;
+}
+
+div.kr-wlcm-overlay > section {
+  background: #f5f7f9;
+  width: 350px;
+  height: 500px;
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: flex; align-items: center;
+  overflow: hidden;
+  transition: all 0.15s ease-out;
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv2 {
+  width: 700px;
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv2 > section {
+  transform: translateX(-100%);
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv3 {
+  width: 700px;
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv3 > section {
+  transform: translateX(-200%);
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv4 {
+  width: 350px;
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv4 > section {
+  transform: translateX(-300%);
+  display: flex; flex-direction: column;
+  justify-content: center;align-items: center;
+}
+
+
+
+div.kr-wlcm-overlay > section > section {
+  min-width: 100%;
+  height: 500px;
+  transition: transform 0.20s ease-in-out;
+  padding: 20px;
+  box-sizing: border-box;
+  color:#181f2c;
+}
+
+div.kr-wlcm-overlay > section > section.kr-wlcm-overlay-fv {
+  display: flex; justify-content: center; align-items: center;
+  flex-direction: column;
+}
+
+div.kr-wlcm-overlay > section > section h2 {
+  text-align: center;
+  font-size: 23px;
+  font-weight: 500;
+}
+
+div.kr-wlcm-overlay > section > section.kr-wlcm-overlay-fv > p {
+  animation-delay: 2s;
+  text-align: center;
+  font-weight: 100;
+}
+
+div.kr-wlcm-overlay > section > section > header {
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  height: 150px;
+  max-height: 150px;
+  padding: 15px 0px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv7 > section > header {
+  height: 100%;
+  max-height: initial;
+}
+
+div.kr-wlcm-overlay > section > section > header > h2 {
+  margin: 15px 0px 0px 0px;
+}
+
+div.kr-wlcm-overlay > section > section > header > span {
+  margin-top: 10px;
+
+}
+
+div.kr-wlcm-overlay > section > section > header > span > i {
+  color:#fe4f00;
+  font-weight: bold;
+  font-style: normal;
+}
+
+div.kr-wlcm-overlay > section > section > header > img {
+  width: 90px; opacity: 0.4;
+  height: 90px;
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv3 > section > header > img,
+div.kr-wlcm-overlay > section.kr-wlcm-nv4 > section > header > img {
+  width: 75px;
+  height: 75px;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  max-height: 264px;
+  overflow-y: auto;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es::-webkit-scrollbar-track {
+  border        : 0px none #f5f7f9;
+  border-radius : 50px;
+  background    : #f5f7f9;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li {
+  width: 33%;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  display: flex;
+  padding: 10px;
+  padding-bottom: 0px;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div {
+  display: flex; align-items: center;
+  flex:1;
+  padding: 10px;
+  cursor: pointer;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div:hover {
+  background: #e8e8e8;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div.kr-wlcm-selecteditem {
+  background: #fe4f00;
+  color:#fff;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div.kr-wlcm-selecteditem > img {
+  filter: brightness(0) invert(1);
+}
+
+div.kr-wlcm-overlay > section.kr-wlcm-nv4 > section > ul.kr-wlcm-overlay-es > li > div > img {
+  width: 33px;
+  height: 33px;
+  margin-right: 15px;
+  opacity: 0.7;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div > img {
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
+
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div > div {
+  width: 32px;
+  min-width: 32px; min-height: 32px;
+  margin-right: 10px;
+  height: 32px;
+  display: flex; justify-content: center; align-items: center;
+  background: #ccc;
+  border-radius: 30px;
+  font-size: 15px;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div > span {
+  font-size: 18px;
+}
+
+div.kr-wlcm-overlay > section > section > ul.kr-wlcm-overlay-es > li > div > span > i {
+  font-size: 12px; color:#555;
+  font-style: normal;
+}
+
+div.kr-wlcm-overlay > section > section > section.kr-welcome-choi {
+  padding: 15px 0px;
+  display: flex;
+  flex-wrap: wrap;
+  max-height: 264px;
+  justify-content: center;
+}
+
+div.kr-wlcm-overlay > section > section > section.kr-welcome-choi > input[type="submit"] {
+  margin-left: 10px; margin-right: 10px;
+}
+
+div.kr-wlcm-overlay > section > section > form {
+  display: flex; flex-direction: column;
+}
+
+div.kr-wlcm-overlay > section > section > form > section {
+  display: flex; align-items: flex-start;
+}
+
+div.kr-wlcm-overlay > section > section > form > section > div {
+  flex-direction: column;
+  padding: 15px;
+  flex:1;
+}
+
+div.kr-wlcm-overlay > section > section > form > section > div > label {
+  font-weight: 700;
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+div.kr-wlcm-overlay > section > section > form > section > div > input[type="text"] {
+  box-sizing         : border-box;
+  -moz-appearance    : none;
+  -o-appearance      : none;
+  -webkit-appearance : none;
+  width              : 100%;
+  padding: 11px;
+  border-radius: 2px;
+  background: #ffffff;
+  outline            : none;
+  font-size          : 15px;
+  border: 1px solid #dedcdc;
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+div.kr-wlcm-overlay > section > section > form > section > div > select {
+  width              : 100%;
+  padding: 11px;
+  border-radius: 2px;
+  background: #ffffff;
+  outline            : none;
+  font-size          : 15px;
+  border: 1px solid #dedcdc;
+  font-size: 15px;
+  box-sizing         : border-box;
+  margin-top: 8px;
+}
+
+div.kr-wlcm-overlay > section > section > form > div {
+  display: flex; justify-content: space-between;
+  align-items: center;
+  padding: 4px 15px 0px 15px;
+}
+
+/* Security */
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup {
+  display: flex;
+  align-items: flex-start;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section {
+  flex:1;
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  margin-right: 25px;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section > h3 {
+  margin: 0; padding: 0;
+  font-size: 20px;
+  color:#555;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section > h3 > i {
+  font-size: 22px;
+  color:#222;
+  font-style: normal;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section > h4 {
+  color:#555;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  padding-top: 17px;
+  margin-top: 20px;
+  border-top: 2px solid #dadada;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section > ul {
+  display: flex; justify-content: center;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section > ul > li {
+  display: flex; align-items: center; justify-content: center;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > section > ul > li > a {
+  text-decoration: none;
+  text-align: center;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > div {
+  display: flex; flex-direction: column;
+  background: #fff;
+  align-items: center;padding: 16px;
+  border-radius: 2px;
+  box-shadow: 0px 2px 5px #00000030;
+  width: 200px;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > div > img {
+  width: 180px;
+  max-width: 90%;
+  margin-bottom: 15px;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > div > form {
+  display: flex; flex-direction: column;
+  max-width: 100%;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > div > form > input[type="submit"] {
+  margin-top: 15px;
+  margin-top: 15px;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > div > form > input[type="text"] {
+  letter-spacing : 15px;
+  text-align: center;
+}
+
+section.kr-user > section.kr-user-content >  section.kr-user-security-setup > div > form > span {
+  text-align: center;
+  margin:13px 0px 0px 0px;
+  color:red;
+  display: none;
+}
+
+section.kr-user > section.kr-user-content > form.kr-gogletfs-remove {
+  display: flex; justify-content:flex-end;
+}
+
+/* Gdax */
+section.kr-user-content > form.kr-user-gdax {
+  display: flex; flex-direction: column;
+
+}
+
+section.kr-user-content > form.kr-user-gdax > section:last-child {
+  display: flex; justify-content: space-between;
+  align-items: center;
+}
+
+section.kr-user-content > form.kr-user-gdax > section:first-child {
+  display: flex; flex-direction: column;
+  background: #fff;
+  box-shadow: 0px 2px 5px #00000024;
+  border-radius: 2px;
+  padding: 0px 15px;
+  margin-bottom: 15px;
+}
+
+section.kr-user-content > form.kr-user-gdax > section:first-child > div {
+  display: flex; flex-direction: column;
+  border-bottom: 1px solid #e9e9e9;
+  padding: 15px 0px;
+
+}
+
+section.kr-user-content > form.kr-user-gdax > section:first-child > div:last-child {
+  border-bottom: none;
+}
+
+section.kr-user-content > form.kr-user-gdax > section:first-child > div > span {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+section.kr-user-content > form.kr-user-gdax > section:first-child > div > input[type="text"] {
+  margin-top: 5px;
+}
+
+/* Login history table */
+table.kr-login-user-history-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0px 10px;
+  margin-top: -10px;
+}
+
+table.kr-login-user-history-table tr {
+  background: #fff;
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.15);
+  margin-bottom: 10px;
+  color:#323641;
+}
+
+table.kr-login-user-history-table tr > td {
+  padding: 9px;
+  font-size: 14px;
+}
+
+table.kr-login-user-history-table tr > td:nth-child(2){
+  text-align: center;
+}
+
+table.kr-login-user-history-table tr > td:last-child {
+  text-align: right;
+}
+
+table.kr-login-user-history-table tr > td > img {
+  width: 15px;
+  margin-right: 5px;
+}
+
+/* Exchange setup */
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange {
+  display: grid;
+  grid-column-gap: 18px;
+  grid-template-columns: auto auto auto;
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div {
+  background: #fff;
+  box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.17);
+  height: 100px;
+  margin-bottom: 18px;
+  display: flex; justify-content: center; align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  transition: all 0.15s linear;
+  cursor: pointer;
+  position: relative;
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div > div {
+  display: none;
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div.kr-account-config-exchange-enable > div {
+  position: absolute;
+  width: 17px; height: 17px;
+  display: flex; justify-content: center; align-items: center;
+  right:5px ;
+  top:5px;
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div > div > svg {
+  fill:#23c53c;
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div.kr-account-config-exchange-enable {
+  box-shadow: 0px 2px 6px 0px rgba(34, 150, 52, 0.4);
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div:hover {
+  box-shadow: 0px 3px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div.kr-account-config-exchange-enable:hover {
+  box-shadow: 0px 2px 6px 0px rgba(34, 150, 52, 0.5);
+}
+
+section.kr-user > section.kr-user-content > section.kr-account-config-exchange > div > img {
+  max-width: 85%;
+}
+
+/* Widthdraw method */
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup {
+  display: flex; flex-direction: column;
+}
+
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > header {
+  display: flex; justify-content: flex-end;
+}
+
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > ul {
+  display: flex; align-items: stretch;
+  margin-top: 15px;
+}
+
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > ul > li {
+  flex:1;
+  background: #fff;
+  height: 110px;
+  margin: 0px 8px;
+  box-shadow: 0px 2px 5px 0px #0000003d;
+  display: flex; justify-content: center; align-items: center;
+  cursor: pointer;
+}
+
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > ul > li:hover {
+  box-shadow: 0px 2px 6px 0px #0000005d;
+}
+
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > ul > li > img {
+  width: 80%;
+  max-height: 70%;
+}
+
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > ul > li:first-child { margin-left: 0px; }
+section.kr-user > section.kr-user-content > section.user-widthdraw-setup > ul > li:last-child { margin-right: 0px; }
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin-top: 15px;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  padding-top: 15px;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li {
+  display: flex; flex-direction: column;
+  background: #fff;
+  margin-bottom: 15px;
+  box-shadow: 0px 2px 5px 0px #0000003d;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section {
+  display: flex; flex-direction: column;
+  padding: 10px;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > div {
+  margin-bottom: 10px;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > div > span {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > ul {
+  display: flex; align-items: stretch;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > ul > li {
+  display: flex; flex-direction: column;
+  align-items: flex-start;
+  flex:1;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > ul > li:first-child {
+  flex:1.5;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > ul > li > label {
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  opacity: 0.7;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > section > ul > li:last-child {
+  flex:0;
+  justify-content: flex-end;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > div {
+  background: #fff;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  padding: 15px;
+  display: none;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > div > ul {
+  display: flex; flex-direction: column;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > div > ul > li {
+  display: flex; align-content: center; justify-content: space-between;
+  margin-bottom: 10px; font-size: 16px;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > div > ul > li > label {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+section.kr-user > section.kr-user-content > ul.user-widthdraw-list > li > div > footer {
+  justify-content: flex-end;
+}

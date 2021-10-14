@@ -1,0 +1,15 @@
+.emoji-block {
+    text-indent: -9999em;
+    image-rendering: optimizeQuality;
+    font-size: inherit;
+    height: 17px;
+    width: 17px;
+    top: -1px;
+    position: relative;
+    display: inline-block;
+    margin: 0 .15em;
+    line-height: normal;
+    vertical-align: middle;
+    background-image: url(../img/sprite.png);
+    background-repeat: no-repeat;
+}

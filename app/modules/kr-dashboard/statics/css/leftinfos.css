@@ -1,0 +1,239 @@
+div.kr-infoscurrencylf {
+  background: #171b29;
+  width      : 274px;
+  overflow   : hidden;
+  flex       : 1;
+  display: flex; flex-direction: column;
+  overflow-y: auto;
+}
+
+div.kr-infoscurrencylf > header {
+  display         : flex;
+  height          : 40px;
+  min-height      : 40px;
+  max-height      : 40px;
+  background      : #262b3e;
+  align-items     : center;
+  justify-content : space-between;
+  padding-right: 5px;
+  margin: 6px 4px;
+  border-radius: 0px;
+}
+
+div.kr-infoscurrencylf > header > button {
+  display: none;
+}
+
+div.kr-infoscurrencylf.kr-infoscurrencylf-moredetails > header > button {
+  display: block;
+}
+
+div.kr-infoscurrencylf > header > span {
+  padding   : 10px;
+  color     : #98aaba;
+  font-size : 12px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-header {
+  display: flex; align-items: flex-start;
+  flex-direction: column;
+  padding: 10px;
+  min-height: 52px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-header > h2 {
+  margin: 0; padding: 0;
+  color:#c5cbce;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-header > span {
+  background: #f14700;
+  color:#fff;
+  font-size: 13px;
+  font-weight: 400;
+  padding: 3px 10px;
+  border-radius: 40px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-price {
+  display: flex; align-items: flex-end;
+  padding: 5px 10px;
+  min-height: 34px;
+
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-price > span.kr-infoscurrencylf-price-cp {
+  color:#c5cbce;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 27px;
+  margin-right: 10px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-price > span.kr-infoscurrencylf-price-evolv {
+  color:#c5cbce;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range {
+  padding: 10px 10px;
+  display: flex; flex-direction: column;
+  align-items: stretch;
+  color:#c5cbce;
+  min-height: 25px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-bar {
+  background: #4c525e;
+  height: 5px;
+  position: relative;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-bar > div {
+  height: 5px;
+  position: absolute;
+  width: 40%;
+  background: #f03501;
+  box-sizing: border-box;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-bar > div::after {
+  position: absolute;
+  height: 11px;
+  width: 3px;
+  background: #fff;
+  content: "";
+  top:-3px;
+  right:0;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-infos {
+  display: flex;
+  align-items: center; justify-content: space-between;
+  margin-top: 5px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-infos > span {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-range > div.kr-infoscurrencylf-range-infos > label {
+  font-size: 11px;
+  color:#758696;
+}
+
+div.kr-infoscurrencylf > ul {
+  display: flex; flex-direction: column;
+  margin: 0px 10px;
+  margin-top: 10px;
+  min-height: 108px;
+}
+
+div.kr-infoscurrencylf > ul > li {
+  display: flex; align-items: center;
+  color:#c5cbce;
+  font-size: 13px;
+  text-transform: uppercase;
+  padding: 6px 0px;
+}
+
+div.kr-infoscurrencylf > ul > li > div {
+  flex:1;
+  margin: 0px 10px;
+  height: 1px;
+  background: #4c525e;
+  opacity: 0.5;
+}
+
+div.kr-infoscurrencylf > div.kr-infoscurrencylf-btn {
+  display: flex; justify-content: center;
+  align-items: center;
+  padding: 15px 0px;
+}
+
+div.kr-infoscurrencylf.kr-infoscurrencylf-moredetails > div.kr-infoscurrencylf-btn {
+  display: none;
+}
+
+section.kr-infoscurrencylf-orderbook {
+  display: flex; flex-direction: column;
+  margin-top: 15px;
+  flex:1;
+  display: none;
+}
+
+div.kr-infoscurrencylf.kr-infoscurrencylf-moredetails > section.kr-infoscurrencylf-orderbook {
+  display: flex;
+}
+
+
+section.kr-infoscurrencylf-orderbook > div {
+  flex:1;
+  display: flex; flex-direction: column;
+}
+
+section.kr-infoscurrencylf-orderbook > div > header {
+
+  background: #262b3e;
+}
+
+section.kr-infoscurrencylf-orderbook > div > header > ul {
+  display: flex; align-items: center;
+}
+
+section.kr-infoscurrencylf-orderbook > div > header > ul > li {
+  flex:1;
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 11px;
+  padding: 6px 10px;
+  color:#f4f6f959;
+}
+
+section.kr-infoscurrencylf-orderbook > div > section {
+  overflow-y: auto;
+  flex:1;
+}
+
+section.kr-infoscurrencylf-orderbook > div > section > div {
+  position: relative;
+}
+
+section.kr-infoscurrencylf-orderbook > div > section > div:hover {
+  background: rgba(0,0,0,0.1);
+  cursor: pointer;
+}
+
+section.kr-infoscurrencylf-orderbook > div > section > div > ul {
+  display: flex; align-items: center;
+  z-index: 6;
+  position: relative;
+}
+
+section.kr-infoscurrencylf-orderbook > div > section > div > ul > li {
+  flex:1;
+  text-align: right;
+  text-transform: uppercase;
+  font-size: 11px;
+  padding: 3px 10px;
+  color:#f4f6f9bd;
+}
+
+section.kr-infoscurrencylf-orderbook > div > section > div > div {
+  position: absolute;
+  right:0; bottom: 0; top:0;
+  background: #2bab3f; width: 30%;
+  z-index: 5;
+  opacity: 0.15;
+}
+
+section.kr-infoscurrencylf-orderbook > div:last-child > section > div > div {
+  background: #da4830;
+}
